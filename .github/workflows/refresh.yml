@@ -27,12 +27,14 @@ jobs:
         continue-on-error: true
         run: python scripts/refresh.py
       - name: Save refreshed data and collection status
+        if: always() && steps.collect.outcome != 'skipped'
         run: |
           git config user.name 'Gleb Bubnov'
           git config user.email '40881006+Interprole@users.noreply.github.com'
-          git add data/linguistlist.json data/linguistlist-status.json
+          git add data/linguistlist.json data/linguistlist-status.json data/linguistlist-crawl.json
           if ! git diff --cached --quiet; then
             git commit -m 'Refresh conference catalogue'
+            # A content conflict must fail visibly, never overwrite concurrent edits.
             git pull --rebase origin main
             git push origin HEAD:main
           fi
