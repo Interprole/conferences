@@ -1,0 +1,43 @@
+name: Refresh conference catalogue
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: conference-catalogue-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check parser and date calculations
+        run: npm run check
+      - name: Collect LINGUIST List
+        id: collect
+        continue-on-error: true
+        run: python scripts/refresh.py
+      - name: Save refreshed data and collection status
+        run: |
+          git config user.name 'Gleb Bubnov'
+          git config user.email '40881006+Interprole@users.noreply.github.com'
+          git add data/linguistlist.json data/linguistlist-status.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh conference catalogue'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Report collection failure
+        if: steps.collect.outcome == 'failure'
+        run: |
+          echo 'Collection incomplete. Previous conference records were retained; see data/linguistlist-status.json.'
+          exit 1

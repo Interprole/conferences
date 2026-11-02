@@ -1,0 +1,6 @@
+{
+  "automation_enabled": true,
+  "schedule": "09:00 Europe/Moscow",
+  "note": "GitHub Pages включается владельцем репозитория отдельно.",
+  "automation_timezone": "Europe/Moscow"
+}

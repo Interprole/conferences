@@ -1,0 +1,9 @@
+{
+  "name": "linguistics-conferences",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/catalog.test.mjs",
+    "check": "node --check app.js && node --test tests/catalog.test.mjs && python -m unittest discover -s tests -p 'test_*.py'"
+  }
+}

@@ -1,0 +1,1886 @@
+[
+  {
+    "id": "mos-76ef6e88d025",
+    "name": "Воркшоп по типологии грамматических систем",
+    "start": "2027-04-23",
+    "end": "2027-04-24",
+    "location": "Москва, Россия · Институт языкознания РАН",
+    "deadline": "2027-03-01",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2027-03-23",
+    "notification_text": null,
+    "fee": null,
+    "topics": "Устройство грамматических систем, их типология и диахроническое развитие.",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "Анонимные тезисы до 2 страниц; сведения об авторах отдельным файлом. Доклад 20 минут и 10 минут обсуждения.",
+    "format": "Предпочтительно очный",
+    "website": "https://iling-ran.ru/web/ru/conferences/2027_typology_workshop",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/1FEB728C-AA80-4778-AD2D-E8DD3F31E8E8%40mail.ru"
+      }
+    ],
+    "history": [],
+    "notes": [],
+    "classification": "theory",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "reviewed"
+  },
+  {
+    "id": "mos-9bcb9136ddf3",
+    "name": "Научные чтения «Языки Вьетнама»",
+    "start": null,
+    "end": null,
+    "location": "Москва, Россия · Институт языкознания РАН",
+    "deadline": "2026-12-01",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2026-12-08",
+    "notification_text": null,
+    "fee": null,
+    "topics": "Языки Вьетнама и Юго-Восточной Азии; полевая лингвистика и документация. Допускаются этнография, фольклор и традиционная словесность. Переводоведение, методика преподавания и лингвокультурология не принимаются.",
+    "subject_languages": "Языки Вьетнама и Юго-Восточной Азии",
+    "working_languages": "Русский, английский",
+    "speaker_restrictions": null,
+    "submission_rules": "Аннотация 100–150 слов, название и сведения об авторах; заявка через форму в объявлении.",
+    "format": "Гибридный; дистанционно по согласованию",
+    "website": null,
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CANiD4o5aM--3w2u-ZZf%2BnHHKmr718xpQtHv1AYg6De99fo8A5w%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ссылка на отдельный сайт конференции в письме не найдена."
+    ],
+    "classification": "mixed",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "reviewed",
+    "date_conflict": "В одном письме указаны 16 декабря 2026 и 15 декабря 2026. Дату не удалось однозначно установить; требуется уточнение у организаторов."
+  },
+  {
+    "id": "mos-98d31debbf8d",
+    "name": "XII Студенческая конференция Института лингвистики РГГУ (СКИЛ-2026)",
+    "start": "2026-11-06",
+    "end": "2026-11-07",
+    "location": "Москва, Россия · РГГУ",
+    "deadline": "2026-09-14",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2026-10-07",
+    "notification_text": null,
+    "fee": null,
+    "topics": "Все направления лингвистики.",
+    "subject_languages": null,
+    "working_languages": "Русский, английский",
+    "speaker_restrictions": "Студенты бакалавриата, магистратуры и аспирантуры. При соавторстве со старшими коллегами студент должен быть первым автором формально и по содержательному вкладу. До 1 единоличного и 1 совместного доклада.",
+    "submission_rules": "Анонимные тезисы 3000–5000 знаков без библиографии и глосс, .doc/.docx. Сгенерированные тезисы не принимаются.",
+    "format": "Очный, с трансляцией онлайн",
+    "website": "https://skil-rggu.ru/",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/PAXP250MB0627D4EA114C5D73A1947732E1E92%40PAXP250MB0627.EURP250.PROD.OUTLOOK.COM"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/PAXP250MB062777CC6712588BBDC71C78E1B22%40PAXP250MB0627.EURP250.PROD.OUTLOOK.COM"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/PAVP250MB0977F9AA353B78731FA2EC68E1602%40PAVP250MB0977.EURP250.PROD.OUTLOOK.COM"
+      }
+    ],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-09-07",
+        "new": "2026-09-14",
+        "observed_at": "2026-11-02",
+        "source": "https://groups.google.com/d/msgid/mosling/PAXP250MB062777CC6712588BBDC71C78E1B22%40PAXP250MB0627.EURP250.PROD.OUTLOOK.COM",
+        "type": "extended"
+      }
+    ],
+    "notes": [],
+    "classification": "mixed",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "reviewed"
+  },
+  {
+    "id": "mos-67a7af825a54",
+    "name": "Международная конференция по уральским языкам",
+    "start": "2027-01-27",
+    "end": "2027-01-29",
+    "location": "Москва, Россия · Институт языкознания РАН",
+    "deadline": "2026-10-30",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2026-11-15",
+    "notification_text": null,
+    "fee": null,
+    "topics": "Широкий круг исследований уральских языков.",
+    "subject_languages": "Уральские языки",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "Тезисы до 2 страниц.",
+    "format": null,
+    "website": null,
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/63711785141217%40mail.yandex.ru"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/2331101790963422%40mail.yandex.ru"
+      }
+    ],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-10-01",
+        "new": "2026-10-30",
+        "observed_at": "2026-11-02",
+        "source": "https://groups.google.com/d/msgid/mosling/2331101790963422%40mail.yandex.ru",
+        "type": "extended"
+      },
+      {
+        "field": "notification",
+        "old": "2026-11-01",
+        "new": "2026-11-15",
+        "observed_at": "2026-11-02",
+        "source": "https://groups.google.com/d/msgid/mosling/2331101790963422%40mail.yandex.ru",
+        "type": "changed"
+      }
+    ],
+    "notes": [
+      "Отдельный сайт и дополнительные условия из вложения не удалось проверить."
+    ],
+    "classification": "mixed",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "reviewed"
+  },
+  {
+    "id": "mos-5d06a1177c4e",
+    "name": "Формальные модели в лингвистике 2026 (ФМЛ / FML)",
+    "start": "2026-11-11",
+    "end": "2026-11-12",
+    "location": "Москва, Россия · НИУ ВШЭ",
+    "deadline": "2026-09-07",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2026-09-21",
+    "notification_text": null,
+    "fee": null,
+    "topics": "Формальное моделирование естественного языка; генеративные и негенеративные подходы; любые методы.",
+    "subject_languages": null,
+    "working_languages": "Русский, английский",
+    "speaker_restrictions": "Не более 2 заявок от автора; не более 1 единоличной.",
+    "submission_rules": "Анонимный PDF: 2 страницы текста и 1 страница литературы. Дополнительные строки для переводов и глосс; 12 pt, одинарный интервал, поля 2,5 см.",
+    "format": "Очный; дистанционный доклад при невозможности приехать",
+    "website": "https://sites.google.com/view/fml-conf26",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAO%3DKudbDNumTGS0mvxNsYpJNK0j3XnPpNKNrS_mboCUUMaObLQ%40mail.gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAO%3DKudYfAgyk%3Dw2Cn1QpZdkhgWOSzA3HR_VRvtrmO5TxeaxsUg%40mail.gmail.com"
+      }
+    ],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-09-01",
+        "new": "2026-09-07",
+        "observed_at": "2026-11-02",
+        "source": "https://groups.google.com/d/msgid/mosling/CAO%3DKudYfAgyk%3Dw2Cn1QpZdkhgWOSzA3HR_VRvtrmO5TxeaxsUg%40mail.gmail.com",
+        "type": "extended"
+      }
+    ],
+    "notes": [
+      "Срок ответа взят из первого циркуляра; после продления новый срок ответа не указан."
+    ],
+    "classification": "theory",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "reviewed"
+  },
+  {
+    "id": "mos-79c7e9cbb67c",
+    "name": "Конференция по грамматике индоиранских языков",
+    "start": "2027-03-04",
+    "end": "2027-03-06",
+    "location": "Санкт-Петербург, Россия · ИЛИ РАН",
+    "deadline": "2026-12-20",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2027-01-16",
+    "notification_text": null,
+    "fee": null,
+    "topics": "Описание грамматических явлений живых и мёртвых индоиранских языков.",
+    "subject_languages": "Иранские, индоарийские, дардские, нуристанские языки",
+    "working_languages": "Русский, английский",
+    "speaker_restrictions": null,
+    "submission_rules": "Тезисы до 2 страниц; сведения об авторах в письме. Доклад 20 минут + 10 минут обсуждения.",
+    "format": "Очный",
+    "website": null,
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CABTnNFM4ZR9Z9Mv7%2Bm_H_W0Rxx4vLTyz76ETzPtPud%2B%3D8P0ftw%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Отдельный сайт конференции в объявлении не указан."
+    ],
+    "classification": "theory",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "reviewed"
+  },
+  {
+    "id": "mos-81369345dd24",
+    "name": "XXIII Конференция по типологии и грамматике для молодых исследователей",
+    "start": "2026-11-26",
+    "end": "2026-11-28",
+    "location": "Санкт-Петербург, Россия · ИЛИ РАН",
+    "deadline": "2026-09-06",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2026-09-21",
+    "notification_text": null,
+    "fee": "Оргвзноса нет",
+    "topics": "Типология, грамматическая теория, включая фонологию; предпочтительны новые данные и типологическая перспектива.",
+    "subject_languages": null,
+    "working_languages": "Русский, английский",
+    "speaker_restrictions": "Возраст не старше 35 лет. Не более 2 тезисов: максимум 1 единоличная заявка.",
+    "submission_rules": "Анонимные тезисы до 4000 знаков с пробелами без списка литературы и глосс.",
+    "format": "Очный; онлайн в исключительных случаях",
+    "website": "https://www.youngconfspb.com/e/main",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAPnfhQK7dbGH1nvoJ-KZ0O-onTw%3Dj8Wr1egXss%2B1XosvUSEx3A%40mail.gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAPnfhQKeFUGk8jj8et_EaBfbCbocewBFOvyJGz7GUYFv5FZbrg%40mail.gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAPnfhQL-fsgf_UkRgUqz3TJ3ZvwmA%2B%3DiXeV9-wXu8avLyezQEw%40mail.gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAPnfhQ%2BU1ySjwdUpn1fL6YnhbcSeWQnh-W7V6_xPJZj60afmWA%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [],
+    "classification": "theory",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "reviewed"
+  },
+  {
+    "id": "mos-5c748169fe7d",
+    "name": "6-я конференция по уральским, алтайским и палеоазиатским языкам",
+    "start": "2026-11-23",
+    "end": "2026-11-25",
+    "location": "Санкт-Петербург, Россия · ИЛИ РАН",
+    "deadline": "2026-09-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2026-10-01",
+    "notification_text": null,
+    "fee": "Оргвзноса нет",
+    "topics": "Фонология, грамматика, лексика, языковые контакты, историческое языкознание, социолингвистика и корпусные исследования.",
+    "subject_languages": "Уральские, алтайские и палеоазиатские языки",
+    "working_languages": "Русский, английский",
+    "speaker_restrictions": "До 2 докладов; второй только в соавторстве.",
+    "submission_rules": "До 3600 знаков с пробелами, без литературы и глосс; .doc/.docx/.rtf; нестандартные шрифты приложить и продублировать PDF.",
+    "format": "Гибридный",
+    "website": "https://iling.spb.ru/conferences/2026/5061",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/ff2d0318-448f-4076-baa4-8673d9d641ad%40mail.ru"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/9354f064-64c9-4160-92a4-5de3c9326b6f%40mail.ru"
+      }
+    ],
+    "history": [
+      {
+        "field": "deadline",
+        "old": null,
+        "new": "2026-09-15",
+        "observed_at": "2026-11-02",
+        "source": "https://groups.google.com/d/msgid/mosling/9354f064-64c9-4160-92a4-5de3c9326b6f%40mail.ru",
+        "type": "extended"
+      }
+    ],
+    "notes": [],
+    "classification": "mixed",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "reviewed"
+  },
+  {
+    "id": "mos-a2c1c5cd98fb",
+    "name": "Типология морфосинтаксических параметров 2026 (ТМП / TMP)",
+    "start": "2026-10-21",
+    "end": "2026-10-23",
+    "location": "Москва, Россия · Институт языкознания РАН",
+    "deadline": "2026-07-31",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Типология морфосинтаксических параметров.",
+    "subject_languages": null,
+    "working_languages": "Русский, английский",
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": "Гибридный",
+    "website": "https://sites.google.com/view/tmp2026/",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAB1UguA6YFfmG6VWGG1UXEpN8hZkM2ie7%2B2EFqU-OoU8OR_Htg%40mail.gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAB1UguDhFERYMeT0sy9Hgn6yOwhkPChUY2zT55no3VD30Yg1xg%40mail.gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAB1UguACiLEzmnjfW-qZkdXoKJ8%2B3esKeTzcBXWjerBu0dTF0w%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [],
+    "classification": "theory",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "reviewed"
+  },
+  {
+    "id": "mos-ea83856d129a",
+    "name": "Прагматика в семантике. Оценка: реклейминг и другие механизмы сдвига",
+    "start": "2026-11-05",
+    "end": "2026-11-06",
+    "location": "Онлайн · НИУ ВШЭ",
+    "deadline": "2026-09-10",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Оценка, реклейминг, семантические и прагматические сдвиги.",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": "Онлайн",
+    "website": "https://philology.hse.ru/conflictology/conference",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/fa0a793c-305a-47f0-a823-0218cab7af73n%40googlegroups.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/3d9576b9-bdf6-41c4-b5d6-5664993de062n%40googlegroups.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/05088fd0-1261-4a7b-95cb-e3da553eebaen%40googlegroups.com"
+      }
+    ],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-09-01",
+        "new": "2026-09-10",
+        "observed_at": "2026-11-02",
+        "source": "https://groups.google.com/d/msgid/mosling/05088fd0-1261-4a7b-95cb-e3da553eebaen%40googlegroups.com",
+        "type": "extended"
+      }
+    ],
+    "notes": [],
+    "classification": "theory",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "reviewed"
+  },
+  {
+    "id": "mos-8a2bf3afce41",
+    "name": "X Конференция СоЛиТекст / GELiTeC",
+    "start": "2027-05-12",
+    "end": "2027-05-14",
+    "location": "Париж, Франция · Sorbonne Université",
+    "deadline": "2026-11-01",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2026-12-01",
+    "notification_text": null,
+    "fee": "120 EUR; возможна оплата на месте",
+    "topics": "Сопоставительная лингвистика текста: TAM, порядок слов, анафора, коннекторы и сложное предложение.",
+    "subject_languages": "Сопоставление славянских и романских языков",
+    "working_languages": "Русский, французский, итальянский",
+    "speaker_restrictions": null,
+    "submission_rules": "Анонимные тезисы 1–2 страницы, Word/PDF; Times New Roman 12, интервал 1,5. Сведения об авторе отдельным документом.",
+    "format": null,
+    "website": "http://www.unige.ch/lettres/meslo/russe/actuscientifique/GeLiTec.html",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/004401dd015d%24c68da1e0%2453a8e5a0%24%40bluewin.ch"
+      }
+    ],
+    "history": [],
+    "notes": [],
+    "classification": "theory",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "reviewed"
+  },
+  {
+    "id": "mos-335af8c03b3b",
+    "name": "Морфосинтаксические свойства редуцированных именных групп",
+    "start": "2026-11-23",
+    "end": "2026-11-25",
+    "location": "Санкт-Петербург, Россия · секция 6-й конференции по уральским, алтайским и палеоазиатским языкам",
+    "deadline": "2026-07-12",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Редуцированные именные группы и их морфосинтаксис.",
+    "subject_languages": "Уральские, алтайские и палеоазиатские языки",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "Предварительные тезисы до 3600 знаков без литературы и глосс или короткая аннотация.",
+    "format": null,
+    "website": "https://iling.spb.ru/conferences/2026/5061",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CA%2BUrKvrr5eY5oTrds9B%2BxZpye7%3DRGc_1miY1-7qXuTK-Lx2eCg%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Это предварительная подача в секцию, не общий дедлайн основной конференции. Точный день секции внутри 23–25 ноября неизвестен."
+    ],
+    "classification": "theory",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "reviewed"
+  },
+  {
+    "id": "mos-6523888d4183",
+    "name": "Германские языки: слово и текст · VIII чтения памяти В. Н. Ярцевой",
+    "start": "2026-11-03",
+    "end": "2026-11-03",
+    "location": "Москва, Россия · Институт языкознания РАН",
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Германские языки.",
+    "subject_languages": "Германские языки",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": "Очный",
+    "website": null,
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/9c49325f-ab27-4b28-9cb3-7ebb601491ccn%40googlegroups.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "В письме опубликована программа; сроки подачи и отдельный сайт не указаны."
+    ],
+    "classification": "mixed",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "reviewed"
+  },
+  {
+    "id": "mos-7694d489f63a",
+    "name": "Язык – дискурс – корпус: в поисках прагматики 2026",
+    "start": "2026-10-02",
+    "end": "2026-10-03",
+    "location": "Москва, Россия · Институт языкознания РАН",
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Прагматика, дискурс и корпусные исследования.",
+    "subject_languages": null,
+    "working_languages": "Русский, английский",
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": "Гибридный",
+    "website": "https://iling-ran.ru/web/ru/conferences/language_discourse2026",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAJvPeRcHXgF8RFA2JSctOwUOTUw0Kioo6tE5kVVrEyu8MH9WNg%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [],
+    "classification": "mixed",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "reviewed"
+  },
+  {
+    "id": "mos-185eba9ef6b2",
+    "name": "Проблемы онтолингвистики 2026",
+    "start": "2026-02-25",
+    "end": "2026-02-27",
+    "location": null,
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://iling.spb.ru/conferences/2026/4855",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAKn%2BU3Pb88fwYcwBay1Mx9eXpNTe6P-GUMHwU0JekYYciFNjRg%40mail.gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAKn%2BU3OD1ufTg6jVfrrhn_YeAF_npWyHSMm4xY-4RsSrkaktAw%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-8a0213086e33",
+    "name": "Типологические и формальные подходы к полипредикации · TERRA HOMINIS 2026",
+    "start": "2026-04-08",
+    "end": "2026-04-09",
+    "location": "Москва, Россия · НИУ ВШЭ",
+    "deadline": "2026-02-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": null,
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAO%3DKudabNy_Yher9BAUPzdZS10T03uWWzOZkEsiNFAz3VHFnhA%40mail.gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CALsmLwts%3DKUR-zCOKLdnTi0EQWUs_iAf2MrQJh579Fz5x96jwQ%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "theory",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-f41e81801dad",
+    "name": "Типология глагольной полисемии · TERRA HOMINIS 2026",
+    "start": "2026-04-08",
+    "end": "2026-04-09",
+    "location": "Москва, Россия · НИУ ВШЭ",
+    "deadline": "2026-02-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": null,
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAPf6as0-Z5poAdv2SFPU2nzHZGZOAZD7ci4jF32bx74QEFnYXQ%40mail.gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAPf6as2a%3D5V9J3K6KMOQYGvRDE33%2B0BWYy_aOAwJ17xYKeYfyQ%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "theory",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-c79e55556db0",
+    "name": "Диалектологические воркшопы TERRA HOMINIS 2026",
+    "start": "2026-04-08",
+    "end": "2026-04-09",
+    "location": "Москва, Россия · НИУ ВШЭ",
+    "deadline": "2026-02-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": null,
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAEeDfn8Wd0Qw44J%2B3zQeHtFPey5iZKCD_Eig02L4sdn5stYgQQ%40mail.gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAEeDfn-KDYga42dHQXK5Ex1YoS4QPL3H3zHZG%3DAAAXoZBkvJoQ%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "theory",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-8cb926e1738f",
+    "name": "23rd Old-World Conference in Phonology (OCP23)",
+    "start": "2026-01-14",
+    "end": "2026-01-16",
+    "location": "Кембридж, Великобритания · Gonville & Caius College",
+    "deadline": "2025-06-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2025-08-15",
+    "notification_text": null,
+    "fee": null,
+    "topics": "Фонология: формальные, типологические и лабораторные подходы.",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://www.phonetics.mmll.cam.ac.uk/ocp23",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/8c4c80fc-7e99-4fa2-a366-a3d896c8a152n%40googlegroups.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "theory",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-8507496d6f17",
+    "name": "Неопределённые местоимения · TERRA HOMINIS 2026",
+    "start": "2026-04-08",
+    "end": "2026-04-09",
+    "location": "Москва, Россия · НИУ ВШЭ",
+    "deadline": "2026-02-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": null,
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAKwk-ecUJFs5hux2nNeF587A2bf%3DAWTSZ177N%2BiF%2BctrpOdBrg%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "theory",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-3fc5cac03fbe",
+    "name": "Виноградовские чтения 29.01.2026",
+    "start": "2026-01-29",
+    "end": "2026-01-29",
+    "location": null,
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://ruslang.ru/conference/pyatdesyat-sedmye-vinogradovskie-chteniya",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/25561768913091%40mail.yandex.ru"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-22c7caa9c0bb",
+    "name": "Александр Алексеевич Холодович: лингвистическая типология, синтаксис, кореистика, японистика",
+    "start": "2026-10-08",
+    "end": "2026-10-10",
+    "location": "Санкт-Петербург, Россия · ИЛИ РАН",
+    "deadline": "2026-07-05",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": "русский, английский",
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://iling.spb.ru/conferences/2026/4876",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAK8mXUmDbL7X6H%3DDV6%3DJ8NoFCqAt8cvC_8iC13RWF0apFTZd1w%40mail.gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CANiD4o7jcwuuPt0RyWieBFCjyDfA4byDdxfogMHtn3cAD34X3w%40mail.gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CANiD4o6SnGZ5t3y9RE_bEQ4K8BCBxRpQomPWtPPfa5g%2BoqB3Cw%40mail.gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CANiD4o4ph%3D%2B4YgZyk4i8ADMsO1Uhu15v9mQ2-a8eh3emZj39nQ%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "theory",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-fae304bc7a3a",
+    "name": "Сериальные глагольные конструкции в языках Юго-Восточной Азии",
+    "start": null,
+    "end": null,
+    "location": null,
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://iling.spb.ru/conferences/2026/5061",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/a2bd2125-ad9e-4872-ba06-9f401d9dc743n%40googlegroups.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CANiD4o7OpFELqNoGDjnvViAVcBvTf8oQRNgSQumsWU50EfOkMg%40mail.gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/236781785169906%40mail.yandex.ru"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "В объявлении указаны 19 июня и дедлайн 19 мая без года. Год не удалось однозначно установить; даты не предположены."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-78598061ca99",
+    "name": "Проблемы языка: взгляд молодых учёных 2026",
+    "start": "2026-04-02",
+    "end": "2026-04-03",
+    "location": null,
+    "deadline": "2026-02-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": "русский, английский",
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://iling-ran.ru/web/index.php/ru/conferences/2026_Language_issues",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAOLSQDSJQMfHVnEmx%3DcSp%2BD5%2BRJ%2BG6j1w28k%3Did26_%3DK4QPeaw%40mail.gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAOLSQDRk2A5xjsx%3DCbtro7zbY_fkCsA4nezNKFHKwOpXzRzRWg%40mail.gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAOLSQDSLRLF6-8TW4DwiJhPDMVRAfFWyikM_oVm0CMi_4%2B612Q%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-d2bf2dacd9fb",
+    "name": "Студенческая конференция \"Ломоносов\"",
+    "start": null,
+    "end": null,
+    "location": null,
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": null,
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CADmiikNkc5YsC8eWR5XxD7r6SefxYJWfDYqZokHw-FZizyvAoA%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-6c889afe3617",
+    "name": "Малые языки в большой лингвистике 2026",
+    "start": "2026-04-24",
+    "end": "2026-04-25",
+    "location": null,
+    "deadline": "2026-03-09",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": "русский и английский",
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "http://tipl.philol.msu.ru/index.php/science/conferences/fieldworks2026/programme",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAFzSAPU2aM9ENWZZuDYyoTJUJvBiiR60zRezTKscv4NheDC_TQ%40mail.gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAFzSAPVqSL5PENoQWE%2B7efgCSYwxdivhaPKSPsijKB1bF%3D1NTw%40mail.gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAFzSAPWy7wysef-0jyZY54aVjwbByGALRxypfTZ6tj6xAxx74g%40mail.gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAFzSAPX-bG3-nGbTYMmD%3DNFD58xYAXbaS01%3D1bU%3Dxdw7oDgCew%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-19864807c478",
+    "name": "XXIX Открытая конференция студентов-филологов в СПбГУ",
+    "start": null,
+    "end": null,
+    "location": null,
+    "deadline": "2026-02-23",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://conference-spbu.ru/conference/58/",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAKT-sVAQhCZ1qpLyzBe0TPUfQ66EJuKyaUVNf2bsq5O_v6SbdQ%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-fc973344d7dc",
+    "name": "Связь пропозиций, 11-12 февраля 2026",
+    "start": "2026-02-11",
+    "end": "2026-02-12",
+    "location": null,
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://iling-ran.ru/web/index.php/ru/conferences/2026_konnektory",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAO4dWpDHjK5ixMWap32kkTY_N%2BsDE_tNmfb_4_24YGd4dtCyAA%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-64458b21ecdc",
+    "name": "Linguistica Jivenalis",
+    "start": null,
+    "end": null,
+    "location": null,
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": null,
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/136481770892900%40mail.yandex.ru"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-055cf2db558e",
+    "name": "ALT 16",
+    "start": null,
+    "end": null,
+    "location": null,
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://alt-2026.sciencesconf.org/resource/page/id/14",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAEod8u4DbatR%3D3E44Z%2BNBUa-t5dc7xSdfQ9CKujZ%2Bar1Suynvg%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-3e6e9bd8523d",
+    "name": "XV Шмелёвские чтения, 20-22 февраля 2026",
+    "start": "2026-02-20",
+    "end": "2026-02-22",
+    "location": null,
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://ruslang.ru/conference/pyatnadcatye-shmelevskie-chteniya",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CADNYzgNHLMsoNHEz2ZaYA3mcr1a3JGKg9tDiM5A0swDYkRbbTg%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-a97d4718458c",
+    "name": "19—20 мая 2026 г. Славянский мир: общность и многообразие",
+    "start": "2026-05-19",
+    "end": "2026-05-20",
+    "location": null,
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://inslav.ru/conference/19-20-maya-2026-g-slavyanskiy-mir-obshchnost-i-mnogoobrazie",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAKYg%3DvfPFD90gnB6j_vNG%2BoPrW%2BQpVFACXjpv1xX8immvTOA0A%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-23df06cd99ff",
+    "name": "ОПЛИНГ-11 / OPLing 11",
+    "start": null,
+    "end": null,
+    "location": null,
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": null,
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CA%2B0ZDtmXu--cFnVJBbUmZT-mRMPmqQ085YAaAnOQATrkgGAD8g%40mail.gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CA%2B0ZDt%3DX59g39cJRDLZcbXiz50OBWiLDO2uBr8DcYgYt%2BDUg9Q%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-607b378d1a22",
+    "name": "Language as Human Behaviour: The Legacy of William Diver and Érica García  (Panel 2.0) @ DGKL/GCLA11",
+    "start": null,
+    "end": null,
+    "location": null,
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": null,
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/89b13ab2-65a4-40b4-a371-fcf4caa6d78cn%40googlegroups.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-87c8066ec8ab",
+    "name": "XXI чтения памяти С. А. Старостина",
+    "start": null,
+    "end": null,
+    "location": null,
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://starlingdb.org/confer/confer2026.pdf",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/da167a3b-72e0-4a61-8773-6ec39d8b16d8n%40googlegroups.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/449b8925-4f25-4d9a-864d-879336d6859dn%40googlegroups.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-7e19b1834ed8",
+    "name": "LMGIC 2026",
+    "start": null,
+    "end": null,
+    "location": null,
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": null,
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAPwa4c9Wiwnq9MXLv%2BVg2sFJZ-Q0%2BgW8KcXdsg4rdNHnuWw0PA%40mail.gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAPwa4c8JR2fFHsO9uFbXqH59-4QxzAHrwdNo7s8%2BZV3RBEjZKQ%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-22da7d75e6fb",
+    "name": "TERRA HOMINIS 2026",
+    "start": "2026-04-08",
+    "end": "2026-04-09",
+    "location": "Москва, Россия · НИУ ВШЭ",
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": null,
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAO%3DKudZtcXCheqycuynfauH3u5eL7H%2BQxeFP5QRW9Owt1VVXRA%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "mixed",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-5ef106a7545e",
+    "name": "II конференция «Языки Китая и сопредельных регионов»",
+    "start": "2026-09-17",
+    "end": "2026-09-18",
+    "location": null,
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": "русский и английский",
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": null,
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CA%2Bho%2BLLLjuPEbF-FeFRk0-mA60OBdbeROffKOHhGYVeFVe36KA%40mail.gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/8b0824bf-6174-4e4c-b892-e3b23cd2bf45n%40googlegroups.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/57525D53-6E48-4E7C-8BAC-E61BA8065F08%40gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/4EEB6336-DD4C-4CA5-8800-F8AAC354D52F%40gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/9cc1ab8f-e16b-4303-8c70-125a23f7e8e4n%40googlegroups.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-aa725179e904",
+    "name": "ONE EXPERIMENTAL DAY 2026",
+    "start": null,
+    "end": null,
+    "location": null,
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "http://expling@conf.msu.ru/",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/bc3d9894-ce4d-4bc3-95d7-6e0af57aaa9dn%40googlegroups.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/d1017119-1792-4d02-b6d7-f2147ba19ab3n%40googlegroups.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/80720dd5-9862-492c-b0db-b447c77677bdn%40googlegroups.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/3d67208c-c016-4e28-a24e-61852ece0931n%40googlegroups.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/6aa1c20b-1b6c-4702-a983-bf3007972797n%40googlegroups.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial",
+    "date_conflict": "В темах нескольких писем 2026 года указано 18.06.2025. Дату не удалось однозначно подтвердить."
+  },
+  {
+    "id": "mos-dbc66ac93f05",
+    "name": "Востоковедные чтения, 20-21 мая 2026 г.",
+    "start": "2026-05-20",
+    "end": "2026-05-21",
+    "location": null,
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": null,
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAADV_ccj6rvZtTYzzYwgY61nYQ6FMUK6rtsJ-CBnV33r%3DB%3DP0Q%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-1ab72888aeaf",
+    "name": "Конференция \"Области смысла\" к 80-летию Г.Е. Крейдлина, РГГУ, 22-23 мая",
+    "start": "2026-05-22",
+    "end": "2026-05-23",
+    "location": "Москва, Россия · РГГУ",
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": null,
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CADNYzgOK3u4Au1%3DsWfsmgrkXtnUhxdvqWMEj%3D3idqboWsXeOJQ%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-b4d1d86e9376",
+    "name": "Грамматические процессы и системы в синхронии и диахронии 2026",
+    "start": "2026-06-02",
+    "end": "2026-06-04",
+    "location": null,
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://ruslang.ru/conference/grammaticheskie-processy-i-sistemy-v-sinkhronii-i-diakhronii-0",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CALKwh%3DjfBsHzj%3DasdPzz%3D1LWHysp9GFXMwvnjR4_r-oTxvaPnw%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-15e80bf3dae2",
+    "name": "II конференция «Экспериментальные исследования малоизученных языков»",
+    "start": "2026-09-04",
+    "end": "2026-09-06",
+    "location": null,
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": null,
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CWXP265MB3253E1A81DD112BD69AA2C1FA3102%40CWXP265MB3253.GBRP265.PROD.OUTLOOK.COM"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/WA2P291MB04279B8C2415BBE6D4859CF2A3EC2%40WA2P291MB0427.POLP291.PROD.OUTLOOK.COM"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/WA2P291MB04275A2C96DFBA9CBBD7AC42A3E92%40WA2P291MB0427.POLP291.PROD.OUTLOOK.COM"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAHK9yor6Jij%3DCVT2%3DMFfm8gncC4EdKnM8QP0tzfPdc6WP6KXrA%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-900274df0588",
+    "name": "Языки народов Сибири и сопредельных регионов 2026",
+    "start": "2026-10-14",
+    "end": "2026-10-17",
+    "location": "Новосибирск, Россия · ИФЛ СО РАН",
+    "deadline": "2026-09-07",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": "1500 RUB",
+    "topics": "Фонетические системы, грамматика и лексика языков Сибири и соседних регионов.",
+    "subject_languages": null,
+    "working_languages": "Русский, английский",
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": "Гибридный",
+    "website": "https://www.philology.nsc.ru/conf/Yazyki.php",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/1780670471.775252822%40f735.i.mail.ru"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "theory",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-e26c736f932c",
+    "name": "VI Междунар. конф. ЭТИМОЛОГИЯ. ОНОМАСТИКА. ЭТНОЛИНГВИСТИКА. Екатеринбург, 24--27 сентября 2026",
+    "start": "2026-09-24",
+    "end": "2026-09-27",
+    "location": "Екатеринбург, Россия",
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": "Гибридный",
+    "website": null,
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/340331789722669%40mail.yandex.ru"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-821de64e5f54",
+    "name": "Лингвистический форум 2026: Жестовые языки в фокусе современной лингвистики: структура, функционирование и развитие",
+    "start": "2026-09-25",
+    "end": "2026-09-25",
+    "location": null,
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://lingconf-voginfo.tilda.ws/",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/CAESmnSVtW_kFyZLYW1BuGUxFNMc%3Dg_CmEWYEc-hbvtdvo3DwSA%40mail.gmail.com"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
+    "id": "mos-cb3652b197ce",
+    "name": "Variation and Change in Endangered Languages 2026",
+    "start": "2026-10-01",
+    "end": "2026-10-02",
+    "location": "Гамбург, Германия · Universität Hamburg",
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": "Гибридный",
+    "website": "https://www.slm.uni-hamburg.de/ifuu/forschung/tagungen/variation-and-change.html",
+    "sources": [
+      {
+        "type": "mosling",
+        "label": "Мослинг",
+        "url": "https://groups.google.com/d/msgid/mosling/187221790606881%40mail.yandex.ru"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+    ],
+    "classification": "other",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  }
+]
