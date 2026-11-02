@@ -20,6 +20,9 @@ class CatalogTest(unittest.TestCase):
  def test_subject_language_is_not_working_language(self):
   raw='Subject: Syntax 2027\nDate: 01-Jan-2027 - 03-Jan-2027\nSubject Language(s): Turkish\nLinguistic Field(s): Syntax\nCall Deadline: 01-Nov-2026\nWeb Site: https://example.org/'
   c=parse_issue(raw,'https://linguistlist.org/issues/37/1/');self.assertEqual(c['start'],'2027-01-01');self.assertEqual(c['subject_languages'],'Turkish');self.assertIsNone(c['working_languages']);self.assertEqual(c['classification'],'theory')
+ def test_extension_invalidates_previous_timezone(self):
+  a={'deadline':'2026-11-01','deadline_timezone':'CET','sources':[]};b={'deadline':'2026-11-08','sources':[{'url':'https://new'}]}
+  self.assertIsNone(merge(a,b,'2026-11-02')['deadline_timezone'])
  def test_primary_exclusions_and_mixed_fields(self):
   self.assertEqual(classify('Machine Translation Conference',''),'excluded');self.assertEqual(classify('Neurolinguistics 2027',''),'excluded');self.assertEqual(classify('Literary Semantics','Semantics'),'excluded');self.assertEqual(classify('General conference','Syntax; Computational Linguistics'),'mixed')
  def test_html_blocks_preserve_labels(self):
