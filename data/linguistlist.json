@@ -4027,7 +4027,7 @@
     "start": "2027-03-10",
     "end": "2027-03-12",
     "location": "Stuttgart, Germany",
-    "deadline": "2026-11-15",
+    "deadline": "2026-11-22",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
@@ -4045,16 +4045,31 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/2697/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://easyabs.linguistlist.org/conference/IMC27/",
+        "label": "EasyAbs · подача тезисов"
       }
     ],
-    "history": [],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-11-15",
+        "new": "2026-11-22",
+        "type": "extended",
+        "observed_at": "2026-11-02",
+        "source": "https://easyabs.linguistlist.org/conference/IMC27/"
+      }
+    ],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Дедлайн LINGUIST List был 15 ноября; действующая страница подачи EasyAbs принимает тезисы до 22 ноября 2026. Точное время и часовой пояс не указаны.",
+      "Сбор, рабочие языки и ограничения на выступающих не удалось подтвердить."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
     "checked_at": "2026-11-02",
-    "verification": "partial",
+    "verification": "reviewed",
     "source_order": [
       37,
       2697
@@ -7307,28 +7322,33 @@
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": null,
-    "subject_languages": null,
+    "topics": "Теоретическая и экспериментальная лингвистика алтайских языков; фонология, морфология, синтаксис, семантика, прагматика; специальная тема — интерфейсы синтаксиса, семантики и просодии.",
+    "subject_languages": "Тюркские, монгольские, тунгусо-маньчжурские, японические, корейские и родственные языки",
     "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
-    "format": null,
-    "website": null,
+    "speaker_restrictions": "Не более 2 заявок на автора, не более 1 единоличной.",
+    "submission_rules": "Анонимные тезисы до 2 страниц, включая примеры, таблицы, рисунки и литературу; 12 pt; поля 1 дюйм (US Letter) или 2,5 см (A4).",
+    "format": "Гибридный",
+    "website": "https://events.gwdg.de/event/1593/",
     "sources": [
       {
         "type": "linguistlist",
-        "url": "https://linguistlist.org/conf/search/?page=40",
-        "label": "LINGUIST List · каталог"
+        "url": "https://linguistlist.org/issues/37/3025/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://events.gwdg.de/event/1593/",
+        "label": "Сайт конференции"
       }
     ],
     "history": [],
     "notes": [
-      "Объявление не удалось получить. Данные взяты из каталога; ссылка на пост, сайт, сбор и ограничения не проверены."
+      "Язык тезисов, срок ответа и организационный сбор в доступном объявлении не указаны."
     ],
     "classification": "theory",
     "classification_reason": null,
     "checked_at": "2026-11-02",
-    "verification": "partial"
+    "verification": "reviewed"
   },
   {
     "id": "4f7c8e819c7cd84f",
@@ -9119,5 +9139,49 @@
       3489
     ],
     "submissions_open": "2026-11-15"
+  },
+  {
+    "id": "487c6b3811030ce9",
+    "name": "4th International Conference on Tone and Intonation",
+    "start": "2027-05-27",
+    "end": "2027-05-29",
+    "location": "Hong Kong · The Chinese University of Hong Kong",
+    "deadline": "2026-12-06",
+    "deadline_at": "2026-12-06T23:59:59-12:00",
+    "deadline_timezone": "Anywhere on Earth (UTC−12:00)",
+    "notification": "2027-02-15",
+    "notification_text": null,
+    "fee": "Без регистрационного сбора; проезд и проживание за счёт участников",
+    "topics": "Тон и интонация: фонетика, фонология, просодия, типология, прагматика; универсальные и языково-специфические свойства. Также допускаются смежные психолингвистические, социолингвистические, вычислительные и нейролингвистические исследования.",
+    "subject_languages": "Языки мира; особое внимание межъязыковым сравнениям, диалектам и многоязычию",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "Полные требования к тезисам опубликованы на сайте конференции; после принятия можно подать 5-страничную статью в материалы ISCA. Ограничения на число заявок и язык тезисов не удалось подтвердить.",
+    "format": "Очный",
+    "website": "https://ling.cuhk.edu.hk/tai2027/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/2997/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://ling.cuhk.edu.hk/tai2027/",
+        "label": "Сайт конференции"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "В объявлении прямо указано отсутствие регистрационного сбора. Язык тезисов и ограничения на соавторство в доступном тексте не указаны."
+    ],
+    "classification": "mixed",
+    "classification_reason": "Основная тема — фонетика, фонология и просодия; программа междисциплинарная и включает смежные вычислительные и нейролингвистические направления.",
+    "checked_at": "2026-11-02",
+    "verification": "reviewed",
+    "source_order": [
+      37,
+      2997
+    ]
   }
 ]
