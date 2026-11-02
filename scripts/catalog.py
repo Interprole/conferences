@@ -98,6 +98,7 @@ def merge(old,new,observed):
     if before and after and before!=after:
         # An exact timestamp belonging to the old deadline is no longer valid.
         out['deadline_at']=new.get('deadline_at')
+        out['deadline_timezone']=new.get('deadline_timezone')
         event=dict(field='deadline',old=before,new=after,observed_at=observed,type='extended' if after>before else 'changed',source=new['sources'][0]['url'])
         if not any(h.get('old')==before and h.get('new')==after for h in history):history.append(event)
     for k,v in new.items():
