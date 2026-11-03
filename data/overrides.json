@@ -9,7 +9,8 @@
     "submission_rules": "Анонимный PDF до 2 страниц; шрифт от 12 pt, поля 2,5 см. В заявке указать основную сессию, воркшоп или оба варианта.",
     "verification": "reviewed",
     "notes": [
-      "Дедлайн продлён с 5 до 8 ноября. Часовой пояс взят из нового объявления."
+      "Продление до 8 ноября 2026 повторно подтверждено постом LINGUIST List 37.3566. На сайте серии и странице CFP ещё остаётся старый срок 5 ноября; он не отменяет более позднее явное продление.",
+      "Основная конференция 18–19 марта 2027; воркшоп Noise in Language Change — 17 марта. OpenReview загрузился без текста условий подачи, точный дедлайн в нём прочитать не удалось."
     ],
     "history": [
       {
@@ -21,7 +22,12 @@
         "source": "https://linguistlist.org/issues/37/3566/"
       }
     ],
-    "_reviewed_at": "2026-11-02"
+    "_reviewed_at": "2026-11-03",
+    "checked_at": "2026-11-03",
+    "source_order": [
+      37,
+      3566
+    ]
   },
   "25f27c3a5e5fd4f6": {
     "deadline_at": "2026-12-20T23:59:00+01:00",
@@ -128,7 +134,7 @@
     "deadline": "2026-11-15",
     "deadline_at": "2026-11-15T23:59:59+01:00",
     "deadline_timezone": "CET (UTC+01:00)",
-    "notification_text": "Середина января 2027; точная дата неизвестна",
+    "notification_text": null,
     "topics": "Любые темы английской лингвистики; предпочтительна связь с симметрией и асимметрией.",
     "subject_languages": "Английский",
     "speaker_restrictions": "Выступающим требуется членство в ISLE к регистрации. До 2 тезисов, если хотя бы одни совместные.",
@@ -145,8 +151,244 @@
     ],
     "verification": "reviewed",
     "notes": [
-      "В объявлении 15 ноября 2026 названо понедельником, хотя это воскресенье; сохранена числовая дата, рекомендуется сверить на сайте."
+      "В объявлении 15 ноября 2026 названо понедельником, хотя это воскресенье; сохранена числовая дата, рекомендуется сверить на сайте.",
+      "В поисковой копии главной страницы организаторов указан точный срок ответа: 15 января 2027. Прямое открытие главной страницы завершилось тайм-аутом; поисковая копия может запаздывать."
     ],
-    "_reviewed_at": "2026-11-02"
+    "_reviewed_at": "2026-11-03",
+    "notification": "2027-01-15",
+    "checked_at": "2026-11-03"
+  },
+  "4f7c8e819c7cd84f": {
+    "deadline": "2027-01-11",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "website": "https://sites.google.com/view/grams-workshop/home",
+    "location": "Dublin, Ireland · Trinity College Dublin",
+    "start": "2027-05-27",
+    "end": "2027-05-28",
+    "topics": "Синтаксис и морфология галло-романских языков: синхрония и диахрония, формальные и эмпирические подходы; интерфейсы в связи с морфологией или синтаксисом.",
+    "subject_languages": "Галло-романские языки и разновидности, в том числе французский, окситанский, франкопровансальский; также франкоязычные креольские языки.",
+    "working_languages": "Английский, французский, окситанский",
+    "speaker_restrictions": "Не более 2 тезисов на автора, не более 1 единоличных.",
+    "submission_rules": "Анонимный PDF до 2 страниц с примерами, литературой и рисунками; шрифт от 12 pt, поля 2,5 см (A4) или 1 дюйм (Letter). Доклад 20 минут и 10 минут обсуждения.",
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "classification": "theory",
+    "verification": "reviewed",
+    "checked_at": "2026-11-03",
+    "notes": [
+      "Дедлайн подтверждён официальным сайтом и EasyAbs. Дата ответа и сбор не указаны; период рецензирования 12 января — 28 февраля не подменён сроком ответа."
+    ],
+    "_reviewed_at": "2026-11-03",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/conf/search/?page=40",
+        "label": "LINGUIST List · каталог"
+      },
+      {
+        "type": "linguistlist",
+        "label": "LINGUIST List",
+        "url": "https://linguistlist.org/issues/37/3441/"
+      },
+      {
+        "type": "official",
+        "label": "Подача тезисов",
+        "url": "https://easyabs.linguistlist.org/conference/GRAMS2/"
+      }
+    ],
+    "source_order": [
+      37,
+      3441
+    ]
+  },
+  "ef6894071e6eed7b": {
+    "website": "https://nvfw.org/",
+    "location": "Amsterdam, Netherlands · Kloveniersburgwal 48",
+    "deadline": "2026-09-20",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2026-10-09",
+    "notification_text": "Ответ не позднее 9 октября 2026",
+    "fee": "Вход бесплатный",
+    "topics": "Эмпирическая фонетика и исследования речи; демонстрации новых приложений и методов.",
+    "working_languages": "Нидерландский, английский",
+    "speaker_restrictions": "После проверки тематической релевантности проводится жеребьёвка; отдельные группы для начинающих и старших исследователей. Ограничения на число заявок и соавторство не указаны.",
+    "submission_rules": "Название и аннотация до 1 страницы по шаблону организаторов, через онлайн-форму.",
+    "format": "Очный; дистанционное участие не предусмотрено",
+    "classification": "theory",
+    "notes": [
+      "Проверены официальный CFP и опубликованная программа. Продления срока тезисов не найдено; регистрация слушателей не является приёмом тезисов."
+    ],
+    "checked_at": "2026-11-03",
+    "verification": "reviewed",
+    "_reviewed_at": "2026-11-03",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/conf/search/?page=3",
+        "label": "LINGUIST List · каталог"
+      },
+      {
+        "type": "linguistlist",
+        "label": "LINGUIST List",
+        "url": "https://linguistlist.org/issues/37/2749/"
+      }
+    ],
+    "source_order": [
+      37,
+      2749
+    ]
+  },
+  "8a0fb9ff3d5e4208": {
+    "website": "https://www.ling.sinica.edu.tw/main/en?/sign/ILAS-NINJAL",
+    "topics": "Формальная семантика функциональных частиц: скалярность, позиция говорящего и динамика дискурса.",
+    "subject_languages": "Японский, окиноэрабуский рюкюский, севернокитайский, атаяльский",
+    "fee": "Участие бесплатно",
+    "deadline": null,
+    "notification": null,
+    "notes": [
+      "Опубликовано приглашение к участию в обсуждении; срок подачи тезисов не указан. Дата 31 октября 2026 относится к регистрации слушателей и не записана как дедлайн тезисов.",
+      "Рабочие языки, ограничения на выступающих и правила подачи в прочитанных источниках не указаны."
+    ],
+    "classification": "theory",
+    "checked_at": "2026-11-03",
+    "verification": "reviewed",
+    "_reviewed_at": "2026-11-03",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/conf/search/?page=14",
+        "label": "LINGUIST List · каталог"
+      },
+      {
+        "type": "linguistlist",
+        "label": "LINGUIST List",
+        "url": "https://linguistlist.org/issues/37/2857/"
+      }
+    ],
+    "source_order": [
+      37,
+      2857
+    ]
+  },
+  "5b78d6f9518bc3fe": {
+    "topics": "Формальное описание славянских языков: фонология, морфология, синтаксис, семантика и прагматика; теоретические, экспериментальные и корпусные подходы.",
+    "subject_languages": "Славянские языки",
+    "classification": "theory",
+    "notes": [
+      "Прочитано предварительное объявление LINGUIST List. Дедлайн, дата ответа, сбор, рабочие языки, правила подачи и официальный сайт в нём не указаны."
+    ],
+    "checked_at": "2026-11-03",
+    "verification": "reviewed",
+    "_reviewed_at": "2026-11-03",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/conf/search/?page=59",
+        "label": "LINGUIST List · каталог"
+      },
+      {
+        "type": "linguistlist",
+        "label": "LINGUIST List",
+        "url": "https://linguistlist.org/issues/37/3449/"
+      }
+    ],
+    "source_order": [
+      37,
+      3449
+    ]
+  },
+  "b3684cc72a0298e0": {
+    "deadline": "2026-11-06",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2026-12-18",
+    "notification_text": null,
+    "website": "https://wp.unil.ch/ocp2027/",
+    "working_languages": "Английский — язык тезисов; рабочий язык выступлений отдельно не указан",
+    "topics": "Фонология: формальные, типологические и лабораторные подходы; особенно приветствуются первичные эмпирические и полевые данные по малоизученным языкам.",
+    "speaker_restrictions": "До 2 тезисов на человека; только в 1 из них можно быть единственным или первым автором.",
+    "submission_rules": "Анонимный PDF на английском: основной текст 1 страница A4; до 2 дополнительных страниц для литературы, рисунков и таблиц. Times New Roman 12 pt, поля 2,54 см. Подача через Sciencesconf.",
+    "format": "Очный",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3049/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "linguistlist",
+        "label": "LINGUIST List · продление",
+        "url": "https://linguistlist.org/issues/37/3584/"
+      },
+      {
+        "type": "official",
+        "label": "Официальные условия подачи",
+        "url": "https://wp.unil.ch/ocp2027/abstract-submission/"
+      }
+    ],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-10-30",
+        "new": "2026-11-06",
+        "type": "extended",
+        "observed_at": "2026-11-03",
+        "source": "https://wp.unil.ch/ocp2027/abstract-submission/"
+      }
+    ],
+    "notes": [
+      "Продление до 6 ноября подтверждено официальным сайтом и постом 37.3584. Точное время и часовой пояс закрытия не указаны.",
+      "Срок ответа 18 декабря взят из нового объявления LINGUIST List; сайт организаторов указывает только декабрь. Сбор не указан. Портал Sciencesconf открыть не удалось."
+    ],
+    "verification": "reviewed",
+    "checked_at": "2026-11-03",
+    "_reviewed_at": "2026-11-03",
+    "source_order": [
+      37,
+      3584
+    ]
+  },
+  "9d8e3963aeb61959": {
+    "website": "https://dkaramasov.github.io/glow49",
+    "deadline": "2026-11-01",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "topics": "Все направления генеративной лингвистики; приветствуются исследования разновидностей португальского и языков португалоязычного мира, звучащих и жестовых языков.",
+    "speaker_restrictions": "Не более 1 единоличных и 1 совместных тезисов на человека. Одинаковые тезисы нельзя подавать в основной коллоквиум и воркшопы.",
+    "submission_rules": "Анонимный PDF до 2 страниц, включая примеры, литературу, таблицы и рисунки; Times New Roman от 12 pt, одинарный интервал, поля 2,5 см (A4) или 1 дюйм (Letter); до 5 ключевых слов. Подача через Oxford Abstracts.",
+    "classification": "theory",
+    "classification_reason": "Основная конференция по генеративной грамматике.",
+    "format": "Очный",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/conf/search/?page=36",
+        "label": "LINGUIST List · каталог"
+      },
+      {
+        "type": "official",
+        "label": "Официальный CFP общества GLOW",
+        "url": "https://glowlinguistics.org/blog/glow49-call-for-papers/"
+      },
+      {
+        "type": "linguistlist",
+        "label": "LINGUIST List",
+        "url": "https://linguistlist.org/issues/37/2733/"
+      }
+    ],
+    "notes": [
+      "В официальном CFP сохранён срок 1 ноября 2026 с прямым указанием, что продления не будет. Новое продление не найдено; срок остаётся прошедшим.",
+      "Основной коллоквиум 22–24 марта; воркшопы 25 марта. Отдельный сайт конференции открыть не удалось. Дата ответа, сбор, рабочие языки и точное время закрытия не указаны."
+    ],
+    "verification": "reviewed",
+    "checked_at": "2026-11-03",
+    "_reviewed_at": "2026-11-03",
+    "source_order": [
+      37,
+      2733
+    ]
   }
 }
