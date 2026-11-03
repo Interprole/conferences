@@ -6,7 +6,7 @@ from html.parser import HTMLParser
 from urllib.parse import urljoin
 
 UNKNOWN = None
-THEORY = re.compile(r'syntax|syntactic|morphosyntax|semantics|phonetics|phonology|prosod|morphology|linguistic theor|formal (?:approach|linguistic|description|model)|синтакс|семантик|фонетик|фонолог|просоди|морфолог|типологи|формальн',re.I)
+THEORY = re.compile(r'synta(?:x|ctic)|morphosynta|semantic|phonetic|phonolog|prosod|morpholog|typolog|grammar|grammat|negation|expletive|claus|agreement|valenc|lexicolog|linguistic theor|generative|formal (?:approach|linguistic|description|model)|синтакс|семантик|фонетик|фонолог|просоди|морфолог|типологи|граммат|отрицани|согласовани|валентн|формальн',re.I)
 EXCLUDE = re.compile(r'neuro(?:linguist|science)|нейролингв|нейронаук|natural language processing|\bNLP\b|\b(?:EACL|EMNLP|COLING|LREC)\b|computational|language technolog|large language model|language,? brain|machine translation|переводоведен|translation|cultural studies|culture and cognition|artistic cultures|popular culture|культуры и культурного|культуролог|социокультур|sociocultural|literatur|literary|литератур|TESOL|language teaching|language education|didacti|digital humanities|social XAI',re.I)
 
 def clean(s):
@@ -25,13 +25,20 @@ def date(s):
     return None
 
 def classify(title, fields=''):
-    excluded=bool(EXCLUDE.search(title))
-    # A dedicated excluded field is outside the catalogue; mixed general meetings remain.
+    # Corpus methods do not make grammatical or typological research non-theoretical.
+    if EXCLUDE.search(title) or re.search(r'translating|speech synthesis|speech signal processing|language models|generative AI', title, re.I):
+        return 'excluded'
     fieldlist=[v.strip() for v in fields.split(';') if v.strip()]
-    if fieldlist and all(EXCLUDE.search(v) for v in fieldlist):excluded=True
-    primary=bool(THEORY.search(title)) or bool(THEORY.search(fields))
-    mixed=bool(EXCLUDE.search(fields))
-    return ('excluded' if excluded else 'theory' if primary and not mixed else 'mixed' if primary else 'other')
+    if fieldlist and all(EXCLUDE.search(v) for v in fieldlist):
+        return 'excluded'
+    if THEORY.search(title):
+        return 'theory'
+    title_adjacent=bool(re.search(r'applied|teaching|learning|school|education|pedagog|social|ecolinguist|cultur|media|humanit|literac|anthropolog|marketing|\barts\b|прикладн|преподаван|обучени|культур|дискурс', title, re.I))
+    if THEORY.search(fields) and not title_adjacent:
+        return 'theory'
+    general=bool(re.search(r'general linguistics|общ(?:ая|ей) лингвистик', fields, re.I))
+    adjacent=title_adjacent or bool(re.search(r'applied|sociolinguist|anthropological|clinical|discourse|language acquisition|прикладн|социолингв|антрополог|клиническ|дискурс', fields, re.I)) or bool(EXCLUDE.search(fields))
+    return 'mixed' if general and adjacent else 'theory' if general else 'other'
 
 def base(title, source, start=None):
     return dict(id=hashlib.sha256(key(title,start).encode()).hexdigest()[:16],name=title,start=start,end=None,

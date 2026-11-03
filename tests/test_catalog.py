@@ -24,7 +24,12 @@ class CatalogTest(unittest.TestCase):
   a={'deadline':'2026-11-01','deadline_timezone':'CET','sources':[]};b={'deadline':'2026-11-08','sources':[{'url':'https://new'}]}
   self.assertIsNone(merge(a,b,'2026-11-02')['deadline_timezone'])
  def test_primary_exclusions_and_mixed_fields(self):
-  self.assertEqual(classify('Machine Translation Conference',''),'excluded');self.assertEqual(classify('Neurolinguistics 2027',''),'excluded');self.assertEqual(classify('Literary Semantics','Semantics'),'excluded');self.assertEqual(classify('General conference','Syntax; Computational Linguistics'),'mixed')
+  self.assertEqual(classify('Machine Translation Conference',''),'excluded');self.assertEqual(classify('Neurolinguistics 2027',''),'excluded');self.assertEqual(classify('Literary Semantics','Semantics'),'excluded');self.assertEqual(classify('General conference','Syntax; Computational Linguistics'),'theory')
+ def test_grammar_typology_and_general_conferences(self):
+  for title,fields in [('Expletive Negation: Typological and Corpus-based Insights','General Linguistics; Text/Corpus Linguistics; Typology'),('Penn Linguistics Conference 51','General Linguistics'),('Grammar of Persian',''),('Согласование в языках мира',''),('A workshop','Typology')]:
+   with self.subTest(title=title): self.assertEqual(classify(title,fields),'theory')
+  self.assertEqual(classify('Language attitudes in school','Applied Linguistics; General Linguistics; Sociolinguistics'),'mixed')
+  self.assertEqual(classify('NLP and Grammar','Syntax'),'excluded')
  def test_html_blocks_preserve_labels(self):
   p=Page();p.feed('<p>Subject: Example</p><p>Date: 01-Jan-2027 - 02-Jan-2027</p><a href="/issues/37/1/">post</a><script>secret</script>');self.assertIn('\nDate:',p.text());self.assertNotIn('secret',p.text());self.assertIn('/issues/37/1/',p.links)
 if __name__=='__main__':unittest.main()
