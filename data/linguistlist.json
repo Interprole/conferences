@@ -1,5 +1,44 @@
 [
   {
+    "id": "8f496c388381a37d",
+    "name": "(Im)politeness on the Page",
+    "start": "2026-12-14",
+    "end": "2026-12-15",
+    "location": "Naples, Italy",
+    "deadline": "2026-05-30",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Historical Linguistics; Ling & Literature; Pragmatics; Translation",
+    "subject_languages": "English (eng, stan1293)",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://centroargo.unior.it/en/node/175",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1497/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "other",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1497
+    ]
+  },
+  {
     "id": "f5532204f517e82c",
     "name": "10en Obrador de Lingüistica Occitana",
     "start": "2027-05-19",
@@ -335,6 +374,45 @@
     "verification": "partial"
   },
   {
+    "id": "a729bf9ad7ad2136",
+    "name": "13th International Confererence on Multimodality",
+    "start": "2027-06-01",
+    "end": "2027-06-04",
+    "location": "Helsinki, Finland",
+    "deadline": "2026-09-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "General Linguistics",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://www.helsinki.fi/en/conferences/13th-international-conference-multimodality",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1206/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "other",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1206
+    ]
+  },
+  {
     "id": "60e86501cae3f4d8",
     "name": "14th Conference of the International Gender and Language Association",
     "start": "2027-07-21",
@@ -368,6 +446,45 @@
     "classification_reason": null,
     "checked_at": "2026-11-02",
     "verification": "partial"
+  },
+  {
+    "id": "c989d1ef4f044f39",
+    "name": "14th International Conference on Austroasiatic Linguistics",
+    "start": "2026-11-27",
+    "end": "2026-11-30",
+    "location": "HO Chi Minh City, Viet Nam",
+    "deadline": "2026-07-31",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Historical Linguistics; Language Documentation; Phonology; Syntax; Typology",
+    "subject_languages": "Austro-Asiatic",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://icaal.net/icaal-14-call-for-papers/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1285/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "theory",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1285
+    ]
   },
   {
     "id": "b52fef75e1f7f675",
@@ -549,7 +666,7 @@
     ],
     "classification": "other",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-02",
+    "checked_at": "2026-11-03",
     "verification": "partial",
     "source_order": [
       37,
@@ -593,6 +710,123 @@
     "source_order": [
       37,
       3232
+    ]
+  },
+  {
+    "id": "d108ec118730209a",
+    "name": "19th European Conference on Formal Description of Slavic Languages & Satellite Workshop on Information Structure in Slavic Languages",
+    "start": "2026-11-25",
+    "end": "2026-11-27",
+    "location": "Leipzig, Germany",
+    "deadline": "2026-08-23",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2026-09-23",
+    "notification_text": "September 23, 2026",
+    "fee": null,
+    "topics": "Morphology; Phonology; Pragmatics; Semantics; Syntax",
+    "subject_languages": "Baltic; Slavic (slav1255)",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": null,
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1636/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "theory",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1636
+    ]
+  },
+  {
+    "id": "13b80bba581e5f8a",
+    "name": "19th International Conference on Native and Non-native Accents of English",
+    "start": "2026-12-10",
+    "end": "2026-12-12",
+    "location": "Lodz, Poland",
+    "deadline": "2026-08-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Applied Linguistics; Phonetics; Phonology",
+    "subject_languages": "English (eng, stan1293)",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://www.filolog.uni.lodz.pl/accents",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1669/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "theory",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1669
+    ]
+  },
+  {
+    "id": "36f1e15018623f03",
+    "name": "1st Digital Language Learning International Workshop",
+    "start": "2026-12-03",
+    "end": "2026-12-04",
+    "location": "Alicante, Spain",
+    "deadline": "2026-09-30",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Applied Linguistics; Discourse Analysis; General Linguistics; Translation",
+    "subject_languages": "English (eng, stan1293)",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://web.ua.es/es/dl2/jornadas-dl2/home.html",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1444/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "other",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1444
     ]
   },
   {
@@ -720,28 +954,37 @@
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": null,
-    "subject_languages": null,
+    "topics": "Anthropological Linguistics; Cognitive Science; Pragmatics; Sociolinguistics; Typology",
+    "subject_languages": "English (eng, stan1293)",
     "working_languages": null,
     "speaker_restrictions": null,
     "submission_rules": null,
     "format": null,
-    "website": null,
+    "website": "https://sites.google.com/hufs.ac.kr/2026internationalconference",
     "sources": [
       {
         "type": "linguistlist",
         "url": "https://linguistlist.org/conf/search/?page=14",
         "label": "LINGUIST List · каталог"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1008/",
+        "label": "LINGUIST List"
       }
     ],
     "history": [],
     "notes": [
-      "Объявление не удалось получить. Данные взяты из каталога; ссылка на пост, сайт, сбор и ограничения не проверены."
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
     ],
     "classification": "other",
-    "classification_reason": null,
-    "checked_at": "2026-11-02",
-    "verification": "partial"
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1008
+    ]
   },
   {
     "id": "35f923c35aa277ba",
@@ -755,28 +998,37 @@
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": null,
+    "topics": "Applied Linguistics; Computational Linguistics; Discourse Analysis; Language Acquisition; Text/Corpus Linguistics",
     "subject_languages": null,
     "working_languages": null,
     "speaker_restrictions": null,
     "submission_rules": null,
     "format": null,
-    "website": null,
+    "website": "https://alaa.net.au/2026",
     "sources": [
       {
         "type": "linguistlist",
         "url": "https://linguistlist.org/conf/search/?page=20",
         "label": "LINGUIST List · каталог"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1320/",
+        "label": "LINGUIST List"
       }
     ],
     "history": [],
     "notes": [
-      "Объявление не удалось получить. Данные взяты из каталога; ссылка на пост, сайт, сбор и ограничения не проверены."
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
     ],
     "classification": "other",
-    "classification_reason": null,
-    "checked_at": "2026-11-02",
-    "verification": "partial"
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1320
+    ]
   },
   {
     "id": "5b78d6f9518bc3fe",
@@ -790,8 +1042,8 @@
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": null,
-    "subject_languages": null,
+    "topics": "Формальное описание славянских языков: фонология, морфология, синтаксис, семантика и прагматика; теоретические, экспериментальные и корпусные подходы.",
+    "subject_languages": "Славянские языки",
     "working_languages": null,
     "speaker_restrictions": null,
     "submission_rules": null,
@@ -802,16 +1054,25 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/conf/search/?page=59",
         "label": "LINGUIST List · каталог"
+      },
+      {
+        "type": "linguistlist",
+        "label": "LINGUIST List",
+        "url": "https://linguistlist.org/issues/37/3449/"
       }
     ],
     "history": [],
     "notes": [
-      "Объявление не удалось получить. Данные взяты из каталога; ссылка на пост, сайт, сбор и ограничения не проверены."
+      "Прочитано предварительное объявление LINGUIST List. Дедлайн, дата ответа, сбор, рабочие языки, правила подачи и официальный сайт в нём не указаны."
     ],
     "classification": "theory",
     "classification_reason": null,
-    "checked_at": "2026-11-02",
-    "verification": "partial"
+    "checked_at": "2026-11-03",
+    "verification": "reviewed",
+    "source_order": [
+      37,
+      3449
+    ]
   },
   {
     "id": "a5cef39ed65f16ee",
@@ -891,6 +1152,45 @@
     "classification_reason": null,
     "checked_at": "2026-11-02",
     "verification": "reviewed"
+  },
+  {
+    "id": "1878021b420da05f",
+    "name": "21st International Congress of Phonetic Sciences",
+    "start": "2027-08-09",
+    "end": "2027-08-13",
+    "location": "Victoria, British Columbia, Canada",
+    "deadline": "2027-10-01",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Phonetics",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://icphs2027.ca",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1306/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "theory",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1306
+    ]
   },
   {
     "id": "08534ad624d687d2",
@@ -976,23 +1276,82 @@
     "start": "2027-03-31",
     "end": "2027-04-02",
     "location": "Lausanne, Switzerland",
-    "deadline": "2026-10-30",
+    "deadline": "2026-11-06",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2026-12-18",
+    "notification_text": null,
+    "fee": null,
+    "topics": "Фонология: формальные, типологические и лабораторные подходы; особенно приветствуются первичные эмпирические и полевые данные по малоизученным языкам.",
+    "subject_languages": null,
+    "working_languages": "Английский — язык тезисов; рабочий язык выступлений отдельно не указан",
+    "speaker_restrictions": "До 2 тезисов на человека; только в 1 из них можно быть единственным или первым автором.",
+    "submission_rules": "Анонимный PDF на английском: основной текст 1 страница A4; до 2 дополнительных страниц для литературы, рисунков и таблиц. Times New Roman 12 pt, поля 2,54 см. Подача через Sciencesconf.",
+    "format": "Очный",
+    "website": "https://wp.unil.ch/ocp2027/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3049/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "linguistlist",
+        "label": "LINGUIST List · продление",
+        "url": "https://linguistlist.org/issues/37/3584/"
+      },
+      {
+        "type": "official",
+        "label": "Официальные условия подачи",
+        "url": "https://wp.unil.ch/ocp2027/abstract-submission/"
+      }
+    ],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-10-30",
+        "new": "2026-11-06",
+        "type": "extended",
+        "observed_at": "2026-11-03",
+        "source": "https://wp.unil.ch/ocp2027/abstract-submission/"
+      }
+    ],
+    "notes": [
+      "Продление до 6 ноября подтверждено официальным сайтом и постом 37.3584. Точное время и часовой пояс закрытия не указаны.",
+      "Срок ответа 18 декабря взят из нового объявления LINGUIST List; сайт организаторов указывает только декабрь. Сбор не указан. Портал Sciencesconf открыть не удалось."
+    ],
+    "classification": "theory",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "reviewed",
+    "source_order": [
+      37,
+      3584
+    ]
+  },
+  {
+    "id": "f9038037845413c2",
+    "name": "25th Amsterdam Colloquium",
+    "start": "2026-12-16",
+    "end": "2026-12-18",
+    "location": "Amsterdam, Netherlands",
+    "deadline": "2026-09-01",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
-    "notification_text": null,
+    "notification_text": "22 October 2026",
     "fee": null,
-    "topics": "Linguistic Theories; Phonology",
+    "topics": "Cognitive Science; Computational Linguistics; Philosophy of Language; Pragmatics; Semantics",
     "subject_languages": null,
     "working_languages": null,
     "speaker_restrictions": null,
     "submission_rules": null,
     "format": null,
-    "website": "http://www.unil.ch/ocp2027",
+    "website": "https://events.illc.uva.nl/AC/AC2026/",
     "sources": [
       {
         "type": "linguistlist",
-        "url": "https://linguistlist.org/issues/37/3049/",
+        "url": "https://linguistlist.org/issues/37/1330/",
         "label": "LINGUIST List"
       }
     ],
@@ -1000,13 +1359,13 @@
     "notes": [
       "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
     ],
-    "classification": "theory",
+    "classification": "mixed",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-02",
+    "checked_at": "2026-11-03",
     "verification": "partial",
     "source_order": [
       37,
-      3049
+      1330
     ]
   },
   {
@@ -1138,6 +1497,11 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3329/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1523/",
+        "label": "LINGUIST List"
       }
     ],
     "history": [],
@@ -1232,35 +1596,49 @@
     "name": "2nd Workshop on Gallo-Romance Advances in Morphology & Syntax",
     "start": "2027-05-27",
     "end": "2027-05-28",
-    "location": "Dublin, Ireland",
+    "location": "Dublin, Ireland · Trinity College Dublin",
     "deadline": "2027-01-11",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": null,
-    "subject_languages": null,
-    "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
+    "topics": "Синтаксис и морфология галло-романских языков: синхрония и диахрония, формальные и эмпирические подходы; интерфейсы в связи с морфологией или синтаксисом.",
+    "subject_languages": "Галло-романские языки и разновидности, в том числе французский, окситанский, франкопровансальский; также франкоязычные креольские языки.",
+    "working_languages": "Английский, французский, окситанский",
+    "speaker_restrictions": "Не более 2 тезисов на автора, не более 1 единоличных.",
+    "submission_rules": "Анонимный PDF до 2 страниц с примерами, литературой и рисунками; шрифт от 12 pt, поля 2,5 см (A4) или 1 дюйм (Letter). Доклад 20 минут и 10 минут обсуждения.",
     "format": null,
-    "website": null,
+    "website": "https://sites.google.com/view/grams-workshop/home",
     "sources": [
       {
         "type": "linguistlist",
         "url": "https://linguistlist.org/conf/search/?page=40",
         "label": "LINGUIST List · каталог"
+      },
+      {
+        "type": "linguistlist",
+        "label": "LINGUIST List",
+        "url": "https://linguistlist.org/issues/37/3441/"
+      },
+      {
+        "type": "official",
+        "label": "Подача тезисов",
+        "url": "https://easyabs.linguistlist.org/conference/GRAMS2/"
       }
     ],
     "history": [],
     "notes": [
-      "Объявление не удалось получить. Данные взяты из каталога; ссылка на пост, сайт, сбор и ограничения не проверены."
+      "Дедлайн подтверждён официальным сайтом и EasyAbs. Дата ответа и сбор не указаны; период рецензирования 12 января — 28 февраля не подменён сроком ответа."
     ],
     "classification": "theory",
     "classification_reason": null,
-    "checked_at": "2026-11-02",
-    "verification": "partial"
+    "checked_at": "2026-11-03",
+    "verification": "reviewed",
+    "source_order": [
+      37,
+      3441
+    ]
   },
   {
     "id": "3f8edb2d3897ea9b",
@@ -1810,30 +2188,78 @@
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
-    "notification_text": null,
+    "notification_text": "10th, September 2026",
     "fee": null,
-    "topics": null,
-    "subject_languages": null,
+    "topics": "Applied Linguistics; Computational Linguistics; Discourse Analysis; General Linguistics; Ling & Literature",
+    "subject_languages": "English (eng, stan1293)",
     "working_languages": null,
     "speaker_restrictions": null,
     "submission_rules": null,
     "format": null,
-    "website": null,
+    "website": "http://www.lsn.org.np",
     "sources": [
       {
         "type": "linguistlist",
         "url": "https://linguistlist.org/conf/search/?page=20",
         "label": "LINGUIST List · каталог"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1600/",
+        "label": "LINGUIST List"
       }
     ],
     "history": [],
     "notes": [
-      "Объявление не удалось получить. Данные взяты из каталога; ссылка на пост, сайт, сбор и ограничения не проверены."
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
     ],
     "classification": "other",
-    "classification_reason": null,
-    "checked_at": "2026-11-02",
-    "verification": "partial"
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1600
+    ]
+  },
+  {
+    "id": "cd0d65cb63d34920",
+    "name": "47th Translating and the Computer Conference",
+    "start": "2026-12-08",
+    "end": "2026-12-10",
+    "location": "Luxembourg, Luxembourg",
+    "deadline": "2026-08-31",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": "31 August 2026",
+    "fee": null,
+    "topics": "Applied Linguistics",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://asling.org/tc47/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1392/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Исключена из отображения по тематическому отбору: Translating and the Computer."
+    ],
+    "classification": "excluded",
+    "classification_reason": "Специализированная конференция по переводу и компьютерным средствам перевода.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1392
+    ]
   },
   {
     "id": "9d8e3963aeb61959",
@@ -1847,28 +2273,43 @@
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": null,
+    "topics": "Все направления генеративной лингвистики; приветствуются исследования разновидностей португальского и языков португалоязычного мира, звучащих и жестовых языков.",
     "subject_languages": null,
     "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
-    "format": null,
-    "website": null,
+    "speaker_restrictions": "Не более 1 единоличных и 1 совместных тезисов на человека. Одинаковые тезисы нельзя подавать в основной коллоквиум и воркшопы.",
+    "submission_rules": "Анонимный PDF до 2 страниц, включая примеры, литературу, таблицы и рисунки; Times New Roman от 12 pt, одинарный интервал, поля 2,5 см (A4) или 1 дюйм (Letter); до 5 ключевых слов. Подача через Oxford Abstracts.",
+    "format": "Очный",
+    "website": "https://dkaramasov.github.io/glow49",
     "sources": [
       {
         "type": "linguistlist",
         "url": "https://linguistlist.org/conf/search/?page=36",
         "label": "LINGUIST List · каталог"
+      },
+      {
+        "type": "official",
+        "label": "Официальный CFP общества GLOW",
+        "url": "https://glowlinguistics.org/blog/glow49-call-for-papers/"
+      },
+      {
+        "type": "linguistlist",
+        "label": "LINGUIST List",
+        "url": "https://linguistlist.org/issues/37/2733/"
       }
     ],
     "history": [],
     "notes": [
-      "Объявление не удалось получить. Данные взяты из каталога; ссылка на пост, сайт, сбор и ограничения не проверены."
+      "В официальном CFP сохранён срок 1 ноября 2026 с прямым указанием, что продления не будет. Новое продление не найдено; срок остаётся прошедшим.",
+      "Основной коллоквиум 22–24 марта; воркшопы 25 марта. Отдельный сайт конференции открыть не удалось. Дата ответа, сбор, рабочие языки и точное время закрытия не указаны."
     ],
-    "classification": "other",
-    "classification_reason": null,
-    "checked_at": "2026-11-02",
-    "verification": "partial"
+    "classification": "theory",
+    "classification_reason": "Основная конференция по генеративной грамматике.",
+    "checked_at": "2026-11-03",
+    "verification": "reviewed",
+    "source_order": [
+      37,
+      2733
+    ]
   },
   {
     "id": "3d12cbd02d89d2d0",
@@ -2039,28 +2480,37 @@
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": null,
+    "topics": "Applied Linguistics; Clinical Linguistics; Language Acquisition; Neurolinguistics; Psycholinguistics",
     "subject_languages": null,
     "working_languages": null,
     "speaker_restrictions": null,
     "submission_rules": null,
     "format": null,
-    "website": null,
+    "website": "https://www.bu.edu/bucld/",
     "sources": [
       {
         "type": "linguistlist",
         "url": "https://linguistlist.org/conf/search/?page=2",
         "label": "LINGUIST List · каталог"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1471/",
+        "label": "LINGUIST List"
       }
     ],
     "history": [],
     "notes": [
-      "Объявление не удалось получить. Данные взяты из каталога; ссылка на пост, сайт, сбор и ограничения не проверены."
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
     ],
     "classification": "other",
-    "classification_reason": null,
-    "checked_at": "2026-11-02",
-    "verification": "partial"
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1471
+    ]
   },
   {
     "id": "382f089a57825e16",
@@ -2394,6 +2844,45 @@
     "verification": "partial"
   },
   {
+    "id": "b8bc79d7ddcd2644",
+    "name": "6th International Symposium on Corpora",
+    "start": "2027-01-25",
+    "end": "2027-01-27",
+    "location": "Córdoba, Spain",
+    "deadline": "2026-06-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "General Linguistics; Text/Corpus Linguistics",
+    "subject_languages": "English (eng, stan1293)",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://eventos.uco.es/go/PACOR2027",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1241/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "other",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1241
+    ]
+  },
+  {
     "id": "3ba1724a0e580f0d",
     "name": "6th Penn State–Monash Korean Applied Linguistics Symposium",
     "start": "2027-02-19",
@@ -2479,28 +2968,37 @@
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": null,
-    "subject_languages": null,
+    "topics": "General Linguistics; Language Acquisition; Pragmatics; Psycholinguistics; Sociolinguistics",
+    "subject_languages": "Chinese (zho)",
     "working_languages": null,
     "speaker_restrictions": null,
     "submission_rules": null,
     "format": null,
-    "website": null,
+    "website": "https://u.osu.edu/beal/beal-forum/",
     "sources": [
       {
         "type": "linguistlist",
         "url": "https://linguistlist.org/conf/search/?page=3",
         "label": "LINGUIST List · каталог"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1614/",
+        "label": "LINGUIST List"
       }
     ],
     "history": [],
     "notes": [
-      "Объявление не удалось получить. Данные взяты из каталога; ссылка на пост, сайт, сбор и ограничения не проверены."
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
     ],
     "classification": "other",
-    "classification_reason": null,
-    "checked_at": "2026-11-02",
-    "verification": "partial"
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1614
+    ]
   },
   {
     "id": "d4ebf4b0c691a5fe",
@@ -2735,16 +3233,16 @@
     "end": "2027-05-27",
     "location": "Leuven, Belgium",
     "deadline": "2026-11-15",
-    "deadline_at": null,
-    "deadline_timezone": null,
-    "notification": null,
+    "deadline_at": "2026-11-15T23:59:59+01:00",
+    "deadline_timezone": "CET (UTC+01:00)",
+    "notification": "2027-01-15",
     "notification_text": null,
     "fee": null,
-    "topics": "General Linguistics",
-    "subject_languages": "English (eng, stan1293)",
+    "topics": "Любые темы английской лингвистики; предпочтительна связь с симметрией и асимметрией.",
+    "subject_languages": "Английский",
     "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
+    "speaker_restrictions": "Выступающим требуется членство в ISLE к регистрации. До 2 тезисов, если хотя бы одни совместные.",
+    "submission_rules": "До 700 слов, включая до 200 слов библиографии; основной текст до 500 слов.",
     "format": null,
     "website": "https://isle9conference.com/",
     "sources": [
@@ -2752,16 +3250,31 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3521/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1131/",
+        "label": "LINGUIST List"
       }
     ],
-    "history": [],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-11-01",
+        "new": "2026-11-15",
+        "type": "extended",
+        "observed_at": "2026-11-02",
+        "source": "https://linguistlist.org/issues/37/3521/"
+      }
+    ],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "В объявлении 15 ноября 2026 названо понедельником, хотя это воскресенье; сохранена числовая дата, рекомендуется сверить на сайте.",
+      "В поисковой копии главной страницы организаторов указан точный срок ответа: 15 января 2027. Прямое открытие главной страницы завершилось тайм-аутом; поисковая копия может запаздывать."
     ],
     "classification": "other",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-02",
-    "verification": "partial",
+    "checked_at": "2026-11-03",
+    "verification": "reviewed",
     "source_order": [
       37,
       3521
@@ -2801,6 +3314,45 @@
     "classification_reason": null,
     "checked_at": "2026-11-02",
     "verification": "partial"
+  },
+  {
+    "id": "35378fdf9e82ca0f",
+    "name": "9th International Conference on the Teaching of French as a Foreign Language",
+    "start": "2027-02-25",
+    "end": "2027-02-27",
+    "location": "San Juan, Puerto Rico",
+    "deadline": "2026-08-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Applied Linguistics; Language Acquisition; Sociolinguistics",
+    "subject_languages": "French (fra, stan1290)",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://www.colloquefle.org/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1511/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "other",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1511
+    ]
   },
   {
     "id": "d096f8aec5646845",
@@ -3247,11 +3799,89 @@
     ],
     "classification": "other",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-02",
+    "checked_at": "2026-11-03",
     "verification": "partial",
     "source_order": [
       37,
       1077
+    ]
+  },
+  {
+    "id": "b08c5eaa204ffe85",
+    "name": "Bridging the Linguistic Evidence Gap: Research on Language Development of Newly Arrived Migrant Students in European Schools",
+    "start": "2027-03-03",
+    "end": "2027-03-05",
+    "location": "Rauischholzhausen, Germany",
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Language Acquisition",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://next.hessenbox.de/index.php/s/XRQZ3QjcQfgMxy8",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1536/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "other",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1536
+    ]
+  },
+  {
+    "id": "b5328dc6def810a2",
+    "name": "Brussels Conference on Generative Linguistics: Morphosyntactic Variation and Expressivity",
+    "start": "2026-12-10",
+    "end": "2026-12-11",
+    "location": "Brussels, Belgium",
+    "deadline": "2026-08-31",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Morphology; Syntax",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://www.crissp.be/bcgl-18-morphosyntactic-variation-and-expressivity/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1555/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "theory",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1555
     ]
   },
   {
@@ -3373,30 +4003,39 @@
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
-    "notification_text": null,
+    "notification_text": "September 4th, 2026.",
     "fee": null,
-    "topics": null,
+    "topics": "Computational Linguistics; Discourse Analysis; General Linguistics; Language Acquisition; Psycholinguistics",
     "subject_languages": null,
     "working_languages": null,
     "speaker_restrictions": null,
     "submission_rules": null,
     "format": null,
-    "website": null,
+    "website": "https://coldoc2026.sciencesconf.org/index",
     "sources": [
       {
         "type": "linguistlist",
         "url": "https://linguistlist.org/conf/search/?page=14",
         "label": "LINGUIST List · каталог"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1582/",
+        "label": "LINGUIST List"
       }
     ],
     "history": [],
     "notes": [
-      "Объявление не удалось получить. Данные взяты из каталога; ссылка на пост, сайт, сбор и ограничения не проверены."
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
     ],
     "classification": "other",
-    "classification_reason": null,
-    "checked_at": "2026-11-02",
-    "verification": "partial"
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1582
+    ]
   },
   {
     "id": "14b9ab5c8d269870",
@@ -3449,28 +4088,76 @@
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": null,
-    "subject_languages": null,
+    "topics": "Applied Linguistics; Language Acquisition; Ling & Literature; Linguistic Theories; Translation",
+    "subject_languages": "French (fra, stan1290)",
     "working_languages": null,
     "speaker_restrictions": null,
     "submission_rules": null,
     "format": null,
-    "website": null,
+    "website": "https://francontraste.ffzg.unizg.hr/",
     "sources": [
       {
         "type": "linguistlist",
         "url": "https://linguistlist.org/conf/search/?page=20",
         "label": "LINGUIST List · каталог"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/36/3919/",
+        "label": "LINGUIST List"
       }
     ],
     "history": [],
     "notes": [
-      "Объявление не удалось получить. Данные взяты из каталога; ссылка на пост, сайт, сбор и ограничения не проверены."
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
     ],
-    "classification": "other",
-    "classification_reason": null,
-    "checked_at": "2026-11-02",
-    "verification": "partial"
+    "classification": "mixed",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      36,
+      3919
+    ]
+  },
+  {
+    "id": "b478ad479559bed6",
+    "name": "Colloque International \"La Linguistique ‘Fonctionnelle’ Cent Ans après la Fondation du Cercle Linguistique de Prague\"",
+    "start": "2026-11-19",
+    "end": "2026-11-21",
+    "location": "Sofia, Bulgaria",
+    "deadline": "2026-04-30",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Historical Linguistics; History of Linguistics; Ling & Literature; Phonology; Typology",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://sites.google.com/view/clp2026sofia",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/36/3695/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "mixed",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      36,
+      3695
+    ]
   },
   {
     "id": "022bf669448fa40b",
@@ -3617,43 +4304,91 @@
     "verification": "partial"
   },
   {
-    "id": "ef6894071e6eed7b",
-    "name": "Dag van de Fonetiek 2026 / Phonetics Day 2026",
-    "start": "2026-11-06",
-    "end": "2026-11-06",
-    "location": "Amsterdam, Netherlands",
-    "deadline": "2026-09-20",
+    "id": "10c061990387f1f6",
+    "name": "Creating New Knowledge over Three Decades of Doctoral Education in Language Pedagogy and Applied Linguistics",
+    "start": "2026-11-19",
+    "end": "2026-11-20",
+    "location": "Budapest, Hungary",
+    "deadline": "2026-04-30",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": null,
+    "topics": "Applied Linguistics",
     "subject_languages": null,
     "working_languages": null,
     "speaker_restrictions": null,
     "submission_rules": null,
     "format": null,
-    "website": null,
+    "website": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=zdtms8NPUUSC0uI5VkMCw-bpTH4iq2pLpaxo1WfS4k9UOURUWjBKWEczRk1KWVJSV1ZWNDkxT1pGVy4u&route=shorturl",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1019/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "other",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1019
+    ]
+  },
+  {
+    "id": "ef6894071e6eed7b",
+    "name": "Dag van de Fonetiek 2026 / Phonetics Day 2026",
+    "start": "2026-11-06",
+    "end": "2026-11-06",
+    "location": "Amsterdam, Netherlands · Kloveniersburgwal 48",
+    "deadline": "2026-09-20",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2026-10-09",
+    "notification_text": "Ответ не позднее 9 октября 2026",
+    "fee": "Вход бесплатный",
+    "topics": "Эмпирическая фонетика и исследования речи; демонстрации новых приложений и методов.",
+    "subject_languages": null,
+    "working_languages": "Нидерландский, английский",
+    "speaker_restrictions": "После проверки тематической релевантности проводится жеребьёвка; отдельные группы для начинающих и старших исследователей. Ограничения на число заявок и соавторство не указаны.",
+    "submission_rules": "Название и аннотация до 1 страницы по шаблону организаторов, через онлайн-форму.",
+    "format": "Очный; дистанционное участие не предусмотрено",
+    "website": "https://nvfw.org/",
     "sources": [
       {
         "type": "linguistlist",
         "url": "https://linguistlist.org/conf/search/?page=3",
         "label": "LINGUIST List · каталог"
+      },
+      {
+        "type": "linguistlist",
+        "label": "LINGUIST List",
+        "url": "https://linguistlist.org/issues/37/2749/"
       }
     ],
     "history": [],
     "notes": [
-      "Объявление не удалось получить. Данные взяты из каталога; ссылка на пост, сайт, сбор и ограничения не проверены."
+      "Проверены официальный CFP и опубликованная программа. Продления срока тезисов не найдено; регистрация слушателей не является приёмом тезисов."
     ],
     "classification": "theory",
     "classification_reason": null,
-    "checked_at": "2026-11-02",
-    "verification": "partial"
+    "checked_at": "2026-11-03",
+    "verification": "reviewed",
+    "source_order": [
+      37,
+      2749
+    ]
   },
   {
     "id": "29544d24aadcd760",
-    "name": "Das germanische Verb. Historisch und typologisch – The Germanic verb. Historical and typological perspectives",
+    "name": "Das germanische Verb. Historisch und typologisch – The Germanic Verb. Historical and Typological Perspectives",
     "start": "2026-11-26",
     "end": "2026-11-27",
     "location": "Erlangen, Germany",
@@ -3663,8 +4398,8 @@
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": null,
-    "subject_languages": null,
+    "topics": "Historical Linguistics; Lexicography; Morphology; Phonology; Typology",
+    "subject_languages": "Germanic (germ1287)",
     "working_languages": null,
     "speaker_restrictions": null,
     "submission_rules": null,
@@ -3675,16 +4410,25 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/conf/search/?page=20",
         "label": "LINGUIST List · каталог"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1020/",
+        "label": "LINGUIST List"
       }
     ],
     "history": [],
     "notes": [
-      "Объявление не удалось получить. Данные взяты из каталога; ссылка на пост, сайт, сбор и ограничения не проверены."
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
     ],
-    "classification": "other",
-    "classification_reason": null,
-    "checked_at": "2026-11-02",
-    "verification": "partial"
+    "classification": "theory",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1020
+    ]
   },
   {
     "id": "f0af26fafd9d981e",
@@ -3983,6 +4727,45 @@
     ]
   },
   {
+    "id": "0c42a586b36b1c55",
+    "name": "Evaluative Morphology in Action: Frameworks in Dialogue",
+    "start": "2026-12-17",
+    "end": "2026-12-18",
+    "location": "Brno, Czech Republic",
+    "deadline": "2026-07-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Applied Linguistics; General Linguistics; Linguistic Theories",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://evalact.github.io/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1587/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "theory",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1587
+    ]
+  },
+  {
     "id": "ef39e80370e07b1a",
     "name": "Forging Linguistic Identities 2027",
     "start": "2027-04-02",
@@ -4024,16 +4807,16 @@
     "end": "2027-03-19",
     "location": "Konstanz, Germany",
     "deadline": "2026-11-08",
-    "deadline_at": null,
-    "deadline_timezone": null,
-    "notification": null,
+    "deadline_at": "2026-11-08T23:59:59-08:00",
+    "deadline_timezone": "West Coast time (PST, UTC−08:00)",
+    "notification": "2026-12-05",
     "notification_text": null,
     "fee": null,
-    "topics": "Historical Linguistics; Pragmatics; Semantics; Syntax",
+    "topics": "Изменение значения в формальной семантике и прагматике, в том числе интерфейсы с синтаксисом и просодией; специальная сессия о нерегулярности языковых изменений.",
     "subject_languages": null,
     "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
+    "speaker_restrictions": "До 1 индивидуальных и 1 совместных тезисов либо до 2 совместных.",
+    "submission_rules": "Анонимный PDF до 2 страниц; шрифт от 12 pt, поля 2,5 см. В заявке указать основную сессию, воркшоп или оба варианта.",
     "format": null,
     "website": "https://formaldiachronicsemantics.github.io/fods/index.html",
     "sources": [
@@ -4048,14 +4831,24 @@
         "label": "LINGUIST List"
       }
     ],
-    "history": [],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-11-05",
+        "new": "2026-11-08",
+        "type": "extended",
+        "observed_at": "2026-11-02",
+        "source": "https://linguistlist.org/issues/37/3566/"
+      }
+    ],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Продление до 8 ноября 2026 повторно подтверждено постом LINGUIST List 37.3566. На сайте серии и странице CFP ещё остаётся старый срок 5 ноября; он не отменяет более позднее явное продление.",
+      "Основная конференция 18–19 марта 2027; воркшоп Noise in Language Change — 17 марта. OpenReview загрузился без текста условий подачи, точный дедлайн в нём прочитать не удалось."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-02",
-    "verification": "partial",
+    "checked_at": "2026-11-03",
+    "verification": "reviewed",
     "source_order": [
       37,
       3566
@@ -4120,6 +4913,11 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/2874/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1056/",
+        "label": "LINGUIST List"
       }
     ],
     "history": [],
@@ -4167,11 +4965,50 @@
     ],
     "classification": "other",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-02",
+    "checked_at": "2026-11-03",
     "verification": "partial",
     "source_order": [
       37,
       1140
+    ]
+  },
+  {
+    "id": "d1807e9716d0b59d",
+    "name": "Going Romance 2026",
+    "start": "2026-11-11",
+    "end": "2026-11-13",
+    "location": "Utrecht, Netherlands",
+    "deadline": "2026-06-20",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "General Linguistics; Morphology; Phonology; Semantics; Syntax",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://going-romance.wp.hum.uu.nl/2026-going-romance-40-in-utrecht/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1333/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "theory",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1333
     ]
   },
   {
@@ -4253,6 +5090,45 @@
     ]
   },
   {
+    "id": "cf708a230ea448ae",
+    "name": "Hiddentity Concealment and Invisibility: Interdisciplinary Investigations Into the Hidden",
+    "start": "2026-11-12",
+    "end": "2026-11-13",
+    "location": "Naples, Italy",
+    "deadline": "2026-05-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Applied Linguistics; Discipline of Linguistics; Discourse Analysis; Ling & Literature; Text/Corpus Linguistics",
+    "subject_languages": "English (eng, stan1293)",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://www.unior.it/it/notizie/hiddentity-occultamento-e-invisibilita-indagini-interdisciplinari-sul-nascosto",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1467/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "other",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1467
+    ]
+  },
+  {
     "id": "02bab8acfe10cc3f",
     "name": "Hispanic Linguistics Symposium 2026",
     "start": "2026-11-07",
@@ -4289,6 +5165,45 @@
     "source_order": [
       37,
       961
+    ]
+  },
+  {
+    "id": "e15df162f8e6ee13",
+    "name": "History of Terminology – Diachronic Terminology. The Emergence of a Terminological Conscienceness",
+    "start": "2027-01-28",
+    "end": "2027-01-29",
+    "location": "Paris, France",
+    "deadline": "2026-06-30",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "History of Linguistics",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://shesl.org/en/conference2027",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1309/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "other",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1309
     ]
   },
   {
@@ -4346,6 +5261,45 @@
     ]
   },
   {
+    "id": "f866891a38e27d37",
+    "name": "II Conferencia Internacional de Investigación en Linguas",
+    "start": "2026-11-19",
+    "end": "2026-11-20",
+    "location": "Vigo, Spain",
+    "deadline": "2026-06-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "General Linguistics",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://ciil2026.webs.uvigo.es/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1236/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "other",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1236
+    ]
+  },
+  {
     "id": "8a0fb9ff3d5e4208",
     "name": "ILAS–NINJAL Joint Conference on Semantics",
     "start": "2026-11-10",
@@ -4356,29 +5310,39 @@
     "deadline_timezone": null,
     "notification": null,
     "notification_text": null,
-    "fee": null,
-    "topics": null,
-    "subject_languages": null,
+    "fee": "Участие бесплатно",
+    "topics": "Формальная семантика функциональных частиц: скалярность, позиция говорящего и динамика дискурса.",
+    "subject_languages": "Японский, окиноэрабуский рюкюский, севернокитайский, атаяльский",
     "working_languages": null,
     "speaker_restrictions": null,
     "submission_rules": null,
     "format": null,
-    "website": null,
+    "website": "https://www.ling.sinica.edu.tw/main/en?/sign/ILAS-NINJAL",
     "sources": [
       {
         "type": "linguistlist",
         "url": "https://linguistlist.org/conf/search/?page=14",
         "label": "LINGUIST List · каталог"
+      },
+      {
+        "type": "linguistlist",
+        "label": "LINGUIST List",
+        "url": "https://linguistlist.org/issues/37/2857/"
       }
     ],
     "history": [],
     "notes": [
-      "Объявление не удалось получить. Данные взяты из каталога; ссылка на пост, сайт, сбор и ограничения не проверены."
+      "Опубликовано приглашение к участию в обсуждении; срок подачи тезисов не указан. Дата 31 октября 2026 относится к регистрации слушателей и не записана как дедлайн тезисов.",
+      "Рабочие языки, ограничения на выступающих и правила подачи в прочитанных источниках не указаны."
     ],
     "classification": "theory",
     "classification_reason": null,
-    "checked_at": "2026-11-02",
-    "verification": "partial"
+    "checked_at": "2026-11-03",
+    "verification": "reviewed",
+    "source_order": [
+      37,
+      2857
+    ]
   },
   {
     "id": "e282f39c4f1ea909",
@@ -4564,11 +5528,50 @@
     ],
     "classification": "other",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-02",
+    "checked_at": "2026-11-03",
     "verification": "partial",
     "source_order": [
       37,
       1534
+    ]
+  },
+  {
+    "id": "7d44ba34aa3f040c",
+    "name": "International Symposium on Language Science and Human Well-being",
+    "start": "2026-11-13",
+    "end": "2026-11-14",
+    "location": "Hong Kong SAR, China",
+    "deadline": "2026-07-01",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Anthropological Linguistics; Applied Linguistics; Clinical Linguistics; Cognitive Science; Computational Linguistics",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": null,
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1469/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "other",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1469
     ]
   },
   {
@@ -4677,7 +5680,7 @@
     ],
     "classification": "other",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-02",
+    "checked_at": "2026-11-03",
     "verification": "partial",
     "source_order": [
       37,
@@ -4697,7 +5700,7 @@
     "notification_text": null,
     "fee": null,
     "topics": "Anthropological Linguistics; Applied Linguistics; History of Linguistics; Philosophy of Language; Pragmatics",
-    "subject_languages": "English (eng)",
+    "subject_languages": "English (eng, stan1293)",
     "working_languages": null,
     "speaker_restrictions": null,
     "submission_rules": null,
@@ -4716,11 +5719,96 @@
     ],
     "classification": "other",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-02",
+    "checked_at": "2026-11-03",
     "verification": "partial",
     "source_order": [
       37,
       1617
+    ]
+  },
+  {
+    "id": "c51a5fd714fd9c0d",
+    "name": "Language Documentation and Local Ecological Knowledge: Interdisciplinary Approaches",
+    "start": "2026-12-14",
+    "end": "2026-12-16",
+    "location": "Aix-en-Provence, France",
+    "deadline": "2026-05-17",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Anthropological Linguistics; Language Documentation",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": null,
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1558/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "other",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1558
+    ]
+  },
+  {
+    "id": "f1f79f4586d1cdd2",
+    "name": "Languages and Language at the Crossroads of Disciplines (LLcD 2026)",
+    "start": "2026-12-14",
+    "end": "2026-12-16",
+    "location": "Aix-en-Provence, France",
+    "deadline": "2026-05-25",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2026-07-13",
+    "notification_text": null,
+    "fee": null,
+    "topics": "General Linguistics",
+    "subject_languages": null,
+    "working_languages": "Французский и английский; для каждого воркшопа выбирается один язык",
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://llcd2026.sciencesconf.org/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/36/3926/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "label": "Ключевые даты LLcD",
+        "url": "https://llcd2026.sciencesconf.org/resource/page/id/3"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "В объявлении LINGUIST List ошибочно указан год окончания 2025; официальный сайт подтверждает 14–16 декабря 2026.",
+      "Срок 1 марта 2026 относился к предложениям воркшопов, а не к тезисам докладов. На официальной странице ключевых дат для докладов указан срок 25 мая и ответ 13 июля 2026. Это уточнение вида заявки, а не продление с марта.",
+      "Требования к тезисам докладов, ограничения на авторов и сумма сбора не проверены. Самостоятельные воркшопы с отдельными условиями не объединены с основной конференцией."
+    ],
+    "classification": "mixed",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "reviewed",
+    "source_order": [
+      36,
+      3926
     ]
   },
   {
@@ -4760,6 +5848,45 @@
     "source_order": [
       37,
       2729
+    ]
+  },
+  {
+    "id": "45c8ee9ae7d30848",
+    "name": "Languages, Cultures and Media in the Mediterranean and the Orients: Devices, Practices and Ideologies",
+    "start": "2026-12-10",
+    "end": "2026-12-11",
+    "location": "MONTPELLIER, France",
+    "deadline": "2026-06-25",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Anthropological Linguistics; Applied Linguistics; Discipline of Linguistics; Discourse Analysis; Sociolinguistics",
+    "subject_languages": "Arabic (ara)",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": null,
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1340/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "other",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1340
     ]
   },
   {
@@ -4835,6 +5962,89 @@
     "classification_reason": null,
     "checked_at": "2026-11-02",
     "verification": "partial"
+  },
+  {
+    "id": "4f298e1355486c67",
+    "name": "Lexiques / Lexicons / Lexik",
+    "start": "2026-12-16",
+    "end": "2026-12-18",
+    "location": "Nancy, France",
+    "deadline": "2025-08-31",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Discipline of Linguistics",
+    "subject_languages": null,
+    "working_languages": "Organized in Lorraine, a region counting three borders with neighboring countries, the “Lexiques” Conference is set in a multilingual context. The conference languages are German, English and French. For oral contributions, we recommend that a handou",
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://lexiques.sciencesconf.org/?lang=fr",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/36/2076/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/36/729/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "other",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      36,
+      2076
+    ]
+  },
+  {
+    "id": "ccf0ad9cd6e0d23f",
+    "name": "Linguistic Pragmatics Pilsen / Liberec 2026",
+    "start": "2026-11-12",
+    "end": "2026-11-13",
+    "location": "Plzeň (en. Pilsen), Czech Republic",
+    "deadline": "2026-08-31",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Discourse Analysis; Pragmatics",
+    "subject_languages": "Czech (ces, czec1258)",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://www.lppl.zcu.cz/en/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1003/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "other",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1003
+    ]
   },
   {
     "id": "911b68d8fc933c6b",
@@ -5024,6 +6234,45 @@
     ]
   },
   {
+    "id": "23d6e3b4df760d08",
+    "name": "Multimodal Aspects of Silence, Noise and the Signal",
+    "start": "2026-12-01",
+    "end": "2026-12-03",
+    "location": "Konstanz, Germany",
+    "deadline": "2026-09-20",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "General Linguistics",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": null,
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1142/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "other",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1142
+    ]
+  },
+  {
     "id": "689f50fc39d6710e",
     "name": "NanoDays III",
     "start": "2026-09-08",
@@ -5203,7 +6452,7 @@
     ],
     "classification": "other",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-02",
+    "checked_at": "2026-11-03",
     "verification": "partial",
     "source_order": [
       37,
@@ -7915,6 +9164,45 @@
     "verification": "partial"
   },
   {
+    "id": "974c0acbc2e5a7b9",
+    "name": "Swiss Association for Applied Linguistics Conference 2027: Engaging With Language – Attitudes Towards Language(s) in Society, Family and School",
+    "start": "2027-01-28",
+    "end": "2027-01-29",
+    "location": "Chur, Switzerland",
+    "deadline": "2026-07-19",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Applied Linguistics; General Linguistics; Language Acquisition; Linguistic Theories; Sociolinguistics",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://www.phgr.ch/vals",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1468/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "mixed",
+    "classification_reason": "Основная тема — прикладная лингвистика и языковые установки в обществе, семье и школе; рубрика Linguistic Theories не делает мероприятие преимущественно формально-теоретическим.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1468
+    ]
+  },
+  {
     "id": "c55e35602d32db67",
     "name": "Symposium on Korean Heritage Learners and Speakers",
     "start": "2027-04-16",
@@ -7985,7 +9273,7 @@
     ],
     "classification": "other",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-02",
+    "checked_at": "2026-11-03",
     "verification": "partial",
     "source_order": [
       37,
@@ -8340,7 +9628,7 @@
     "notification_text": "30th April 2026",
     "fee": null,
     "topics": "General Linguistics",
-    "subject_languages": "Central Sudanic; Narrow Bantu; Niger-Congo; Ubangi",
+    "subject_languages": "Central Sudanic (cent2225); Narrow Bantu (narr1281); Niger-Congo; Ubangi (uban1244)",
     "working_languages": null,
     "speaker_restrictions": null,
     "submission_rules": null,
@@ -8359,11 +9647,50 @@
     ],
     "classification": "other",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-02",
+    "checked_at": "2026-11-03",
     "verification": "partial",
     "source_order": [
       36,
       3644
+    ]
+  },
+  {
+    "id": "6ce418a8e2e0ac38",
+    "name": "VI Congresso internacional formas e fórmulas de tratamento no mundo hispânico e luso-brasileiro",
+    "start": "2027-09-22",
+    "end": "2027-09-24",
+    "location": "Porto, Portugal",
+    "deadline": "2027-03-01",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Discourse Analysis; General Linguistics; Pragmatics; Sociolinguistics",
+    "subject_languages": "Portuguese (por, port1283)",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://sites.google.com/view/cfft2027/pt?authuser=0",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1373/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "other",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      37,
+      1373
     ]
   },
   {
@@ -8379,7 +9706,7 @@
     "notification_text": null,
     "fee": null,
     "topics": "Lexicography",
-    "subject_languages": "Spanish (spa)",
+    "subject_languages": "Spanish (spa, stan1288)",
     "working_languages": null,
     "speaker_restrictions": null,
     "submission_rules": null,
@@ -8398,7 +9725,7 @@
     ],
     "classification": "other",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-02",
+    "checked_at": "2026-11-03",
     "verification": "partial",
     "source_order": [
       37,
@@ -8628,6 +9955,41 @@
     ]
   },
   {
+    "id": "06a1e2479aaf0d8a",
+    "name": "Workshop at ÖLT 2026: Current Issues in Syntax, Semantics, and Pragmatics",
+    "start": "2026-11-20",
+    "end": "2026-11-21",
+    "location": "Salzburg, Austria",
+    "deadline": "2026-09-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": null,
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/conf/search/?page=15",
+        "label": "LINGUIST List · каталог"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Объявление не удалось получить. Данные взяты из каталога; ссылка на пост, сайт, сбор и ограничения не проверены."
+    ],
+    "classification": "theory",
+    "classification_reason": null,
+    "checked_at": "2026-11-02",
+    "verification": "partial"
+  },
+  {
     "id": "62fe7c9abcf7634a",
     "name": "Workshop at SLE 2026: A Cross-linguistic Approach to Artificial Intelligence Agents and the Syntax-semantics Interface",
     "start": "2026-08-26",
@@ -8745,6 +10107,46 @@
     ]
   },
   {
+    "id": "e89c248f83fd0cf2",
+    "name": "Workshop at SLE 2027 - Birth-Order Name Series across Languages and Cultures",
+    "start": "2027-08-25",
+    "end": "2027-08-28",
+    "location": "Košice, Slovakia",
+    "deadline": "2026-11-10",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Типология имён по порядку рождения: морфологическое построение парадигм, родовые различия, состав серий и связь с системами родства.",
+    "subject_languages": "Разные языковые семьи Северной Америки, Африки, Восточной и Юго-Восточной Азии, Новой Гвинеи и Австралии",
+    "working_languages": "Только английский",
+    "speaker_restrictions": "Приоритет сравнительным работам с широким охватом. Ограничения на число заявок и соавторство не указаны.",
+    "submission_rules": "Предварительные тезисы до 100 слов и 4–5 ключевых слов направить организаторам до 10 ноября 2026. Если предложение воркшопа одобрят, потребуются полные тезисы 500 слов до 15 января 2027.",
+    "format": null,
+    "website": null,
+    "sources": [
+      {
+        "type": "linguistlist",
+        "label": "LINGUIST List",
+        "url": "https://linguistlist.org/issues/37/3581/"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Предложение воркшопа ещё подлежит утверждению. Указан общий диапазон SLE 2027; точный день воркшопа не объявлен.",
+      "Отдельный официальный сайт, сбор и срок ответа в объявлении не указаны."
+    ],
+    "classification": "mixed",
+    "classification_reason": "Морфологическая и номинальная типология объединена с лингвистической антропологией и ономастикой.",
+    "checked_at": "2026-11-03",
+    "verification": "reviewed",
+    "source_order": [
+      37,
+      3581
+    ]
+  },
+  {
     "id": "9d278ea27fa963ab",
     "name": "Workshop at SLE 2027 – Something Old, Something New, Something Borrowed: Non-Finite Verb Forms in Language Contact and Grammatical Description",
     "start": "2027-08-25",
@@ -8853,41 +10255,6 @@
       "Объявление не удалось получить. Данные взяты из каталога; ссылка на пост, сайт, сбор и ограничения не проверены."
     ],
     "classification": "other",
-    "classification_reason": null,
-    "checked_at": "2026-11-02",
-    "verification": "partial"
-  },
-  {
-    "id": "06a1e2479aaf0d8a",
-    "name": "Workshop at ÖLT 2026: Current Issues in Syntax, Semantics, and Pragmatics",
-    "start": "2026-11-20",
-    "end": "2026-11-21",
-    "location": "Salzburg, Austria",
-    "deadline": "2026-09-15",
-    "deadline_at": null,
-    "deadline_timezone": null,
-    "notification": null,
-    "notification_text": null,
-    "fee": null,
-    "topics": null,
-    "subject_languages": null,
-    "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
-    "format": null,
-    "website": null,
-    "sources": [
-      {
-        "type": "linguistlist",
-        "url": "https://linguistlist.org/conf/search/?page=15",
-        "label": "LINGUIST List · каталог"
-      }
-    ],
-    "history": [],
-    "notes": [
-      "Объявление не удалось получить. Данные взяты из каталога; ссылка на пост, сайт, сбор и ограничения не проверены."
-    ],
-    "classification": "theory",
     "classification_reason": null,
     "checked_at": "2026-11-02",
     "verification": "partial"
@@ -9033,11 +10400,52 @@
     ],
     "classification": "other",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-02",
+    "checked_at": "2026-11-03",
     "verification": "partial",
     "source_order": [
       37,
       1615
+    ]
+  },
+  {
+    "id": "3992c65ae52fb059",
+    "name": "Workshop on Visibility and Recoverability in Phonology: The Role of Phonology in Morphological Linearization",
+    "start": "2026-12-14",
+    "end": "2026-12-16",
+    "location": "Aix-en-Provence, France",
+    "deadline": "2026-05-17",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2026-06-15",
+    "notification_text": "June 15, 2026",
+    "fee": null,
+    "topics": "Взаимодействие морфологии и фонологии: видимость и восстанавливаемость морфологических свойств, линейный порядок и просодические ограничения.",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "До 500 слов, включая примеры, но без литературы; при подаче выбрать именно этот воркшоп. Доклад 20 минут и 10 минут обсуждения; предусмотрены постеры.",
+    "format": null,
+    "website": "https://llcd2026.sciencesconf.org/data/06_Visibility_and_recoverability_in_phonology.pdf",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1551/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "В структурированном поле LINGUIST List ошибочно указано окончание 16 апреля 2026. Текст объявления и официальный сайт основной конференции подтверждают 14–16 декабря 2026; дата исправлена.",
+      "Самостоятельный воркшоп сохранён отдельно от LLcD. В его объявлении срок тезисов 17 мая; общее объявление LLcD содержит более поздний срок, применимость к этому воркшопу отдельно не подтверждена.",
+      "Точный день воркшопа внутри диапазона конференции, рабочие языки, сбор и ограничения на авторов не проверены."
+    ],
+    "classification": "theory",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "reviewed",
+    "source_order": [
+      37,
+      1551
     ]
   },
   {
@@ -9148,6 +10556,45 @@
     "classification_reason": null,
     "checked_at": "2026-11-02",
     "verification": "partial"
+  },
+  {
+    "id": "b203249a8aa66649",
+    "name": "XIV Congreso Internacional de Historia de la Lengua Española",
+    "start": "2027-01-25",
+    "end": "2027-01-28",
+    "location": "Granada, Spain",
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Computational Linguistics; Historical Linguistics; Language Documentation; Lexicography; Morphology",
+    "subject_languages": "Spanish (spa, stan1288)",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://www.cihle14granada.es/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/36/1928/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    ],
+    "classification": "mixed",
+    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
+    "checked_at": "2026-11-03",
+    "verification": "partial",
+    "source_order": [
+      36,
+      1928
+    ]
   },
   {
     "id": "391da90640206f7f",
