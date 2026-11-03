@@ -1,13 +1,13 @@
 {
-  "attempted_at": "2026-11-03T06:05:54.814673+00:00",
-  "last_success_at": "2026-11-03T06:18:57.061Z",
-  "pages_read": 62,
-  "issues_read": 61,
-  "feeds_read": 2,
+  "attempted_at": "2026-11-03T13:25:13.559050+00:00",
+  "last_success_at": "2026-11-03T13:41:57.240697+00:00",
+  "pages_read": 0,
+  "issues_read": 498,
+  "feeds_read": 0,
   "complete": false,
   "discovery_complete": true,
   "details_complete": false,
-  "pending_count": 525,
+  "pending_count": 26,
   "coverage": {
     "cycle": {
       "catalogue": {
@@ -30,74 +30,41 @@
       },
       "issue": {
         "discovered": 590,
-        "succeeded": 65,
-        "ignored": 0,
-        "pending": 525
+        "succeeded": 563,
+        "ignored": 1,
+        "pending": 26
       }
     },
     "catalogue_pages_expected": 60,
-    "records_total": 278,
-    "records_without_issue": 96,
-    "records_needing_review": 263,
+    "records_total": 512,
+    "records_without_issue": 14,
+    "records_needing_review": 505,
     "official_sites_verified": false
   },
-  "error_count": 5,
+  "error_count": 1,
   "errors": [
     {
-      "url": "https://ocp2027.sciencesconf.org/",
-      "error": "Портал не открылся; продление проверено по сайту университета и полному посту LINGUIST List."
-    },
-    {
-      "url": "https://dkaramasov.github.io/glow49",
-      "error": "Сайт не открылся; использован официальный CFP общества GLOW."
-    },
-    {
-      "url": "https://isle9conference.com/",
-      "error": "Тайм-аут прямого открытия; точная дата ответа взята из доступной поисковой копии, которая может запаздывать."
-    },
-    {
-      "url": "https://openreview.net/group?id=uni-konstanz.de/Universit%C3%A4t_Konstanz/2027/FoDS",
-      "error": "Страница загружается без текста условий; действующий дедлайн подтверждён новым объявлением организаторов."
-    },
-    {
-      "url": "https://llcd2026.sciencesconf.org/data/06_Visibility_and_recoverability_in_phonology.pdf",
-      "error": "PDF не открылся; прочитаны полный пост и официальный сайт основной конференции."
+      "url": "https://linguistlist.org/issues/37/3394/",
+      "error": "Conference title and event dates could not be parsed; retained for review",
+      "failures": 1
     }
   ],
-  "deadline_conflicts": [],
-  "note": "Полнота обхода относится к текущему каталогу и последним объявлениям, не ко всему историческому архиву. Условия в свободном тексте и официальные сайты требуют отдельной проверки. В сохранённом цикле получены 60/60 страниц каталога, 5/5 страниц свежих объявлений и 2 RSS. За этот запуск прочитан 61 подробный пост; оставшиеся посты сохранены в очереди. Ручная проверка нашла продление OCP24 до 6 ноября 2026. Поисковые копии могут запаздывать.",
-  "manual_reviews": {
-    "records": 13,
-    "new_conferences": 1,
-    "extensions_found": 1,
-    "extension": {
-      "conference": "OCP24",
-      "old": "2026-10-30",
-      "new": "2026-11-06"
-    },
-    "note": "Дополнительно сверены OCP24, GRAMS2, FoDS10, GLOW49, Phonetics Day, ILAS–NINJAL, FDSL20, ISLE9, LLcD и отдельный воркшоп; прочитано новое предложение воркшопа SLE 2027."
-  },
-  "manual_review_errors": [
+  "deadline_conflicts": [
     {
-      "url": "https://ocp2027.sciencesconf.org/",
-      "error": "Портал не открылся; продление проверено по сайту университета и полному посту LINGUIST List."
+      "url": "https://linguistlist.org/issues/37/2862/",
+      "source_deadline": "2026-11-05",
+      "retained_deadline": "2026-11-08"
     },
     {
-      "url": "https://dkaramasov.github.io/glow49",
-      "error": "Сайт не открылся; использован официальный CFP общества GLOW."
+      "url": "https://linguistlist.org/issues/37/2697/",
+      "source_deadline": "2026-11-15",
+      "retained_deadline": "2026-11-22"
     },
     {
-      "url": "https://isle9conference.com/",
-      "error": "Тайм-аут прямого открытия; точная дата ответа взята из доступной поисковой копии, которая может запаздывать."
-    },
-    {
-      "url": "https://openreview.net/group?id=uni-konstanz.de/Universit%C3%A4t_Konstanz/2027/FoDS",
-      "error": "Страница загружается без текста условий; действующий дедлайн подтверждён новым объявлением организаторов."
-    },
-    {
-      "url": "https://llcd2026.sciencesconf.org/data/06_Visibility_and_recoverability_in_phonology.pdf",
-      "error": "PDF не открылся; прочитаны полный пост и официальный сайт основной конференции."
+      "url": "https://linguistlist.org/issues/37/3049/",
+      "source_deadline": "2026-10-30",
+      "retained_deadline": "2026-11-06"
     }
   ],
-  "crawl_error_count": 0
+  "note": "Полнота обхода относится к текущему каталогу и последним объявлениям, не ко всему историческому архиву. Условия в свободном тексте и официальные сайты требуют отдельной проверки."
 }
