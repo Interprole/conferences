@@ -5,43 +5,57 @@
       "kind": "catalogue",
       "status": "success",
       "failures": 0,
-      "last_attempt_at": "2026-11-02T14:28:59.617255+00:00",
-      "last_success_at": "2026-11-02T14:29:03.621161+00:00"
+      "last_attempt_at": "2026-11-03T06:12:22.350800+00:00",
+      "last_success_at": "2026-11-03T06:12:28.624377+00:00"
     },
     "https://linguistlist.org/issues/?topic=Calls&topic=Conferences": {
       "kind": "recent",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:11:41.563896+00:00",
+      "last_success_at": "2026-11-03T06:11:51.725686+00:00"
     },
     "https://linguistlist.org/issues/?topic=Calls&topic=Conferences&page=2": {
       "kind": "recent",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:11:51.735545+00:00",
+      "last_success_at": "2026-11-03T06:11:59.165973+00:00"
     },
     "https://linguistlist.org/issues/?topic=Calls&topic=Conferences&page=3": {
       "kind": "recent",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:11:59.176458+00:00",
+      "last_success_at": "2026-11-03T06:12:05.245952+00:00"
     },
     "https://linguistlist.org/issues/?topic=Calls&topic=Conferences&page=4": {
       "kind": "recent",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:12:05.256709+00:00",
+      "last_success_at": "2026-11-03T06:12:11.097252+00:00"
     },
     "https://linguistlist.org/issues/?topic=Calls&topic=Conferences&page=5": {
       "kind": "recent",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:12:11.107720+00:00",
+      "last_success_at": "2026-11-03T06:12:16.820851+00:00"
     },
     "https://linguistlist.org/issues/rss/calls": {
       "kind": "feed",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:12:16.830769+00:00",
+      "last_success_at": "2026-11-03T06:12:19.256938+00:00"
     },
     "https://linguistlist.org/issues/rss/confs": {
       "kind": "feed",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:12:19.268892+00:00",
+      "last_success_at": "2026-11-03T06:12:22.339756+00:00"
     },
     "https://linguistlist.org/issues/37/2178/": {
       "kind": "issue",
@@ -60,8 +74,12 @@
     },
     "https://linguistlist.org/issues/36/3644/": {
       "kind": "issue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:12:34.424962+00:00",
+      "source_deadline": "2026-02-28",
+      "record_id": "8a0f7a56c375d1fc",
+      "last_success_at": "2026-11-03T06:12:37.180842+00:00"
     },
     "https://linguistlist.org/issues/37/2105/": {
       "kind": "issue",
@@ -75,8 +93,12 @@
     },
     "https://linguistlist.org/issues/37/1372/": {
       "kind": "issue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:14:20.833313+00:00",
+      "source_deadline": "2026-05-15",
+      "record_id": "7dea36fc99dc0b46",
+      "last_success_at": "2026-11-03T06:14:23.922876+00:00"
     },
     "https://linguistlist.org/issues/37/2874/": {
       "kind": "issue",
@@ -105,8 +127,12 @@
     },
     "https://linguistlist.org/issues/37/1077/": {
       "kind": "issue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:13:13.909544+00:00",
+      "source_deadline": "2026-08-15",
+      "record_id": "68f0bf2607206da9",
+      "last_success_at": "2026-11-03T06:13:18.990482+00:00"
     },
     "https://linguistlist.org/issues/37/2729/": {
       "kind": "issue",
@@ -125,8 +151,12 @@
     },
     "https://linguistlist.org/issues/37/1534/": {
       "kind": "issue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:15:00.247381+00:00",
+      "source_deadline": null,
+      "record_id": "049392336974b2cf",
+      "last_success_at": "2026-11-03T06:15:04.046173+00:00"
     },
     "https://linguistlist.org/issues/37/3266/": {
       "kind": "issue",
@@ -150,8 +180,12 @@
     },
     "https://linguistlist.org/issues/37/1375/": {
       "kind": "issue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:14:26.534998+00:00",
+      "source_deadline": "2026-06-30",
+      "record_id": "e13d4eccaf611e83",
+      "last_success_at": "2026-11-03T06:14:31.031744+00:00"
     },
     "https://linguistlist.org/issues/37/2494/": {
       "kind": "issue",
@@ -170,8 +204,12 @@
     },
     "https://linguistlist.org/issues/37/1617/": {
       "kind": "issue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:15:39.187749+00:00",
+      "source_deadline": "2026-07-01",
+      "record_id": "8e6d5d2084af0839",
+      "last_success_at": "2026-11-03T06:15:42.330358+00:00"
     },
     "https://linguistlist.org/issues/37/2399/": {
       "kind": "issue",
@@ -330,8 +368,13 @@
     },
     "https://linguistlist.org/issues/37/3566/": {
       "kind": "issue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:18:57.061Z",
+      "last_success_at": "2026-11-03T06:18:57.061Z",
+      "record_id": "12e49b1b656d49fa",
+      "source_deadline": "2026-11-08",
+      "verification_method": "manual_public_post"
     },
     "https://linguistlist.org/issues/37/2862/": {
       "kind": "issue",
@@ -365,13 +408,21 @@
     },
     "https://linguistlist.org/issues/37/1351/": {
       "kind": "issue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:14:17.768946+00:00",
+      "source_deadline": "2026-06-30",
+      "record_id": "6abaebf52beb57b6",
+      "last_success_at": "2026-11-03T06:14:20.820781+00:00"
     },
     "https://linguistlist.org/issues/37/1257/": {
       "kind": "issue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:13:48.778184+00:00",
+      "source_deadline": "2026-05-25",
+      "record_id": "8b946335f74edd79",
+      "last_success_at": "2026-11-03T06:13:52.614453+00:00"
     },
     "https://linguistlist.org/issues/37/3225/": {
       "kind": "issue",
@@ -380,8 +431,12 @@
     },
     "https://linguistlist.org/issues/37/1615/": {
       "kind": "issue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:15:36.159227+00:00",
+      "source_deadline": "2026-09-15",
+      "record_id": "b03a9f62228003c4",
+      "last_success_at": "2026-11-03T06:15:39.170634+00:00"
     },
     "https://linguistlist.org/issues/37/2661/": {
       "kind": "issue",
@@ -415,8 +470,12 @@
     },
     "https://linguistlist.org/issues/37/1140/": {
       "kind": "issue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:13:25.802543+00:00",
+      "source_deadline": "2026-04-03",
+      "record_id": "58f72a16a29c0e6f",
+      "last_success_at": "2026-11-03T06:13:28.506602+00:00"
     },
     "https://linguistlist.org/issues/37/840/": {
       "kind": "issue",
@@ -430,8 +489,12 @@
     },
     "https://linguistlist.org/issues/37/1106/": {
       "kind": "issue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:13:19.001237+00:00",
+      "source_deadline": "2026-04-30",
+      "record_id": "d7787eee05920200",
+      "last_success_at": "2026-11-03T06:13:22.338207+00:00"
     },
     "https://linguistlist.org/issues/37/3220/": {
       "kind": "issue",
@@ -615,28 +678,38 @@
     },
     "https://linguistlist.org/conf/search/?page=2": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:06:35.319459+00:00",
+      "last_success_at": "2026-11-03T06:06:41.218221+00:00"
     },
     "https://linguistlist.org/conf/search/?page=3": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:07:42.937966+00:00",
+      "last_success_at": "2026-11-03T06:07:48.746263+00:00"
     },
     "https://linguistlist.org/conf/search/?page=4": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:08:52.812702+00:00",
+      "last_success_at": "2026-11-03T06:08:58.240680+00:00"
     },
     "https://linguistlist.org/conf/search/?page=6": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:11:09.691732+00:00",
+      "last_success_at": "2026-11-03T06:11:16.496212+00:00"
     },
     "https://linguistlist.org/conf/search/?page=7": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:11:22.397687+00:00",
+      "last_success_at": "2026-11-03T06:11:28.221414+00:00"
     },
     "https://linguistlist.org/conf/search/?page=10": {
       "kind": "catalogue",
@@ -647,58 +720,80 @@
     },
     "https://linguistlist.org/conf/search/?page=14": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:06:01.046997+00:00",
+      "last_success_at": "2026-11-03T06:06:07.336983+00:00"
     },
     "https://linguistlist.org/conf/search/?page=15": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:06:07.345062+00:00",
+      "last_success_at": "2026-11-03T06:06:13.027440+00:00"
     },
     "https://linguistlist.org/conf/search/?page=20": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:06:41.227734+00:00",
+      "last_success_at": "2026-11-03T06:06:47.155509+00:00"
     },
     "https://linguistlist.org/conf/search/?page=23": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:06:59.336571+00:00",
+      "last_success_at": "2026-11-03T06:07:04.612253+00:00"
     },
     "https://linguistlist.org/conf/search/?page=28": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:07:30.362338+00:00",
+      "last_success_at": "2026-11-03T06:07:36.021525+00:00"
     },
     "https://linguistlist.org/conf/search/?page=35": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:08:21.596587+00:00",
+      "last_success_at": "2026-11-03T06:08:29.367855+00:00"
     },
     "https://linguistlist.org/conf/search/?page=36": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:08:29.375646+00:00",
+      "last_success_at": "2026-11-03T06:08:34.679074+00:00"
     },
     "https://linguistlist.org/conf/search/?page=37": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:08:34.689576+00:00",
+      "last_success_at": "2026-11-03T06:08:41.132532+00:00"
     },
     "https://linguistlist.org/conf/search/?page=38": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:08:41.142368+00:00",
+      "last_success_at": "2026-11-03T06:08:46.576418+00:00"
     },
     "https://linguistlist.org/conf/search/?page=39": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:08:46.585396+00:00",
+      "last_success_at": "2026-11-03T06:08:52.803642+00:00"
     },
     "https://linguistlist.org/conf/search/?page=40": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:08:58.251505+00:00",
+      "last_success_at": "2026-11-03T06:09:04.841235+00:00"
     },
     "https://linguistlist.org/issues/37/3025/": {
       "kind": "issue",
@@ -707,53 +802,73 @@
     },
     "https://linguistlist.org/conf/search/?page=43": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:09:20.760974+00:00",
+      "last_success_at": "2026-11-03T06:09:26.591336+00:00"
     },
     "https://linguistlist.org/conf/search/?page=46": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:09:38.716886+00:00",
+      "last_success_at": "2026-11-03T06:09:46.529948+00:00"
     },
     "https://linguistlist.org/conf/search/?page=48": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:09:53.370257+00:00",
+      "last_success_at": "2026-11-03T06:09:59.544614+00:00"
     },
     "https://linguistlist.org/conf/search/?page=49": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:09:59.553368+00:00",
+      "last_success_at": "2026-11-03T06:10:05.088038+00:00"
     },
     "https://linguistlist.org/conf/search/?page=50": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:10:10.539590+00:00",
+      "last_success_at": "2026-11-03T06:10:18.213488+00:00"
     },
     "https://linguistlist.org/conf/search/?page=51": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:10:18.223367+00:00",
+      "last_success_at": "2026-11-03T06:10:24.261789+00:00"
     },
     "https://linguistlist.org/conf/search/?page=52": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:10:24.273113+00:00",
+      "last_success_at": "2026-11-03T06:10:30.637457+00:00"
     },
     "https://linguistlist.org/conf/search/?page=53": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:10:30.652875+00:00",
+      "last_success_at": "2026-11-03T06:10:36.136030+00:00"
     },
     "https://linguistlist.org/conf/search/?page=57": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:10:53.192052+00:00",
+      "last_success_at": "2026-11-03T06:10:58.724570+00:00"
     },
     "https://linguistlist.org/conf/search/?page=59": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:11:04.209977+00:00",
+      "last_success_at": "2026-11-03T06:11:09.682346+00:00"
     },
     "https://linguistlist.org/issues/37/3489/": {
       "kind": "issue",
@@ -777,8 +892,12 @@
     },
     "https://linguistlist.org/issues/37/1523/": {
       "kind": "issue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:14:57.064332+00:00",
+      "source_deadline": "2026-06-05",
+      "record_id": "9aaec0cc0070b13d",
+      "last_success_at": "2026-11-03T06:15:00.235655+00:00"
     },
     "https://linguistlist.org/issues/37/297/": {
       "kind": "issue",
@@ -792,18 +911,24 @@
     },
     "https://linguistlist.org/conf/search/?page=5": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:10:05.096632+00:00",
+      "last_success_at": "2026-11-03T06:10:10.530796+00:00"
     },
     "https://linguistlist.org/conf/search/?page=8": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:11:28.232959+00:00",
+      "last_success_at": "2026-11-03T06:11:34.123111+00:00"
     },
     "https://linguistlist.org/conf/search/?page=9": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:11:34.133357+00:00",
+      "last_success_at": "2026-11-03T06:11:41.552738+00:00"
     },
     "https://linguistlist.org/conf/search/?page=11": {
       "kind": "catalogue",
@@ -821,143 +946,201 @@
     },
     "https://linguistlist.org/conf/search/?page=13": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:05:54.830555+00:00",
+      "last_success_at": "2026-11-03T06:06:01.038974+00:00"
     },
     "https://linguistlist.org/conf/search/?page=16": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:06:13.035854+00:00",
+      "last_success_at": "2026-11-03T06:06:18.721253+00:00"
     },
     "https://linguistlist.org/conf/search/?page=17": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:06:18.731698+00:00",
+      "last_success_at": "2026-11-03T06:06:24.023738+00:00"
     },
     "https://linguistlist.org/conf/search/?page=18": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:06:24.033771+00:00",
+      "last_success_at": "2026-11-03T06:06:29.936698+00:00"
     },
     "https://linguistlist.org/conf/search/?page=19": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:06:29.946283+00:00",
+      "last_success_at": "2026-11-03T06:06:35.310875+00:00"
     },
     "https://linguistlist.org/conf/search/?page=21": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:06:47.164451+00:00",
+      "last_success_at": "2026-11-03T06:06:53.378738+00:00"
     },
     "https://linguistlist.org/conf/search/?page=22": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:06:53.386684+00:00",
+      "last_success_at": "2026-11-03T06:06:59.327706+00:00"
     },
     "https://linguistlist.org/conf/search/?page=24": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:07:04.620367+00:00",
+      "last_success_at": "2026-11-03T06:07:10.025275+00:00"
     },
     "https://linguistlist.org/conf/search/?page=25": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:07:10.033627+00:00",
+      "last_success_at": "2026-11-03T06:07:16.060762+00:00"
     },
     "https://linguistlist.org/conf/search/?page=26": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:07:16.069526+00:00",
+      "last_success_at": "2026-11-03T06:07:24.773153+00:00"
     },
     "https://linguistlist.org/conf/search/?page=27": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:07:24.783708+00:00",
+      "last_success_at": "2026-11-03T06:07:30.353553+00:00"
     },
     "https://linguistlist.org/conf/search/?page=29": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:07:36.031268+00:00",
+      "last_success_at": "2026-11-03T06:07:42.928976+00:00"
     },
     "https://linguistlist.org/conf/search/?page=30": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:07:48.753641+00:00",
+      "last_success_at": "2026-11-03T06:07:56.072614+00:00"
     },
     "https://linguistlist.org/conf/search/?page=31": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:07:56.082779+00:00",
+      "last_success_at": "2026-11-03T06:08:02.782657+00:00"
     },
     "https://linguistlist.org/conf/search/?page=32": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:08:02.790222+00:00",
+      "last_success_at": "2026-11-03T06:08:08.540201+00:00"
     },
     "https://linguistlist.org/conf/search/?page=33": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:08:08.548307+00:00",
+      "last_success_at": "2026-11-03T06:08:16.100253+00:00"
     },
     "https://linguistlist.org/conf/search/?page=34": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:08:16.110807+00:00",
+      "last_success_at": "2026-11-03T06:08:21.588117+00:00"
     },
     "https://linguistlist.org/conf/search/?page=41": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:09:04.850027+00:00",
+      "last_success_at": "2026-11-03T06:09:10.608729+00:00"
     },
     "https://linguistlist.org/conf/search/?page=42": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:09:10.619532+00:00",
+      "last_success_at": "2026-11-03T06:09:20.748205+00:00"
     },
     "https://linguistlist.org/conf/search/?page=44": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:09:26.601756+00:00",
+      "last_success_at": "2026-11-03T06:09:32.187968+00:00"
     },
     "https://linguistlist.org/conf/search/?page=45": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:09:32.197718+00:00",
+      "last_success_at": "2026-11-03T06:09:38.706847+00:00"
     },
     "https://linguistlist.org/conf/search/?page=47": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:09:46.539317+00:00",
+      "last_success_at": "2026-11-03T06:09:53.361764+00:00"
     },
     "https://linguistlist.org/conf/search/?page=54": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:10:36.149361+00:00",
+      "last_success_at": "2026-11-03T06:10:42.048430+00:00"
     },
     "https://linguistlist.org/conf/search/?page=55": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:10:42.059364+00:00",
+      "last_success_at": "2026-11-03T06:10:47.673069+00:00"
     },
     "https://linguistlist.org/conf/search/?page=56": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:10:47.686146+00:00",
+      "last_success_at": "2026-11-03T06:10:53.181969+00:00"
     },
     "https://linguistlist.org/conf/search/?page=58": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:10:58.733127+00:00",
+      "last_success_at": "2026-11-03T06:11:04.199633+00:00"
     },
     "https://linguistlist.org/conf/search/?page=60": {
       "kind": "catalogue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:11:16.506839+00:00",
+      "last_success_at": "2026-11-03T06:11:22.387942+00:00"
     },
     "https://linguistlist.org/issues/37/1236/": {
       "kind": "issue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:13:40.937641+00:00",
+      "source_deadline": "2026-06-15",
+      "record_id": "f866891a38e27d37",
+      "last_success_at": "2026-11-03T06:13:43.858416+00:00"
     },
     "https://linguistlist.org/issues/37/2952/": {
       "kind": "issue",
@@ -1031,8 +1214,12 @@
     },
     "https://linguistlist.org/issues/37/1636/": {
       "kind": "issue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:15:46.097935+00:00",
+      "source_deadline": "2026-08-23",
+      "record_id": "d108ec118730209a",
+      "last_success_at": "2026-11-03T06:15:50.133809+00:00"
     },
     "https://linguistlist.org/issues/37/3501/": {
       "kind": "issue",
@@ -1046,8 +1233,12 @@
     },
     "https://linguistlist.org/issues/37/1186/": {
       "kind": "issue",
-      "status": "pending",
-      "failures": 0
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:13:32.603670+00:00",
+      "source_deadline": "2026-05-04",
+      "record_id": null,
+      "last_success_at": "2026-11-03T06:13:37.416342+00:00"
     },
     "https://linguistlist.org/issues/37/1737/": {
       "kind": "issue",
@@ -1056,16 +1247,2446 @@
     },
     "https://linguistlist.org/issues/37/1020/": {
       "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:13:04.665616+00:00",
+      "source_deadline": "2026-05-30",
+      "record_id": "29544d24aadcd760",
+      "last_success_at": "2026-11-03T06:13:07.654498+00:00"
+    },
+    "https://linguistlist.org/issues/37/1320/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:14:05.026641+00:00",
+      "source_deadline": "2026-05-18",
+      "record_id": "35f923c35aa277ba",
+      "last_success_at": "2026-11-03T06:14:08.623804+00:00"
+    },
+    "https://linguistlist.org/issues/36/3919/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:12:40.092015+00:00",
+      "source_deadline": "2026-04-30",
+      "record_id": "77c7b135f2a23cdc",
+      "last_success_at": "2026-11-03T06:12:43.562965+00:00"
+    },
+    "https://linguistlist.org/issues/37/2509/": {
+      "kind": "issue",
       "status": "pending",
       "failures": 0
     },
-    "https://linguistlist.org/issues/37/1320/": {
+    "https://linguistlist.org/issues/37/1600/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:15:27.058619+00:00",
+      "source_deadline": "2026-08-30",
+      "record_id": "424b1cdf0040c353",
+      "last_success_at": "2026-11-03T06:15:31.758743+00:00"
+    },
+    "https://linguistlist.org/issues/37/358/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1285/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:13:56.073150+00:00",
+      "source_deadline": "2026-07-31",
+      "record_id": "c989d1ef4f044f39",
+      "last_success_at": "2026-11-03T06:13:59.084221+00:00"
+    },
+    "https://linguistlist.org/issues/37/808/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1981/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2928/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3358/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1142/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:13:28.517381+00:00",
+      "source_deadline": "2026-09-20",
+      "record_id": "23d6e3b4df760d08",
+      "last_success_at": "2026-11-03T06:13:32.589572+00:00"
+    },
+    "https://linguistlist.org/issues/37/1786/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1867/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2046/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3258/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1828/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1688/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/347/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2543/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1444/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:14:34.171534+00:00",
+      "source_deadline": "2026-09-30",
+      "record_id": "36f1e15018623f03",
+      "last_success_at": "2026-11-03T06:14:37.166754+00:00"
+    },
+    "https://linguistlist.org/issues/37/760/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1276/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:13:52.626387+00:00",
+      "source_deadline": "2026-04-30",
+      "record_id": null,
+      "last_success_at": "2026-11-03T06:13:56.063341+00:00"
+    },
+    "https://linguistlist.org/issues/37/2424/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2671/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3090/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3046/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3386/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1909/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1710/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1392/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:14:31.043144+00:00",
+      "source_deadline": "2026-08-31",
+      "record_id": "cd0d65cb63d34920",
+      "last_success_at": "2026-11-03T06:14:34.158414+00:00"
+    },
+    "https://linguistlist.org/issues/37/3427/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1778/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3088/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/710/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1732/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/519/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2527/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2093/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1669/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:15:53.539037+00:00",
+      "source_deadline": "2026-08-15",
+      "record_id": "13b80bba581e5f8a",
+      "last_success_at": "2026-11-03T06:15:57.200954+00:00"
+    },
+    "https://linguistlist.org/issues/37/1340/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:14:14.705060+00:00",
+      "source_deadline": "2026-06-25",
+      "record_id": "45c8ee9ae7d30848",
+      "last_success_at": "2026-11-03T06:14:17.752211+00:00"
+    },
+    "https://linguistlist.org/issues/37/1803/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2871/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2043/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1555/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:15:11.416980+00:00",
+      "source_deadline": "2026-08-31",
+      "record_id": "b5328dc6def810a2",
+      "last_success_at": "2026-11-03T06:15:14.071829+00:00"
+    },
+    "https://linguistlist.org/issues/37/2637/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1497/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:14:50.126499+00:00",
+      "source_deadline": "2026-05-30",
+      "record_id": "8f496c388381a37d",
+      "last_success_at": "2026-11-03T06:14:52.791824+00:00"
+    },
+    "https://linguistlist.org/issues/36/3926/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:12:43.575023+00:00",
+      "source_deadline": "2026-03-01",
+      "record_id": "f1f79f4586d1cdd2",
+      "last_success_at": "2026-11-03T06:12:46.416488+00:00"
+    },
+    "https://linguistlist.org/issues/37/1684/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1560/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:15:17.166430+00:00",
+      "source_deadline": "2026-05-17",
+      "record_id": null,
+      "last_success_at": "2026-11-03T06:15:20.462983+00:00"
+    },
+    "https://linguistlist.org/issues/37/2552/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1551/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:18:57.061Z",
+      "source_deadline": "2026-05-17",
+      "record_id": "3992c65ae52fb059",
+      "last_success_at": "2026-11-03T06:18:57.061Z",
+      "verification_method": "manual_public_post"
+    },
+    "https://linguistlist.org/issues/37/1558/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:15:14.083449+00:00",
+      "source_deadline": "2026-05-17",
+      "record_id": "c51a5fd714fd9c0d",
+      "last_success_at": "2026-11-03T06:15:17.152841+00:00"
+    },
+    "https://linguistlist.org/issues/36/729/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:12:49.895015+00:00",
+      "source_deadline": null,
+      "record_id": "4f298e1355486c67",
+      "last_success_at": "2026-11-03T06:12:52.650283+00:00"
+    },
+    "https://linguistlist.org/issues/36/2076/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:12:31.530507+00:00",
+      "source_deadline": "2025-08-31",
+      "record_id": "4f298e1355486c67",
+      "last_success_at": "2026-11-03T06:12:34.415518+00:00"
+    },
+    "https://linguistlist.org/issues/37/1330/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:14:08.635728+00:00",
+      "source_deadline": "2026-09-01",
+      "record_id": "f9038037845413c2",
+      "last_success_at": "2026-11-03T06:14:11.929910+00:00"
+    },
+    "https://linguistlist.org/issues/37/3327/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1587/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:15:23.921340+00:00",
+      "source_deadline": "2026-07-15",
+      "record_id": "0c42a586b36b1c55",
+      "last_success_at": "2026-11-03T06:15:27.044569+00:00"
+    },
+    "https://linguistlist.org/issues/37/2693/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2048/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3172/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2831/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1809/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1056/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:13:11.386190+00:00",
+      "source_deadline": "2026-05-15",
+      "record_id": "14a49fc4811fe39b",
+      "last_success_at": "2026-11-03T06:13:13.895512+00:00"
+    },
+    "https://linguistlist.org/issues/37/3261/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1471/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:14:47.131768+00:00",
+      "source_deadline": "2026-06-15",
+      "record_id": "8b1c473ac3bd448e",
+      "last_success_at": "2026-11-03T06:14:50.107458+00:00"
+    },
+    "https://linguistlist.org/issues/37/3259/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2210/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2271/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2322/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2154/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/931/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3047/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3328/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1847/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2889/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3444/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2241/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2274/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2946/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2273/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3059/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1931/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3002/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2769/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1753/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1241/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:13:43.868482+00:00",
+      "source_deadline": "2026-06-15",
+      "record_id": "b8bc79d7ddcd2644",
+      "last_success_at": "2026-11-03T06:13:48.765698+00:00"
+    },
+    "https://linguistlist.org/issues/36/1928/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:12:28.634977+00:00",
+      "source_deadline": null,
+      "record_id": "b203249a8aa66649",
+      "last_success_at": "2026-11-03T06:12:31.517944+00:00"
+    },
+    "https://linguistlist.org/issues/37/2441/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2827/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1468/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:14:39.836969+00:00",
+      "source_deadline": "2026-07-19",
+      "record_id": "974c0acbc2e5a7b9",
+      "last_success_at": "2026-11-03T06:14:43.181469+00:00"
+    },
+    "https://linguistlist.org/issues/37/1309/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:14:01.962409+00:00",
+      "source_deadline": "2026-06-30",
+      "record_id": "e15df162f8e6ee13",
+      "last_success_at": "2026-11-03T06:14:05.013208+00:00"
+    },
+    "https://linguistlist.org/issues/37/3245/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3178/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2816/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1830/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2239/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2794/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3154/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2332/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3492/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2231/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2770/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2814/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2244/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3175/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2720/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2942/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2640/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2462/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2042/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1511/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:14:52.803970+00:00",
+      "source_deadline": "2026-08-15",
+      "record_id": "35378fdf9e82ca0f",
+      "last_success_at": "2026-11-03T06:14:57.052298+00:00"
+    },
+    "https://linguistlist.org/issues/37/2536/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1725/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2185/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3503/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3475/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3004/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2798/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2044/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1985/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1978/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2125/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2191/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2809/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2107/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2066/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2181/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1997/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2150/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1996/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2318/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1536/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:15:04.058874+00:00",
+      "source_deadline": null,
+      "record_id": "b08c5eaa204ffe85",
+      "last_success_at": "2026-11-03T06:15:07.656803+00:00"
+    },
+    "https://linguistlist.org/issues/37/2393/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3540/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2748/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3356/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3448/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3151/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2249/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3130/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2941/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3244/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2837/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3330/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2275/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2345/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2187/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3224/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3281/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1614/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:15:31.773068+00:00",
+      "source_deadline": "2026-07-24",
+      "record_id": "105e459034af75e8",
+      "last_success_at": "2026-11-03T06:15:36.148039+00:00"
+    },
+    "https://linguistlist.org/issues/37/1051/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:13:07.665977+00:00",
+      "source_deadline": "2026-06-30",
+      "record_id": null,
+      "last_success_at": "2026-11-03T06:13:11.376361+00:00"
+    },
+    "https://linguistlist.org/issues/36/3935/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:12:46.426638+00:00",
+      "source_deadline": "2026-02-20",
+      "record_id": null,
+      "last_success_at": "2026-11-03T06:12:49.882472+00:00"
+    },
+    "https://linguistlist.org/issues/37/1643/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:15:50.149425+00:00",
+      "source_deadline": "2026-05-25",
+      "record_id": null,
+      "last_success_at": "2026-11-03T06:15:53.526730+00:00"
+    },
+    "https://linguistlist.org/issues/37/2339/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2131/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3424/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2886/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2232/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3425/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3357/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2253/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3198/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3507/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2733/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2311/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2541/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2838/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3302/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2765/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3011/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/779/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2658/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2035/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3580/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3502/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3108/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2888/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2255/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3491/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3522/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3384/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3111/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2922/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2703/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1995/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3466/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3333/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2592/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2499/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2554/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3106/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3305/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2151/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2049/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3058/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1802/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3236/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3485/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3382/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2192/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3355/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3493/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2461/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2789/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3196/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2296/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3446/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/248/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3506/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2881/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3195/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2839/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1131/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:13:22.348790+00:00",
+      "source_deadline": null,
+      "record_id": "2faa7f6e20e71019",
+      "last_success_at": "2026-11-03T06:13:25.791919+00:00"
+    },
+    "https://linguistlist.org/issues/37/2203/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3439/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1768/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3505/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1687/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2265/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3441/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3445/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3300/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3469/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1206/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:13:37.432877+00:00",
+      "source_deadline": "2026-09-15",
+      "record_id": "a729bf9ad7ad2136",
+      "last_success_at": "2026-11-03T06:13:40.927223+00:00"
+    },
+    "https://linguistlist.org/issues/37/3128/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2095/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1008/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:12:58.642793+00:00",
+      "source_deadline": "2026-06-30",
+      "record_id": "52c61e16a082dbfb",
+      "last_success_at": "2026-11-03T06:13:02.048320+00:00"
+    },
+    "https://linguistlist.org/issues/37/3126/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1806/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1582/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:15:20.474806+00:00",
+      "source_deadline": "2026-06-26",
+      "record_id": "1780befd64adbcfc",
+      "last_success_at": "2026-11-03T06:15:23.906587+00:00"
+    },
+    "https://linguistlist.org/issues/37/2219/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3171/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2767/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3390/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1685/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3422/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3468/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1865/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3420/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2394/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3509/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1711/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3508/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3583/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3155/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3585/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3260/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3471/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3074/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3265/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2512/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3248/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2493/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3226/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3152/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2307/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2183/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2771/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3045/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2999/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2456/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2473/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2704/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2910/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2497/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2835/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2537/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2333/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2454/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3089/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2478/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2477/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2572/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2492/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2491/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2417/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2578/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2409/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2896/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2406/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2743/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2641/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2646/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2647/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2669/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2695/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2628/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2397/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2698/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2926/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2746/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2523/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2734/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2528/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2890/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2974/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2411/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3149/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2822/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2821/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2378/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2382/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2343/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2347/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2455/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2667/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2857/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1333/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:14:11.943454+00:00",
+      "source_deadline": "2026-06-20",
+      "record_id": "d1807e9716d0b59d",
+      "last_success_at": "2026-11-03T06:14:14.692215+00:00"
+    },
+    "https://linguistlist.org/issues/37/2315/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/409/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/470/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1467/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:14:37.182704+00:00",
+      "source_deadline": "2026-05-15",
+      "record_id": "cf708a230ea448ae",
+      "last_success_at": "2026-11-03T06:14:39.824477+00:00"
+    },
+    "https://linguistlist.org/issues/37/1003/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:12:52.662552+00:00",
+      "source_deadline": "2026-08-31",
+      "record_id": "ccf0ad9cd6e0d23f",
+      "last_success_at": "2026-11-03T06:12:58.631286+00:00"
+    },
+    "https://linguistlist.org/issues/37/377/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/674/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2593/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3110/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3277/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2761/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3383/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2460/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1946/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1682/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3070/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3129/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1963/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2124/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2180/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2716/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2907/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1761/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2011/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2070/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3473/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3389/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3525/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2728/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3282/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2233/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3426/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3472/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3523/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2344/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2824/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3465/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2906/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1306/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:13:59.094452+00:00",
+      "source_deadline": "2027-10-01",
+      "record_id": "1878021b420da05f",
+      "last_success_at": "2026-11-03T06:14:01.946177+00:00"
+    },
+    "https://linguistlist.org/issues/37/2440/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2777/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3233/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3072/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2556/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3487/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3301/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3324/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3219/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3581/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:18:57.061Z",
+      "last_success_at": "2026-11-03T06:18:57.061Z",
+      "record_id": "e89c248f83fd0cf2",
+      "source_deadline": "2026-11-10",
+      "verification_method": "manual_public_post"
+    },
+    "https://linguistlist.org/issues/37/3388/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3442/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3490/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3326/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2978/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3423/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2856/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3488/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3443/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2738/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3279/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3306/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3385/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3307/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3000/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3476/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2591/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2247/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2863/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3243/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2248/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1948/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3179/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3016/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3387/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1790/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1373/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:14:23.933825+00:00",
+      "source_deadline": "2027-03-01",
+      "record_id": "6ce418a8e2e0ac38",
+      "last_success_at": "2026-11-03T06:14:26.523745+00:00"
+    },
+    "https://linguistlist.org/issues/37/3421/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3572/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3057/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3303/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3419/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3486/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2980/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3524/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3264/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2127/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3449/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:18:57.061Z",
+      "last_success_at": "2026-11-03T06:18:57.061Z",
+      "record_id": "5b78d6f9518bc3fe",
+      "source_deadline": null,
+      "verification_method": "manual_public_post"
+    },
+    "https://linguistlist.org/issues/37/3391/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2626/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2381/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/739/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3283/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1469/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:14:43.193234+00:00",
+      "source_deadline": "2026-07-01",
+      "record_id": "7d44ba34aa3f040c",
+      "last_success_at": "2026-11-03T06:14:47.118046+00:00"
+    },
+    "https://linguistlist.org/issues/37/691/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2807/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1698/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2077/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1911/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1633/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:15:42.342105+00:00",
+      "source_deadline": "2026-05-20",
+      "record_id": null,
+      "last_success_at": "2026-11-03T06:15:46.085897+00:00"
+    },
+    "https://linguistlist.org/issues/37/1699/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1805/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1733/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2513/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3131/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2197/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2055/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/686/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2295/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/939/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/657/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2558/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/36/3695/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:12:37.192078+00:00",
+      "source_deadline": "2026-04-30",
+      "record_id": "b478ad479559bed6",
+      "last_success_at": "2026-11-03T06:12:40.078822+00:00"
+    },
+    "https://linguistlist.org/issues/37/2190/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2501/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1746/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/304/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/1019/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:13:02.059827+00:00",
+      "source_deadline": "2026-04-30",
+      "record_id": "10c061990387f1f6",
+      "last_success_at": "2026-11-03T06:13:04.654332+00:00"
+    },
+    "https://linguistlist.org/issues/37/2625/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3440/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/2909/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3586/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3584/": {
+      "kind": "issue",
+      "status": "success",
+      "failures": 0,
+      "last_attempt_at": "2026-11-03T06:18:57.061Z",
+      "last_success_at": "2026-11-03T06:18:57.061Z",
+      "record_id": "b3684cc72a0298e0",
+      "source_deadline": "2026-11-06",
+      "verification_method": "manual_public_post"
+    },
+    "https://linguistlist.org/issues/37/3582/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3575/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3549/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3529/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3512/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3511/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3479/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3452/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3451/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3398/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3395/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3381/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3363/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3360/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3359/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3394/": {
+      "kind": "issue",
+      "status": "pending",
+      "failures": 0
+    },
+    "https://linguistlist.org/issues/37/3055/": {
       "kind": "issue",
       "status": "pending",
       "failures": 0
     }
   },
   "cycle_started_at": "2026-11-02T14:28:59.607635+00:00",
-  "daily_seeded_at": "2026-11-02",
+  "daily_seeded_at": "2026-11-03",
   "catalogue_pages_expected": 60
 }
