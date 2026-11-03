@@ -1,5 +1,7 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
+import {presentCatalogue,groupCatalogue,resolveTheme} from '../presentation.mjs';
+import fs from 'node:fs';
 import {dayInMoscow,daysUntil,deadlineStatus,eventStatus,isExtended,mergeCatalogues,filterCatalog,csvCell,icsText} from '../lib.mjs';
 
 test('Moscow date changes at 21:00 UTC; civil deadlines close on the following date',()=>{
@@ -33,4 +35,34 @@ test('Calendar exports include exclusive end dates, stable IDs and UTF-8 folded 
  assert.ok(ics.includes('DTEND;VALUE=DATE:20261105'));assert.ok(ics.includes('UID:test-deadline@'));
  for(const line of ics.split('\r\n'))assert.ok(new TextEncoder().encode(line).length<=75);
  assert.equal((ics.match(/BEGIN:VEVENT/g)||[]).length,2);
+});
+
+test('Explicit workshop groups keep distinct deadlines and survive filtering without their parent',()=>{
+ const raw=[{id:'a',name:'Conference',deadline:'2026-12-01'},{id:'b',name:'Workshop',deadline:'2026-11-01'},{id:'c',name:'Unrelated workshop',deadline:'2026-11-01'}];
+ const editorial={groups:{event:{label:'Conference group',members:['a','b'],parent_id:'a'}}};
+ const presented=presentCatalogue(raw,editorial),units=groupCatalogue([presented[1],presented[2],presented[0]]);
+ assert.deepEqual(units.map(u=>u.rows.map(r=>r.id)),[['a','b'],['c']]);
+ assert.deepEqual(units[0].rows.map(r=>r.deadline),['2026-12-01','2026-11-01']);
+ assert.deepEqual(groupCatalogue([presented[1]])[0].rows.map(r=>r.id),['b']);
+ assert.equal(raw[1].conference_group,undefined);
+});
+test('Russian presentation preserves unknown subject languages and source-language search',()=>{
+ const raw=[{id:'a',name:'A',location:'Paris, France',topics:'Syntax',subject_languages:null,working_languages:'English'}];
+ const [c]=presentCatalogue(raw,{locations:{'Paris, France':'Париж, Франция'},topics:{Syntax:'Синтаксис'}});
+ assert.equal(c.location,'Париж, Франция');assert.equal(c.subject_languages,null);assert.equal(c.working_languages,'English');
+ const state={q:'Paris',source:'all',deadline:'all',chip:'all',sort:'name'};
+ assert.equal(filterCatalog([c],state,new Set()).length,1);
+ assert.equal(filterCatalog([c],{...state,q:'Синтаксис'},new Set()).length,1);
+});
+test('System theme is the default, with explicit light and dark overrides',()=>{
+ assert.equal(resolveTheme('system',true),'dark');assert.equal(resolveTheme('system',false),'light');
+ assert.equal(resolveTheme(null,true),'dark');assert.equal(resolveTheme('light',true),'light');assert.equal(resolveTheme('dark',false),'dark');
+});
+test('Editorial groups reference existing stable IDs once and cover every current place',()=>{
+ const data=name=>JSON.parse(fs.readFileSync(new URL('../data/'+name,import.meta.url)));
+ const rows=mergeCatalogues([data('linguistlist.json'),data('mosling.json')],data('overrides.json'));
+ const editorial=data('editorial.json'),ids=new Set(rows.map(c=>c.id)),seen=new Set();
+ for(const group of Object.values(editorial.groups))for(const id of group.members){assert.ok(ids.has(id),id);assert.ok(!seen.has(id),id);seen.add(id);}
+ for(const row of rows)if(row.location){assert.ok(editorial.locations[row.location],row.location);assert.ok(!/[A-Za-z]/.test(editorial.locations[row.location]),row.location);}
+ for(const [id,review] of Object.entries(editorial.conferences)){assert.ok(ids.has(id));assert.ok(review.review_basis);}
 });

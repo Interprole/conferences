@@ -28,7 +28,7 @@ export function filterCatalog(rows,s,saved,now=new Date()) {
  const q=(s.q||'').toLocaleLowerCase().trim();
  return rows.filter(c=>{
   const status=deadlineStatus(c,now),event=eventStatus(c,now),d=daysUntil(c.deadline,now);
-  if(q && ![c.name,c.location,c.topics,c.subject_languages,c.working_languages].filter(Boolean).join(' ').toLocaleLowerCase().includes(q))return false;
+  if(q && ![c.name,c.location,c.location_original,c.topics,c.topics_original,c.subject_languages,c.subject_languages_original,c.working_languages,c.conference_group?.label].filter(Boolean).join(' ').toLocaleLowerCase().includes(q))return false;
   if(s.source!=='all' && !(c.sources||[]).some(x=>x.type===s.source))return false;
   if(s.deadline!=='all' && status!==s.deadline)return false;
   if(s.chip==='theory' && c.classification!=='theory')return false;

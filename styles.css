@@ -56,3 +56,70 @@ th:nth-child(6){width:12%}
  .update-top{flex-wrap:wrap}
  nav{flex-wrap:wrap}
 }
+
+/* System theme is resolved before the first paint; an explicit choice is retained. */
+:root{color-scheme:light;--surface:#fffefa;--soft:#eef0e7;--heading:#f1f3ea;--accent:#486233;--unknown:#6d7866}
+:root[data-theme=dark]{color-scheme:dark;--paper:#111b19;--ink:#e4ece4;--muted:#acbcb1;--line:#34483e;--green:#173f33;--lime:#e7efb7;--theory:#203b2b;--orange:#f0b18c;--surface:#192722;--soft:#293b30;--heading:#24372d;--accent:#c0d99b;--unknown:#adbaac}
+.theme-picker{display:flex;align-items:center;gap:7px;font-size:11px;color:var(--muted)}
+.theme-picker select{max-width:150px;background:var(--surface);color:var(--ink);border:1px solid var(--line);border-radius:20px;padding:8px 10px;font-size:12px}
+nav{flex-wrap:wrap;gap:20px}
+input,select{color:var(--ink)}
+select option{background:var(--surface);color:var(--ink)}
+.filters,.table-wrap,dialog,.skip{background:var(--surface)}
+th{background:var(--heading)}
+h1{color:var(--ink)}
+h1 em,.theory-key,.stats div:nth-child(3) b{color:var(--accent)}
+.unknown{color:var(--unknown);font-size:12px}
+.chips button,.export,.pagination button,h2 #result-count{background:var(--soft);color:var(--ink)}
+.chips button[data-chip=theory]:not([aria-pressed=true]){background:var(--theory);color:var(--accent)}
+.chips button[aria-pressed=true]{background:var(--green);color:#f4f5e9}
+table{font-size:12px}
+th{font-size:10px}
+th:first-child,td:first-child{width:36%}
+th:nth-child(2){width:14%}
+th:nth-child(3){width:13%}
+th:nth-child(4){width:11%}
+th:nth-child(5){width:14%}
+th:nth-child(6){width:12%}
+td .conference-title{font-size:14px;line-height:1.45}
+.conference-context{margin:12px 0 0;font-size:12px;line-height:1.6}
+.conference-context div+div{margin-top:7px}
+.conference-context dt{display:inline;color:var(--muted);font-size:11px}
+.conference-context dt::after{content:': '}
+.conference-context dd{display:inline;margin:0}
+.row-tools{display:flex;gap:10px;align-items:start;margin-top:13px}
+.row-tools .save{margin:0 0 0 auto;font-size:20px;text-decoration:none}
+.badge{white-space:normal}
+.countdown{font-size:11px}
+.group-heading th{position:static;padding:0;width:auto;text-transform:none;letter-spacing:0;border-top:1px solid var(--line);background:var(--heading)}
+.group-heading button{width:100%;display:flex;align-items:center;gap:12px;text-align:left;background:transparent;padding:18px 14px;font-size:14px;font-weight:650}
+.group-heading small{display:block;margin-top:4px;color:var(--muted);font-size:11px;font-weight:400}
+.group-chevron{font-size:21px;color:var(--accent)}
+.group-action{margin-left:auto;font-size:11px;font-weight:400;color:var(--muted)}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap;border:0}
+:root[data-theme=dark] .badge{background:#334335;color:#d6dfce}
+:root[data-theme=dark] .badge.theory{background:#3c572e;color:#e1efc9}
+:root[data-theme=dark] .badge.extended{background:#4a3b5d;color:#ead6ff}
+:root[data-theme=dark] .badge.closed,:root[data-theme=dark] .badge.past{background:#353e37;color:#bbc8bc}
+:root[data-theme=dark] .badge.conflict{background:#574820;color:#ffe8a9}
+:root[data-theme=dark] .badge.live{background:#315039;color:#cdf1d2}
+:root[data-theme=dark] .notice{background:#3c3321;color:#eed6a9;border-color:#736141}
+:root[data-theme=dark] .save{color:#b0cb96}
+:root[data-theme=dark] .save[aria-pressed=true]{color:#f6c67c}
+@media(max-width:1000px){
+ tr{background:var(--surface)}
+ td:first-child{width:auto}
+ .group-heading{display:block;padding:0;background:var(--heading);margin-bottom:12px;border-radius:12px;overflow:hidden}
+ .group-heading th{display:block;border:0}
+ .group-heading button{padding:16px 12px}
+ .group-action{white-space:nowrap}
+ .conference-title{font-size:16px!important}
+}
+@media(max-width:640px){
+ nav{gap:12px}
+ .theme-picker>span{display:none}
+ .theme-picker select{padding:6px 8px;font-size:11px}
+ .group-heading button{font-size:13px}
+ .group-action{display:none}
+ td{font-size:13px}
+}
