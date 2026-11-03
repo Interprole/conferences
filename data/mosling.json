@@ -29,7 +29,7 @@
     "notes": [],
     "classification": "theory",
     "classification_reason": null,
-    "checked_at": "2026-11-02",
+    "checked_at": "2026-11-03",
     "verification": "reviewed"
   },
   {
@@ -64,7 +64,7 @@
     ],
     "classification": "mixed",
     "classification_reason": null,
-    "checked_at": "2026-11-02",
+    "checked_at": "2026-11-03",
     "verification": "reviewed",
     "date_conflict": "В одном письме указаны 16 декабря 2026 и 15 декабря 2026. Дату не удалось однозначно установить; требуется уточнение у организаторов."
   },
@@ -411,11 +411,11 @@
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": "Оценка, реклейминг, семантические и прагматические сдвиги.",
+    "topics": "Оценочная семантика, реклейминг, изменение значений, языковая агрессия и конфликтная коммуникация; программа также включает дискурс-анализ и прикладные исследования.",
     "subject_languages": null,
     "working_languages": null,
     "speaker_restrictions": null,
-    "submission_rules": null,
+    "submission_rules": "Тема доклада и аннотация 200–250 слов; сведения об авторе и месте работы в регистрационной форме. По программе обычный доклад — 15 минут и 5 минут обсуждения.",
     "format": "Онлайн",
     "website": "https://philology.hse.ru/conflictology/conference",
     "sources": [
@@ -433,6 +433,16 @@
         "type": "mosling",
         "label": "Мослинг",
         "url": "https://groups.google.com/d/msgid/mosling/05088fd0-1261-4a7b-95cb-e3da553eebaen%40googlegroups.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг · программа",
+        "url": "https://groups.google.com/d/msgid/mosling/CAPd2QXqPjsxSDbo6y7fa5%3DjE4Buvscziw-N8sL5Ykz1zf2HWvA%40mail.gmail.com"
+      },
+      {
+        "type": "mosling",
+        "label": "Мослинг · программа",
+        "url": "https://groups.google.com/d/msgid/mosling/CAPd2QXrZvOJwb-2i%3DzxpMWBb-Qde1DaxN46UbW4pW8XvLdyUxQ%40mail.gmail.com"
       }
     ],
     "history": [
@@ -445,10 +455,12 @@
         "type": "extended"
       }
     ],
-    "notes": [],
-    "classification": "theory",
-    "classification_reason": null,
-    "checked_at": "2026-11-02",
+    "notes": [
+      "Прочитана полная PDF-программа из письма от 2 ноября 2026. Оба дня начало в 10:30 МСК. Новые письма приглашают слушателей; дедлайн тезисов не менялся. Сбор, рабочие языки и ограничения на соавторство в новых материалах не указаны."
+    ],
+    "classification": "mixed",
+    "classification_reason": "Программа объединяет семантику и прагматику с дискурс-анализом, коммуникативными практиками и прикладными направлениями.",
+    "checked_at": "2026-11-03",
     "verification": "reviewed"
   },
   {
@@ -551,7 +563,7 @@
     ],
     "classification": "mixed",
     "classification_reason": null,
-    "checked_at": "2026-11-02",
+    "checked_at": "2026-11-03",
     "verification": "reviewed"
   },
   {
@@ -1550,7 +1562,7 @@
     "speaker_restrictions": null,
     "submission_rules": null,
     "format": null,
-    "website": "http://expling@conf.msu.ru/",
+    "website": null,
     "sources": [
       {
         "type": "mosling",
@@ -1580,11 +1592,12 @@
     ],
     "history": [],
     "notes": [
-      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе."
+      "Часть данных из письма не удалось надёжно извлечь. Дополнительные сведения могут быть во вложениях или программе.",
+      "Исправлено ошибочное извлечение почтового адреса как URL; отдельный сайт конференции не найден."
     ],
     "classification": "other",
     "classification_reason": null,
-    "checked_at": "2026-11-02",
+    "checked_at": "2026-11-03",
     "verification": "partial",
     "date_conflict": "В темах нескольких писем 2026 года указано 18.06.2025. Дату не удалось однозначно подтвердить."
   },
