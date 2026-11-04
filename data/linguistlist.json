@@ -20649,5 +20649,44 @@
       37,
       2231
     ]
+  },
+  {
+    "id": "manual-olinco-2027",
+    "name": "Olomouc Linguistics Colloquium 2027",
+    "start": "2027-06-11",
+    "end": "2027-06-12",
+    "location": "Оломоуц, Чехия",
+    "deadline": "2027-01-31",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Структура и употребление языка: грамматика, фонология, семантика и прагматика; тематические направления по фонетике на протяжении жизни, комплементации и финитности, корпусной и когнитивной лингвистике.",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "Устные доклады и постеры о структуре и употреблении языка; технические требования к тезисам на доступной копии объявления проверить не удалось.",
+    "format": null,
+    "website": "https://olinco.upol.cz/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3583/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Полный пост LINGUIST List прочитан через доступную поисковую копию. Официальный сайт не ответил при проверке 4 ноября 2026; сведения о сборе, рабочих языках, ограничениях на авторов и точном времени дедлайна остаются неизвестными."
+    ],
+    "classification": "theory",
+    "classification_reason": "Общелингвистическая конференция о грамматике, фонологии, семантике и структуре языка.",
+    "checked_at": "2026-11-04",
+    "verification": "reviewed",
+    "source_order": [
+      37,
+      3583
+    ]
   }
 ]

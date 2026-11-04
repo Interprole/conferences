@@ -1,52 +1,71 @@
 {
-  "attempted_at": "2026-11-03T13:25:13.559050+00:00",
-  "last_success_at": "2026-11-03T13:41:57.240697+00:00",
-  "pages_read": 0,
-  "issues_read": 498,
+  "attempted_at": "2026-11-04T13:38:07.242Z",
+  "last_success_at": "2026-11-04T13:38:07.242Z",
+  "pages_read": 3,
+  "issues_read": 3,
   "feeds_read": 0,
   "complete": false,
-  "discovery_complete": true,
+  "discovery_complete": false,
   "details_complete": false,
   "pending_count": 26,
   "coverage": {
-    "cycle": {
-      "catalogue": {
-        "discovered": 60,
-        "succeeded": 60,
-        "ignored": 0,
-        "pending": 0
-      },
-      "recent": {
-        "discovered": 5,
-        "succeeded": 5,
-        "ignored": 0,
-        "pending": 0
-      },
-      "feed": {
-        "discovered": 2,
-        "succeeded": 2,
-        "ignored": 0,
-        "pending": 0
-      },
-      "issue": {
-        "discovered": 590,
-        "succeeded": 563,
-        "ignored": 1,
-        "pending": 26
-      }
+    "current_manual_review": {
+      "catalogue_pages_read": 3,
+      "recent_issue_pages_read": 1,
+      "full_posts_read": 3,
+      "official_sites_opened": 1,
+      "official_sites_failed": 2
     },
-    "catalogue_pages_expected": 60,
-    "records_total": 512,
+    "previous_automated_cycle": {
+      "cycle": {
+        "catalogue": {
+          "discovered": 60,
+          "succeeded": 60,
+          "ignored": 0,
+          "pending": 0
+        },
+        "recent": {
+          "discovered": 5,
+          "succeeded": 5,
+          "ignored": 0,
+          "pending": 0
+        },
+        "feed": {
+          "discovered": 2,
+          "succeeded": 2,
+          "ignored": 0,
+          "pending": 0
+        },
+        "issue": {
+          "discovered": 590,
+          "succeeded": 563,
+          "ignored": 1,
+          "pending": 26
+        }
+      },
+      "catalogue_pages_expected": 60,
+      "records_total": 512,
+      "records_without_issue": 14,
+      "records_needing_review": 505,
+      "official_sites_verified": false
+    },
+    "records_total": 513,
     "records_without_issue": 14,
-    "records_needing_review": 505,
     "official_sites_verified": false
   },
-  "error_count": 1,
+  "error_count": 3,
   "errors": [
     {
-      "url": "https://linguistlist.org/issues/37/3394/",
-      "error": "Conference title and event dates could not be parsed; retained for review",
-      "failures": 1
+      "url": "https://linguistlist.org/conf/search/?page=60",
+      "error": "Страница не открылась через доступный инструмент; полный новый обход 60 страниц не выполнен."
+    },
+    {
+      "url": "https://www.ling.upenn.edu/Events/PLC/plc51/index.html",
+      "error": "Официальная страница Penn Linguistics Conference 51 ограничила доступ."
+    },
+    {
+      "url": "https://olinco.upol.cz/",
+      "error": "Официальный сайт OLINCO не ответил до тайм-аута."
     }
   ],
   "deadline_conflicts": [
@@ -66,5 +85,8 @@
       "retained_deadline": "2026-11-06"
     }
   ],
-  "note": "Полнота обхода относится к текущему каталогу и последним объявлениям, не ко всему историческому архиву. Условия в свободном тексте и официальные сайты требуют отдельной проверки."
+  "note": "Ручная проверка 4 ноября 2026: прочитаны только первые 3 страницы каталога, первая страница новых Calls/Conferences и 3 полных поста. Добавлен OLINCO 2027; уточнены Penn Linguistics Conference 51 и Linguistics and Semitic Philology Conference. Остальные страницы и будущие конференции ещё не просмотрены, поэтому полнота не заявляется.",
+  "added": 1,
+  "updated": 2,
+  "extensions_found": 0
 }

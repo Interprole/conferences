@@ -40,6 +40,60 @@ th:nth-child(6){width:12%}
  td:first-child,td:last-child{grid-column:1/-1}
  td::before{content:attr(data-label);display:block;font-size:10px;color:var(--muted);margin-bottom:4px}
 }
+
+/* A quieter, denser catalogue: clear reading order without spreadsheet clutter. */
+main{max-width:1480px}
+.catalogue-heading{margin-bottom:20px}
+.table-wrap{border-radius:16px;border-color:color-mix(in srgb,var(--line) 78%,transparent);box-shadow:0 16px 45px color-mix(in srgb,var(--ink) 6%,transparent);overflow:clip}
+table{font-size:13px;line-height:1.55}
+thead th{top:0;padding:14px 16px;background:color-mix(in srgb,var(--heading) 93%,transparent);backdrop-filter:blur(10px);border-bottom:1px solid var(--line);font-size:9px;letter-spacing:.9px}
+th:first-child,td:first-child{width:38%}
+th:nth-child(2){width:13%}
+th:nth-child(3){width:13%}
+th:nth-child(4){width:10%}
+th:nth-child(5){width:13%}
+th:nth-child(6){width:13%}
+td{padding:19px 16px;border-bottom:1px solid color-mix(in srgb,var(--line) 72%,transparent)}
+td+td{border-left:0}
+tbody tr[data-conference]{background:var(--surface)}
+tbody tr[data-conference].row-even{background:color-mix(in srgb,var(--surface-alt) 72%,var(--surface))}
+tbody tr[data-conference].theory{background:color-mix(in srgb,var(--theory) 82%,var(--surface))}
+tbody tr[data-conference].theory.row-even{background:color-mix(in srgb,var(--theory-alt) 82%,var(--surface))}
+tbody tr[data-conference]:hover td{background:color-mix(in srgb,var(--group-bg) 18%,transparent)}
+td .conference-title{font-family:Inter,"Segoe UI",Arial,sans-serif;font-size:15px;line-height:1.35;font-weight:720;text-decoration:none;color:var(--ink)}
+td .conference-title:hover{text-decoration:underline;text-decoration-color:var(--group-edge);text-underline-offset:4px}
+.conference-context{margin-top:11px;padding-top:10px;border-top:1px solid color-mix(in srgb,var(--line) 65%,transparent);font-size:12px;line-height:1.55;color:color-mix(in srgb,var(--ink) 86%,var(--muted))}
+.conference-context div+div{margin-top:5px}
+.conference-context dt{font-size:10px;text-transform:uppercase;letter-spacing:.45px;font-weight:700}
+.row-tools{margin-top:12px;align-items:center}
+.badge{border-radius:999px;padding:4px 8px;font-size:9px;font-weight:650}
+.countdown{margin-top:7px;font-size:10px;font-weight:650;color:var(--orange)}
+.deadline-change{display:flex;flex-direction:column;align-items:flex-start;gap:3px}
+.deadline-change strong{font-size:13px;color:var(--ink)}
+.old-deadlines{display:flex;flex-wrap:wrap;gap:6px;color:var(--muted);font-size:11px}
+.old-deadlines del{text-decoration-thickness:1.5px;text-decoration-color:var(--orange)}
+.detail-countdown{display:block;margin-top:5px;color:var(--orange);font-size:11px}
+.history del{text-decoration-color:var(--orange);color:var(--muted)}
+.table-details{margin-top:10px;color:var(--accent);font-weight:650;text-decoration:none}
+.table-details:hover{text-decoration:underline}
+.group-heading th{border-top:12px solid var(--paper);border-bottom:1px solid color-mix(in srgb,var(--group-edge) 65%,var(--line));border-left:4px solid var(--group-edge);background:color-mix(in srgb,var(--group-bg) 82%,var(--surface))}
+.group-heading button{padding:15px 16px;font-size:14px;line-height:1.35}
+.group-eyebrow{font-size:8px;letter-spacing:1.25px;margin-bottom:3px}
+.group-heading small{margin-top:4px;font-size:10px}
+.group-chevron{width:22px;height:22px;display:grid;place-items:center;border-radius:50%;background:color-mix(in srgb,var(--group-edge) 18%,transparent);font-size:16px;flex:0 0 auto}
+.group-rows td:first-child{border-left:4px solid var(--group-edge)}
+.group-rows .group-workshop td:first-child{padding-left:32px}
+.row-kind{font-size:9px;margin-bottom:6px}
+
+@media(max-width:1000px){
+ .table-wrap{overflow:visible;box-shadow:none;border:0}
+ tr[data-conference]{padding:18px;gap:18px;background:var(--surface)!important;box-shadow:0 8px 24px color-mix(in srgb,var(--ink) 5%,transparent)}
+ tr[data-conference].theory{border-color:color-mix(in srgb,var(--accent) 55%,var(--line))}
+ .group-heading{background:color-mix(in srgb,var(--group-bg) 82%,var(--surface));border-left-width:4px}
+ .group-heading button{padding:15px 13px}
+ .group-rows tr[data-conference]{box-shadow:none}
+ .conference-context{padding-top:9px}
+}
 @media(max-width:640px){
  main{padding-inline:16px}
  header,footer{padding-inline:16px}
@@ -163,4 +217,28 @@ tbody tr[data-conference]:hover td{background:color-mix(in srgb,var(--group-bg) 
  .group-rows tr:last-child{border-bottom:3px solid var(--group-edge);border-radius:0 0 12px 12px;margin-bottom:20px}
  .group-rows tr:last-child td{border-bottom:0}
  .row-kind{font-size:10px}
+}
+
+/* Final table skin follows the hierarchy rules above. */
+table{line-height:1.55}
+thead th{padding:14px 16px;border-bottom-width:1px}
+td{padding:19px 16px}
+td+td{border-left:0}
+td .conference-title{font-family:Inter,"Segoe UI",Arial,sans-serif;line-height:1.35;text-decoration:none}
+td .conference-title:hover{text-decoration:underline;text-decoration-color:var(--group-edge);text-underline-offset:4px}
+.conference-context{margin-top:11px;line-height:1.55}
+.row-tools{margin-top:12px}
+.group-heading th{border-top:12px solid var(--paper);border-bottom:1px solid color-mix(in srgb,var(--group-edge) 65%,var(--line));border-left:4px solid var(--group-edge);background:color-mix(in srgb,var(--group-bg) 82%,var(--surface))}
+.group-heading button{padding:15px 16px;font-size:14px;line-height:1.35}
+.group-eyebrow{font-size:8px;margin-bottom:3px}
+.group-heading small{margin-top:4px;font-size:10px}
+.group-rows td:first-child{border-left-width:4px}
+.group-rows .group-workshop td:first-child{padding-left:32px}
+@media(max-width:1000px){
+ .table-wrap{overflow:visible;box-shadow:none;border:0}
+ tr[data-conference]{padding:18px;gap:18px;background:var(--surface)!important;box-shadow:0 8px 24px color-mix(in srgb,var(--ink) 5%,transparent)}
+ tr[data-conference].theory{border-color:color-mix(in srgb,var(--accent) 55%,var(--line))}
+ .group-heading{background:color-mix(in srgb,var(--group-bg) 82%,var(--surface));border-left-width:4px}
+ .group-heading button{padding:15px 13px}
+ .group-rows tr[data-conference]{box-shadow:none}
 }
