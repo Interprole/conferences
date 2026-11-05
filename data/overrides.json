@@ -82,9 +82,13 @@
     "submission_rules": "Анонимная аннотация до 500 слов без литературы; сведения об авторе в письме. Доклад 20 минут + 10 минут обсуждения.",
     "verification": "reviewed",
     "notes": [
-      "Отдельная страница конференции не указана в объявлении."
+      "Отдельная страница конференции не указана в объявлении.",
+      "Полный пост LINGUIST List проверен 5 ноября 2026; сбор и ограничения на число заявок остаются неизвестными."
     ],
-    "_reviewed_at": "2026-11-02"
+    "_reviewed_at": "2026-11-05",
+    "subject_languages": "Конкретные языки не ограничены; в объявлении обсуждаются, среди прочих, бемба, харакмбут, нидерландский, нилотские языки, быстринский эвенский и абазинский.",
+    "speaker_restrictions": null,
+    "checked_at": "2026-11-05"
   },
   "0ac37aafa82c0d03": {
     "topics": "Теоретические и экспериментальные исследования австронезийских языков: морфология, фонетика, фонология, синтаксис, семантика и др.",
@@ -554,9 +558,32 @@
     "_reviewed_at": "2026-11-03"
   },
   "838cf57c2305807c": {
-    "classification": "mixed",
-    "classification_reason": "Смежная или смешанная тематика.",
-    "_reviewed_at": "2026-11-03"
+    "classification": "theory",
+    "classification_reason": "Широкая конференция о грамматике и других аспектах греческого языка.",
+    "_reviewed_at": "2026-11-05",
+    "deadline": "2026-11-30",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2027-02-28",
+    "notification_text": null,
+    "topics": "Все аспекты греческого языка во все периоды: фонетика, фонология, морфология, синтаксис, семантика, прагматика, дискурс, социолингвистика, психолингвистика, история языка, диалектология, усвоение, преподавание и типология.",
+    "subject_languages": "Древнегреческий, среднегреческий, новогреческий и греческий жестовый язык.",
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-10-31",
+        "new": "2026-11-30",
+        "type": "extended",
+        "observed_at": "2026-11-05",
+        "source": "https://icgl18.org/"
+      }
+    ],
+    "verification": "reviewed",
+    "checked_at": "2026-11-05",
+    "notes": [
+      "Официальный сайт продлил срок докладов с 31 октября до 30 ноября 2026; срок предложений воркшопов — с 15 до 30 ноября. Запись отслеживает дедлайн докладов.",
+      "Срок ответа перенесён с 31 января на 28 февраля 2027. Регистрационные сборы пока TBA; рабочие языки и точное время дедлайна не указаны."
+    ]
   },
   "264205f70fc7beb4": {
     "classification": "theory",
@@ -631,7 +658,34 @@
   "c0b57403ec4e6e63": {
     "classification": "theory",
     "classification_reason": "Широкий критерий: грамматика, описание языков, типология и общая лингвистика; корпусные методы не исключают теоретическую тематику.",
-    "_reviewed_at": "2026-11-03"
+    "_reviewed_at": "2026-11-05",
+    "deadline": "2026-11-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": "В течение недели после подачи; фиксированная дата неизвестна",
+    "fee": "1 000 иен",
+    "topics": "Все направления лингвистики.",
+    "working_languages": "Японский и английский",
+    "speaker_restrictions": "Участвовать может любой желающий независимо от места проживания и гражданства.",
+    "submission_rules": "До 500 слов на английском или до 1 000 знаков на японском; свободный формат.",
+    "format": "Очный",
+    "website": "https://ianjoo.github.io/hokugen/2",
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-10-31",
+        "new": "2026-11-15",
+        "type": "extended",
+        "observed_at": "2026-11-05",
+        "source": "https://ianjoo.github.io/hokugen/2"
+      }
+    ],
+    "verification": "reviewed",
+    "checked_at": "2026-11-05",
+    "notes": [
+      "Официальная страница и пост LINGUIST List подтверждают продление с 31 октября до 15 ноября 2026. Точное время закрытия не указано."
+    ]
   },
   "a84f95cf51667891": {
     "classification": "mixed",
@@ -1229,5 +1283,140 @@
     "notes": [
       "В посте LINGUIST List 37.3582 опубликована программа на 6 ноября: 7:00–14:30 EST / 13:00–20:30 CET. Это изменение времени программы, а не продление дедлайна. Сбор, рабочие языки и условия отбора неизвестны; регистрационная форма не заполнялась."
     ]
+  },
+  "566b0c36aab88654": {
+    "deadline": "2026-10-31",
+    "deadline_at": "2026-10-31T23:59:00-12:00",
+    "deadline_timezone": "Anywhere on Earth (UTC−12)",
+    "notification": "2026-12-15",
+    "notification_text": null,
+    "fee": "Бесплатно для студентов, включая аспирантов, и участников из стран с низким доходом; для остальных возможный небольшой сбор не объявлен.",
+    "working_languages": "Английский",
+    "speaker_restrictions": "До 2 заявок на участника: одна единоличная или с первым авторством и одна в качестве соавтора.",
+    "submission_rules": "Анонимный PDF через OpenReview; до 500 слов, включая примеры, таблицы и рисунки, без списка литературы и сокращений; A4, поля 2,5 см, шрифт 12 pt. Доклад или постер.",
+    "format": "Очный",
+    "website": "https://gac2027.phil.hhu.de/theme-sessions/",
+    "verification": "reviewed",
+    "checked_at": "2026-11-05",
+    "_reviewed_at": "2026-11-05",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/2636/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "label": "Официальные условия Grammar and Corpora 2027",
+        "url": "https://gac2027.phil.hhu.de/theme-sessions/"
+      }
+    ],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-10-15",
+        "new": "2026-10-31",
+        "type": "extended",
+        "observed_at": "2026-11-05",
+        "source": "https://gac2027.phil.hhu.de/theme-sessions/"
+      }
+    ],
+    "notes": [
+      "Официальный сайт подтверждает продление с 15 до 31 октября 2026, 23:59 Anywhere on Earth. Срок уже прошёл; запись и история сохранены."
+    ]
+  },
+  "bd0f100c2d796b0c": {
+    "deadline": "2026-10-31",
+    "deadline_at": "2026-10-31T23:59:00-12:00",
+    "deadline_timezone": "Anywhere on Earth (UTC−12)",
+    "notification": "2026-12-15",
+    "notification_text": null,
+    "fee": "Бесплатно для студентов, включая аспирантов, и участников из стран с низким доходом; для остальных возможный небольшой сбор не объявлен.",
+    "working_languages": "Английский",
+    "speaker_restrictions": "До 2 заявок на участника: одна единоличная или с первым авторством и одна в качестве соавтора.",
+    "submission_rules": "Анонимный PDF через OpenReview; до 500 слов, включая примеры, таблицы и рисунки, без списка литературы и сокращений; A4, поля 2,5 см, шрифт 12 pt. Доклад или постер.",
+    "format": "Очный",
+    "website": "https://gac2027.phil.hhu.de/theme-sessions/",
+    "verification": "reviewed",
+    "checked_at": "2026-11-05",
+    "_reviewed_at": "2026-11-05",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3383/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "label": "Официальные условия Grammar and Corpora 2027",
+        "url": "https://gac2027.phil.hhu.de/theme-sessions/"
+      }
+    ],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-10-15",
+        "new": "2026-10-31",
+        "type": "extended",
+        "observed_at": "2026-11-05",
+        "source": "https://gac2027.phil.hhu.de/theme-sessions/"
+      }
+    ],
+    "notes": [
+      "Официальный сайт подтверждает продление с 15 до 31 октября 2026, 23:59 Anywhere on Earth. Срок уже прошёл; запись и история сохранены."
+    ],
+    "topics": "Ареальная и социальная вариативность грамматики в корпусах: диалектология, вариационная социолингвистика и теоретическое моделирование грамматической вариативности.",
+    "classification": "theory",
+    "classification_reason": "Корпусное исследование морфологии, синтаксиса и вариативности грамматики."
+  },
+  "c515bb397e0e4920": {
+    "deadline": "2026-10-31",
+    "deadline_at": "2026-10-31T23:59:00-12:00",
+    "deadline_timezone": "Anywhere on Earth (UTC−12)",
+    "notification": "2026-12-15",
+    "notification_text": null,
+    "fee": "Бесплатно для студентов, включая аспирантов, и участников из стран с низким доходом; для остальных возможный небольшой сбор не объявлен.",
+    "working_languages": "Английский",
+    "speaker_restrictions": "До 2 заявок на участника: одна единоличная или с первым авторством и одна в качестве соавтора.",
+    "submission_rules": "Анонимный PDF через OpenReview; до 500 слов, включая примеры, таблицы и рисунки, без списка литературы и сокращений; A4, поля 2,5 см, шрифт 12 pt. Доклад или постер.",
+    "format": "Очный",
+    "website": "https://gac2027.phil.hhu.de/theme-sessions/",
+    "verification": "reviewed",
+    "checked_at": "2026-11-05",
+    "_reviewed_at": "2026-11-05",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/conf/search/?page=52",
+        "label": "LINGUIST List · каталог"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/2761/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "label": "Официальные условия Grammar and Corpora 2027",
+        "url": "https://gac2027.phil.hhu.de/theme-sessions/"
+      }
+    ],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-10-15",
+        "new": "2026-10-31",
+        "type": "extended",
+        "observed_at": "2026-11-05",
+        "source": "https://gac2027.phil.hhu.de/theme-sessions/"
+      }
+    ],
+    "notes": [
+      "Официальный сайт подтверждает продление с 15 до 31 октября 2026, 23:59 Anywhere on Earth. Срок уже прошёл; запись и история сохранены."
+    ],
+    "topics": "Невербальные предикаты в спонтанной устной речи: синтаксис, типология, информационная структура, дискурсивные функции и грамматикализация.",
+    "subject_languages": "Типологически разнообразные, преимущественно малоизученные и находящиеся под угрозой языки с полевыми корпусами устной речи.",
+    "classification": "theory",
+    "classification_reason": "Синтаксис и типология невербальной предикации на корпусном материале."
   }
 }

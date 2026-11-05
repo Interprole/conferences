@@ -1,8 +1,8 @@
 {
-  "attempted_at": "2026-11-04T13:38:07.242Z",
-  "last_success_at": "2026-11-04T13:38:07.242Z",
-  "pages_read": 3,
-  "issues_read": 3,
+  "attempted_at": "2026-11-05T06:02:40.783Z",
+  "last_success_at": "2026-11-05T06:02:40.783Z",
+  "pages_read": 6,
+  "issues_read": 11,
   "feeds_read": 0,
   "complete": false,
   "discovery_complete": false,
@@ -10,6 +10,14 @@
   "pending_count": 26,
   "coverage": {
     "current_manual_review": {
+      "catalogue_pages_read": 6,
+      "catalogue_page_failures": 1,
+      "recent_issue_pages_read": 1,
+      "full_posts_read": 11,
+      "official_pages_or_search_copies_read": 7,
+      "official_pages_failed": 2
+    },
+    "previous_manual_review": {
       "catalogue_pages_read": 3,
       "recent_issue_pages_read": 1,
       "full_posts_read": 3,
@@ -49,23 +57,27 @@
       "records_needing_review": 505,
       "official_sites_verified": false
     },
-    "records_total": 513,
+    "records_total": 518,
     "records_without_issue": 14,
     "official_sites_verified": false
   },
-  "error_count": 3,
+  "error_count": 4,
   "errors": [
     {
-      "url": "https://linguistlist.org/conf/search/?page=60",
-      "error": "Страница не открылась через доступный инструмент; полный новый обход 60 страниц не выполнен."
+      "url": "https://linguistlist.org/conf/search/?page=7",
+      "error": "Страница не открылась до тайм-аута; страницы 7–60 сегодня не просмотрены."
     },
     {
-      "url": "https://www.ling.upenn.edu/Events/PLC/plc51/index.html",
-      "error": "Официальная страница Penn Linguistics Conference 51 ограничила доступ."
+      "url": "https://linguistlist.org/issues/37/2636/",
+      "error": "Полный пост вернул HTTP 429; общие сроки секции проверены по официальному сайту Grammar and Corpora 2027."
     },
     {
-      "url": "https://olinco.upol.cz/",
-      "error": "Официальный сайт OLINCO не ответил до тайм-аута."
+      "url": "https://icl2028leiden.nl/call-for-workshops/",
+      "error": "Официальная страница не открылась; запись основана на полном посте LINGUIST List."
+    },
+    {
+      "url": "https://forms.gle/By36x3NgHpjZV5b86",
+      "error": "Форма подачи LAL/TESOL не открылась; неизвестные требования оставлены null/в notes."
     }
   ],
   "deadline_conflicts": [
@@ -85,8 +97,8 @@
       "retained_deadline": "2026-11-06"
     }
   ],
-  "note": "Ручная проверка 4 ноября 2026: прочитаны только первые 3 страницы каталога, первая страница новых Calls/Conferences и 3 полных поста. Добавлен OLINCO 2027; уточнены Penn Linguistics Conference 51 и Linguistics and Semitic Philology Conference. Остальные страницы и будущие конференции ещё не просмотрены, поэтому полнота не заявляется.",
-  "added": 1,
-  "updated": 2,
-  "extensions_found": 0
+  "note": "Ручная проверка 5 ноября 2026: прочитаны страницы 1–6 каталога, первая страница новых Calls/Conferences, 11 полных постов и доступные официальные страницы. Добавлены 5 пропущенных объявлений. Подтверждены 5 записей с продлением в трёх объявлениях: ICGL18, Hokugen2 и три самостоятельные секции Grammar and Corpora 2027. Страницы 7–60 сегодня не просмотрены, поэтому полнота не заявляется.",
+  "added": 5,
+  "updated": 6,
+  "extensions_found": 5
 }

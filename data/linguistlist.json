@@ -20688,5 +20688,200 @@
       37,
       3583
     ]
+  },
+  {
+    "id": "manual-ll-37-3618",
+    "name": "33rd Annual Graduate Linguistics, Applied Linguistics, and TESOL Symposium",
+    "start": "2027-02-20",
+    "end": "2027-02-20",
+    "location": "Tempe, AZ, USA",
+    "deadline": "2026-11-29",
+    "deadline_at": "2026-11-29T23:59:00-07:00",
+    "deadline_timezone": "MST (UTC−07:00)",
+    "notification": null,
+    "notification_text": null,
+    "fee": "Участие бесплатное.",
+    "topics": "Все направления лингвистики, прикладной лингвистики и TESOL; отдельная постерная секция для студентов бакалавриата.",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": "Студенты бакалавриата могут подаваться в отдельную постерную секцию; остальные ограничения на выступающих и соавторство не указаны.",
+    "submission_rules": "Подача через Google Forms; объём и формат тезисов в доступном объявлении не указаны.",
+    "format": null,
+    "website": "https://forms.gle/By36x3NgHpjZV5b86",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3618/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Отдельный сайт конференции в объявлении не указан; форма подачи не открылась при проверке. Срок ответа, рабочие языки и формат проведения неизвестны."
+    ],
+    "classification": "mixed",
+    "classification_reason": "Широкая общелингвистическая программа вместе с прикладной лингвистикой и TESOL.",
+    "checked_at": "2026-11-05",
+    "verification": "reviewed",
+    "source_order": [
+      37,
+      3618
+    ]
+  },
+  {
+    "id": "manual-ll-37-3616",
+    "name": "Symposium on American Indian Languages 2027",
+    "start": "2027-04-08",
+    "end": "2027-04-09",
+    "location": "Tucson, USA",
+    "deadline": "2027-01-13",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Документация и описание, сохранение, возвращение в употребление и ревитализация коренных языков Америк.",
+    "subject_languages": "Коренные языки Америк; в рубриках объявления названы равнинный индейский жестовый язык, тохоно-о'одхам и яки, а также алгские, ирокезские, мускогские, на-дене и юто-ацтекские языки.",
+    "working_languages": null,
+    "speaker_restrictions": "Приветствуются исследователи, представители коренных сообществ, носители, преподаватели и языковые активисты.",
+    "submission_rules": null,
+    "format": "Очный",
+    "website": "https://sites.google.com/view/sail-uofa",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3616/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Официальный сайт подтверждает очный формат и даты. Сбор, рабочие языки, правила подачи и срок ответа в доступных материалах не указаны."
+    ],
+    "classification": "mixed",
+    "classification_reason": "Описание языков сочетается с документацией, сохранением и ревитализацией.",
+    "checked_at": "2026-11-05",
+    "verification": "reviewed",
+    "source_order": [
+      37,
+      3616
+    ]
+  },
+  {
+    "id": "manual-ll-37-3615",
+    "name": "II Encontro Internacional de Historiografia Linguística & II Encontro de Gramaticografia Ibero-Americana",
+    "start": "2027-08-31",
+    "end": "2027-09-03",
+    "location": "Fortaleza/Ceará, Brazil",
+    "deadline": "2027-03-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Историография лингвистики и иберо-американская грамматикография: производство лингвистического знания, метаязыковые традиции и история грамматических описаний.",
+    "subject_languages": "Португальский и испанский языки указаны в рубриках объявления; географический фокус — Иберо-Америка, другие регионы не исключаются.",
+    "working_languages": null,
+    "speaker_restrictions": "Приглашаются студенты бакалавриата и магистратуры/аспирантуры, школьные и вузовские преподаватели и исследователи из Бразилии и других стран.",
+    "submission_rules": "Заявки на доклады и постеры подаются через форму на официальном сайте; объём и формат тезисов не указаны.",
+    "format": "Очный",
+    "website": "https://doity.com.br/gramaticografia2",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3615/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Официальная страница подтверждает площадку и ежедневное время 09:00–18:00, но не показывает сбор, рабочие языки и срок ответа."
+    ],
+    "classification": "mixed",
+    "classification_reason": "История лингвистического знания и грамматикография, а не собственно современная теория грамматики.",
+    "checked_at": "2026-11-05",
+    "verification": "reviewed",
+    "source_order": [
+      37,
+      3615
+    ]
+  },
+  {
+    "id": "manual-ll-37-3603",
+    "name": "Workshop at SLE 2027 – The Emergence and Development of Future-Tense Constructions in Slavic Languages: Historical and Areal Perspectives",
+    "start": "2027-08-25",
+    "end": "2027-08-28",
+    "location": "Košice, Slovakia",
+    "deadline": "2026-11-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Возникновение и развитие конструкций будущего времени в славянских языках: грамматикализация, взаимодействие времени и вида, контакт, ареальная и историческая типология.",
+    "subject_languages": "Старославянский и церковнославянские изводы, среднеболгарский, древненовгородский, древневосточнославянский, среднерусский, русинский, древне- и среднечешский, древне- и среднепольский; также современные славянские и контактировавшие греческие, балтийские, германские, романские и уральские языки.",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "Предварительные тезисы до 100 слов без литературы. Если воркшоп будет принят, авторы подают переработанные тезисы до 500 слов по правилам SLE.",
+    "format": null,
+    "website": "https://societaslinguistica.eu/sle2027/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3603/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Это предложение воркшопа SLE 2027: точный день секции и срок ответа пока неизвестны. Сбор, рабочие языки, ограничения на авторов и точное время дедлайна не указаны."
+    ],
+    "classification": "theory",
+    "classification_reason": "Грамматическая семантика будущего времени, вид, грамматикализация и типология славянских языков.",
+    "checked_at": "2026-11-05",
+    "verification": "reviewed",
+    "source_order": [
+      37,
+      3603
+    ]
+  },
+  {
+    "id": "manual-ll-37-3602",
+    "name": "22nd International Congress of Linguists — Call for Workshops",
+    "start": "2028-07-23",
+    "end": "2028-07-29",
+    "location": "Leiden, Netherlands",
+    "deadline": "2027-02-01",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Предложения воркшопов для 22-го Международного конгресса лингвистов; все подразделы лингвистики, тема конгресса — «Мир языков».",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "Это срок подачи предложений воркшопов, а не индивидуальных докладов; технические требования на доступной копии объявления отсутствуют.",
+    "format": null,
+    "website": "https://icl2028leiden.nl/call-for-workshops/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3602/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Официальная страница call for workshops не открылась при проверке; запись основана на полном посте LINGUIST List. Срок ответа, сбор, рабочие языки, формат и ограничения на организаторов неизвестны."
+    ],
+    "classification": "theory",
+    "classification_reason": "Общелингвистический международный конгресс без узкой прикладной специализации.",
+    "checked_at": "2026-11-05",
+    "verification": "reviewed",
+    "source_order": [
+      37,
+      3602
+    ]
   }
 ]
