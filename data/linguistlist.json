@@ -1368,31 +1368,36 @@
     "notification": "2027-03-01",
     "notification_text": "March 1, 2027",
     "fee": null,
-    "topics": "General Linguistics; Linguistic Theories",
-    "subject_languages": null,
-    "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
-    "format": null,
+    "topics": "Теоретические и формальные аспекты языков Восточной и Юго-Восточной Азии: синтаксис, семантика, фонология, морфология, усвоение языка и психолингвистика.",
+    "subject_languages": "Языки Восточной и Юго-Восточной Азии.",
+    "working_languages": "Английский — язык тезисов; язык выступлений отдельно не указан.",
+    "speaker_restrictions": "Не более двух тезисов на автора; не более одних единоличных тезисов.",
+    "submission_rules": "Анонимный PDF через EasyAbs, не более 2 страниц A4 со всеми данными и литературой; одинарный интервал, поля 1 дюйм, Times New Roman 12 pt. Работа не должна быть уже опубликована или принята к публикации; указать предпочтение доклад/постер.",
+    "format": "Очный",
     "website": "https://www.universiteitleiden.nl/en/events/2027/06/theoretical-east-asian-linguistics--16th",
     "sources": [
       {
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3420/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3633/",
+        "label": "LINGUIST List · полный CFP"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Полный новый пост LINGUIST List проверен 6 ноября 2026. Официальный сайт Лейденского университета временно показывал сообщение о техническом сбое; организационный сбор и язык выступлений остаются неизвестными."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "checked_at": "2026-11-06",
+    "verification": "reviewed",
     "source_order": [
       37,
-      3420
+      3633
     ]
   },
   {
@@ -15090,7 +15095,7 @@
     "start": "2027-02-27",
     "end": "2027-02-28",
     "location": "Philadelphia, PA, USA",
-    "deadline": "2026-11-06",
+    "deadline": "2026-11-13",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
@@ -15108,16 +15113,31 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3004/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "other",
+        "url": "https://lingalert.com/",
+        "label": "Ling alert · продление"
       }
     ],
-    "history": [],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-11-06",
+        "new": "2026-11-13",
+        "type": "extended",
+        "observed_at": "2026-11-06",
+        "source": "https://lingalert.com/"
+      }
+    ],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Продление до 13 ноября подтверждено актуальной публичной страницей Ling alert, ссылающейся на официальный сайт и OpenReview. Официальная страница Penn при проверке была недоступна, а OpenReview не показал срок без выполнения JavaScript.",
+      "Точное время и часовой пояс нового срока, организационный сбор, рабочий язык и дата ответа остаются неизвестными."
     ],
     "classification": "theory",
     "classification_reason": "Широкий критерий: грамматика, описание языков, типология и общая лингвистика; корпусные методы не исключают теоретическую тематику.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "checked_at": "2026-11-06",
+    "verification": "reviewed",
     "source_order": [
       37,
       3004
@@ -20882,6 +20902,135 @@
     "source_order": [
       37,
       3602
+    ]
+  },
+  {
+    "id": "manual-ll-37-3629",
+    "name": "Workshop at SLE 2027: What a Situation! Cross-Categorial and Cross-Linguistic Perspectives on Evaluation",
+    "start": "2027-08-25",
+    "end": "2027-08-28",
+    "location": "Кошице, Словакия",
+    "deadline": "2026-11-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Оценка ситуаций в семантике и морфологии: аспектуальность, акциональность, плюракциональность, событийная номинализация, степень, конструкционное значение и межъязыковая типология.",
+    "subject_languages": "Типологически разнообразные языки; в объявлении приведены примеры из китайского, немецкого, русского, английского, итальянского и французского, но ограничение конкретными языками не установлено.",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": "Очный воркшоп в составе SLE 2027",
+    "website": null,
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3629/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "В заголовочных метаданных LINGUIST List ошибочно указана Италия; в тексте объявления место обозначено как Кошице, Словакия.",
+      "Объявление называет подачу предварительных тезисов, но не указывает объём, способ подачи, срок ответа, рабочий язык или сбор; эти поля оставлены null."
+    ],
+    "classification": "theory",
+    "classification_reason": "Содержательно посвящён семантике, морфологии и типологии способов оценки ситуаций.",
+    "checked_at": "2026-11-06",
+    "verification": "reviewed",
+    "source_order": [
+      37,
+      3629
+    ]
+  },
+  {
+    "id": "manual-ll-37-3628",
+    "name": "17th Students’ Conference of Linguistics in India",
+    "start": "2027-02-25",
+    "end": "2027-02-27",
+    "location": "Агра, Уттар-Прадеш, Индия",
+    "deadline": "2027-01-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Широкая междисциплинарная лингвистическая конференция: общая, антропологическая, прикладная, компьютерная и социолингвистика.",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": "Ориентирована на студентов магистратуры, исследователей и состоявшихся учёных; формальное ограничение участия только студентами в доступном объявлении не установлено.",
+    "submission_rules": null,
+    "format": null,
+    "website": "https://sites.google.com/view/sconli17",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3628/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://sites.google.com/view/sconli17",
+        "label": "Официальный сайт"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Полный пост и доступная главная страница официального сайта не раскрывают объём тезисов, рабочие языки, сбор и срок ответа; ссылки на отдельные инструкции не были прочитаны в этом обходе.",
+      "Рубрики Language Family в LINGUIST List не интерпретированы как ограничение исследуемых языков."
+    ],
+    "classification": "mixed",
+    "classification_reason": "Общая лингвистика объединена с явно прикладными и компьютерными направлениями.",
+    "checked_at": "2026-11-06",
+    "verification": "partial",
+    "source_order": [
+      37,
+      3628
+    ]
+  },
+  {
+    "id": "manual-ll-37-3626",
+    "name": "Non-Ideal Communication and the Architecture of the Common Ground",
+    "start": "2027-04-24",
+    "end": "2027-04-25",
+    "location": "Амхерст, Массачусетс, США",
+    "deadline": "2026-12-21",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Семантика и прагматика неидеальной коммуникации: общий фонд знаний, пресуппозиция, косвенная коммуникация, неассертивное содержание, социальное значение, правдоподобное отрицание и перспективы участников.",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": "Принимаются исследователи всех карьерных стадий; особенно приветствуются аспиранты и начинающие исследователи.",
+    "submission_rules": "PDF-тезисы на очный доклад 30 минут и 15 минут вопросов; подача до 21 декабря 2026. Объём и форматирование в доступном посте не указаны.",
+    "format": "Очный",
+    "website": "https://shaunak-phadnis.github.io/nictacg-2027/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3626/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://shaunak-phadnis.github.io/nictacg-2027/",
+        "label": "Официальный сайт"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Официальный сайт не открылся при проверке; срок ответа, рабочий язык, сбор и полные требования к PDF оставлены null/неизвестными."
+    ],
+    "classification": "theory",
+    "classification_reason": "Содержательно посвящён формальной семантике, прагматике и архитектуре контекста.",
+    "checked_at": "2026-11-06",
+    "verification": "partial",
+    "source_order": [
+      37,
+      3626
     ]
   }
 ]
