@@ -6034,14 +6034,14 @@
     "start": "2027-06-14",
     "end": "2027-06-17",
     "location": "Lisbon, Portugal",
-    "deadline": "2026-11-13",
+    "deadline": "2026-11-20",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": "Phonetics; Phonology",
-    "subject_languages": null,
+    "topics": "Фонетика и фонология, включая экспериментальные и формальные подходы, просодию, усвоение, вариативность, языковой контакт, жестовые и малые языки; тема — связь фундаментальных, прикладных и трансляционных исследований.",
+    "subject_languages": "Конкретные языки не ограничены; приветствуются работы по миноритарным и исчезающим языкам, устным и жестовым языкам.",
     "working_languages": null,
     "speaker_restrictions": null,
     "submission_rules": null,
@@ -6052,16 +6052,31 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/2494/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3660/",
+        "label": "LINGUIST List · продление"
       }
     ],
-    "history": [],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-11-13",
+        "new": "2026-11-20",
+        "type": "extended",
+        "observed_at": "2026-11-07",
+        "source": "https://linguistlist.org/issues/37/3660/"
+      }
+    ],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Продление с 13 до 20 ноября 2026 подтверждено новым постом LINGUIST List; точное время закрытия не указано.",
+      "Официальный сайт не открылся; сбор, рабочие языки, срок ответа и ограничения на авторов остаются неизвестными."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "checked_at": "2026-11-07",
+    "verification": "reviewed",
     "source_order": [
       37,
       2494
@@ -15096,8 +15111,8 @@
     "end": "2027-02-28",
     "location": "Philadelphia, PA, USA",
     "deadline": "2026-11-13",
-    "deadline_at": null,
-    "deadline_timezone": null,
+    "deadline_at": "2026-11-13T23:59:00-12:00",
+    "deadline_timezone": "Anywhere on Earth (UTC−12)",
     "notification": null,
     "notification_text": null,
     "fee": null,
@@ -15118,6 +15133,11 @@
         "type": "other",
         "url": "https://lingalert.com/",
         "label": "Ling alert · продление"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3668/",
+        "label": "LINGUIST List · продление"
       }
     ],
     "history": [
@@ -15127,20 +15147,20 @@
         "new": "2026-11-13",
         "type": "extended",
         "observed_at": "2026-11-06",
-        "source": "https://lingalert.com/"
+        "source": "https://linguistlist.org/issues/37/3668/"
       }
     ],
     "notes": [
-      "Продление до 13 ноября подтверждено актуальной публичной страницей Ling alert, ссылающейся на официальный сайт и OpenReview. Официальная страница Penn при проверке была недоступна, а OpenReview не показал срок без выполнения JavaScript.",
-      "Точное время и часовой пояс нового срока, организационный сбор, рабочий язык и дата ответа остаются неизвестными."
+      "Продление с 6 до 13 ноября 2026, 23:59 Anywhere on Earth, подтверждено новым полным постом LINGUIST List 37.3668.",
+      "Организационный сбор, рабочий язык и дата ответа остаются неизвестными."
     ],
     "classification": "theory",
     "classification_reason": "Широкий критерий: грамматика, описание языков, типология и общая лингвистика; корпусные методы не исключают теоретическую тематику.",
-    "checked_at": "2026-11-06",
+    "checked_at": "2026-11-07",
     "verification": "reviewed",
     "source_order": [
       37,
-      3004
+      3668
     ]
   },
   {
@@ -21031,6 +21051,441 @@
     "source_order": [
       37,
       3626
+    ]
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "subject_languages": "Любые языки и исторические периоды; конкретные ограничения не установлены.",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "Анонимный PDF через EasyAbs; описательный заголовок, основной текст и литература; до 500 слов без списка литературы. Доклад рассчитан на 30 минут. Не принятые в воркшоп тезисы могут быть рассмотрены для общей секции.",
+    "format": "Очный воркшоп в составе ICHL 28",
+    "history": [],
+    "notes": [
+      "Точный день воркшопа внутри конференции 26–30 июля не указан; в записи сохранён диапазон дат ICHL 28. Срок ответа, рабочий язык и сбор неизвестны."
+    ],
+    "checked_at": "2026-11-07",
+    "verification": "reviewed",
+    "id": "manual-ll-37-3648",
+    "name": "Workshop at ICHL28: Historical Treebanks and Linguistic Theory",
+    "start": "2027-07-26",
+    "end": "2027-07-30",
+    "location": "Рейкьявик, Исландия",
+    "deadline": "2026-12-01",
+    "topics": "Исторические синтаксические корпуса и теория языка: схемы разметки, сопоставимость, интероперабельность, диахронический синтаксис и влияние аналитических решений на результаты.",
+    "website": "https://ichl28.hi.is/call-for-papers/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3648/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://ichl28.hi.is/call-for-papers/",
+        "label": "Официальный CFP ICHL 28"
+      }
+    ],
+    "classification": "theory",
+    "classification_reason": "Корпусные методы применяются к диахроническому синтаксису и теории грамматических изменений.",
+    "source_order": [
+      37,
+      3648
+    ]
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "subject_languages": "Коренные языки Северной, Центральной и Южной Америки.",
+    "working_languages": "Испанский, португальский, английский, французский, немецкий и итальянский; также допускается официальный язык страны проведения.",
+    "speaker_restrictions": "Не более двух докладов в разных симпозиумах; не более двух выступающих на доклад.",
+    "submission_rules": "Индивидуальная заявка через платформу конгресса: резюме 200–300 слов, 5 ключевых слов и биографическая справка до 250 слов.",
+    "format": "Очный симпозиум в составе 59-го Международного конгресса американистов",
+    "history": [],
+    "notes": [
+      "Срок ответа и организационный сбор для этого симпозиума не указаны в доступных источниках."
+    ],
+    "checked_at": "2026-11-07",
+    "verification": "reviewed",
+    "id": "manual-ll-37-3646",
+    "name": "Workshop at the 59th International Congress of Americanists: The Changing Geographies of the Indigenous Languages of the Americas",
+    "start": "2027-07-05",
+    "end": "2027-07-09",
+    "location": "Медельин, Колумбия",
+    "deadline": "2027-01-31",
+    "topics": "Меняющиеся географии коренных языков Америк: перемещение, контакт, территориальность, жизнеспособность, документация и языковая политика.",
+    "website": "https://congresoica.org/inicio/simposios/?simposio=7289850",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3646/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://congresoica.org/inicio/simposios/?simposio=7289850",
+        "label": "Официальная страница симпозиума"
+      }
+    ],
+    "classification": "mixed",
+    "classification_reason": "Сочетает грамматику и описание языков с социолингвистикой, языковой политикой и культурно-географическими вопросами.",
+    "source_order": [
+      37,
+      3646
+    ]
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2027-02-15",
+    "notification_text": "15 февраля 2027",
+    "fee": null,
+    "subject_languages": "Индоевропейские языки и праиндоевропейский.",
+    "working_languages": "Английский.",
+    "speaker_restrictions": "Ориентировано прежде всего на молодых исследователей и аспирантов; точная граница карьерной стадии в доступном объявлении не установлена.",
+    "submission_rules": "Тезисы до 500 слов; библиография не входит в лимит. Правила анонимности и способ подачи — по полному CFP.",
+    "format": "Очный",
+    "history": [],
+    "notes": [
+      "Организационный сбор неизвестен."
+    ],
+    "checked_at": "2026-11-07",
+    "verification": "reviewed",
+    "id": "manual-ll-37-3645",
+    "name": "11th Indo-European Research Colloquium",
+    "start": "2027-05-15",
+    "end": "2027-05-16",
+    "location": "Познань, Польша",
+    "deadline": "2027-01-15",
+    "topics": "Индоевропеистика: сравнительно-историческая грамматика, фонология, морфология, синтаксис, семантика и реконструкция.",
+    "website": "https://sites.google.com/view/ierc11/home",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3645/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://sites.google.com/view/ierc11/home",
+        "label": "Официальный сайт"
+      }
+    ],
+    "classification": "theory",
+    "classification_reason": "Сравнительно-историческая грамматика и теория индоевропейских языков.",
+    "source_order": [
+      37,
+      3645
+    ]
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2027-03-15",
+    "notification_text": "15 марта 2027",
+    "fee": null,
+    "subject_languages": null,
+    "working_languages": "Английский.",
+    "speaker_restrictions": null,
+    "submission_rules": "Индивидуальный доклад или доклад в панели: до 300 слов; предложение панели: до 500 слов. Полные технические требования в доступной копии не раскрыты.",
+    "format": "Очный",
+    "history": [],
+    "notes": [
+      "Официальный сайт не открылся при проверке; исследуемые языки, сбор и ограничения на авторов остаются неизвестными."
+    ],
+    "checked_at": "2026-11-07",
+    "verification": "partial",
+    "id": "manual-ll-37-3653",
+    "name": "Languaging Diversity 2027",
+    "start": "2027-06-08",
+    "end": "2027-06-10",
+    "location": "Неаполь, Италия",
+    "deadline": "2027-01-15",
+    "topics": "Языковое разнообразие, многоязычие, дискурс, идентичность, образование и языковая политика.",
+    "website": "https://languagingdiversit.wixsite.com/lang-diversity-2027",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3653/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://languagingdiversit.wixsite.com/lang-diversity-2027",
+        "label": "Официальный сайт"
+      }
+    ],
+    "classification": "mixed",
+    "classification_reason": "Широкая конференция о многоязычии и разнообразии объединяет лингвистические, образовательные и социальные направления.",
+    "source_order": [
+      37,
+      3653
+    ]
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "subject_languages": "Африканские языки, афроамериканские языковые разновидности и связанные контактные языки.",
+    "working_languages": null,
+    "speaker_restrictions": "Студенческие заявки особенно приветствуются; предпочтительный формат для студентов — постер. Иные ограничения не установлены.",
+    "submission_rules": "Подача через EasyAbs. Полный объём и формат доступны во вложении к объявлению, которое не удалось открыть.",
+    "format": "Очный",
+    "history": [],
+    "notes": [
+      "Публичное вложение с полными правилами не открылось; рабочий язык, срок ответа, организационный сбор и точный объём тезисов неизвестны."
+    ],
+    "checked_at": "2026-11-07",
+    "verification": "partial",
+    "id": "manual-ll-37-3662",
+    "name": "The African and African American Linguistic Summit",
+    "start": "2027-04-08",
+    "end": "2027-04-10",
+    "location": "Хьюстон, Техас, США",
+    "deadline": "2026-12-18",
+    "topics": "Лингвистика африканских и афроамериканских языков и разновидностей: структура, вариативность, история, документация и социолингвистика.",
+    "website": null,
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3662/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "classification": "mixed",
+    "classification_reason": "Включает грамматику и описание языков, а также широкую социолингвистическую и общественную проблематику.",
+    "source_order": [
+      37,
+      3662
+    ]
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2027-03-15",
+    "notification_text": "15 марта 2027",
+    "fee": null,
+    "subject_languages": "Английский язык; сопоставительный материал допускается в связи с английской лексикографией и лексикологией.",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "Заявки на доклады и постеры; точный объём и технический формат в доступном посте не удалось подтвердить.",
+    "format": "Очный",
+    "history": [],
+    "notes": [
+      "Официальный сайт не открылся; рабочий язык, сбор и ограничения на авторов неизвестны."
+    ],
+    "checked_at": "2026-11-07",
+    "verification": "partial",
+    "id": "manual-ll-37-3669",
+    "name": "9th International Symposium on the History of English Lexicography and Lexicology",
+    "start": "2027-07-08",
+    "end": "2027-07-10",
+    "location": "Либерец, Чехия",
+    "deadline": "2027-02-15",
+    "topics": "История английской лексикографии и лексикологии: словари, словарное описание, история лексики и методы исследования.",
+    "website": "https://hel-lex.fp.tul.cz/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3669/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://hel-lex.fp.tul.cz/",
+        "label": "Официальный сайт"
+      }
+    ],
+    "classification": "mixed",
+    "classification_reason": "Лексикология и история языка относятся к лингвистике, но мероприятие специализировано на словарях и историографии.",
+    "source_order": [
+      37,
+      3669
+    ]
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": "середина февраля 2027",
+    "fee": null,
+    "subject_languages": "Английский язык; возможен сопоставительный материал в рамках темы HEL-LEX.",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "Отдельный конкурс предложений воркшопов; полные требования и способ подачи не удалось извлечь из недоступного официального сайта.",
+    "format": "Очный воркшоп в составе HEL-LEX 9",
+    "history": [],
+    "notes": [
+      "Сохранено отдельной записью из-за самостоятельного срока подачи. Точный день ответа, рабочий язык, сбор и ограничения на организаторов неизвестны."
+    ],
+    "checked_at": "2026-11-07",
+    "verification": "partial",
+    "id": "manual-ll-37-3669-workshops",
+    "name": "HEL-LEX 9 — workshop proposals",
+    "start": "2027-07-08",
+    "end": "2027-07-10",
+    "location": "Либерец, Чехия",
+    "deadline": "2027-01-15",
+    "topics": "Предложения самостоятельных воркшопов по истории английской лексикографии и лексикологии.",
+    "website": "https://hel-lex.fp.tul.cz/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3669/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://hel-lex.fp.tul.cz/",
+        "label": "Официальный сайт"
+      }
+    ],
+    "classification": "mixed",
+    "classification_reason": "Связано с лингвистическим симпозиумом, но тематика конкретного воркшопа определяется заявителем.",
+    "source_order": [
+      37,
+      3669
+    ]
+  },
+  {
+    "deadline_at": "2027-01-06T23:59:00+01:00",
+    "deadline_timezone": "CET (UTC+1)",
+    "notification": "2027-01-31",
+    "notification_text": "31 января 2027",
+    "fee": "130 € — обычный; 90 € — аспиранты; 50 € — слушатели без доклада.",
+    "subject_languages": null,
+    "working_languages": "Английский и испанский; заявки принимаются на любом из этих языков.",
+    "speaker_restrictions": null,
+    "submission_rules": "Очные доклады, постеры и тематические секции; подача по официальным инструкциям. Доклад 20 минут + 5 минут обсуждения; тематическая секция 4–6 докладов.",
+    "format": "Очный; пленарные заседания транслируются, дистанционные доклады не принимаются.",
+    "history": [],
+    "notes": [
+      "Предконференционные воркшопы проходят 1 июня; выражения интереса для их организации имеют тот же срок 6 января, но не добавлены отдельной записью без самостоятельного полного CFP."
+    ],
+    "checked_at": "2026-11-07",
+    "verification": "reviewed",
+    "id": "manual-ll-37-3667",
+    "name": "18th Researching and Applying Metaphor Conference",
+    "start": "2027-06-02",
+    "end": "2027-06-04",
+    "location": "Памплона, Испания",
+    "deadline": "2027-01-06",
+    "topics": "Метафора, метонимия и образный язык; основная тема — споры, медиация, оценка, аргументация и общественный дискурс.",
+    "website": "https://www.unav.edu/web/instituto-cultura-y-sociedad/RaAM-18",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3667/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://www.unav.edu/web/instituto-cultura-y-sociedad/RaAM-18",
+        "label": "Официальный сайт"
+      }
+    ],
+    "classification": "mixed",
+    "classification_reason": "Сочетает лингвистическую теорию метафоры с прикладным, дискурсивным и общественным анализом.",
+    "source_order": [
+      37,
+      3667
+    ]
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "subject_languages": "Миноритарные и коренные языки.",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "Предварительные тезисы до 100 слов для отбора в предложение воркшопа SLE; последующий этап подачи регулируется правилами SLE.",
+    "format": "Предлагаемый очный воркшоп в составе SLE 2027",
+    "history": [],
+    "notes": [
+      "Это предварительный внутренний срок для формирования предложения воркшопа. Срок ответа, рабочий язык, сбор и ограничения на авторов неизвестны."
+    ],
+    "checked_at": "2026-11-07",
+    "verification": "reviewed",
+    "id": "manual-ll-37-3663",
+    "name": "Workshop at SLE 2027: The Moral Responsibility to Decolonise General Linguistics on Minoritised and Indigenous Languages",
+    "start": "2027-08-25",
+    "end": "2027-08-28",
+    "location": "Кошице, Словакия",
+    "deadline": "2026-11-18",
+    "topics": "Деколонизация общей лингвистики на материале миноритарных и коренных языков; методы описания, теория, этика и отношения с сообществами.",
+    "website": "https://societaslinguistica.eu/sle2027/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3663/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://societaslinguistica.eu/sle2027/",
+        "label": "Сайт SLE 2027"
+      }
+    ],
+    "classification": "mixed",
+    "classification_reason": "Общая лингвистика и описание языков сочетаются с этической, политической и деколониальной проблематикой.",
+    "source_order": [
+      37,
+      3663
+    ]
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2027-03-15",
+    "notification_text": "15 марта 2027",
+    "fee": "15 €",
+    "subject_languages": "Испанский язык как иностранный.",
+    "working_languages": "Испанский.",
+    "speaker_restrictions": null,
+    "submission_rules": "Тезисы до 300 слов; полные технические требования и способ подачи указаны на официальном сайте, который не открылся.",
+    "format": "Очный",
+    "history": [],
+    "notes": [
+      "Официальный сайт не открылся; ограничения на выступающих и соавторство неизвестны."
+    ],
+    "checked_at": "2026-11-07",
+    "verification": "partial",
+    "id": "manual-ll-37-3665",
+    "name": "Congreso de Español como Lengua Extranjera del Norte de Europa 2027",
+    "start": "2027-06-11",
+    "end": "2027-06-12",
+    "location": "Хельсинки, Финляндия",
+    "deadline": "2027-02-15",
+    "topics": "Испанский как иностранный язык в Северной Европе: преподавание, изучение, оценивание, материалы и языковая практика.",
+    "website": "https://www.helsinki.fi/en/conferences/celene-2027",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3665/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://www.helsinki.fi/en/conferences/celene-2027",
+        "label": "Официальный сайт"
+      }
+    ],
+    "classification": "mixed",
+    "classification_reason": "Лингвистическая конференция по испанскому языку с выраженной специализацией на методике преподавания.",
+    "source_order": [
+      37,
+      3665
     ]
   }
 ]

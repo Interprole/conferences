@@ -1,8 +1,8 @@
 {
-  "attempted_at": "2026-11-06T06:09:20.820Z",
-  "last_success_at": "2026-11-06T06:09:20.820Z",
-  "pages_read": 1,
-  "issues_read": 5,
+  "attempted_at": "2026-11-07T06:05:44.984Z",
+  "last_success_at": "2026-11-07T06:05:44.984Z",
+  "pages_read": 0,
+  "issues_read": 15,
   "feeds_read": 0,
   "complete": false,
   "discovery_complete": false,
@@ -10,19 +10,20 @@
   "pending_count": 26,
   "coverage": {
     "current_manual_review": {
+      "catalogue_pages_read": 0,
+      "catalogue_page_failures": 2,
+      "recent_issue_pages_read": 1,
+      "full_posts_or_current_search_copies_read": 15,
+      "official_pages_or_search_copies_read": 8,
+      "official_pages_failed": 4
+    },
+    "previous_manual_review": {
       "catalogue_pages_read": 1,
       "catalogue_page_failures": 1,
       "recent_issue_pages_read": 1,
       "full_posts_read": 5,
       "official_pages_or_search_copies_read": 4,
       "official_pages_failed": 3
-    },
-    "previous_manual_review": {
-      "catalogue_pages_read": 3,
-      "recent_issue_pages_read": 1,
-      "full_posts_read": 3,
-      "official_sites_opened": 1,
-      "official_sites_failed": 2
     },
     "previous_automated_cycle": {
       "cycle": {
@@ -57,27 +58,43 @@
       "records_needing_review": 505,
       "official_sites_verified": false
     },
-    "records_total": 521,
+    "records_total": 531,
     "records_without_issue": 14,
     "official_sites_verified": false
   },
-  "error_count": 4,
+  "error_count": 8,
   "errors": [
     {
       "url": "https://linguistlist.org/conf/search/?page=8",
-      "error": "Доступна только устаревшая поисковая копия; страницы 8–60 сегодня не просмотрены."
+      "error": "Страницы 8 и 9 не открылись; страницы 8–60 сегодня не просмотрены напрямую."
     },
     {
-      "url": "https://www.universiteitleiden.nl/en/events/2027/06/theoretical-east-asian-linguistics--16th",
-      "error": "Официальный сайт сообщил о временном техническом сбое; TEAL-16 проверена по полному посту LINGUIST List."
+      "url": "https://linguistlist.org/issues/37/3673/",
+      "error": "Новый пост PAC 2027 вернул 403; доступен старый полный пост 37.3074, поэтому изменения условий нового поста не утверждаются."
     },
     {
-      "url": "https://shaunak-phadnis.github.io/nictacg-2027/",
-      "error": "Официальный сайт не открылся; неизвестные детали оставлены null/в notes."
+      "url": "https://linguistlist.org/issues/37/3652/",
+      "error": "Новый пост OLINCO 2027 вернул 403; доступен прежний полный пост 37.3583, поэтому новые изменения не утверждаются."
     },
     {
-      "url": "https://www.ling.upenn.edu/Events/PLC/plc51/index.html",
-      "error": "Официальная страница недоступна; продление PLC 51 подтверждено публичной страницей Ling alert, а OpenReview не раскрыл срок без JavaScript."
+      "url": "https://linguistlist.org/issues/37/3666/",
+      "error": "Новый пост Semantics and Word Formation вернул 403; доступен прежний полный пост 37.2795, поэтому новые изменения не утверждаются."
+    },
+    {
+      "url": "https://labfon.letras.ulisboa.pt/PAPE2027/",
+      "error": "Официальный сайт PaPE не открылся; продление подтверждено новым постом LINGUIST List."
+    },
+    {
+      "url": "https://languagingdiversit.wixsite.com/lang-diversity-2027",
+      "error": "Официальный сайт не открылся; запись основана на полном поисковом снимке LINGUIST List."
+    },
+    {
+      "url": "https://hel-lex.fp.tul.cz/",
+      "error": "Официальный сайт HEL-LEX 9 не открылся; запись основана на полном посте LINGUIST List."
+    },
+    {
+      "url": "https://www.helsinki.fi/en/conferences/celene-2027",
+      "error": "Официальный сайт CELENE 2027 не открылся; запись основана на полном посте LINGUIST List."
     }
   ],
   "deadline_conflicts": [
@@ -97,8 +114,8 @@
       "retained_deadline": "2026-11-06"
     }
   ],
-  "note": "Ручная проверка 6 ноября 2026: прочитана актуальная страница 7 каталога, первая страница новых Calls/Conferences и 5 полных постов. Добавлены 3 подходящих объявления, уточнена TEAL-16 и зафиксировано продление PLC 51. Страница 8 вернулась только в устаревшей поисковой копии; страницы 8–60 сегодня не просмотрены, поэтому полнота не заявляется.",
-  "added": 3,
+  "note": "Ручная проверка 7 ноября 2026: прочитана первая страница новых Calls/Conferences и 15 полных постов либо актуальных поисковых копий. Добавлены 10 самостоятельных записей, включая отдельный срок предложений воркшопов HEL-LEX 9. Подтверждены продления PaPE 2027 и PLC 51. Страницы 8–9 каталога не открылись; страницы 8–60 напрямую не просмотрены, поэтому полнота не заявляется.",
+  "added": 10,
   "updated": 2,
-  "extensions_found": 1
+  "extensions_found": 2
 }
