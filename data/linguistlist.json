@@ -4296,18 +4296,18 @@
     "name": "40th Annual Symposium on Arabic Linguistics",
     "start": "2027-04-02",
     "end": "2027-04-04",
-    "location": "Berkeley, CA, USA",
-    "deadline": "2026-11-05",
+    "location": "Беркли, Калифорния, США · Калифорнийский университет в Беркли",
+    "deadline": "2026-11-20",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": "General Linguistics; Morphology; Phonetics; Phonology; Syntax",
-    "subject_languages": "Arabic (ara)",
-    "working_languages": null,
+    "topics": "Арабская лингвистика: фонология, морфология, синтаксис, семантика, прагматика, социолингвистика, история и усвоение языка; также смежные направления.",
+    "subject_languages": "Арабский язык и его разновидности.",
+    "working_languages": "Английский — обязательный язык тезисов; язык выступлений отдельно не указан.",
     "speaker_restrictions": null,
-    "submission_rules": null,
+    "submission_rules": "PDF через EasyAbs; тезисы на английском, заявки по электронной почте и на иных языках не принимаются. Страница полных требований вернула 502; объём и форматирование неизвестны.",
     "format": null,
     "website": "https://easyabs.linguistlist.org/conference/ASAL40Berkeley/",
     "sources": [
@@ -4317,13 +4317,22 @@
         "label": "LINGUIST List"
       }
     ],
-    "history": [],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-11-05",
+        "new": "2026-11-20",
+        "type": "extended",
+        "observed_at": "2026-11-12",
+        "source": "https://easyabs.linguistlist.org/conference/ASAL40Berkeley/"
+      }
+    ],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Действующая страница EasyAbs показывает приём до 20 ноября 2026 вместо прежнего 5 ноября; прежний срок сохранён в истории. Период рецензирования 1–31 декабря не интерпретируется как дата ответа. Страница правил Arabic Linguistics Society не открылась (502); сбор и ограничения соавторства неизвестны."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
+    "checked_at": "2026-11-12",
     "verification": "partial",
     "source_order": [
       37,
@@ -9305,18 +9314,18 @@
     "name": "Hosting a Clause - On the Syntax and Semantics of Clausal Embedding",
     "start": "2027-03-10",
     "end": "2027-03-12",
-    "location": "Stuttgart, Germany",
-    "deadline": "2026-11-22",
+    "location": "Штутгарт, Германия",
+    "deadline": "2026-12-01",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": "General Linguistics; Historical Linguistics; Semantics; Syntax; Typology",
-    "subject_languages": null,
+    "topics": "Синтаксис и семантика клаузального вложения: комплементаторы, матричные предикаты, корреляты, финитная и нефинитная комплементация, диахрония и диалектная вариативность.",
+    "subject_languages": "Конкретные языки не ограничены; особенно приветствуются малоизученные языки.",
     "working_languages": null,
     "speaker_restrictions": null,
-    "submission_rules": null,
+    "submission_rules": "По новому CFP: PDF до 2 страниц отправляется организаторам по электронной почте. Прежняя страница EasyAbs указывала иной способ подачи; следует ориентироваться на новый CFP.",
     "format": null,
     "website": "https://immages.hypotheses.org/closing-conference-on-clausal-complementation",
     "sources": [
@@ -9329,6 +9338,11 @@
         "type": "official",
         "url": "https://easyabs.linguistlist.org/conference/IMC27/",
         "label": "EasyAbs · подача тезисов"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3692/",
+        "label": "LINGUIST List · новый срок"
       }
     ],
     "history": [
@@ -9339,15 +9353,23 @@
         "type": "extended",
         "observed_at": "2026-11-02",
         "source": "https://easyabs.linguistlist.org/conference/IMC27/"
+      },
+      {
+        "field": "deadline",
+        "old": "2026-11-22",
+        "new": "2026-12-01",
+        "type": "extended",
+        "observed_at": "2026-11-12",
+        "source": "https://linguistlist.org/issues/37/3692/"
       }
     ],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Новый пост 37.3692 указывает 1 декабря 2026, позже ранее подтверждённого 22 ноября. Старые сроки 15 и 22 ноября сохранены в истории. Официальный сайт проекта не открылся; точное время, рабочие языки, сбор и срок ответа неизвестны. Старые ограничения авторства из EasyAbs не перепроверены новым постом."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "checked_at": "2026-11-12",
+    "verification": "reviewed",
     "source_order": [
       37,
       2697
@@ -12142,18 +12164,18 @@
     "name": "PAC 2027 - Spoken English Varieties: Continua, Boundaries, and Meaning",
     "start": "2027-06-17",
     "end": "2027-06-18",
-    "location": "Chambéry, France",
+    "location": "Шамбери, Франция · Университет Савойя Монблан",
     "deadline": "2026-12-05",
     "deadline_at": null,
     "deadline_timezone": null,
-    "notification": null,
-    "notification_text": null,
+    "notification": "2027-01-15",
+    "notification_text": "15 января 2027",
     "fee": null,
-    "topics": "Phonetics; Phonology; Psycholinguistics; Sociolinguistics; Text/Corpus Linguistics",
-    "subject_languages": "English (eng, stan1293)",
-    "working_languages": null,
+    "topics": "Фонетическая, фонологическая и просодическая вариативность английского и её связи с лексикой, прагматикой и морфосинтаксисом; социальные и региональные континуумы, восприятие вариативности и усвоение.",
+    "subject_languages": "Разновидности английского языка.",
+    "working_languages": "Английский.",
     "speaker_restrictions": null,
-    "submission_rules": null,
+    "submission_rules": "Заявки на устные доклады через сайт Sciencesconf; 25 минут доклада и 10 минут обсуждения. Лимит объёма тезисов в доступном новом посте не указан.",
     "format": null,
     "website": "https://pac2027.sciencesconf.org/",
     "sources": [
@@ -12161,16 +12183,21 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3074/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3673/",
+        "label": "LINGUIST List · новый CFP"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Прочитана актуальная поисковая копия полного поста 37.3673 и официальной страницы. Дедлайн 5 декабря 2026 подтверждён без изменения; сбор и ограничения соавторства неизвестны."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "checked_at": "2026-11-12",
+    "verification": "reviewed",
     "source_order": [
       37,
       3074
@@ -15837,18 +15864,18 @@
     "name": "Semantics and Word Formation Workshop",
     "start": "2027-04-13",
     "end": "2027-04-15",
-    "location": "Barcelona, Spain",
+    "location": "Барселона, Испания · Университет Помпеу Фабра, кампус Побленоу",
     "deadline": "2026-12-10",
     "deadline_at": null,
     "deadline_timezone": null,
-    "notification": null,
-    "notification_text": null,
+    "notification": "2027-01-20",
+    "notification_text": "20 января 2027",
     "fee": null,
-    "topics": "General Linguistics; Linguistic Theories; Morphology; Semantics",
+    "topics": "Семантика словообразования: композициональность, лексикализация, соответствие формы и значения, семантические ограничения морфологических моделей, изменение значения и обработка сложных слов.",
     "subject_languages": null,
-    "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
+    "working_languages": "Английский — тезисы и выступления.",
+    "speaker_restrictions": "Не более двух тезисов на выступающего: одни как единоличный или первый автор и одни как соавтор.",
+    "submission_rules": "Анонимные тезисы по электронной почте организаторам: до 2 страниц A4/Letter, 11 pt, поля 2,5 см; дополнительная третья страница для литературы, данных и рисунков. Указать доклад, постер или любой формат. Доклад 30 + 10 минут; постер сопровождается двухминутным представлением.",
     "format": null,
     "website": "https://www.upf.edu/web/glif/semantics-and-w-f-workshop",
     "sources": [
@@ -15856,16 +15883,21 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/2795/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://www.upf.edu/web/glif/semantics-and-w-f-workshop-cfp",
+        "label": "Официальный CFP"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Полностью проверен официальный CFP. Дедлайн 10 декабря 2026 сохранён; организационный сбор и ограничения на исследуемые языки не указаны."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "checked_at": "2026-11-12",
+    "verification": "reviewed",
     "source_order": [
       37,
       2795
@@ -21486,6 +21518,50 @@
     "source_order": [
       37,
       3665
+    ]
+  },
+  {
+    "id": "manual-ll-37-3711",
+    "name": "21st Workshop in General Linguistics (WiGL 21)",
+    "start": "2027-03-11",
+    "end": "2027-03-13",
+    "location": "Мэдисон, Висконсин, США · Висконсинский университет в Мэдисоне",
+    "deadline": "2027-01-15",
+    "deadline_at": "2027-01-15T23:59:00-06:00",
+    "deadline_timezone": "CST (UTC−6)",
+    "notification": null,
+    "notification_text": "середина февраля 2027",
+    "fee": null,
+    "topics": "Все направления лингвистики; студенческие исследования грамматики, структуры и употребления языка.",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": "Студенты бакалавриата, магистратуры, аспирантуры и недавно окончившие обучение; ограничения соавторства не указаны.",
+    "submission_rules": "Анонимный PDF до 500 слов без данных, графики и библиографии через https://forms.gle/B8uj5JpfbsZ3ee53A . Для 60-минутного воркшопа нужны план и результаты обучения. Доклад 20 минут + 10 минут обсуждения; также принимаются постеры.",
+    "format": "Гибридный: онлайн 11 марта и утром 12 марта; очно 12–13 марта.",
+    "website": "https://langsci.wisc.edu/workshop-in-general-linguistics-wigl/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3711/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://langsci.wisc.edu/workshop-in-general-linguistics-wigl/",
+        "label": "Официальная страница"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "В основном тексте CFP осталась нумерация WiGL 20; заголовок поста и официальный сайт указывают WiGL 21 весной 2027. Даты согласуются, поэтому конфликта дат нет. Официальная страница пока не содержит полного CFP 2027; сбор и рабочие языки неизвестны."
+    ],
+    "classification": "theory",
+    "classification_reason": "Общелингвистический студенческий воркшоп без исключённой специализации.",
+    "checked_at": "2026-11-12",
+    "verification": "reviewed",
+    "source_order": [
+      37,
+      3711
     ]
   }
 ]
