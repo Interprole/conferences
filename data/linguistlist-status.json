@@ -1,8 +1,8 @@
 {
-  "attempted_at": "2026-11-11T22:39:21.680Z",
-  "last_success_at": "2026-11-11T22:39:21.680Z",
-  "pages_read": 2,
-  "issues_read": 3,
+  "attempted_at": "2026-11-12T06:03:51.617Z",
+  "last_success_at": "2026-11-12T06:03:51.617Z",
+  "pages_read": 1,
+  "issues_read": 5,
   "feeds_read": 0,
   "complete": false,
   "discovery_complete": false,
@@ -10,6 +10,17 @@
   "pending_count": 26,
   "coverage": {
     "current_manual_review": {
+      "catalogue_pages_read": 1,
+      "catalogue_page_numbers": [
+        10
+      ],
+      "catalogue_page_failures": 3,
+      "recent_issue_pages_read": 2,
+      "full_posts_read": 5,
+      "official_pages_or_search_copies_read": 5,
+      "official_pages_failed": 2
+    },
+    "previous_manual_review": {
       "catalogue_pages_read": 2,
       "catalogue_pages_stale": 1,
       "catalogue_page_failures": 2,
@@ -17,14 +28,6 @@
       "recent_issue_pages_stale": 1,
       "full_posts_or_current_search_copies_read": 3,
       "official_pages_or_search_copies_read": 4
-    },
-    "previous_manual_review": {
-      "catalogue_pages_read": 0,
-      "catalogue_page_failures": 2,
-      "recent_issue_pages_read": 1,
-      "full_posts_or_current_search_copies_read": 15,
-      "official_pages_or_search_copies_read": 8,
-      "official_pages_failed": 4
     },
     "previous_automated_cycle": {
       "cycle": {
@@ -59,47 +62,27 @@
       "records_needing_review": 505,
       "official_sites_verified": false
     },
-    "records_total": 532,
+    "records_total": 535,
     "records_without_issue": 14,
     "official_sites_verified": false
   },
-  "error_count": 9,
+  "error_count": 4,
   "errors": [
     {
       "url": "https://linguistlist.org/conf/search/?page=8",
-      "error": "Страницы 8 и 9 недоступны; весь каталог не проверен."
+      "error": "Страницы 8 и 9 недоступны."
     },
     {
-      "url": "https://linguistlist.org/conf/search/?page=2",
-      "error": "Доступна устаревшая копия шестидневной давности; списки страниц не согласованы по времени."
+      "url": "https://linguistlist.org/conf/search/?page=11",
+      "error": "Страница 11 недоступна; страница 10 прочитана, полный каталог не проверен."
     },
     {
-      "url": "https://linguistlist.org/issues/?page=2&topic=Calls&topic=Conferences",
-      "error": "Вторая страница вернулась устаревшей (последние посты 28 октября); полнота новых Calls/Conferences не подтверждена."
+      "url": "https://www.uni-konstanz.de/gala2027/",
+      "error": "Официальный сайт GALA2027 не открылся; полный CFP прочитан в LINGUIST List."
     },
     {
-      "url": "https://linguistlist.org/issues/37/3720/",
-      "error": "GALA18: новый полный пост вернул 403; официальный сайт не открылся. Условия не обновлялись."
-    },
-    {
-      "url": "https://immages.hypotheses.org/closing-conference-on-clausal-complementation",
-      "error": "Официальная страница недоступна; новый срок Hosting a Clause проверен по полному посту 37.3692."
-    },
-    {
-      "url": "https://arabic-linguistics-society.uwm.edu/annual-symposia-on-arabic-linguistics/guidelines-for-writing-abstracts/",
-      "error": "502 при открытии полных правил ASAL40."
-    },
-    {
-      "url": "https://linguistlist.org/issues/37/3691/",
-      "error": "403: Southern African Microlinguistics Workshop не разобран."
-    },
-    {
-      "url": "https://linguistlist.org/issues/37/3690/",
-      "error": "403: Interactional Functions of Syntax не разобран."
-    },
-    {
-      "url": "https://linguistlist.org/issues/37/3693/",
-      "error": "403 нового поста ASAL40; действующая страница EasyAbs прочитана."
+      "url": "https://ciplnet.com/news/workshop-abralin-ralsas-cipl/",
+      "error": "Официальная страница полисинтеза вернула 403; полный трёхъязычный пост прочитан, доступна поисковая копия начала официального анонса."
     }
   ],
   "deadline_conflicts": [
@@ -114,8 +97,8 @@
       "retained_deadline": "2026-11-06"
     }
   ],
-  "note": "Ручная проверка: новый WiGL21, уточнены PAC2027, Semantics and Word Formation, Hosting a Clause и ASAL40. Поздние сроки Hosting a Clause (1 декабря) и ASAL40 (20 ноября) сохранены с историей. Каталог и официальные сайты проверены частично; пропуски и устаревшие копии перечислены в errors. Проверка всех будущих конференций не завершена.",
-  "added": 1,
-  "updated": 4,
-  "extensions_found": 2
+  "note": "Ручная проверка 12 ноября: прочитаны две страницы новых Calls/Conferences до постов 6 ноября и страница 10 каталога. Добавлены три самостоятельных мероприятия: полисинтез Южной Америки, CBDA-9 и воркшоп по синтаксису взаимодействия (приглашённая программа, открытого CFP нет). Уточнены GALA2027 и SAMWOP14. У SAMWOP обнаружены противоречивые сроки тезисов и регистрации; срок регистрации не подменяет дедлайн тезисов. FoDS10 сверена с официальным сайтом и доступным постом: подтверждений нового продления после 8 ноября нет. Остальные будущие конференции и весь каталог не проверены; полнота не заявляется.",
+  "added": 3,
+  "updated": 2,
+  "extensions_found": 0
 }

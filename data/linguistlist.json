@@ -1083,39 +1083,66 @@
     "name": "14th Southern African Microlinguistics Workshop",
     "start": "2026-12-02",
     "end": "2026-12-04",
-    "location": "Stellenbosch, South Africa",
+    "location": "Стелленбос, ЮАР · Стелленбосский университет, корпус искусств и социальных наук",
     "deadline": "2026-09-02",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
     "notification_text": null,
-    "fee": null,
-    "topics": "Morphology; Phonetics; Phonology; Semantics; Syntax",
-    "subject_languages": null,
+    "fee": "Регистрационного сбора нет — подтверждено официальной страницей и новым постом.",
+    "topics": "Микролингвистика юга Африки: фонетика, фонология, морфология, синтаксис, семантика и прагматика.",
+    "subject_languages": "Языки юга Африки. В программе представлены африкаанс, каапс, южноафриканский английский, коса, зулу, свати, сесото, северный сото, шона, кхойкхой, ошивамбо, суахили и жестовый язык Лесото; перечень программы не является исчерпывающим ограничением.",
     "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
-    "format": null,
+    "speaker_restrictions": "Одна единоличная и одна совместная заявка либо две совместные заявки на автора. Короткие доклады предназначены прежде всего для студентов.",
+    "submission_rules": "Анонимные тезисы до 500 слов, включая данные и литературу, через EasyAbs. Длинный доклад 40 + 15 минут, короткий 20 + 5 минут.",
+    "format": "Только очный",
     "website": "https://sites.google.com/view/samwop-14/home",
     "sources": [
       {
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/2046/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3691/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://sites.google.com/view/samwop-14/home",
+        "label": "Официальная страница"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Старый дедлайн 2 сентября сохранён: официальный сайт одновременно называет 14 сентября в заголовке и 1 сентября в старом основном тексте. Конфликт записан в date_conflict; уверенно подтвердить продление нельзя.",
+      "Новый пост сообщает только о программе и регистрации слушателей до 20 ноября, а сайт ещё показывает регистрацию до 11 ноября. Это не дедлайн тезисов. Официальный сайт называет уведомление 18 сентября в старом блоке; актуальность после возможного изменения срока не подтверждена."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
+    "checked_at": "2026-11-12",
     "verification": "partial",
     "source_order": [
       37,
       2046
-    ]
+    ],
+    "date_conflict": {
+      "field": "deadline",
+      "retained": "2026-09-02",
+      "values": [
+        {
+          "date": "2026-09-14",
+          "source": "https://sites.google.com/view/samwop-14/home",
+          "context": "заголовок официальной страницы"
+        },
+        {
+          "date": "2026-09-01",
+          "source": "https://sites.google.com/view/samwop-14/home",
+          "context": "основные инструкции и important dates"
+        }
+      ]
+    }
   },
   {
     "id": "26ae9279c8b4e534",
@@ -1561,18 +1588,18 @@
     "name": "18th Generative Approaches to Language Acquisition Conference",
     "start": "2027-09-06",
     "end": "2027-09-08",
-    "location": "Konstanz, Germany",
-    "deadline": null,
+    "location": "Констанц, Германия · Констанцский университет",
+    "deadline": "2027-01-15",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
-    "notification_text": null,
+    "notification_text": "начало апреля 2027",
     "fee": null,
-    "topics": "Language Acquisition",
+    "topics": "Генеративные подходы к усвоению первого, второго, третьего, наследуемого и жестового языка; усвоение в атипичных популяциях. Спецсекция о нулевых формах, эллипсисе, эксплетивном отрицании, неоднозначности и акустической вариативности.",
     "subject_languages": null,
-    "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
+    "working_languages": "Английский — конференция и специальная секция.",
+    "speaker_restrictions": "Одна единоличная и одна совместная заявка либо две совместные заявки на автора.",
+    "submission_rules": "Анонимные тезисы до 500 слов без примеров, таблиц, рисунков и литературы; библиография APA 7. Подать через Oxford Abstracts: https://app.oxfordabstracts.com/stages/84268/submitter . Указать ключевые слова, доклад/постер и общую/специальную секцию. Работа оригинальная, неопубликованная; доклад 20 + 10 минут.",
     "format": null,
     "website": "https://www.uni-konstanz.de/gala2027/",
     "sources": [
@@ -1580,20 +1607,26 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/2591/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3720/",
+        "label": "LINGUIST List"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Полный новый CFP прочитан. Официальный сайт при проверке не открылся; сбор и конкретные ограничения на исследуемые языки неизвестны. У общей и специальной секций одинаковые сроки и правила, поэтому отдельные дублирующие записи не созданы."
     ],
     "classification": "theory",
-    "classification_reason": "Широкий критерий: грамматика, описание языков, типология и общая лингвистика; корпусные методы не исключают теоретическую тематику.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "classification_reason": "Усвоение грамматики в генеративной теории языка.",
+    "checked_at": "2026-11-12",
+    "verification": "reviewed",
     "source_order": [
       37,
       2591
-    ]
+    ],
+    "submissions_open": "2026-11-09"
   },
   {
     "id": "538af70074ac4fb0",
@@ -21562,6 +21595,139 @@
     "source_order": [
       37,
       3711
+    ]
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2027-02-28",
+    "notification_text": "не позднее 28 февраля 2027",
+    "fee": null,
+    "subject_languages": "Коренные языки Южной Америки; индивидуальные и сопоставительные исследования.",
+    "working_languages": "Английский, испанский и португальский — языки тезисов; языки выступлений отдельно не оговорены.",
+    "speaker_restrictions": null,
+    "submission_rules": "Тезисы до 500 слов, включая литературу, отправляются организаторам по электронной почте к 15 января 2027. Требования к анонимности, файлу и числу заявок неизвестны.",
+    "format": "Онлайн-воркшоп Abralin/RALSAS/CIPL",
+    "history": [],
+    "notes": [
+      "Полный трёхъязычный пост прочитан; официальная страница вернула 403, доступна поисковая копия начала анонса. Сбор, ограничения на выступающих и соавторство неизвестны."
+    ],
+    "checked_at": "2026-11-12",
+    "verification": "reviewed",
+    "classification": "theory",
+    "id": "manual-ll-37-3743",
+    "name": "Polysynthesis in South America: Descriptive, Theoretical, and Diachronic Perspectives",
+    "start": "2027-05-28",
+    "end": "2027-05-29",
+    "location": "Онлайн",
+    "deadline": "2027-01-15",
+    "topics": "Полисинтез: критерии и измерение, границы слова и аффикса, интерфейс морфологии и синтаксиса, структура сложных слов и историческое развитие.",
+    "website": "https://ciplnet.com/news/workshop-abralin-ralsas-cipl/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3743/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://ciplnet.com/news/workshop-abralin-ralsas-cipl/",
+        "label": "CIPL · официальный анонс"
+      }
+    ],
+    "classification_reason": "Описательная и теоретическая морфология, синтаксис и типология полисинтетических языков.",
+    "source_order": [
+      37,
+      3743
+    ]
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2027-03-15",
+    "notification_text": "уведомления начиная с 15 марта 2027",
+    "fee": null,
+    "subject_languages": "Английский во все исторические периоды; другие языки при непосредственной связи с эволюцией английского.",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "PDF-тезисы примерно 300–400 слов через EasyAbs; анонимное рецензирование двумя экспертами. Доклад 20 минут + 10 минут обсуждения; требования к анонимизации самого файла не уточнены.",
+    "format": null,
+    "history": [],
+    "notes": [
+      "Отдельный сайт конференции ещё готовится; используется официальная страница EasyAbs. Рабочие языки, сбор и ограничения соавторства неизвестны."
+    ],
+    "checked_at": "2026-11-12",
+    "verification": "reviewed",
+    "classification": "theory",
+    "id": "manual-ll-37-3742",
+    "name": "9th Biennial Conference on the Diachrony of English (CBDA-9)",
+    "start": "2027-06-17",
+    "end": "2027-06-18",
+    "location": "Мец, Франция · Университет Лотарингии",
+    "deadline": "2027-01-15",
+    "submissions_open": "2026-10-01",
+    "topics": "Изменение и вариативность английского во все периоды: синтаксис, семантика, фонология, морфология, прагматика, социолингвистика, языковой контакт и лексикология.",
+    "website": "https://easyabs.linguistlist.org/conference/CBDA-9/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3742/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://easyabs.linguistlist.org/conference/CBDA-9/",
+        "label": "Официальная страница подачи"
+      }
+    ],
+    "classification_reason": "Историческая грамматика и описание английского, включая синтаксис, семантику, фонологию и морфологию.",
+    "source_order": [
+      37,
+      3742
+    ]
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": "Очное присутствие бесплатно; требуется регистрация.",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": "В программе указаны приглашённые докладчики; открытый конкурс докладов не объявлен.",
+    "submission_rules": null,
+    "format": "Очный воркшоп с онлайн-доступом к выступлениям после регистрации.",
+    "history": [],
+    "notes": [
+      "Добавлен как самостоятельный научный воркшоп с опубликованной программой, а не как открытый CFP. Дедлайн тезисов, срок ответа, рабочие языки и правила соавторства неизвестны. Ссылки на онлайн-встречу не публикуются."
+    ],
+    "checked_at": "2026-11-12",
+    "verification": "reviewed",
+    "classification": "theory",
+    "id": "manual-ll-37-3690",
+    "name": "Interactional Functions of Syntax, Syntactic Functions of Interaction",
+    "start": "2027-02-04",
+    "end": "2027-02-05",
+    "location": "Болонья, Италия · Болонский университет, Aula Prodi, площадь Сан-Джованни-ин-Монте, 2",
+    "deadline": null,
+    "topics": "Синтаксис разговорного взаимодействия: совместное построение высказывания, инкрементальность, проекция, просодия и грамматические зависимости за пределами предложения.",
+    "website": "https://site.unibo.it/msca_speak/en/events/workshop-functions-syntax-interaction",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3690/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://site.unibo.it/msca_speak/en/events/workshop-functions-syntax-interaction",
+        "label": "Официальная программа"
+      }
+    ],
+    "classification_reason": "Теория синтаксиса, грамматика разговорной речи и её просодические интерфейсы.",
+    "source_order": [
+      37,
+      3690
     ]
   }
 ]
