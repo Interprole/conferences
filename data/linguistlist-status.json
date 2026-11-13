@@ -1,8 +1,8 @@
 {
-  "attempted_at": "2026-11-12T06:03:51.617Z",
-  "last_success_at": "2026-11-12T06:03:51.617Z",
-  "pages_read": 1,
-  "issues_read": 5,
+  "attempted_at": "2026-11-13T06:04:52Z",
+  "last_success_at": "2026-11-13T06:04:52Z",
+  "pages_read": 4,
+  "issues_read": 7,
   "feeds_read": 0,
   "complete": false,
   "discovery_complete": false,
@@ -10,6 +10,21 @@
   "pending_count": 26,
   "coverage": {
     "current_manual_review": {
+      "catalogue_pages_read": 4,
+      "catalogue_page_numbers": [
+        1,
+        2,
+        14,
+        15
+      ],
+      "catalogue_page_failures": 3,
+      "recent_issue_pages_read": 2,
+      "full_posts_read": 7,
+      "post_search_copies_read": 1,
+      "official_pages_read": 9,
+      "official_pages_failed_or_incomplete": 3
+    },
+    "previous_manual_review": {
       "catalogue_pages_read": 1,
       "catalogue_page_numbers": [
         10
@@ -19,15 +34,6 @@
       "full_posts_read": 5,
       "official_pages_or_search_copies_read": 5,
       "official_pages_failed": 2
-    },
-    "previous_manual_review": {
-      "catalogue_pages_read": 2,
-      "catalogue_pages_stale": 1,
-      "catalogue_page_failures": 2,
-      "recent_issue_pages_read": 1,
-      "recent_issue_pages_stale": 1,
-      "full_posts_or_current_search_copies_read": 3,
-      "official_pages_or_search_copies_read": 4
     },
     "previous_automated_cycle": {
       "cycle": {
@@ -62,27 +68,35 @@
       "records_needing_review": 505,
       "official_sites_verified": false
     },
-    "records_total": 535,
+    "records_total": 537,
     "records_without_issue": 14,
     "official_sites_verified": false
   },
-  "error_count": 4,
+  "error_count": 6,
   "errors": [
     {
-      "url": "https://linguistlist.org/conf/search/?page=8",
-      "error": "Страницы 8 и 9 недоступны."
-    },
-    {
       "url": "https://linguistlist.org/conf/search/?page=11",
-      "error": "Страница 11 недоступна; страница 10 прочитана, полный каталог не проверен."
+      "error": "Страницы 11, 12 и 13 не открылись; остальные непрочитанные страницы каталога в этом запуске не проверены."
     },
     {
-      "url": "https://www.uni-konstanz.de/gala2027/",
-      "error": "Официальный сайт GALA2027 не открылся; полный CFP прочитан в LINGUIST List."
+      "url": "https://linguistlist.org/issues/?topic=Calls&topic=Conferences",
+      "error": "Доступная поисковая копия списка содержит посты только по 11 ноября; свежесть на 13 ноября не подтверждена."
     },
     {
-      "url": "https://ciplnet.com/news/workshop-abralin-ralsas-cipl/",
-      "error": "Официальная страница полисинтеза вернула 403; полный трёхъязычный пост прочитан, доступна поисковая копия начала официального анонса."
+      "url": "https://www.ling.upenn.edu/Events/PLC/plc51/index.html",
+      "error": "Официальная страница недоступна; поисковая копия поста 37.3668 подтверждает ранее известный срок 13 ноября. Более позднее продление не подтверждено."
+    },
+    {
+      "url": "https://sites.google.com/view/igg52",
+      "error": "Официальная страница недоступна; полный пост 37.3175 прочитан, срок дополнительно найден в поисковой копии SLI."
+    },
+    {
+      "url": "https://www.cisma-corpus.com/conference-2027",
+      "error": "Официальная страница возвращает оболочку Loading без условий; использован полный пост 37.3739."
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/2693/",
+      "error": "403 Forbidden; сведения конференции юэ проверены по официальному сайту."
     }
   ],
   "deadline_conflicts": [
@@ -97,8 +111,8 @@
       "retained_deadline": "2026-11-06"
     }
   ],
-  "note": "Ручная проверка 12 ноября: прочитаны две страницы новых Calls/Conferences до постов 6 ноября и страница 10 каталога. Добавлены три самостоятельных мероприятия: полисинтез Южной Америки, CBDA-9 и воркшоп по синтаксису взаимодействия (приглашённая программа, открытого CFP нет). Уточнены GALA2027 и SAMWOP14. У SAMWOP обнаружены противоречивые сроки тезисов и регистрации; срок регистрации не подменяет дедлайн тезисов. FoDS10 сверена с официальным сайтом и доступным постом: подтверждений нового продления после 8 ноября нет. Остальные будущие конференции и весь каталог не проверены; полнота не заявляется.",
-  "added": 3,
-  "updated": 2,
-  "extensions_found": 0
+  "note": "Ручная проверка 13 ноября: прочитаны страницы 1, 2, 14, 15 каталога и две страницы Calls/Conferences. Добавлены CISMA2027 и GESPIN9; уточнены JLCV27, IGG52, EvalAct и конференция юэ. Найдено пропущенное историческое продление EvalAct с 15 на 29 июля, подтверждённое новым CFP и официальным сайтом. Пенсильванский срок 13 ноября сверён по доступной поисковой копии; официальная страница не открылась. Полный каталог, все будущие события и 14 записей без подробного поста не проверены; полнота не заявляется. Некоторые доступные страницы являются поисковыми копиями и могут отставать от оригиналов.",
+  "added": 2,
+  "updated": 4,
+  "extensions_found": 1
 }

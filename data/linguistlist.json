@@ -3539,18 +3539,18 @@
     "name": "30th International Conference on Yue Dialects",
     "start": "2026-12-18",
     "end": "2026-12-19",
-    "location": "Hong Kong, China",
+    "location": "Гонконг, Китай · Китайский университет Гонконга",
     "deadline": "2026-10-05",
     "deadline_at": null,
     "deadline_timezone": null,
-    "notification": null,
+    "notification": "2026-11-06",
     "notification_text": null,
     "fee": null,
-    "topics": "Applied Linguistics; General Linguistics; Linguistic Theories; Sociolinguistics; Text/Corpus Linguistics",
-    "subject_languages": null,
-    "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
+    "topics": "Лингвистика юэ (кантонского): теоретическое описание и применение результатов к цифровым технологиям, образованию и передаче языкового наследия.",
+    "subject_languages": "Юэ (кантонский) и его диалекты.",
+    "working_languages": "Тезисы на китайском или английском; языки выступлений не уточнены.",
+    "speaker_restrictions": "Не более одной единоличной и одной совместной заявки на автора.",
+    "submission_rules": "До одной страницы A4 с примерами и литературой, поля 1 дюйм, 12 pt, одинарный интервал. Подать подписанный и анонимный варианты в Word и PDF через систему университета; анонимное рецензирование. Доклад 20 + 10 минут.",
     "format": null,
     "website": "https://www.cuhk.edu.hk/ics/clrc/yue30",
     "sources": [
@@ -3562,12 +3562,12 @@
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Официальный CFP подтверждает дедлайн 5 октября и ответ 6 ноября; нового продления не найдено. Пост LINGUIST List 37.2693 вернул 403. Страница регистрации сообщает, что предварительная регистрация не требуется; это не подтверждает отсутствие сбора, поэтому fee оставлен null. Условия отдельного студенческого конкурса не переносятся на всех докладчиков."
     ],
     "classification": "theory",
-    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "classification_reason": "Грамматика и описание юэ с прикладными направлениями; соответствует широкому критерию владельца.",
+    "checked_at": "2026-11-13",
+    "verification": "reviewed",
     "source_order": [
       37,
       2693
@@ -4977,19 +4977,19 @@
     "name": "52nd Incontro di Grammatica Generativa",
     "start": "2027-02-17",
     "end": "2027-02-19",
-    "location": "Siracusa, Italy",
+    "location": "Сиракузы, Италия · Университет Энны «Коре», площадка в Сиракузах",
     "deadline": "2026-11-15",
-    "deadline_at": null,
-    "deadline_timezone": null,
+    "deadline_at": "2026-11-15T23:59:00+01:00",
+    "deadline_timezone": "CET (UTC+01:00)",
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": "Morphology; Phonology; Pragmatics; Semantics; Syntax",
+    "topics": "Генеративная грамматика: синтаксис, семантика, морфология, фонология и прагматика; вычислительные и экспериментальные методы при вкладе в грамматическую теорию.",
     "subject_languages": null,
     "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
-    "format": null,
+    "speaker_restrictions": "Одна единоличная и одна совместная заявка либо две совместные. Только оригинальная работа, не опубликованная и не принятая к публикации на момент подачи.",
+    "submission_rules": "Анонимный PDF через OpenReview: две страницы A4/letter, поля 2,5 см, шрифт 12 pt. Дополнительная третья страница — библиография, крупные таблицы/рисунки и компенсация строк глосс/переводов. Выбрать доклад, постер либо оба варианта; доклад 20 + 10 минут.",
+    "format": "Только очные выступления",
     "website": "https://sites.google.com/view/igg52",
     "sources": [
       {
@@ -5000,12 +5000,12 @@
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Полный пост 37.3175 прочитан, включая точное время закрытия. Официальный Google Sites не открылся; срок 15 ноября также виден в поисковой копии объявления Итальянского лингвистического общества. Сбор, рабочие языки и дата ответа неизвестны."
     ],
     "classification": "theory",
-    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "classification_reason": "Обсуждение и развитие теории генеративной грамматики.",
+    "checked_at": "2026-11-13",
+    "verification": "reviewed",
     "source_order": [
       37,
       3175
@@ -8566,19 +8566,19 @@
     "name": "Evaluative Morphology in Action: Frameworks in Dialogue",
     "start": "2026-12-17",
     "end": "2026-12-18",
-    "location": "Brno, Czech Republic",
-    "deadline": "2026-07-15",
-    "deadline_at": null,
-    "deadline_timezone": null,
-    "notification": null,
+    "location": "Брно, Чехия · Масариков университет",
+    "deadline": "2026-07-29",
+    "deadline_at": "2026-07-29T23:59:00+01:00",
+    "deadline_timezone": "CET (UTC+01:00), как указано организаторами",
+    "notification": "2026-09-08",
     "notification_text": null,
     "fee": null,
-    "topics": "Applied Linguistics; General Linguistics; Linguistic Theories",
-    "subject_languages": null,
+    "topics": "Оценочная морфология: уменьшительность, увеличительность, пейоративность, интенсификация, ослабление и аппроксимация; сопоставление грамматических теорий и интерфейсы с синтаксисом, семантикой, фонологией и прагматикой.",
+    "subject_languages": "Любые языки и языковые семьи — прямо разрешено CFP.",
     "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
-    "format": null,
+    "speaker_restrictions": "До двух тезисов, из них не более одних единоличных. Молодые исследователи, включая магистрантов, особо приветствуются; это не ограничение допуска.",
+    "submission_rules": "Анонимный PDF до 500 слов без примеров и библиографии через EasyAbs.",
+    "format": "Только очно; онлайн-участие и трансляция не предусмотрены.",
     "website": "https://evalact.github.io/",
     "sources": [
       {
@@ -8590,16 +8590,30 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3327/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/2336/",
+        "label": "LINGUIST List"
       }
     ],
-    "history": [],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-07-15",
+        "new": "2026-07-29",
+        "type": "extended",
+        "observed_at": "2026-11-13T06:04:52Z",
+        "source": "https://linguistlist.org/issues/37/2336/"
+      }
+    ],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Пропущенное историческое продление: первоначальный пост называл 15 июля; пост 37.2336 прямо сообщает новый срок 29 июля, совпадающий с официальным CFP. Оба срока уже прошли; опубликована программа. Сайт буквально указывает CET летом, поэтому сохранён указанный UTC+01:00, а не предполагаемое летнее время. Сбор и рабочие языки неизвестны."
     ],
     "classification": "theory",
-    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "classification_reason": "Сопоставительная теория оценочной морфологии и архитектуры грамматики.",
+    "checked_at": "2026-11-13",
+    "verification": "reviewed",
     "source_order": [
       37,
       3327
@@ -18229,35 +18243,40 @@
     "name": "VIII Jornades de Lingüística Catalana a Viena",
     "start": "2027-05-21",
     "end": "2027-05-22",
-    "location": "Wien, Austria",
+    "location": "Вена, Австрия · Венский университет, Институт романистики, аудитория ROM 14",
     "deadline": "2027-01-31",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": "General Linguistics",
-    "subject_languages": "Catalan (cat, stan1289)",
-    "working_languages": null,
+    "topics": "Избыточность и дефицит в грамматике каталонского: интерфейсы синтаксиса с морфологией, фонологией, семантикой и прагматикой; синхрония и диахрония.",
+    "subject_languages": "Каталонский",
+    "working_languages": "Каталонский и английский — тезисы и выступления.",
     "speaker_restrictions": null,
-    "submission_rules": null,
-    "format": null,
+    "submission_rules": "Анонимный PDF: до двух страниц A4; третья страница допускается только для библиографии. Подача через EasyAbs либо организаторам.",
+    "format": "Очный симпозиум",
     "website": "https://jornades.univie.ac.at",
     "sources": [
       {
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3558/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3721/",
+        "label": "LINGUIST List"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Срок 31 января и условия подтверждены официальным сайтом и EasyAbs. Сбор, дата ответа и ограничения соавторства неизвестны."
     ],
     "classification": "theory",
-    "classification_reason": "Широкий критерий: грамматика, описание языков, типология и общая лингвистика; корпусные методы не исключают теоретическую тематику.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "classification_reason": "Формальная грамматика каталонского и межмодульные интерфейсы.",
+    "checked_at": "2026-11-13",
+    "verification": "reviewed",
     "source_order": [
       37,
       3558
@@ -21728,6 +21747,84 @@
     "source_order": [
       37,
       3690
+    ]
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2027-02-28",
+    "notification_text": null,
+    "fee": null,
+    "subject_languages": "Английский указан в Subject Language(s); объявление также допускает многоязычные корпуса.",
+    "working_languages": "Английский — тезисы и конференция.",
+    "speaker_restrictions": null,
+    "submission_rules": "250–300 слов на английском, DOC/DOCX, Times New Roman 11 pt; название, авторы и аффилиации. Указать цель, метод, результаты, вывод и вклад. Доклад 20 + 5 минут либо постер; принимаются предложения воркшопов.",
+    "format": "Очный",
+    "history": [],
+    "checked_at": "2026-11-13",
+    "verification": "reviewed",
+    "id": "manual-ll-37-3739",
+    "name": "3rd International Conference on Corpus-Informed Studies: Methodologies and Applications (CISMA 2027)",
+    "start": "2027-07-07",
+    "end": "2027-07-09",
+    "location": "Милан, Италия · Католический университет Святого Сердца",
+    "deadline": "2027-01-15",
+    "topics": "Устная речь и регистровая вариативность: корпусная грамматика, фразеология, прагматика и просодия; сопоставление устной и письменной речи, обучение языку и коммуникация с использованием ИИ.",
+    "classification": "theory",
+    "classification_reason": "В программе содержательно выделены корпусная лексикограмматика, фразеология, прагматика и просодия. Конференция смешанная по охвату, но включает грамматику по широкому критерию владельца.",
+    "website": "https://www.cisma-corpus.com/conference-2027",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3739/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "source_order": [
+      37,
+      3739
+    ],
+    "notes": [
+      "Полный пост прочитан вручную. Официальная страница отдаёт только оболочку Loading, поэтому условия сверены по LINGUIST List. Сбор, ограничения соавторства и способ отправки файла не установлены. Дедлайны регистрации не подменяют срок тезисов."
+    ]
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": "Март 2027; точный день неизвестен.",
+    "fee": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "Тезисы для доклада или постера: 250–500 слов. Доклад 20 минут + 10 минут обсуждения и перехода; постер A0. Приём открывается в январе 2027, точный день и механизм подачи ещё не опубликованы.",
+    "format": null,
+    "history": [],
+    "checked_at": "2026-11-13",
+    "verification": "reviewed",
+    "id": "manual-ll-37-3741",
+    "name": "9th Gesture and Speech in Interaction Conference (GESPIN 9)",
+    "start": "2027-07-08",
+    "end": "2027-07-09",
+    "location": "Франкфурт-на-Одере, Германия · Европейский университет Виадрина",
+    "deadline": "2027-02-15",
+    "topics": "Жесты и речь в публичной коммуникации: политика, спорт и исполнительские искусства; взаимодействие визуальной и вокальной коммуникации и медиатизация жестов.",
+    "classification": "mixed",
+    "classification_reason": "Междисциплинарное изучение жеста, мультимодальности и прагматики; грамматическая теория не является центральной темой данного выпуска.",
+    "website": "https://www.kuwi.europa-uni.de/en/professuren-mitarbeitende/sprachgebr-multimodale-komm/gespin-9-conference/index.html",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3741/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "source_order": [
+      37,
+      3741
+    ],
+    "notes": [
+      "Прочитаны полный пост и официальный сайт. В разделе сборов перечислены категории без сумм; fee оставлен null. Рабочие и исследуемые языки, анонимность и ограничения соавторства неизвестны. Учебный воркшоп 7 июля упомянут отдельно, но самостоятельный CFP пока не опубликован."
     ]
   }
 ]
