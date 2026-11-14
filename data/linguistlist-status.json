@@ -1,8 +1,8 @@
 {
-  "attempted_at": "2026-11-13T06:04:52Z",
-  "last_success_at": "2026-11-13T06:04:52Z",
-  "pages_read": 4,
-  "issues_read": 7,
+  "attempted_at": "2026-11-14T06:10:58Z",
+  "last_success_at": "2026-11-14T06:10:58Z",
+  "pages_read": 3,
+  "issues_read": 17,
   "feeds_read": 0,
   "complete": false,
   "discovery_complete": false,
@@ -10,6 +10,20 @@
   "pending_count": 26,
   "coverage": {
     "current_manual_review": {
+      "catalogue_pages_read": 3,
+      "catalogue_page_numbers": [
+        1,
+        2,
+        20
+      ],
+      "catalogue_page_failures": 6,
+      "recent_issue_pages_read": 3,
+      "full_posts_read": 17,
+      "official_pages_and_documents_read": 17,
+      "official_pages_failed": 4,
+      "official_pages_incomplete": 1
+    },
+    "previous_manual_review": {
       "catalogue_pages_read": 4,
       "catalogue_page_numbers": [
         1,
@@ -23,17 +37,6 @@
       "post_search_copies_read": 1,
       "official_pages_read": 9,
       "official_pages_failed_or_incomplete": 3
-    },
-    "previous_manual_review": {
-      "catalogue_pages_read": 1,
-      "catalogue_page_numbers": [
-        10
-      ],
-      "catalogue_page_failures": 3,
-      "recent_issue_pages_read": 2,
-      "full_posts_read": 5,
-      "official_pages_or_search_copies_read": 5,
-      "official_pages_failed": 2
     },
     "previous_automated_cycle": {
       "cycle": {
@@ -68,35 +71,39 @@
       "records_needing_review": 505,
       "official_sites_verified": false
     },
-    "records_total": 537,
+    "records_total": 550,
     "records_without_issue": 14,
     "official_sites_verified": false
   },
-  "error_count": 6,
+  "error_count": 7,
   "errors": [
     {
-      "url": "https://linguistlist.org/conf/search/?page=11",
-      "error": "Страницы 11, 12 и 13 не открылись; остальные непрочитанные страницы каталога в этом запуске не проверены."
+      "url": "https://linguistlist.org/conf/search/?page=16",
+      "error": "Страницы 16, 17, 18, 19, 21 и 22 не открылись. Прочитаны 1, 2 и 20; полный каталог не проверен."
     },
     {
       "url": "https://linguistlist.org/issues/?topic=Calls&topic=Conferences",
-      "error": "Доступная поисковая копия списка содержит посты только по 11 ноября; свежесть на 13 ноября не подтверждена."
+      "error": "Отфильтрованная поисковая копия отстаёт: последние посты 12 ноября. Более свежие объявления 13 ноября прочитаны в общем списке /issues/ и открыты полностью."
     },
     {
-      "url": "https://www.ling.upenn.edu/Events/PLC/plc51/index.html",
-      "error": "Официальная страница недоступна; поисковая копия поста 37.3668 подтверждает ранее известный срок 13 ноября. Более позднее продление не подтверждено."
+      "url": "https://www.ling.upenn.edu/Events/PLC/plc51/callforpapers.html",
+      "error": "Restricted URL; доступная поисковая копия поста 37.3668 сохраняет известный срок 13 ноября 23:59 AoE, последующее продление не подтверждено."
     },
     {
       "url": "https://sites.google.com/view/igg52",
-      "error": "Официальная страница недоступна; полный пост 37.3175 прочитан, срок дополнительно найден в поисковой копии SLI."
+      "error": "Официальный сайт не открылся; новое продление после известного 15 ноября не подтверждено."
     },
     {
-      "url": "https://www.cisma-corpus.com/conference-2027",
-      "error": "Официальная страница возвращает оболочку Loading без условий; использован полный пост 37.3739."
+      "url": "https://oelt2026.wixsite.com/oelt2026",
+      "error": "Официальный сайт не открылся; полный пост 37.2925 подтверждает историческое продление 15→17 сентября."
     },
     {
-      "url": "https://linguistlist.org/issues/37/2693/",
-      "error": "403 Forbidden; сведения конференции юэ проверены по официальному сайту."
+      "url": "https://lit.auth.gr/en/research-en/conferences-en/amgl47-en/",
+      "error": "451 Unavailable For Legal Reasons; полный CFP LINGUIST List 37.3780 прочитан, подробные правила и студенческий предворкшоп требуют дальнейшей проверки."
+    },
+    {
+      "url": "https://digs28.bogazici.edu.tr/",
+      "error": "Доступна только оболочка с заголовком конференции; подробные условия взяты из полного поста 37.3782."
     }
   ],
   "deadline_conflicts": [
@@ -111,8 +118,9 @@
       "retained_deadline": "2026-11-06"
     }
   ],
-  "note": "Ручная проверка 13 ноября: прочитаны страницы 1, 2, 14, 15 каталога и две страницы Calls/Conferences. Добавлены CISMA2027 и GESPIN9; уточнены JLCV27, IGG52, EvalAct и конференция юэ. Найдено пропущенное историческое продление EvalAct с 15 на 29 июля, подтверждённое новым CFP и официальным сайтом. Пенсильванский срок 13 ноября сверён по доступной поисковой копии; официальная страница не открылась. Полный каталог, все будущие события и 14 записей без подробного поста не проверены; полнота не заявляется. Некоторые доступные страницы являются поисковыми копиями и могут отставать от оригиналов.",
-  "added": 2,
-  "updated": 4,
-  "extensions_found": 1
+  "note": "Ручная проверка 14 ноября: два списка Calls/Conferences и более свежий общий список постов до 13 ноября, 17 полных постов, официальные сайты и второй PDF-CFP ICGL18. Добавлены 13 самостоятельных записей, в том числе отдельные конкурсы/воркшопы WdAFL и ICGL18. Уточнены пять существующих записей LINGUIST List; для тонального воркшопа Мослинга добавлен подтверждающий публичный пост без дубликата. Найдены три продления: ÖLT 15→17 сентября (историческое), ICGL18 доклады 31 октября→30 ноября и предложения воркшопов 15→30 ноября. Онлайн-встреча Figurativity в феврале не выдана за продление августовской заявки на секцию ICLC18. Объявление USC SRS прочитано как регистрация слушателей, новый CFP ему не приписан. Весь каталог и все будущие конференции не проверены, полнота не заявляется. Поисковые копии могут отставать от оригиналов.",
+  "added": 13,
+  "updated": 5,
+  "extensions_found": 3,
+  "cross_source_updated": 1
 }

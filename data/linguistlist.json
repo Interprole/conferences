@@ -1471,18 +1471,18 @@
     "name": "17th International Conference on Austronesian Linguistics",
     "start": "2027-08-01",
     "end": "2027-08-05",
-    "location": "Tokyo, Japan",
+    "location": "Хино, Токио, Япония · Университет Мэйсэй",
     "deadline": "2027-01-31",
     "deadline_at": null,
     "deadline_timezone": null,
-    "notification": null,
+    "notification": "2027-03-31",
     "notification_text": null,
     "fee": null,
-    "topics": "General Linguistics",
-    "subject_languages": "Austronesian (aust1307)",
+    "topics": "Все аспекты структуры и функционирования австронезийских языков; индивидуальные доклады, постеры и тематические панели.",
+    "subject_languages": "Австронезийские языки",
     "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
+    "speaker_restrictions": "Не более одной индивидуальной и одной совместной заявки на автора.",
+    "submission_rules": "Индивидуальные тезисы: одна страница текста и вторая только для данных, таблиц, примеров и литературы; 12 pt, одинарный интервал, поля 2,5 см, без имён авторов; подача через Pretalx. Доклад 20 + 10 минут. Панель: 3–6 выступлений, описание 200–300 слов и тезисы каждого выступления в едином PDF организаторам.",
     "format": null,
     "website": "https://sites.google.com/view/17ical/",
     "sources": [
@@ -1490,20 +1490,26 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/2344/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3772/",
+        "label": "LINGUIST List"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Полный новый пост и официальный CFP прочитаны. Дедлайн 31 января одинаков для индивидуальных заявок и панелей, но каналы подачи различаются. Сбор, рабочие языки и точное время закрытия неизвестны."
     ],
     "classification": "theory",
     "classification_reason": "Широкий критерий: грамматика, описание языков, типология и общая лингвистика; корпусные методы не исключают теоретическую тематику.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "checked_at": "2026-11-14",
+    "verification": "reviewed",
     "source_order": [
       37,
       2344
-    ]
+    ],
+    "submissions_open": "2026-11-01"
   },
   {
     "id": "d83bdcdca9a4eab3",
@@ -1711,18 +1717,18 @@
     "name": "18th International Conference on Greek Linguistics",
     "start": "2027-09-21",
     "end": "2027-09-24",
-    "location": "Athens, Greece",
-    "deadline": "2026-10-31",
+    "location": "Афины, Греция · Афинский национальный университет имени Каподистрии",
+    "deadline": "2026-11-30",
     "deadline_at": null,
     "deadline_timezone": null,
-    "notification": null,
+    "notification": "2027-02-28",
     "notification_text": null,
     "fee": null,
-    "topics": "Applied Linguistics; Computational Linguistics; General Linguistics; Historical Linguistics",
-    "subject_languages": "Ancient Greek (to 1453) (grc, anci1242)",
-    "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
+    "topics": "Все аспекты лингвистического анализа греческого: фонетика, фонология, морфология, синтаксис, семантика, прагматика, история, диалектология и типология.",
+    "subject_languages": "Греческий язык и его разновидности; не только древнегреческий.",
+    "working_languages": "Тезисы на греческом или английском; языки выступлений отдельно не уточнены.",
+    "speaker_restrictions": "До трёх заявок в разных категориях: одна единоличная, одна в качестве первого автора и ещё одна в качестве соавтора, но не первого.",
+    "submission_rules": "Анонимные тезисы через EasyAbs: Word/RTF, до 600 слов без литературы, A4, Times New Roman 11 pt, интервал 1,5, поля 2,5 см; доклад или постер.",
     "format": null,
     "website": "https://icgl18.org/",
     "sources": [
@@ -1730,16 +1736,30 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/1790/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://icgl18.org/",
+        "label": "Официальный сайт"
       }
     ],
-    "history": [],
-    "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-10-31",
+        "new": "2026-11-30",
+        "type": "extended",
+        "observed_at": "2026-11-14T06:10:58Z",
+        "source": "https://icgl18.org/ICGL%2018%20-%20English%20Call%202.pdf"
+      }
     ],
-    "classification": "mixed",
-    "classification_reason": "Смежная или смешанная тематика.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "notes": [
+      "Второй официальный CFP прочитан полностью: доклады продлены с 31 октября на 30 ноября, ответ перенесён с 31 января на 28 февраля. EasyAbs независимо подтверждает новый дедлайн. Сбор ещё не объявлен. Предложения воркшопов имеют самостоятельные правила и сохранены отдельно."
+    ],
+    "classification": "theory",
+    "classification_reason": "Широкая общелингвистическая конференция по греческому, включая всю грамматику.",
+    "checked_at": "2026-11-14",
+    "verification": "reviewed",
     "source_order": [
       37,
       1790
@@ -12167,18 +12187,18 @@
     "name": "Our Great Middle Sea: Formal Explorations of Eastern Mediterranean Varieties",
     "start": "2027-05-06",
     "end": "2027-05-08",
-    "location": "Nicosia, Cyprus",
+    "location": "Никосия, Кипр · Кипрский университет; кампус Каллиполеос пока не подтверждён",
     "deadline": "2026-12-07",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": "2027-02-07",
     "notification_text": "February 7, 2027",
     "fee": null,
-    "topics": "General Linguistics; Pragmatics; Semantics; Syntax; Text/Corpus Linguistics",
-    "subject_languages": null,
+    "topics": "Формальные подходы к синтаксису, семантике и прагматике восточносредиземноморских разновидностей; диалектология, корпусные исследования и сохранение языков.",
+    "subject_languages": "Разновидности арабского, иврит, языки Кипра и Мальты, ладино, арамейский, сирийский, диалекты турецкого и другие языки региона.",
     "working_languages": null,
     "speaker_restrictions": null,
-    "submission_rules": null,
+    "submission_rules": "Анонимные тезисы до 500 слов без литературы через EasyAbs. Доклад 30 + 10 минут; минимум два анонимных рецензента.",
     "format": null,
     "website": "https://middleseaconference-netizen.github.io/conference-website/",
     "sources": [
@@ -12191,20 +12211,41 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/2499/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3770/",
+        "label": "LINGUIST List"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Официальный сайт подтверждает общий период 6–8 мая. В основном тексте нового поста названы 6–7 мая, тогда как заголовок поста и официальный сайт указывают 6–8 мая; расхождение сохранено в date_conflict. Двухдневная основная программа и воркшоп о диалектах Кипра описаны вместе; отдельные даты и условия подачи воркшопа ещё не установлены. Сбор будет объявлен позднее; рабочие языки, ограничения соавторства и часовой пояс дедлайна «midnight» неизвестны."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "checked_at": "2026-11-14",
+    "verification": "reviewed",
     "source_order": [
       37,
       2499
-    ]
+    ],
+    "date_conflict": {
+      "field": "end",
+      "retained": "2027-05-08",
+      "values": [
+        {
+          "date": "2027-05-07",
+          "source": "https://linguistlist.org/issues/37/3770/",
+          "context": "основной текст поста: основная конференция"
+        },
+        {
+          "date": "2027-05-08",
+          "source": "https://middleseaconference-netizen.github.io/conference-website/",
+          "context": "общие даты на официальном сайте и в заголовке поста"
+        }
+      ]
+    }
   },
   {
     "id": "18f07390400f40c0",
@@ -17765,18 +17806,18 @@
     "name": "Theme session in ICLC 18: Figurativity, Rhetoric and the Study of Constructions",
     "start": "2027-08-20",
     "end": "2027-08-24",
-    "location": "Germany",
+    "location": "Германия · предлагаемая секция ICLC18",
     "deadline": "2026-10-08",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": "Cognitive Science; Pragmatics; Semantics",
+    "topics": "Фигуративные грамматические конструкции и риторика: метафора, метонимия, ирония, перспектива и интерпретация.",
     "subject_languages": null,
     "working_languages": null,
     "speaker_restrictions": null,
-    "submission_rules": null,
+    "submission_rules": "На этапе формирования предложения секции: предварительное название, аффилиация и тезисы около 100 слов организаторам до 8 октября. При принятии секции — отдельная полная заявка в общем конкурсе.",
     "format": null,
     "website": null,
     "sources": [
@@ -17788,12 +17829,12 @@
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Полный первоначальный пост 37.3072 прочитан. Это предварительное предложение августовской секции, а не общий CFP ICLC18. Новый пост 37.3786 описывает онлайн-встречу в феврале с иным сроком; сохранён отдельно без утверждения о переносе или продлении. Сбор, рабочие языки и ограничения соавторства августовской секции неизвестны."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "checked_at": "2026-11-14",
+    "verification": "reviewed",
     "source_order": [
       37,
       3072
@@ -20111,35 +20152,49 @@
     "name": "Workshop at ÖLT 2026: Current Issues in Syntax, Semantics, and Pragmatics",
     "start": "2026-11-20",
     "end": "2026-11-21",
-    "location": "Salzburg, Austria",
-    "deadline": "2026-09-15",
-    "deadline_at": null,
-    "deadline_timezone": null,
-    "notification": null,
+    "location": "Зальцбург, Австрия · секция 50-й Австрийской лингвистической конференции (ÖLT)",
+    "deadline": "2026-09-17",
+    "deadline_at": "2026-09-17T23:59:00+02:00",
+    "deadline_timezone": "CEST (UTC+02:00)",
+    "notification": "2026-09-22",
     "notification_text": null,
     "fee": null,
-    "topics": null,
-    "subject_languages": null,
+    "topics": "Синтаксис, семантика, прагматика и их интерфейсы; специальная сессия об избыточности и дефиците: местоимения, связывание, клитики, время, аспект, фи-признаки и согласование.",
+    "subject_languages": "Ограничений по исследуемым языкам в CFP нет — указано прямо.",
     "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
+    "speaker_restrictions": "Не более двух заявок от автора/соавтора, из них не более одной единоличной. Оригинальная неопубликованная работа.",
+    "submission_rules": "Анонимный PDF: до двух страниц A4, третья только для литературы; поля 2,54 см, Times New Roman не меньше 12 pt. Примеры внутри текста. Отправка организаторам с указанием общей или специальной сессии. Доклад 20 + 10 минут.",
     "format": null,
-    "website": null,
+    "website": "https://oelt2026.wixsite.com/oelt2026",
     "sources": [
       {
         "type": "linguistlist",
         "url": "https://linguistlist.org/conf/search/?page=15",
         "label": "LINGUIST List · каталог"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/2925/",
+        "label": "LINGUIST List"
       }
     ],
-    "history": [],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-09-15",
+        "new": "2026-09-17",
+        "type": "extended",
+        "observed_at": "2026-11-14T06:10:58Z",
+        "source": "https://linguistlist.org/issues/37/2925/"
+      }
+    ],
     "notes": [
-      "Объявление не удалось получить. Данные взяты из каталога; ссылка на пост, сайт, сбор и ограничения не проверены."
+      "Заполнен пробел записи, ранее имевшей только ссылку на каталог. Пост прямо подтверждает продление до 17 сентября вместо сохранённых 15 сентября. Это историческое продление, а не новый открытый CFP. Официальный сайт ÖLT недоступен; сбор и рабочие языки неизвестны."
     ],
     "classification": "theory",
-    "classification_reason": null,
-    "checked_at": "2026-11-02",
-    "verification": "partial"
+    "classification_reason": "Формальная и эмпирическая грамматика, связывание и интерфейсы синтаксиса.",
+    "checked_at": "2026-11-14",
+    "verification": "reviewed"
   },
   {
     "id": "a9c2029df89df673",
@@ -21826,5 +21881,519 @@
     "notes": [
       "Прочитаны полный пост и официальный сайт. В разделе сборов перечислены категории без сумм; fee оставлен null. Рабочие и исследуемые языки, анонимность и ограничения соавторства неизвестны. Учебный воркшоп 7 июля упомянут отдельно, но самостоятельный CFP пока не опубликован."
     ]
+  },
+  {
+    "deadline_at": "2026-12-18T23:59:00-12:00",
+    "deadline_timezone": "Anywhere on Earth (UTC−12:00)",
+    "notification": "2027-01-23",
+    "notification_text": null,
+    "fee": null,
+    "subject_languages": "Любые языки Южной Азии, включая индоарийские, дравидийские, австроазиатские и тибето-бирманские.",
+    "working_languages": null,
+    "speaker_restrictions": "Особенно приветствуются исследователи из Южной Азии; это рекомендация, а не ограничение допуска. Лимит соавторства неизвестен.",
+    "submission_rules": "Через OpenReview: две страницы A4/letter, включая заголовок, примеры и литературу; шрифт не меньше 11 pt, поля 2,5 см. Примеры и рисунки внутри текста.",
+    "format": null,
+    "history": [],
+    "classification": "theory",
+    "verification": "reviewed",
+    "checked_at": "2026-11-14",
+    "name": "Formal Approaches to South Asian Languages 17 (FASAL 17)",
+    "start": "2027-03-19",
+    "end": "2027-03-21",
+    "location": "Амхерст, Массачусетс, США · Массачусетский университет в Амхерсте",
+    "deadline": "2026-12-18",
+    "submissions_open": "2026-11-05",
+    "topics": "Фонетика, фонология, морфология, синтаксис, семантика, прагматика и историческая лингвистика языков Южной Азии; различные эмпирические методы.",
+    "website": "https://sites.google.com/view/fasal17/home",
+    "classification_reason": "Формальная грамматика и описание языков Южной Азии.",
+    "notes": [
+      "Полный пост и официальный сайт прочитаны. Отдельный полудневный воркшоп по инструментам ИИ 19 марта не добавляется как самостоятельный CFP: собственные условия не опубликованы, специализированные NLP-мероприятия исключаются. Сбор, рабочие языки и требование анонимизации неизвестны."
+    ],
+    "id": "manual-ll-37-3766",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3766/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "source_order": [
+      37,
+      3766
+    ]
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2027-02-15",
+    "notification_text": null,
+    "fee": null,
+    "subject_languages": "Звуковые и жестовые языки; межъязыковые и межмодальные сравнения.",
+    "working_languages": "Английский и международный жестовый (International Sign), с двусторонним переводом. Видео-тезисы допускаются на International Sign.",
+    "speaker_restrictions": "До двух тезисов на автора, из них не более одних единоличных.",
+    "submission_rules": "Анонимный PDF: до двух страниц A4 с основными ссылками; дополнительная страница для таблиц, графиков, данных и рисунков; 12 pt, поля 2,4 см. Для пользователей жестовых языков — видео на International Sign до 5 минут с основными ссылками. Подача через Sciencesconf.",
+    "format": null,
+    "history": [],
+    "classification": "theory",
+    "verification": "reviewed",
+    "checked_at": "2026-11-14",
+    "name": "Argument Structure, Passives and Non-Agentive Subjects across Modalities",
+    "start": "2027-04-27",
+    "end": "2027-04-28",
+    "location": "Париж, Франция",
+    "deadline": "2027-01-10",
+    "submissions_open": "2026-11-10",
+    "topics": "Аргументная структура, пассив, переходность и неагентивные субъекты: антикаузативы, неаккузативы, неэргативы, инхоативы и безличные конструкции; сравнение звуковых и жестовых языков.",
+    "website": "https://passivemodality.sciencesconf.org/",
+    "classification_reason": "Теория залога, синтаксиса, семантики и морфологии вне зависимости от модальности.",
+    "notes": [
+      "Полный пост и официальный сайт прочитаны. English и International Sign в рубрике Subject Language(s) не ограничивают языки исследования: основной текст явно приглашает звуковые и жестовые языки. Сбор неизвестен. Предусмотрена поддержка четырёх отобранных аспирантских выступлений/постеров; это не всеобщее финансирование."
+    ],
+    "id": "manual-ll-37-3762",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3762/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "source_order": [
+      37,
+      3762
+    ]
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": "К середине января 2027; точный день неизвестен.",
+    "fee": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": "Особенно приветствуются студенты без опыта международных выступлений; ограничение допуска или соавторства не установлено.",
+    "submission_rules": "Анонимный PDF до одной страницы A4 с литературой, поля 2,5 см, 11 pt; отправить организаторам. При первом выступлении вне своего университета указать это в сопроводительном письме.",
+    "format": null,
+    "history": [],
+    "classification": "theory",
+    "verification": "reviewed",
+    "checked_at": "2026-11-14",
+    "name": "27th Workshop on the Roots of Pragmasemantics",
+    "start": "2027-02-12",
+    "end": "2027-02-15",
+    "location": "Шклярска-Поремба, Польша · гора Шреница, Карконоше",
+    "deadline": "2026-12-15",
+    "topics": "Темпоральность: событийная структура и квантификация, время, аспект, модальность, эвиденциальность, временная анафора и согласование времён; также общая семантика и прагматика.",
+    "website": "https://sites.google.com/view/27thszklarskaporebaworkshop/welcome",
+    "classification_reason": "Семантика и прагматика, включая грамматическую темпоральность и интерфейс синтаксиса.",
+    "notes": [
+      "Полный CFP прочитан; официальный сайт подтверждает место, даты и тему, но не публикует подробные условия. Сбор, исследуемые и рабочие языки, точный день ответа неизвестны."
+    ],
+    "id": "manual-ll-37-3765",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3765/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "source_order": [
+      37,
+      3765
+    ]
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": "Подтверждение не позднее 31 января 2027.",
+    "fee": null,
+    "subject_languages": "Романские языки, включая каталонский, французский, итальянский, португальский и испанский.",
+    "working_languages": "Немецкий, английский и все романские языки.",
+    "speaker_restrictions": "Организаторы настоятельно просят подавать тезисы только в одну секцию конгресса.",
+    "submission_rules": "До 4000 знаков с пробелами, литературой и прочими сведениями; указать авторов, аффилиации и название. Отправка непосредственно руководителям секции.",
+    "format": null,
+    "history": [],
+    "classification": "theory",
+    "verification": "reviewed",
+    "checked_at": "2026-11-14",
+    "name": "New Contexts in Prosodic Research: Data, Models, Correlates — Section 10, 40th Romanistiktag",
+    "start": "2027-09-27",
+    "end": "2027-09-30",
+    "location": "Гиссен, Германия · Гиссенский университет имени Юстуса Либиха",
+    "deadline": "2026-12-31",
+    "topics": "Просодия романских языков: фонологические модели, диалектная и социальная вариативность, контакт, изменение, восприятие и интерфейс с синтаксисом и информационной структурой.",
+    "website": "https://www.romanistiktag.de/__trashed/",
+    "classification_reason": "Теория просодии, фонология и грамматические интерфейсы; инструменты анализа не превращают секцию в специализированный NLP.",
+    "notes": [
+      "Полный пост, официальная страница секции и общие инструкции конгресса прочитаны. Секция сохранена самостоятельной записью. Указан общий период конгресса; точные дни секционных заседаний ещё не опубликованы. Официальная ссылка имеет необычный путь __trashed, но открывает именно секцию 10. Сбор неизвестен."
+    ],
+    "id": "manual-ll-37-3763",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3763/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "source_order": [
+      37,
+      3763
+    ]
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2027-02-15",
+    "notification_text": null,
+    "fee": null,
+    "subject_languages": "Реюньонский, маврикийский, родригесский и сейшельский креольские языки.",
+    "working_languages": "Французский или креольский язык докладчика — тезисы и выступления.",
+    "speaker_restrictions": null,
+    "submission_rules": "Резюме 300–500 слов и биобиблиографическая справка до 100 слов; указать название, тематическую ось, корпус/полевой материал, проблему и метод. Отправка организаторам; доклад 20 + 15 минут.",
+    "format": null,
+    "history": [],
+    "classification": "mixed",
+    "verification": "reviewed",
+    "checked_at": "2026-11-14",
+    "name": "Colloque international indianocéanique sur l’écriture du créole et ses enjeux sociétaux",
+    "start": "2027-04-26",
+    "end": "2027-04-27",
+    "location": "Сен-Дени, Реюньон, Франция · Университет Реюньона, кампус Муфиа",
+    "deadline": "2027-01-15",
+    "topics": "Социолингвистика письменного употребления креольских языков Индийского океана: диглоссия, языковая политика, видимость в публичном пространстве и обучение письму; одна из секций посвящена переводу.",
+    "website": null,
+    "classification_reason": "Основное содержание — социолингвистика и языковая политика, а не теория грамматики; перевод — только одна из четырёх осей.",
+    "notes": [
+      "Полный пост, включая требования в конце объявления, прочитан вручную. Отдельный официальный сайт в объявлении не указан и не установлен; сбор и ограничения соавторства неизвестны. Не является специализированной конференцией по переводоведению."
+    ],
+    "id": "manual-ll-37-3764",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3764/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "source_order": [
+      37,
+      3764
+    ]
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": "Ориентировочно конец февраля 2027.",
+    "fee": null,
+    "subject_languages": "Любые языки в рамках фонологической проблематики.",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "Предварительно: одна страница A4/letter с примерами и ссылками, поля 2,5 см, одинарный интервал, не меньше 12 pt; анонимное рецензирование четырьмя экспертами. Полный CFP ожидается в конце ноября или начале декабря.",
+    "format": "Только очно; онлайн-участие не предусмотрено.",
+    "history": [],
+    "classification": "theory",
+    "name": "32nd Manchester Phonology Meeting",
+    "start": "2027-05-27",
+    "end": "2027-05-29",
+    "location": "Манчестер, Великобритания",
+    "deadline": null,
+    "topics": "Фонологическое описание языков, теория фонологии, усвоение и фонологические изменения; обязательной общей темы нет.",
+    "website": "https://phoneybone.ppls.ed.ac.uk/mfm/32mfm.html",
+    "classification_reason": "Фонология во всех теоретических подходах.",
+    "notes": [
+      "Прочитаны полный пост и официальный сайт. Дедлайн лишь запланирован на середину января 2027, точная дата неизвестна — deadline null. Сбор 2027 ещё не установлен: суммы 225/115 GBP относятся к 2025 году и не перенесены. Рабочие языки и лимиты соавторства неизвестны."
+    ],
+    "id": "manual-ll-37-3784",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3784/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "source_order": [
+      37,
+      3784
+    ],
+    "checked_at": "2026-11-14",
+    "verification": "reviewed"
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": "Решение не позднее 1 марта 2027.",
+    "fee": null,
+    "subject_languages": "Описания отдельных языков, межъязыковые, ареальные и генеалогические сравнения.",
+    "working_languages": "Английский — тезисы; язык выступлений отдельно не уточнён.",
+    "speaker_restrictions": null,
+    "submission_rules": "Анонимный PDF до 500 слов с примерами и рисунками, но без литературы; 12 pt; подача через форму, указанную на официальном сайте.",
+    "format": null,
+    "history": [],
+    "classification": "theory",
+    "name": "Pluractional Markers and Related Phenomena: Current Tendencies and Future Perspectives (PLAC2027)",
+    "start": "2027-09-01",
+    "end": "2027-09-02",
+    "location": "Париж, Франция · Коллеж де Франс",
+    "deadline": "2027-01-31",
+    "topics": "Плюракциональность: множественность событий, редупликация, аффиксация и лексические чередования; типология, диахрония, аспект, дистрибутивность, число и залог.",
+    "website": "https://sites.google.com/view/plac27/home",
+    "classification_reason": "Морфология, семантика и типология глагольной множественности.",
+    "notes": [
+      "Полный пост и официальный CFP прочитаны. Сбор, точный день ответа до указанного предела и ограничения соавторства неизвестны."
+    ],
+    "id": "manual-ll-37-3783",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3783/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "source_order": [
+      37,
+      3783
+    ],
+    "checked_at": "2026-11-14",
+    "verification": "reviewed"
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2027-02-26",
+    "notification_text": null,
+    "fee": null,
+    "subject_languages": null,
+    "working_languages": "Английский — язык конференции.",
+    "speaker_restrictions": "Для основной конференции — не более одной единоличной и одной совместной заявки; этот лимит независим от WdAFL.",
+    "submission_rules": "Анонимные тезисы до двух страниц A4 с примерами и литературой, Times New Roman 11 pt, поля минимум 2,5 см. Через Oxford Abstracts выбрать доклад, постер или оба, а также основную конференцию, WdAFL или оба. Доклад 30 + 10 минут; постеры только в основной программе.",
+    "format": null,
+    "history": [],
+    "classification": "theory",
+    "name": "28th Diachronic Generative Syntax Conference (DiGS 28)",
+    "start": "2027-06-02",
+    "end": "2027-06-05",
+    "location": "Стамбул, Турция · Босфорский университет",
+    "deadline": "2027-01-29",
+    "topics": "Исторический синтаксис и синтаксические изменения в генеративной грамматике; методы, непосредственно развивающие эту область.",
+    "website": "https://digs28.bogazici.edu.tr/",
+    "classification_reason": "Генеративная теория синтаксиса и его исторических изменений.",
+    "notes": [
+      "Полный пост прочитан; официальный сайт пока содержит только заголовок и оболочку без подробного CFP. 2–5 июня — общий период, включающий WdAFL 2 июня; отдельные дни основной программы не уточнены. Исследуемые языки не ограничены алтайскими: это ограничение отдельного воркшопа. Сбор неизвестен."
+    ],
+    "id": "manual-ll-37-3782",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3782/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "source_order": [
+      37,
+      3782
+    ],
+    "checked_at": "2026-11-14",
+    "verification": "reviewed"
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2027-02-26",
+    "notification_text": null,
+    "fee": null,
+    "subject_languages": "Тюркские, монгольские, тунгусо-маньчжурские языки; корейский, чеджуский, японский, рюкюские и айнский.",
+    "working_languages": "Английский",
+    "speaker_restrictions": null,
+    "submission_rules": "Анонимные тезисы до двух страниц A4 с примерами и литературой, 11 pt, поля минимум 2,5 см; Oxford Abstracts с выбором WdAFL или обеих программ. Только доклады 30 + 10 минут, постеров нет.",
+    "format": null,
+    "history": [],
+    "classification": "theory",
+    "name": "Workshop on Diachronic Formal Altaic Linguistics (WdAFL) at DiGS 28",
+    "start": "2027-06-02",
+    "end": "2027-06-02",
+    "location": "Стамбул, Турция · Босфорский университет",
+    "deadline": "2027-01-29",
+    "topics": "Историческое развитие и формальный анализ языков в широком охвате традиции WAFL.",
+    "website": "https://digs28.bogazici.edu.tr/",
+    "classification_reason": "Формальная и историческая грамматика конкретных языковых групп.",
+    "notes": [
+      "Самостоятельный полудневный воркшоп 2 июня, явно указанный в полном посте DiGS28. Лимит основной конференции прямо объявлен независимым от WdAFL; собственный лимит соавторства неизвестен и не заимствован. Сбор неизвестен; официальный сайт без подробных условий."
+    ],
+    "id": "manual-ll-37-3782-wdafl",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3782/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "source_order": [
+      37,
+      3782
+    ],
+    "checked_at": "2026-11-14",
+    "verification": "reviewed"
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "subject_languages": "Английский",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "До 400 слов без литературы; отправить обоим организаторам. Доклад 20 + 10 минут. Полудневный или однодневный формат зависит от числа заявок.",
+    "format": null,
+    "history": [],
+    "classification": "mixed",
+    "name": "ICAME48 Pre-conference Workshop: Towards \"Big and Tidy\" in English Corpus Linguistics",
+    "start": "2027-05-18",
+    "end": "2027-05-18",
+    "location": "Хельсинки, Финляндия",
+    "deadline": "2026-12-15",
+    "topics": "Большие корпуса с богатыми метаданными, вариативность и изменение английского, социолингвистические вопросы, обогащение и проверка корпусной разметки.",
+    "website": null,
+    "classification_reason": "Корпусная методология и вариационная лингвистика; автоматическая разметка — инструмент, а не исключительно NLP-тематика.",
+    "notes": [
+      "Полный CFP прочитан. Самостоятельный предконференционный воркшоп ICAME48 со своим дедлайном; отдельный официальный сайт в посте не указан и не установлен. Сбор, ответ, рабочие языки, анонимность и ограничения соавторства неизвестны."
+    ],
+    "id": "manual-ll-37-3781",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3781/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "source_order": [
+      37,
+      3781
+    ],
+    "checked_at": "2026-11-14",
+    "verification": "reviewed"
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2027-02-22",
+    "notification_text": null,
+    "fee": null,
+    "subject_languages": "Греческий: современный, древний, эллинистический и средневековый; географические и социальные диалекты.",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "history": [],
+    "classification": "theory",
+    "name": "47th Annual Meeting on Greek Linguistics (AMGL 47)",
+    "start": "2027-05-14",
+    "end": "2027-05-14",
+    "location": "Салоники, Греция · Университет Аристотеля, старый корпус философского факультета",
+    "deadline": "2027-01-31",
+    "topics": "Синхронная и историческая семантика и прагматика греческого и его диалектов; изменения значения и употребления, экспериментальные и вычислительные методы.",
+    "website": "https://lit.auth.gr/en/research-en/conferences-en/amgl47-en/",
+    "classification_reason": "Семантика, прагматика и историческое описание греческого.",
+    "notes": [
+      "Полный пост прочитан. Официальная страница вернула 451 Unavailable For Legal Reasons; правила тезисов, сбор, ограничения соавторства и рабочие языки неизвестны. English в рубрике Subject Language(s) не перенесён в исследуемые или рабочие языки: основное содержание посвящено греческому. Студенческий предворкшоп 13 мая упомянут отдельно, но собственные условия пока не прочитаны; основной дедлайн ему не приписан."
+    ],
+    "id": "manual-ll-37-3780",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3780/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "source_order": [
+      37,
+      3780
+    ],
+    "checked_at": "2026-11-14",
+    "verification": "reviewed"
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": "Регистрационного сбора нет — прямо указано в посте.",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "Тезисы до 300 слов организаторам; описательные и теоретические исследования. Выступление не более 20 минут.",
+    "format": "Онлайн",
+    "history": [],
+    "classification": "theory",
+    "name": "Figurativity, Rhetoric and the Study of Constructions — online workshop, February 2027",
+    "start": "2027-02-27",
+    "end": "2027-02-28",
+    "location": "Онлайн",
+    "deadline": "2027-01-31",
+    "topics": "Фигуративные грамматические конструкции, риторические эффекты, перспектива, ирония, метафора и метонимия; концептуализация и интерпретация.",
+    "website": null,
+    "classification_reason": "Семантика и прагматика грамматических конструкций.",
+    "notes": [
+      "Новый полный пост назван Theme session in ICLC18, но указывает отдельную онлайн-встречу 27–28 февраля и дедлайн 31 января. Прежняя заявка на августовскую секцию с дедлайном 8 октября сохранена отдельно: перенос или продление прямо не объявлены, отношение двух этапов требует уточнения. Сайт и платформа пока не опубликованы; рабочие языки, ответ и соавторство неизвестны."
+    ],
+    "id": "manual-ll-37-3786",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3786/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "source_order": [
+      37,
+      3786
+    ],
+    "checked_at": "2026-11-14",
+    "verification": "reviewed"
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2027-02-28",
+    "notification_text": null,
+    "fee": null,
+    "subject_languages": "Греческий и его разновидности",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "Предложение: организатор и аффилиация, название, содержание и список участников. До пяти часов на воркшоп. Организаторы сами собирают и рецензируют доклады; они не подаются в общий EasyAbs. Отклонённое предложение не переводится автоматически в основной конкурс.",
+    "format": null,
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-11-15",
+        "new": "2026-11-30",
+        "type": "extended",
+        "observed_at": "2026-11-14T06:10:58Z",
+        "source": "https://icgl18.org/ICGL%2018%20-%20English%20Call%202.pdf"
+      }
+    ],
+    "classification": "theory",
+    "id": "manual-icgl18-2027-workshops",
+    "name": "ICGL 18 — workshop proposals",
+    "start": "2027-09-21",
+    "end": "2027-09-24",
+    "location": "Афины, Греция · Афинский национальный университет имени Каподистрии",
+    "deadline": "2026-11-30",
+    "topics": "Предложения тематических воркшопов по лингвистике греческого.",
+    "website": "https://icgl18.org/",
+    "classification_reason": "Тематические воркшопы по грамматике и общему описанию греческого.",
+    "sources": [
+      {
+        "type": "official",
+        "url": "https://icgl18.org/ICGL%2018%20-%20English%20Call%202.pdf",
+        "label": "Официальный второй CFP"
+      }
+    ],
+    "notes": [
+      "Самостоятельный конкурс предложений воркшопов: прежний срок 15 ноября, новый 30 ноября прямо показан в CFP. Порядок подачи самого предложения, ограничения организаторов и рабочие языки отдельно не уточнены; сбор неизвестен. Даты указаны по общему периоду конференции."
+    ],
+    "checked_at": "2026-11-14",
+    "verification": "reviewed"
   }
 ]
