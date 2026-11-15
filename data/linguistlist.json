@@ -2736,35 +2736,40 @@
     "name": "24. Sprachwissenschaftliche Tagung für Promotionsstudierende (Germany)",
     "start": "2027-03-11",
     "end": "2027-03-12",
-    "location": "Tuebingen, Germany",
+    "location": "Тюбинген, Германия · Тюбингенский университет",
     "deadline": "2026-11-15",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": "General Linguistics",
-    "subject_languages": "English (eng, stan1293)",
-    "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
+    "topics": "Методологические вопросы текущих лингвистических исследований: теоретическая, экспериментальная, историческая и социолингвистика и другие области.",
+    "subject_languages": null,
+    "working_languages": "Английский или немецкий — языки выступлений; можно указать готовность выступать на обоих.",
+    "speaker_restrictions": "Конференция аспирантов. Точные критерии допуска иных категорий участников и лимиты соавторства не указаны.",
+    "submission_rules": "Анонимный PDF до 500 слов без литературы, оформление APA 7; отправка организаторам. В письме указать авторов, аффилиации, доклад/постер и языковые предпочтения. Доклад 20 + 10 минут. CFP ориентирован на методологические вопросы текущей работы, а не завершённые проекты или предварительные результаты.",
     "format": null,
-    "website": null,
+    "website": "https://staps.stuts.eu/24-staps-tuebingen/",
     "sources": [
       {
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3150/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://staps.stuts.eu/staps-24-call-for-papers-2/",
+        "label": "Официальный CFP"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Полный пост и официальный CFP прочитаны; оба сохраняют 15 ноября, 23:59. Часовой пояс прямо не указан, поэтому deadline_at и deadline_timezone оставлены null. Сбор, дата ответа и рабочий язык тезисов неизвестны. English/German в Subject Language(s) не означают ограничения исследуемых языков."
     ],
     "classification": "theory",
-    "classification_reason": "Широкий критерий: грамматика, описание языков, типология и общая лингвистика; корпусные методы не исключают теоретическую тематику.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "classification_reason": "Общелингвистическая конференция с теоретической грамматикой в числе основных допустимых направлений.",
+    "checked_at": "2026-11-15",
+    "verification": "reviewed",
     "source_order": [
       37,
       3150
@@ -4655,15 +4660,15 @@
     "name": "49th Generative Linguistics in the Old World Conference",
     "start": "2027-03-22",
     "end": "2027-03-25",
-    "location": "Lisbon, Portugal",
+    "location": "Лиссабон, Португалия · Лиссабонский университет, факультет искусств и гуманитарных наук, кампус Кампу-Гранди",
     "deadline": "2026-11-01",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": "Linguistic Theories; Morphology; Phonology; Semantics; Syntax",
-    "subject_languages": null,
+    "topics": "Генеративная грамматика: все подразделы и подходы, совместимые с генеративными целями; основная программа 22–24 марта, тематические воркшопы 25 марта.",
+    "subject_languages": "Звуковые и жестовые языки; португальские разновидности и языки португалоязычного мира особо приветствуются.",
     "working_languages": null,
     "speaker_restrictions": "Не более 1 единоличных и 1 совместных тезисов на человека. Одинаковые тезисы нельзя подавать в основной коллоквиум и воркшопы.",
     "submission_rules": "Анонимный PDF до 2 страниц, включая примеры, литературу, таблицы и рисунки; Times New Roman от 12 pt, одинарный интервал, поля 2,5 см (A4) или 1 дюйм (Letter); до 5 ключевых слов. Подача через Oxford Abstracts.",
@@ -4688,12 +4693,12 @@
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Полный официальный CFP общества GLOW повторно прочитан: дедлайн 1 ноября и заявление, что продления не будет, сохраняются. Более позднего подтверждённого продления не найдено. Местный сайт не открылся, пост 37.2733 вернул 403. Сбор, рабочие языки и дата ответа неизвестны. Общие даты 22–25 марта сохранены; тематические воркшопы выделены отдельно."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "checked_at": "2026-11-15",
+    "verification": "reviewed",
     "source_order": [
       37,
       2733
@@ -15141,18 +15146,18 @@
     "name": "Panel in XXV Congreso de la Asociación Alemana de Hispanistas: Clitics: Variation and Linguistic Change",
     "start": "2027-03-09",
     "end": "2027-03-13",
-    "location": "Augsburg, Germany",
+    "location": "Аугсбург, Германия · Аугсбургский университет, секция 8-LING",
     "deadline": "2026-08-18",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
-    "notification_text": null,
-    "fee": null,
-    "topics": "General Linguistics; Historical Linguistics; Pragmatics; Syntax",
-    "subject_languages": "Spanish (spa, stan1288)",
-    "working_languages": null,
+    "notification_text": "Уведомление до 30 сентября 2026.",
+    "fee": "Общий сбор конгресса: до 15 ноября 2026 — 95 € для членов DHV, 115 € для остальных, 75 € для студентов/пенсионеров; 16 ноября–15 января — 115/130/85 €; 16 января–13 марта — 130/150/95 €. Дневной билет 10, 11 или 12 марта — 50 €. Ужин оплачивается отдельно.",
+    "topics": "Клитики в испанском: лейсмо, лаисмо и лоисмо, удвоение клитик, дифференцированное маркирование объекта, согласование, нулевые объекты, сочетания и подъём клитик; вариативность и изменение.",
+    "subject_languages": "Испанский и его исторические, региональные и контактные разновидности, включая сефардский.",
+    "working_languages": "Испанский указан в официальном PDF; пост LINGUIST List также допускает английский — условия расходятся.",
     "speaker_restrictions": null,
-    "submission_rules": null,
+    "submission_rules": "До 500 слов без литературы в официальном шаблоне; отправить организаторам секции.",
     "format": null,
     "website": "https://iberorom.org/hispaux27/",
     "sources": [
@@ -15165,16 +15170,26 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/2187/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://iberorom.org/wp-content/uploads/2026/06/8-LING_Cliticos-variacion-y-cambio-linguistico.pdf",
+        "label": "Официальный CFP секции"
+      },
+      {
+        "type": "official",
+        "url": "https://eveeno.com/189619781",
+        "label": "Официальная регистрация конгресса"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Полный пост и официальный трёхстраничный CFP прочитаны. Официальный PDF требует испанский, тогда как пост разрешает испанский и английский; языковой конфликт не разрешён. Общий сайт сообщал приём на оставшиеся места до 30 сентября лишь в отдельных секциях: принадлежность этой секции не подтверждена, поэтому дедлайн 18 августа и история не изменены. Период 9–13 марта — общий период конгресса, точные дни секции неизвестны. Лимиты соавторства неизвестны."
     ],
     "classification": "theory",
-    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "classification_reason": "Синтаксис, морфосинтаксис и прагматика клитик.",
+    "checked_at": "2026-11-15",
+    "verification": "reviewed",
     "source_order": [
       37,
       2187
@@ -16640,18 +16655,18 @@
     "name": "Spanish in Contact: Language Contact, Multilingualism and Learner Language – Systemic Perspectives in Dialogue",
     "start": "2027-03-09",
     "end": "2027-03-13",
-    "location": "Augsburg, Germany",
+    "location": "Аугсбург, Германия · Аугсбургский университет, секция 5-LING",
     "deadline": "2026-08-18",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
-    "notification_text": null,
-    "fee": null,
-    "topics": "Applied Linguistics; Language Acquisition; Linguistic Theories; Phonetics; Syntax",
-    "subject_languages": "Spanish (spa, stan1288)",
-    "working_languages": null,
+    "notification_text": "Уведомление до 30 сентября 2026.",
+    "fee": "Общий сбор конгресса: до 15 ноября 2026 — 95 € для членов DHV, 115 € для остальных, 75 € для студентов/пенсионеров; 16 ноября–15 января — 115/130/85 €; 16 января–13 марта — 130/150/95 €. Дневной билет 10, 11 или 12 марта — 50 €. Ужин оплачивается отдельно.",
+    "topics": "Грамматика испанского в контакте и при многоязычии: фонетика, фонология, морфология, синтаксис, семантика, просодия и прагматика; вариативность, гибридные структуры и перенос.",
+    "subject_languages": "Испанский в контакте с коренными и миноритарными языками Европы, Латинской Америки и Африки; усвоение испанского как второго/третьего языка.",
+    "working_languages": "Испанский — тезисы и предлагаемые доклады.",
     "speaker_restrictions": null,
-    "submission_rules": null,
+    "submission_rules": "До 500 слов без литературы, только официальный шаблон; отправка руководителям секции.",
     "format": null,
     "website": "https://iberorom.org/hispaux27/sections/",
     "sources": [
@@ -16659,16 +16674,26 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/2129/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://iberorom.org/wp-content/uploads/2026/06/5-LING_Contacto-linguistico-plurilinguismo-y-adquisicion.pdf",
+        "label": "Официальный CFP секции"
+      },
+      {
+        "type": "official",
+        "url": "https://eveeno.com/189619781",
+        "label": "Официальная регистрация конгресса"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Полный пост и одностраничный официальный CFP прочитаны. Срок 18 августа сохраняется: общая возможность занять оставшиеся места до 30 сентября не подтверждена именно для этой секции. Лимиты соавторства неизвестны. Период 9–13 марта относится к конгрессу, точные дни секции не установлены."
     ],
     "classification": "theory",
-    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "classification_reason": "Содержательная теория грамматики и её интерфейсов в условиях языкового контакта.",
+    "checked_at": "2026-11-15",
+    "verification": "reviewed",
     "source_order": [
       37,
       2129
@@ -18547,18 +18572,18 @@
     "name": "Word-Formation in Non-Standard Languages",
     "start": "2027-03-18",
     "end": "2027-03-19",
-    "location": "Turin, Italy",
+    "location": "Турин, Италия",
     "deadline": "2026-11-30",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
-    "notification_text": null,
+    "notification_text": "Ответ до 31 декабря 2026.",
     "fee": null,
-    "topics": "Computational Linguistics; Language Documentation; Lexicography; Morphology; Text/Corpus Linguistics",
-    "subject_languages": null,
-    "working_languages": null,
+    "topics": "Словообразование нестандартных разновидностей: продуктивность и конкуренция моделей, заимствование, контакт, языковое планирование, угасание и усвоение; документация и корпусные ресурсы.",
+    "subject_languages": "Миноритарные языки, региолекты, сленг и неформальные социолекты; сопоставление со стандартными разновидностями.",
+    "working_languages": "Английский — тезисы; язык выступлений не уточнён.",
     "speaker_restrictions": null,
-    "submission_rules": null,
+    "submission_rules": "До 500 слов без литературы на английском; отправка организатору с указанием названия конференции в теме.",
     "format": null,
     "website": null,
     "sources": [
@@ -18566,16 +18591,21 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/2320/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "other",
+        "url": "https://journals.linguistik.de/zwjw/announcement/view/63",
+        "label": "Анонс в Journal of Word Formation"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Полный пост 37.2320 и поисковая копия анонса в Journal of Word Formation прочитаны; оба называют 30 ноября. Отдельный официальный сайт не установлен. Сбор, анонимность и ограничения соавторства неизвестны."
     ],
     "classification": "theory",
-    "classification_reason": "Широкий критерий: грамматика, описание языков, типология и общая лингвистика; корпусные методы не исключают теоретическую тематику.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "classification_reason": "Теория морфологии и словообразования нестандартных языковых разновидностей.",
+    "checked_at": "2026-11-15",
+    "verification": "reviewed",
     "source_order": [
       37,
       2320
@@ -20240,35 +20270,40 @@
     "name": "Workshop on Ideophones in Use",
     "start": "2026-12-05",
     "end": "2026-12-06",
-    "location": "Online",
+    "location": "Нагоя, Япония · Нагойский университет; также онлайн",
     "deadline": "2026-09-15",
     "deadline_at": null,
     "deadline_timezone": null,
-    "notification": null,
+    "notification": "2026-09-30",
     "notification_text": null,
     "fee": null,
-    "topics": null,
-    "subject_languages": null,
-    "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
-    "format": null,
-    "website": null,
+    "topics": "Идеофоны в употреблении: семантические классы, рассказ, разговор, мультимодальность, письменная речь и словесное искусство; особенно малоизученные языки и диалекты.",
+    "subject_languages": "Малоизученные языки и диалекты особенно приветствуются; закрытого списка исследуемых языков нет.",
+    "working_languages": "Английский — тезисы; язык выступлений отдельно не указан.",
+    "speaker_restrictions": "Одна индивидуальная и/или одна совместная заявка на автора.",
+    "submission_rules": "Анонимный PDF на английском до двух страниц A4 с примерами, литературой, таблицами и рисунками; 12 pt, поля 2,5 см; отправка организатору. Доклад ориентировочно 20 + 10 минут.",
+    "format": "Гибридный: очно в Нагое и онлайн; даты по JST.",
+    "website": "https://sites.google.com/view/wiu-2026",
     "sources": [
       {
         "type": "linguistlist",
         "url": "https://linguistlist.org/conf/search/?page=23",
         "label": "LINGUIST List · каталог"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/1989/",
+        "label": "LINGUIST List"
       }
     ],
     "history": [],
     "notes": [
-      "Объявление не удалось получить. Данные взяты из каталога; ссылка на пост, сайт, сбор и ограничения не проверены."
+      "Заполнен пробел записи, ранее имевшей только каталог. Полный пост и официальный сайт подтверждают смену онлайн-формата на гибридный с 3 июня 2026. Сайт помечает CFP закрытым; продления после 15 сентября нет. День дедлайна задан по JST, но час закрытия неизвестен, поэтому точный deadline_at не добавлен. Сбор неизвестен."
     ],
-    "classification": "other",
-    "classification_reason": null,
-    "checked_at": "2026-11-02",
-    "verification": "partial"
+    "classification": "theory",
+    "classification_reason": "Семантика, прагматика, типология и описание идеофонов в конкретных языках.",
+    "checked_at": "2026-11-15",
+    "verification": "reviewed"
   },
   {
     "id": "b445af427d2e7efc",
@@ -22394,6 +22429,111 @@
       "Самостоятельный конкурс предложений воркшопов: прежний срок 15 ноября, новый 30 ноября прямо показан в CFP. Порядок подачи самого предложения, ограничения организаторов и рабочие языки отдельно не уточнены; сбор неизвестен. Даты указаны по общему периоду конференции."
     ],
     "checked_at": "2026-11-14",
+    "verification": "reviewed"
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "Анонимный PDF до двух страниц с примерами и литературой, Times New Roman от 12 pt, одинарный интервал, поля 2,5 см; Oxford Abstracts, до пяти ключевых слов. Доклад 25 + 10 минут. Одинаковые тезисы нельзя подавать и в основной коллоквиум, и в воркшоп.",
+    "format": null,
+    "history": [],
+    "classification": "theory",
+    "id": "manual-glow49-phonology-morphology",
+    "name": "Workshop at GLOW 49 — Phonology, Morphology, and Their Interactions",
+    "start": "2027-03-25",
+    "end": "2027-03-25",
+    "location": "Лиссабон, Португалия · Лиссабонский университет, факультет искусств и гуманитарных наук, кампус Кампу-Гранди",
+    "deadline": "2026-11-01",
+    "topics": "Фонология, морфология и их взаимодействие.",
+    "website": "https://dkaramasov.github.io/glow49",
+    "sources": [
+      {
+        "type": "official",
+        "url": "https://glowlinguistics.org/blog/glow49-call-for-papers/",
+        "label": "Официальный CFP GLOW"
+      }
+    ],
+    "notes": [
+      "Самостоятельный воркшоп 25 марта с отдельным выбором программы. Лимит авторства, указанный для основной конференции, не перенесён автоматически. Сбор, рабочие/исследуемые языки и дата ответа неизвестны."
+    ],
+    "classification_reason": "Теория грамматики в содержательной области секции.",
+    "checked_at": "2026-11-15",
+    "verification": "reviewed"
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "Анонимный PDF до двух страниц с примерами и литературой, Times New Roman от 12 pt, одинарный интервал, поля 2,5 см; Oxford Abstracts, до пяти ключевых слов. Доклад 25 + 10 минут. Одинаковые тезисы нельзя подавать и в основной коллоквиум, и в воркшоп.",
+    "format": null,
+    "history": [],
+    "classification": "theory",
+    "id": "manual-glow49-control",
+    "name": "Workshop at GLOW 49 — The Syntax, Semantics, and Acquisition of Control Phenomena",
+    "start": "2027-03-25",
+    "end": "2027-03-25",
+    "location": "Лиссабон, Португалия · Лиссабонский университет, факультет искусств и гуманитарных наук, кампус Кампу-Гранди",
+    "deadline": "2026-11-01",
+    "topics": "Синтаксис, семантика и усвоение конструкций контроля.",
+    "website": "https://dkaramasov.github.io/glow49",
+    "sources": [
+      {
+        "type": "official",
+        "url": "https://glowlinguistics.org/blog/glow49-call-for-papers/",
+        "label": "Официальный CFP GLOW"
+      }
+    ],
+    "notes": [
+      "Самостоятельный воркшоп 25 марта с отдельным выбором программы. Лимит авторства, указанный для основной конференции, не перенесён автоматически. Сбор, рабочие/исследуемые языки и дата ответа неизвестны."
+    ],
+    "classification_reason": "Теория грамматики в содержательной области секции.",
+    "checked_at": "2026-11-15",
+    "verification": "reviewed"
+  },
+  {
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "Анонимный PDF до двух страниц с примерами и литературой, Times New Roman от 12 pt, одинарный интервал, поля 2,5 см; Oxford Abstracts, до пяти ключевых слов. Доклад 25 + 10 минут. Одинаковые тезисы нельзя подавать и в основной коллоквиум, и в воркшоп.",
+    "format": null,
+    "history": [],
+    "classification": "theory",
+    "id": "manual-glow49-hypotaxis",
+    "name": "Workshop at GLOW 49 — The Morphosyntax and Semantics of Clausal Hypotaxis",
+    "start": "2027-03-25",
+    "end": "2027-03-25",
+    "location": "Лиссабон, Португалия · Лиссабонский университет, факультет искусств и гуманитарных наук, кампус Кампу-Гранди",
+    "deadline": "2026-11-01",
+    "topics": "Морфосинтаксис и семантика клаузального подчинения.",
+    "website": "https://dkaramasov.github.io/glow49",
+    "sources": [
+      {
+        "type": "official",
+        "url": "https://glowlinguistics.org/blog/glow49-call-for-papers/",
+        "label": "Официальный CFP GLOW"
+      }
+    ],
+    "notes": [
+      "Самостоятельный воркшоп 25 марта с отдельным выбором программы. Лимит авторства, указанный для основной конференции, не перенесён автоматически. Сбор, рабочие/исследуемые языки и дата ответа неизвестны."
+    ],
+    "classification_reason": "Теория грамматики в содержательной области секции.",
+    "checked_at": "2026-11-15",
     "verification": "reviewed"
   }
 ]
