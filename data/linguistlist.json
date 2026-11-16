@@ -487,35 +487,40 @@
     "name": "12th Workshop on Turkic and Languages in Contact with Turkic",
     "start": "2027-04-17",
     "end": "2027-04-18",
-    "location": "New Brunswick, NJ, USA",
+    "location": "Нью-Брансуик, Нью-Джерси, США · Ратгерский университет",
     "deadline": "2026-12-22",
-    "deadline_at": null,
-    "deadline_timezone": null,
+    "deadline_at": "2026-12-22T23:59:00-05:00",
+    "deadline_timezone": "EST (UTC−05:00)",
     "notification": "2027-01-31",
-    "notification_text": "January 31, 2027",
+    "notification_text": null,
     "fee": null,
-    "topics": "General Linguistics",
-    "subject_languages": "Turkic (turk1311)",
+    "topics": "Все аспекты лингвистики тюркских языков и языков в контакте с ними; теоретические, экспериментальные и вычислительные подходы. В этом выпуске особо приветствуются фонетика и фонология.",
+    "subject_languages": "Тюркские языки, языки в контакте с ними и языки регионов их распространения.",
     "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
-    "format": null,
-    "website": null,
+    "speaker_restrictions": "До двух заявок: одна индивидуальная и одна совместная либо две совместные. Оригинальное исследование, не опубликованное и не принятое к публикации на момент подачи.",
+    "submission_rules": "Анонимный PDF до двух страниц A4/Letter с примерами, рисунками и литературой; поля 1 дюйм, шрифт от 11 pt. Через OpenReview выбрать доклад, постер или оба. Учётную запись рекомендуют создать минимум за две недели; доклад 20 + 10 минут.",
+    "format": "Очный",
+    "website": "https://openreview.net/group?id=TUplus/2027/Workshop",
     "sources": [
       {
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3491/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://openreview.net/group?id=TUplus/2027/Workshop",
+        "label": "Официальная страница подачи"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Полный пост 37.3491 прочитан. OpenReview открылся только как Loading, подробные условия в нём не проверены. Пост называет 22 декабря «Sunday», хотя 22 декабря 2026 — вторник; числовая дата 22 декабря повторена несколько раз и сохранена. Время 23:59 EST указано прямо. Сбор и рабочие языки неизвестны."
     ],
     "classification": "theory",
     "classification_reason": "Широкий критерий: грамматика, описание языков, типология и общая лингвистика; корпусные методы не исключают теоретическую тематику.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "checked_at": "2026-11-16",
+    "verification": "reviewed",
     "source_order": [
       37,
       3491
@@ -5446,18 +5451,18 @@
     "name": "63rd Annual Meeting of the Chicago Linguistic Society",
     "start": "2027-03-26",
     "end": "2027-03-28",
-    "location": "Chicago, USA",
+    "location": "Чикаго, Иллинойс, США · Чикагский университет",
     "deadline": "2026-11-20",
-    "deadline_at": null,
-    "deadline_timezone": null,
+    "deadline_at": "2026-11-20T23:59:00-06:00",
+    "deadline_timezone": "America/Chicago (CST, UTC−06:00)",
     "notification": null,
-    "notification_text": "Mid-January",
+    "notification_text": "Середина января 2027; точный день неизвестен.",
     "fee": null,
-    "topics": "Phonetics; Phonology; Semantics; Sociolinguistics; Syntax",
-    "subject_languages": null,
+    "topics": "Все области лингвистики звуковых и жестовых языков. Особые темы: вариативность речи, квир- и транс-лингвистика, усвоение соответствий формы и функции, архитектура синтаксиса, интерфейсы с семантикой и просодией, измерение и сравнение.",
+    "subject_languages": "Звуковые и жестовые языки; конкретный перечень не ограничен CFP.",
     "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
+    "speaker_restrictions": "Одна индивидуальная и одна совместная заявка либо две совместные.",
+    "submission_rules": "Анонимный PDF через Oxford Abstracts, имя файла PaperTitle.pdf без авторов и аффилиаций. До двух страниц A4/US Letter с данными и литературой, поля 1 дюйм, шрифт от 11 pt. Название и ключевые слова внутри тезисов; примеры, таблицы и рисунки внутри текста. Доклад 20 минут или постер.",
     "format": null,
     "website": "https://www.chicagolinguisticsociety.com/",
     "sources": [
@@ -5465,16 +5470,21 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3231/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://www.chicagolinguisticsociety.com/",
+        "label": "Официальный сайт"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Полный пост 37.3231 и официальный сайт прочитаны; срок 20 ноября, 23:59 Central Time не изменён. Сбор, рабочие языки и анонимность платформенных метаданных отдельно не уточнены."
     ],
     "classification": "theory",
-    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "classification_reason": "Общелингвистическая конференция с полноценной программой грамматической теории и описания языков.",
+    "checked_at": "2026-11-16",
+    "verification": "reviewed",
     "source_order": [
       37,
       3231
@@ -11665,18 +11675,18 @@
     "name": "Morphology as Syntax 5",
     "start": "2027-04-16",
     "end": "2027-04-16",
-    "location": "Newark, Delaware, USA",
+    "location": "Ньюарк, Делавэр, США · Делавэрский университет, студенческий центр Трабант; аудитории 209/211 предварительно",
     "deadline": "2027-01-15",
     "deadline_at": null,
     "deadline_timezone": null,
-    "notification": null,
+    "notification": "2027-02-01",
     "notification_text": null,
     "fee": null,
-    "topics": "General Linguistics; Morphology; Syntax",
+    "topics": "Морфология как синтаксис: возможна ли грамматика без самостоятельного морфологического компонента и постсинтаксических операций. Принимаются аргументы как за, так и против такой редукции.",
     "subject_languages": null,
-    "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
+    "working_languages": "Английский — тезисы; язык выступлений отдельно не указан.",
+    "speaker_restrictions": "Одна единоличная и одна совместная заявка либо две совместные.",
+    "submission_rules": "Анонимные тезисы на английском до двух страниц A4/US Letter, Times New Roman 12 pt, одинарный интервал; примеры и рисунки внутри текста. Отправка организатору; доклад 20 + 10 минут.",
     "format": null,
     "website": "https://sites.google.com/udel.edu/mas5/home",
     "sources": [
@@ -11684,16 +11694,21 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/2781/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://sites.google.com/udel.edu/mas5/home",
+        "label": "Официальный сайт"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Полный пост 37.2781 и официальный сайт прочитаны. В посте буквально указаны поля «2.5 inches» — необычное требование, возможно опечатка; корректное значение не удалось подтвердить, автоматически не заменено на 2,5 см. Сайт подтверждает дату и предварительную площадку, но не даёт полного CFP. Сбор и ограничения исследуемых языков неизвестны."
     ],
     "classification": "theory",
-    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "classification_reason": "Формальная теория морфосинтаксиса и архитектуры грамматики.",
+    "checked_at": "2026-11-16",
+    "verification": "reviewed",
     "source_order": [
       37,
       2781
@@ -20947,7 +20962,7 @@
     "name": "Symposium on American Indian Languages 2027",
     "start": "2027-04-08",
     "end": "2027-04-09",
-    "location": "Tucson, USA",
+    "location": "Тусон, Аризона, США · Аризонский университет",
     "deadline": "2027-01-13",
     "deadline_at": null,
     "deadline_timezone": null,
@@ -20966,15 +20981,20 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3616/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://sites.google.com/view/sail-uofa",
+        "label": "Официальный сайт"
       }
     ],
     "history": [],
     "notes": [
-      "Официальный сайт подтверждает очный формат и даты. Сбор, рабочие языки, правила подачи и срок ответа в доступных материалах не указаны."
+      "Полный пост и официальный сайт повторно прочитаны. Сайт подтверждает очное проведение в Аризонском университете 8–9 апреля. Сбор, рабочие языки, правила подачи и дата ответа по-прежнему не указаны в доступных материалах."
     ],
-    "classification": "mixed",
-    "classification_reason": "Описание языков сочетается с документацией, сохранением и ревитализацией.",
-    "checked_at": "2026-11-05",
+    "classification": "theory",
+    "classification_reason": "Описание и документация конкретных языков Америк соответствуют широкому критерию владельца; ревитализация и участие носителей не отменяют выделение.",
+    "checked_at": "2026-11-16",
     "verification": "reviewed",
     "source_order": [
       37,

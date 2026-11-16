@@ -2019,5 +2019,45 @@
     ],
     "checked_at": "2026-11-15",
     "verification": "reviewed"
+  },
+  {
+    "id": "mos-bondarko-functional-grammar-2026",
+    "name": "Чтения памяти А. В. Бондарко «Актуальные проблемы функциональной грамматики»",
+    "start": "2026-11-17",
+    "end": "2026-11-17",
+    "location": "Онлайн",
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Актуальные проблемы функциональной грамматики.",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": "Онлайн",
+    "website": "https://iling.spb.ru/conferences/2026/5118",
+    "sources": [
+      {
+        "type": "mosling",
+        "url": "https://groups.google.com/g/mosling",
+        "label": "Мослинг · объявление 15 ноября 2026"
+      },
+      {
+        "type": "official",
+        "url": "https://iling.spb.ru/conferences/2026/5118",
+        "label": "Страница чтений и программы ИЛИ РАН"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Письмо Мослинга прочитано полностью: подтверждены чтения с несколькими докладами, дата и онлайн-формат. Страница ИЛИ РАН с программой не открылась; аннотации и полный список выступлений не прочитаны. Открытый CFP, сроки, сбор, исследуемые/рабочие языки и ограничения неизвестны. Закрытые реквизиты онлайн-встречи не публикуются."
+    ],
+    "classification": "theory",
+    "classification_reason": "Функциональная грамматика; научные чтения с программой докладов, а не одиночная лекция.",
+    "checked_at": "2026-11-16",
+    "verification": "partial"
   }
 ]

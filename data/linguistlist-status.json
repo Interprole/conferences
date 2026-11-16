@@ -1,8 +1,8 @@
 {
-  "attempted_at": "2026-11-15T06:09:58Z",
-  "last_success_at": "2026-11-15T06:09:58Z",
-  "pages_read": 4,
-  "issues_read": 6,
+  "attempted_at": "2026-11-16T06:02:18Z",
+  "last_success_at": "2026-11-16T06:02:18Z",
+  "pages_read": 1,
+  "issues_read": 4,
   "feeds_read": 0,
   "complete": false,
   "discovery_complete": false,
@@ -10,6 +10,18 @@
   "pending_count": 26,
   "coverage": {
     "current_manual_review": {
+      "catalogue_pages_read": 1,
+      "catalogue_page_numbers": [
+        28
+      ],
+      "catalogue_page_failures": 3,
+      "recent_issue_pages_read": 2,
+      "full_posts_read": 4,
+      "official_pages_read": 3,
+      "official_pages_failed": 2,
+      "official_pages_incomplete": 1
+    },
+    "previous_manual_review": {
       "catalogue_pages_read": 4,
       "catalogue_page_numbers": [
         23,
@@ -24,20 +36,6 @@
       "official_pages_and_documents_read": 9,
       "search_copies_read": 1,
       "official_pages_failed": 2
-    },
-    "previous_manual_review": {
-      "catalogue_pages_read": 3,
-      "catalogue_page_numbers": [
-        1,
-        2,
-        20
-      ],
-      "catalogue_page_failures": 6,
-      "recent_issue_pages_read": 3,
-      "full_posts_read": 17,
-      "official_pages_and_documents_read": 17,
-      "official_pages_failed": 4,
-      "official_pages_incomplete": 1
     },
     "previous_automated_cycle": {
       "cycle": {
@@ -76,15 +74,23 @@
     "records_without_issue": 16,
     "official_sites_verified": false
   },
-  "error_count": 2,
+  "error_count": 4,
   "errors": [
     {
-      "url": "https://sites.google.com/view/igg52",
-      "error": "Официальный сайт не открылся. Полный текущий пост 37.3175 прочитан: известный срок 15 ноября, 23:59 CET сохраняется; продление не подтверждено."
+      "url": "https://linguistlist.org/conf/search/?page=27",
+      "error": "Страницы 27, 29 и 30 недоступны; страница 28 прочитана. Другие страницы в этом запуске не проверены."
     },
     {
-      "url": "https://linguistlist.org/issues/37/2733/",
-      "error": "403 Forbidden. Условия GLOW49 проверены по полному официальному CFP общества GLOW; местный сайт dkaramasov.github.io/glow49 недоступен."
+      "url": "https://sites.google.com/view/igg52",
+      "error": "Официальный сайт недоступен, возможное продление после 15 ноября не подтверждено."
+    },
+    {
+      "url": "https://staps.stuts.eu/staps-24-call-for-papers-2/",
+      "error": "500 Internal Server Error; новое продление после 15 ноября не подтверждено."
+    },
+    {
+      "url": "https://openreview.net/group?id=TUplus/2027/Workshop",
+      "error": "Доступна оболочка Loading, подробные условия платформы не прочитаны; полный пост LINGUIST List прочитан."
     }
   ],
   "deadline_conflicts": [
@@ -99,9 +105,9 @@
       "retained_deadline": "2026-11-06"
     }
   ],
-  "note": "Ручная проверка 15 ноября: прочитаны общий и отфильтрованный списки новых постов (последние доступные публикации 13 ноября), страницы 23–26 каталога, шесть полных постов, официальные CFP, два PDF секций и регистрационные сборы испанистического конгресса. Новых опубликованных CFP в списках после прежней проверки не найдено. Добавлены три явно самостоятельных воркшопа GLOW49 с закрытым сроком 1 ноября. Уточнены STaPs24, клитики, испанский в контакте, идеофоны, словообразование нестандартных разновидностей и GLOW49. Заполнен пробел записи об идеофонах, прежде имевшей только ссылку на каталог. Новых подтверждённых продлений нет; общий приём оставшихся мест до 30 сентября не приписан отдельным секциям. У GLOW официальный CFP прямо говорит, что продления не будет, но более поздние недоступные источники проверить нельзя. Весь каталог и все будущие мероприятия не перепроверены; свежесть поисковых копий и полнота не гарантируются.",
-  "added": 3,
-  "updated": 6,
+  "note": "Ручная проверка 16 ноября: общий и отфильтрованный списки новых постов по-прежнему показывают последние публикации 13 ноября; новых опубликованных объявлений в доступных списках не обнаружено. Каталог: прочитана страница 28, страницы 27/29/30 недоступны. Полностью прочитаны посты MaS5, TU+12, SAIL2027 и CLS63; уточнены условия, русские места, классификация и точное время известных сроков. Новых продлений не найдено. Дедлайны IGG52 и STaPs24 не менялись на основании предположений при недоступных официальных страницах. Необычные поля «2.5 inches» в MaS5 и неверный день недели в TU+12 явно отмечены. Все будущие события и полный каталог не проверены; полнота и свежесть поисковых копий не гарантируются.",
+  "added": 0,
+  "updated": 4,
   "extensions_found": 0,
   "cross_source_updated": 0
 }
