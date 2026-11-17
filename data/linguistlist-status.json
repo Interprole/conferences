@@ -1,8 +1,8 @@
 {
-  "attempted_at": "2026-11-16T06:02:18Z",
-  "last_success_at": "2026-11-16T06:02:18Z",
-  "pages_read": 1,
-  "issues_read": 4,
+  "attempted_at": "2026-11-17T06:10:07Z",
+  "last_success_at": "2026-11-17T06:10:07Z",
+  "pages_read": 4,
+  "issues_read": 11,
   "feeds_read": 0,
   "complete": false,
   "discovery_complete": false,
@@ -10,6 +10,20 @@
   "pending_count": 26,
   "coverage": {
     "current_manual_review": {
+      "catalogue_pages_read": 4,
+      "catalogue_page_numbers": [
+        1,
+        2,
+        32,
+        33
+      ],
+      "catalogue_page_failures": 4,
+      "recent_issue_pages_read": 4,
+      "full_posts_read": 11,
+      "official_pages_read": 11,
+      "official_pages_failed": 1
+    },
+    "previous_manual_review": {
       "catalogue_pages_read": 1,
       "catalogue_page_numbers": [
         28
@@ -20,22 +34,6 @@
       "official_pages_read": 3,
       "official_pages_failed": 2,
       "official_pages_incomplete": 1
-    },
-    "previous_manual_review": {
-      "catalogue_pages_read": 4,
-      "catalogue_page_numbers": [
-        23,
-        24,
-        25,
-        26
-      ],
-      "catalogue_page_failures": 0,
-      "recent_issue_pages_read": 2,
-      "full_posts_read": 6,
-      "posts_failed": 1,
-      "official_pages_and_documents_read": 9,
-      "search_copies_read": 1,
-      "official_pages_failed": 2
     },
     "previous_automated_cycle": {
       "cycle": {
@@ -70,27 +68,35 @@
       "records_needing_review": 505,
       "official_sites_verified": false
     },
-    "records_total": 553,
+    "records_total": 554,
     "records_without_issue": 16,
     "official_sites_verified": false
   },
-  "error_count": 4,
+  "error_count": 6,
   "errors": [
     {
       "url": "https://linguistlist.org/conf/search/?page=27",
-      "error": "Страницы 27, 29 и 30 недоступны; страница 28 прочитана. Другие страницы в этом запуске не проверены."
+      "error": "Страница недоступна через инструмент чтения; пропуск сохранён, полнота не заявляется."
     },
     {
-      "url": "https://sites.google.com/view/igg52",
-      "error": "Официальный сайт недоступен, возможное продление после 15 ноября не подтверждено."
+      "url": "https://linguistlist.org/conf/search/?page=29",
+      "error": "Страница недоступна через инструмент чтения; пропуск сохранён, полнота не заявляется."
     },
     {
-      "url": "https://staps.stuts.eu/staps-24-call-for-papers-2/",
-      "error": "500 Internal Server Error; новое продление после 15 ноября не подтверждено."
+      "url": "https://linguistlist.org/conf/search/?page=30",
+      "error": "Страница недоступна через инструмент чтения; пропуск сохранён, полнота не заявляется."
     },
     {
-      "url": "https://openreview.net/group?id=TUplus/2027/Workshop",
-      "error": "Доступна оболочка Loading, подробные условия платформы не прочитаны; полный пост LINGUIST List прочитан."
+      "url": "https://linguistlist.org/conf/search/?page=31",
+      "error": "Страница недоступна через инструмент чтения; пропуск сохранён, полнота не заявляется."
+    },
+    {
+      "url": "https://www.r-atics9.org/",
+      "error": "Официальный сайт не открылся; предварительные сроки взяты из полного публичного поста 37.2095."
+    },
+    {
+      "url": "https://indico2.uis.no/event/69/abstracts/",
+      "error": "HLAW3: портал закрыт 16 ноября, официальный сайт указывает 1 декабря; неоднозначное продление не зарегистрировано, записан date_conflict."
     }
   ],
   "deadline_conflicts": [
@@ -105,9 +111,9 @@
       "retained_deadline": "2026-11-06"
     }
   ],
-  "note": "Ручная проверка 16 ноября: общий и отфильтрованный списки новых постов по-прежнему показывают последние публикации 13 ноября; новых опубликованных объявлений в доступных списках не обнаружено. Каталог: прочитана страница 28, страницы 27/29/30 недоступны. Полностью прочитаны посты MaS5, TU+12, SAIL2027 и CLS63; уточнены условия, русские места, классификация и точное время известных сроков. Новых продлений не найдено. Дедлайны IGG52 и STaPs24 не менялись на основании предположений при недоступных официальных страницах. Необычные поля «2.5 inches» в MaS5 и неверный день недели в TU+12 явно отмечены. Все будущие события и полный каталог не проверены; полнота и свежесть поисковых копий не гарантируются.",
-  "added": 0,
-  "updated": 4,
-  "extensions_found": 0,
+  "note": "Ручная проверка 17 ноября: отфильтрованные страницы 1–2 всё ещё возвращают объявления до 13 ноября, но общий список 1–2 уже показывает 16 ноября. Прочитаны все новые подходящие CFP: SLE2027, SALT37, GLOW in Asia XV и InCoLORE; остальные публикации новой страницы — книги, школы, вебинары, специализированные исключённые или смежные мероприятия. Добавлена InCoLORE (mixed), уточнены семь записей. Найдено ранее состоявшееся продление ICPhS с 1 до 9 октября 2026, исправлена ошибочная дата 1 октября 2027 из старого поста. Hokugen2 сохраняет 15 ноября; нового продления нет. HLAW3: сайт 1 декабря против закрытого Indico 16 ноября — конфликт, не подтверждённое продление. Каталог прочитан частично: страницы 1/2/32/33, недоступны 27/29/30/31. Прочитан также полный SPACEGRAM, его проверенные уточнения уже находятся в overrides и сохранены. Все будущие мероприятия и оставшиеся страницы не проверены; доступные поисковые представления могут отставать. Ни сборщик, ни автоматический парсер не запускались.",
+  "added": 1,
+  "updated": 7,
+  "extensions_found": 1,
   "cross_source_updated": 0
 }
