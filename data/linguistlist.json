@@ -4017,18 +4017,18 @@
     "name": "3e Colloque international TchéCaLex",
     "start": "2027-05-19",
     "end": "2027-05-21",
-    "location": "Québec, Canada",
+    "location": "Квебек, Канада · Университет Лаваля",
     "deadline": "2026-11-30",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
-    "notification_text": null,
+    "notification_text": "Середина января 2027; точная дата неизвестна.",
     "fee": null,
-    "topics": "Anthropological Linguistics; Discipline of Linguistics; General Linguistics; Lexicography; Semantics",
+    "topics": "Лексика и темпоральность: языковое выражение длительности, периодов, временных ориентиров, ритмов и представлений о прошлом и будущем; значение и полисемия.",
     "subject_languages": null,
     "working_languages": null,
     "speaker_restrictions": null,
-    "submission_rules": null,
+    "submission_rules": "Предложение доклада до 300 слов через Fourwaves; выступление около 30 минут. Анонимность, оформление и лимиты авторства не установлены.",
     "format": null,
     "website": "https://event.fourwaves.com/fr/tchecalex3",
     "sources": [
@@ -4036,15 +4036,20 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3493/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3831/",
+        "label": "LINGUIST List · новый CFP (403)"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Старый полный пост 37.3493 прочитан; новый 37.3831 вернул 403, его поисковая копия недоступна. Fourwaves перенаправляет на страницу с шаблонным названием «Conference on Scientific Events Management» и сроком 1 декабря 00:59 EST: соответствие содержанию конференции и сдвиг даты подтвердить не удалось. Сохраняется известный срок 30 ноября, точный момент не подставлен; продление не утверждается. Сбор, рабочие и исследуемые языки неизвестны."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
+    "checked_at": "2026-11-18",
     "verification": "partial",
     "source_order": [
       37,
@@ -4499,18 +4504,18 @@
     "name": "41st International LAUD Symposium",
     "start": "2027-08-30",
     "end": "2027-09-02",
-    "location": "Landau in der Pfalz, Germany",
+    "location": "Ландау-ин-дер-Пфальц, Германия · Бутеншён-хаус",
     "deadline": "2026-11-15",
     "deadline_at": null,
     "deadline_timezone": null,
-    "notification": null,
+    "notification": "2026-12-15",
     "notification_text": null,
-    "fee": null,
-    "topics": "Lexicography",
-    "subject_languages": null,
+    "fee": "160 EUR; льготный сбор для студентов и аспирантов 90 EUR. Проживание оплачивается отдельно.",
+    "topics": "Лексикография английского: описание L2-разновидностей, культурные концептуализации, многоязычные словари малообеспеченных ресурсами языков, учебные словари и визуализация значения; также применение вычислительных технологий.",
+    "subject_languages": "Прежде всего английский и его L2-разновидности; многоязычные словари с английским.",
     "working_languages": null,
     "speaker_restrictions": null,
-    "submission_rules": null,
+    "submission_rules": "PDF 300–500 слов без литературы отправить организаторам, указать аффилиацию над тезисами. Доклад 25 + 10 минут. Анонимность и лимиты соавторства не установлены.",
     "format": null,
     "website": "https://ksw.rptu.de/abt/anglistik/forschung-projekte/current-projects/41st-international-laud-symposium",
     "sources": [
@@ -4523,6 +4528,16 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3363/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3824/",
+        "label": "LINGUIST List · новый пост (403)"
+      },
+      {
+        "type": "official",
+        "url": "https://ksw.rptu.de/abt/anglistik/forschung-projekte/current-projects/41st-international-laud-symposium",
+        "label": "Официальный CFP"
       }
     ],
     "history": [
@@ -4536,11 +4551,11 @@
       }
     ],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Полная официальная страница прочитана: по-прежнему 15 ноября, но обновлялась 13 сентября; новый пост 37.3824 недоступен (403), поисковую копию его содержания найти не удалось. Возможное новое продление не проверено, прежний дедлайн и история сохранены. Рабочие языки неизвестны."
     ],
     "classification": "other",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
+    "checked_at": "2026-11-18",
     "verification": "partial",
     "source_order": [
       37,
@@ -11236,18 +11251,18 @@
     "name": "Laughter Workshop 2027",
     "start": "2027-04-02",
     "end": "2027-04-03",
-    "location": "Saarland, Germany",
-    "deadline": null,
+    "location": "Саарбрюккен, Германия · Саарский университет",
+    "deadline": "2026-11-23",
     "deadline_at": null,
     "deadline_timezone": null,
-    "notification": null,
+    "notification": "2027-01-18",
     "notification_text": null,
     "fee": null,
-    "topics": "Applied Linguistics; Clinical Linguistics; Language Acquisition; Phonetics; Pragmatics",
-    "subject_languages": null,
+    "topics": "Смех и другие невербальные вокализации: артикуляция, акустика, восприятие, жесты, взаимодействие и прагматика, аффективные значения; также технологические и клинические приложения.",
+    "subject_languages": "Звуковые и жестовые языки; конкретный языковой перечень не ограничен CFP.",
     "working_languages": null,
     "speaker_restrictions": null,
-    "submission_rules": null,
+    "submission_rules": "Анонимный PDF по шаблону Interspeech 2026: до двух страниц текста плюс одной для рисунков, литературы и дополнительных сведений; через Microsoft CMT. Завершённая работа или существенный текущий проект; использование генеративных инструментов при наличии нужно раскрыть. Итоговая версия 22 февраля 2027.",
     "format": null,
     "website": "https://sites.google.com/york.ac.uk/lw2027/home",
     "sources": [
@@ -11255,16 +11270,26 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/1980/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3827/",
+        "label": "LINGUIST List · новый CFP (403)"
+      },
+      {
+        "type": "official",
+        "url": "https://sites.google.com/york.ac.uk/lw2027/call-for-papers",
+        "label": "Официальный CFP"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Официальные описание и полный CFP прочитаны. Новая страница 37.3827 вернула 403. Дедлайн 23 ноября взят с официального сайта; заявления о продлении не найдено, history не пополнялась. Сбор, рабочие языки и авторские лимиты неизвестны."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "checked_at": "2026-11-18",
+    "verification": "reviewed",
     "source_order": [
       37,
       1980
@@ -22688,5 +22713,277 @@
       37,
       3808
     ]
+  },
+  {
+    "id": "manual-ll-37-3829",
+    "name": "Manchester Forum in Linguistics 2027",
+    "start": "2027-05-06",
+    "end": "2027-05-07",
+    "location": "Манчестер, Великобритания · Манчестерский университет",
+    "deadline": "2027-01-17",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Все области лингвистики; особенно приветствуются работы с вкладом в теорию языка или новыми эмпирическими методами.",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": "Магистранты, аспиранты и исследователи в начале карьеры — целевая аудитория. Одна индивидуальная и одна совместная заявка либо две совместные; точный возрастной/стажевый порог не указан.",
+    "submission_rules": "Анонимные тезисы до 500 слов без литературы, включая глоссированные примеры, таблицы и рисунки; ссылки на свои работы в третьем лице. Через OxfordAbstracts; двойное слепое рецензирование. Доклад 20 + 10 минут или постер.",
+    "format": "Очный",
+    "website": "https://mfilconf.wordpress.com/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3829/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://mfilconf.wordpress.com/",
+        "label": "Официальный сайт"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Подробная страница LINGUIST List вернула 403; прочитана доступная поисковая копия CFP и официальный сайт. Даты подтверждены сайтом, сроки/правила — поисковой копией, свежесть которой не гарантируется. Срок ответа обозначен TBD; сбор, рабочие и исследуемые языки не установлены."
+    ],
+    "classification": "theory",
+    "classification_reason": "Грамматика, общая лингвистика, теория и описание языков.",
+    "checked_at": "2026-11-18",
+    "verification": "partial",
+    "submissions_open": "2026-11-04"
+  },
+  {
+    "id": "manual-ll-37-3828",
+    "name": "Workshop at SLE 2027 — The Interfaces of the Afroasiatic Verb",
+    "start": "2027-08-25",
+    "end": "2027-08-28",
+    "location": "Кошице, Словакия · предлагаемый воркшоп SLE 2027",
+    "deadline": "2026-11-19",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Интерфейсы синтаксиса, семантики, морфологии, фонологии и прагматики афразийского глагола: структура аргументов, залог и валентность, акциональность, лексический аспект и TAM; синхрония и диахрония.",
+    "subject_languages": "Афразийские языки: одна разновидность, ветвь или сопоставление ветвей; древние и современные, письменные и устные данные.",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "Анонимные тезисы до 300 слов в PDF или Word отправить организаторам до 19 ноября 2026. Все лингвистические методы приветствуются.",
+    "format": "Предлагаемый воркшоп SLE 2027",
+    "website": null,
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3828/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Полная доступная поисковая копия прочитана; прямой пост вернул 403, официальный CFP воркшопа найти не удалось. Даты — общее окно SLE, точный день секции неизвестен. Сбор, рабочие языки, ответ и лимиты авторства неизвестны. Ошибка года отмечена отдельно; продление не предполагается."
+    ],
+    "classification": "theory",
+    "classification_reason": "Грамматика, общая лингвистика, теория и описание языков.",
+    "checked_at": "2026-11-18",
+    "verification": "partial",
+    "date_conflict": "В шапке и инструкции подачи указан 2026-11-19, но в конце поисковой копии осталась строка «19 November 2025». Сохранён дважды указанный срок 2026; независимое подтверждение не получено."
+  },
+  {
+    "id": "manual-ll-37-3826",
+    "name": "Syntax of the World's Languages XI",
+    "start": "2027-10-06",
+    "end": "2027-10-08",
+    "location": "Мюнхен, Германия · Мюнхенский университет имени Людвига и Максимилиана",
+    "deadline": "2027-02-28",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2027-04-15",
+    "notification_text": null,
+    "fee": null,
+    "topics": "Синтаксическое разнообразие малоизученных языков, типологические и сравнительные исследования; морфология, семантика и просодия при существенном синтаксическом компоненте. Все теоретические подходы.",
+    "subject_languages": "Малоизученные языки, первичные данные одного языка и широкие сопоставления.",
+    "working_languages": "Английский — язык тезисов; язык докладов отдельно не указан.",
+    "speaker_restrictions": "До двух тезисов на автора, не более одних единоличных.",
+    "submission_rules": "Анонимный PDF: одна страница основного текста плюс одна для примеров, таблиц, графиков и литературы. Через EasyAbs; указать интерес к постеру. Предложения воркшопов — отдельный конкурс до 31 декабря 2026.",
+    "format": "Очный",
+    "website": "https://sites.google.com/view/swl-xi/home",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3826/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://sites.google.com/view/swl-xi/home",
+        "label": "Официальный CFP"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Официальный CFP прочитан полностью; прямой пост вернул 403, доступная поисковая копия подтверждает основные сведения. Сбор и часовой пояс неизвестны. Ошибочные 2026 и «6–10 октября» в поисковой копии EasyAbs не приняты: официальный сайт и опубликованный CFP согласуются на 6–8 октября 2027."
+    ],
+    "classification": "theory",
+    "classification_reason": "Грамматика, общая лингвистика, теория и описание языков.",
+    "checked_at": "2026-11-18",
+    "verification": "reviewed"
+  },
+  {
+    "id": "manual-swlxi-2027-workshops",
+    "name": "SWL XI — workshop proposals",
+    "start": "2027-10-06",
+    "end": "2027-10-08",
+    "location": "Мюнхен, Германия · Мюнхенский университет имени Людвига и Максимилиана",
+    "deadline": "2026-12-31",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2027-01-15",
+    "notification_text": null,
+    "fee": null,
+    "topics": "Предложения тематических воркшопов по синтаксическому разнообразию, региональным явлениям и методам исследования.",
+    "subject_languages": "Языки мира в рамках тематики SWL; особый интерес к малоизученным языкам.",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "PDF организаторам: название, описание 1–2 страницы, полный/половинный день и организация, имена и аффилиации организаторов с кратким описанием компетенций; предварительные участники и названия. После принятия участники подают обычные рецензируемые тезисы; нужны места для открытого конкурса.",
+    "format": "Очный",
+    "website": "https://sites.google.com/view/swl-xi/home",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3826/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://sites.google.com/view/swl-xi/home",
+        "label": "Официальный CFP"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Это отдельный конкурс предложений воркшопов с собственными сроком и ответом; не дедлайн обычных докладов. Сбор, языки предложений и ограничения числа заявок не указаны."
+    ],
+    "classification": "theory",
+    "classification_reason": "Грамматика, общая лингвистика, теория и описание языков.",
+    "checked_at": "2026-11-18",
+    "verification": "reviewed"
+  },
+  {
+    "id": "manual-ll-37-3825",
+    "name": "Linguistics Prague 2027",
+    "start": "2027-06-28",
+    "end": "2027-06-30",
+    "location": "Прага, Чехия · Философский факультет Карлова университета",
+    "deadline": "2027-01-31",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": "Март/апрель 2027; точная дата неизвестна.",
+    "fee": null,
+    "topics": "Эмпирическое исследование структуры и употребления языка и его методологии. Три параллельные секции: грамматика, корпусная лингвистика и психолингвистика; общей секции не будет.",
+    "subject_languages": null,
+    "working_languages": "Английский — язык конференции.",
+    "speaker_restrictions": "Прежде всего магистранты старших курсов, аспиранты и постдоки; строгие критерии допуска и лимиты соавторства пока не опубликованы.",
+    "submission_rules": "Доклады и постеры; допускаются завершённые и текущие проекты, в том числе до начала сбора данных. Отдельные CFP трёх секций будут опубликованы позднее; объём и процедура подачи неизвестны.",
+    "format": null,
+    "website": "https://linguisticsprague.ff.cuni.cz/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3825/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://linguisticsprague.ff.cuni.cz/",
+        "label": "Официальный сайт"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Официальная страница и доступная поисковая копия объявления прочитаны; прямой пост 403. Срок 31 января и открытие 23 ноября взяты с сайта. Отдельные правила секций ещё не опубликованы; секции с различающимися условиями не объединяются предположительно. Сбор и формат участия неизвестны."
+    ],
+    "classification": "theory",
+    "classification_reason": "Грамматика, общая лингвистика, теория и описание языков.",
+    "checked_at": "2026-11-18",
+    "verification": "partial",
+    "submissions_open": "2026-11-23"
+  },
+  {
+    "id": "manual-ll-37-3820",
+    "name": "4th Experimental Portuguese Linguistics Workshop (ExPortLi 2027)",
+    "start": "2027-04-16",
+    "end": "2027-04-17",
+    "location": "Торонто, Канада",
+    "deadline": "2027-01-20",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Взаимодействие лингвистической теории и экспериментального исследования разновидностей португальского и португалоязычных креольских языков.",
+    "subject_languages": "Бразильские, европейские, африканские и азиатские разновидности португальского; креольские языки на португальской основе.",
+    "working_languages": "Приветствуются тезисы на английском; язык выступлений отдельно не указан.",
+    "speaker_restrictions": "Не более одной заявки первым автором и ещё двух как соавтор; общий лимит для основного воркшопа и сателлита.",
+    "submission_rules": "До одной страницы тезисов и необязательной второй для литературы, рисунков и таблиц; US Letter, 12 pt, поля 1 дюйм. Через EasyAbs, выбрать основной воркшоп или сателлит. Доклад 20 + 10 минут. Требование анонимности в доступной копии не установлено.",
+    "format": null,
+    "website": "https://exportli.blog/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3820/",
+        "label": "LINGUIST List · поисковая копия"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Доступная подробная поисковая копия прочитана; прямой пост 403, официальный сайт и EasyAbs не открылись. Свежесть копии не гарантируется. Сбор, ответ и формат участия неизвестны. Сателлит Beyond Portuguese сохранён отдельно; точный день сателлита в окне 16–17 апреля не подтверждён."
+    ],
+    "classification": "theory",
+    "classification_reason": "Экспериментальное исследование грамматики португальского с прямой связью с теорией языка.",
+    "checked_at": "2026-11-18",
+    "verification": "partial",
+    "source_order": [
+      37,
+      3820
+    ]
+  },
+  {
+    "id": "manual-ll-37-3820-beyond-portuguese",
+    "name": "Beyond Portuguese: Language Diversity in Lusophone Contexts — satellite symposium at ExPortLi 2027",
+    "start": null,
+    "end": null,
+    "location": "Торонто, Канада",
+    "deadline": "2027-01-20",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Языковое разнообразие в регионах исторического или современного присутствия португальского: экспериментальные и теоретические исследования недопредставленных языков.",
+    "subject_languages": "Коренные, жестовые, унаследованные и другие недопредставленные языки лузофонных регионов; не ограничивается португальским.",
+    "working_languages": "Приветствуются тезисы на английском; язык выступлений отдельно не указан.",
+    "speaker_restrictions": "Не более одной заявки первым автором и ещё двух как соавтор; общий лимит для основного воркшопа и сателлита.",
+    "submission_rules": "До одной страницы тезисов и необязательной второй для литературы, рисунков и таблиц; US Letter, 12 pt, поля 1 дюйм. Через EasyAbs, выбрать основной воркшоп или сателлит. Доклад 20 + 10 минут. Требование анонимности в доступной копии не установлено.",
+    "format": null,
+    "website": "https://exportli.blog/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3820/",
+        "label": "LINGUIST List · поисковая копия"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Сателлит прямо выделен в том же CFP, при подаче требуется выбрать программу. Общие авторские лимиты и срок подачи сохранены. Основное мероприятие 16–17 апреля 2027 в Торонто; точные даты сателлита отдельно не установлены, поэтому start/end оставлены null. Прямой пост, официальный сайт и EasyAbs недоступны; сведения из поисковой копии."
+    ],
+    "classification": "theory",
+    "classification_reason": "Экспериментальное исследование грамматики португальского с прямой связью с теорией языка.",
+    "checked_at": "2026-11-18",
+    "verification": "partial"
   }
 ]
