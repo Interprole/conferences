@@ -1,6 +1,6 @@
 {
-  "attempted_at": "2026-11-18T06:04:51Z",
-  "last_success_at": "2026-11-18T06:04:51Z",
+  "attempted_at": "2026-11-19T06:03:29Z",
+  "last_success_at": "2026-11-19T06:03:29Z",
   "pages_read": 2,
   "issues_read": 1,
   "feeds_read": 0,
@@ -10,6 +10,22 @@
   "pending_count": 26,
   "coverage": {
     "current_manual_review": {
+      "catalogue_pages_read": 2,
+      "catalogue_page_numbers": [
+        36,
+        37
+      ],
+      "catalogue_page_failures": 2,
+      "recent_issue_pages_read": 3,
+      "full_posts_read": 1,
+      "search_copies_read": 6,
+      "posts_failed": 7,
+      "official_pages_read": 8,
+      "official_pages_failed": 4,
+      "official_pages_incomplete": 1,
+      "aggregator_pages_read": 1
+    },
+    "previous_manual_review": {
       "catalogue_pages_read": 2,
       "catalogue_page_numbers": [
         34,
@@ -23,20 +39,6 @@
       "official_pages_read": 7,
       "official_pages_failed": 4,
       "official_pages_incomplete": 1
-    },
-    "previous_manual_review": {
-      "catalogue_pages_read": 4,
-      "catalogue_page_numbers": [
-        1,
-        2,
-        32,
-        33
-      ],
-      "catalogue_page_failures": 4,
-      "recent_issue_pages_read": 4,
-      "full_posts_read": 11,
-      "official_pages_read": 11,
-      "official_pages_failed": 1
     },
     "previous_automated_cycle": {
       "cycle": {
@@ -71,75 +73,67 @@
       "records_needing_review": 505,
       "official_sites_verified": false
     },
-    "records_total": 561,
+    "records_total": 563,
     "records_without_issue": 16,
     "official_sites_verified": false
   },
-  "error_count": 16,
+  "error_count": 14,
   "errors": [
     {
-      "url": "https://linguistlist.org/issues/37/3831/",
-      "error": "403 Forbidden. Для части постов использованы доступные поисковые копии и официальные сайты; свежесть копий не гарантируется. Новые CFP TchéCaLex, LAUD и Word-Formation полностью не прочитаны."
-    },
-    {
-      "url": "https://linguistlist.org/issues/37/3829/",
-      "error": "403 Forbidden. Для части постов использованы доступные поисковые копии и официальные сайты; свежесть копий не гарантируется. Новые CFP TchéCaLex, LAUD и Word-Formation полностью не прочитаны."
-    },
-    {
-      "url": "https://linguistlist.org/issues/37/3828/",
-      "error": "403 Forbidden. Для части постов использованы доступные поисковые копии и официальные сайты; свежесть копий не гарантируется. Новые CFP TchéCaLex, LAUD и Word-Formation полностью не прочитаны."
-    },
-    {
-      "url": "https://linguistlist.org/issues/37/3827/",
-      "error": "403 Forbidden. Для части постов использованы доступные поисковые копии и официальные сайты; свежесть копий не гарантируется. Новые CFP TchéCaLex, LAUD и Word-Formation полностью не прочитаны."
-    },
-    {
-      "url": "https://linguistlist.org/issues/37/3826/",
-      "error": "403 Forbidden. Для части постов использованы доступные поисковые копии и официальные сайты; свежесть копий не гарантируется. Новые CFP TchéCaLex, LAUD и Word-Formation полностью не прочитаны."
-    },
-    {
-      "url": "https://linguistlist.org/issues/37/3825/",
-      "error": "403 Forbidden. Для части постов использованы доступные поисковые копии и официальные сайты; свежесть копий не гарантируется. Новые CFP TchéCaLex, LAUD и Word-Formation полностью не прочитаны."
-    },
-    {
       "url": "https://linguistlist.org/issues/37/3824/",
-      "error": "403 Forbidden. Для части постов использованы доступные поисковые копии и официальные сайты; свежесть копий не гарантируется. Новые CFP TchéCaLex, LAUD и Word-Formation полностью не прочитаны."
+      "error": "403 Forbidden. Доступные официальные страницы и поисковые копии использованы с явными ограничениями; новый Word-Formation и TchéCaLex не дочитаны."
     },
     {
       "url": "https://linguistlist.org/issues/37/3823/",
-      "error": "403 Forbidden. Для части постов использованы доступные поисковые копии и официальные сайты; свежесть копий не гарантируется. Новые CFP TchéCaLex, LAUD и Word-Formation полностью не прочитаны."
+      "error": "403 Forbidden. Доступные официальные страницы и поисковые копии использованы с явными ограничениями; новый Word-Formation и TchéCaLex не дочитаны."
     },
     {
-      "url": "https://linguistlist.org/issues/37/3820/",
-      "error": "403 Forbidden. Для части постов использованы доступные поисковые копии и официальные сайты; свежесть копий не гарантируется. Новые CFP TchéCaLex, LAUD и Word-Formation полностью не прочитаны."
+      "url": "https://linguistlist.org/issues/37/3831/",
+      "error": "403 Forbidden. Доступные официальные страницы и поисковые копии использованы с явными ограничениями; новый Word-Formation и TchéCaLex не дочитаны."
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/3846/",
+      "error": "403 Forbidden. Доступные официальные страницы и поисковые копии использованы с явными ограничениями; новый Word-Formation и TchéCaLex не дочитаны."
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/3845/",
+      "error": "403 Forbidden. Доступные официальные страницы и поисковые копии использованы с явными ограничениями; новый Word-Formation и TchéCaLex не дочитаны."
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/3844/",
+      "error": "403 Forbidden. Доступные официальные страницы и поисковые копии использованы с явными ограничениями; новый Word-Formation и TchéCaLex не дочитаны."
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/3840/",
+      "error": "403 Forbidden. Доступные официальные страницы и поисковые копии использованы с явными ограничениями; новый Word-Formation и TchéCaLex не дочитаны."
     },
     {
       "url": "https://linguistlist.org/conf/search/?page=27",
-      "error": "Страница недоступна через инструмент чтения."
+      "error": "Страница недоступна."
     },
     {
       "url": "https://linguistlist.org/conf/search/?page=29",
-      "error": "Страница недоступна через инструмент чтения."
+      "error": "Страница недоступна."
     },
     {
-      "url": "https://exportli.blog/",
-      "error": "Официальный сайт не открылся; ExPortLi и отдельный сателлит добавлены по поисковой копии с partial."
+      "url": "https://www.uni-flensburg.de/friesisch/conference-norms-and-usage",
+      "error": "Страница недоступна; полный официальный CFP прочитан на сайте Фонда Ферринг."
     },
     {
-      "url": "https://easyabs.linguistlist.org/conference/ExPorLi2027/",
-      "error": "Портал подачи недоступен."
+      "url": "https://www.philol.uni-leipzig.de/institut-fuer-slavistik/forschung/formal-description-of-slavic-languages-19-fs",
+      "error": "Редирект на новый сайт университета не открылся; использована поисковая копия с явным extended до 31 августа и полный пост 37.2717."
     },
     {
-      "url": "https://societaslinguistica.eu/sle2027/workshop-proposals/",
-      "error": "Страница не открылась; отдельный официальный CFP афразийского воркшопа не подтверждён."
+      "url": "https://www.uni-leipzig.de/philologische-fakultaet/institut-fuer-slavistik/forschung/formal-description-of-slavic-languages-19-fs",
+      "error": "Целевой адрес редиректа недоступен."
     },
     {
       "url": "https://indico2.uis.no/event/69/abstracts/",
-      "error": "Портал HLAW3 недоступен; сайт продолжает показывать 1 декабря, вчерашний конфликт с закрытием 16 ноября остаётся неразрешённым."
+      "error": "Портал HLAW3 недоступен; ранее записанный конфликт остаётся неразрешённым."
     },
     {
       "url": "https://event.fourwaves.com/fr/tchecalex3",
-      "error": "Перенаправление на шаблонное название и описание конференции, дата 1 декабря 00:59 EST не принята за подтверждение продления."
+      "error": "По-прежнему шаблонное название Fourwaves Conference on Scientific Events Management; дата 1 декабря 00:59 EST не принята за проверенное продление TchéCaLex."
     }
   ],
   "deadline_conflicts": [
@@ -152,11 +146,23 @@
       "url": "https://linguistlist.org/issues/37/3049/",
       "source_deadline": "2026-10-30",
       "retained_deadline": "2026-11-06"
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/3827/",
+      "source_deadline": "2026-11-23",
+      "retained_deadline": "2026-11-26",
+      "note": "Сайт сохраняет 23 ноября; новое объявление организаторов прямо продлевает до 26 ноября."
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/3824/",
+      "source_deadline": "2026-11-15",
+      "retained_deadline": "2026-12-15",
+      "note": "Официальный сайт сохраняет прежний срок; новая поисковая копия CFP дважды задаёт 15 декабря."
     }
   ],
-  "note": "Ручная проверка 18 ноября: общий список постов страницы 1–2 показывает 17/16 ноября, отфильтрованный список отстаёт и начинается с 16 ноября. Девять новых подробных страниц вернули 403. Содержательные поисковые копии Manchester, Afroasiatic Verb, SWL XI, Linguistics Prague и ExPortLi сопоставлены с доступными официальными сайтами; у источников с недоступным сайтом стоит partial. Добавлены пять основных объявлений, отдельный сателлит ExPortLi и отдельный конкурс предложений воркшопов SWL XI: всего семь записей. Уточнены Laughter, LAUD и TchéCaLex. Новый Word-Formation не прочитан, известный срок не менялся. Специализированный NLP-пост исключён; риторика не добавлялась как теоретическая лингвистика. Письменные/устные и современные/древние афразийские языки, область SWL и структура секций Prague определены по смыслу объявлений. У афразийского CFP отмечена противоречащая строка 2025 при дважды указанном 2026. HLAW3 и шаблонный Fourwaves не дали однозначного подтверждения продления. Каталог: страницы 34/35 прочитаны, 27/29 недоступны, остальные в этом запуске не проверялись; полный начальный обход и все будущие события не завершены. Оставшиеся пробелы начального обхода сохраняются; ничего не удалялось. Автоматический парсер не запускался.",
-  "added": 7,
-  "updated": 3,
-  "extensions_found": 0,
+  "note": "Ручная проверка 19 ноября: общий список постов страницы 1–2 показывает 18/17 ноября, отфильтрованный начинается с 17 ноября и отстаёт. Новые MaS5/ILLS18/FDSL19/Matching открывались с 403; использованы официальные сайты и доступные поисковые копии. Добавлены Matching and Contrasting Norms and Usage и отдельный сателлит FDSL19; шесть существующих записей уточнены, включая SoSy и явную связь с ILLS. Найдены три пропущенных/новых переноса: FDSL19 23→31 августа 2026 (старое продление), Laughter 23→26 ноября 2026 (прямо extended в новом CFP), LAUD 15 ноября→15 декабря 2026 (новая инструкция организаторов, конфликт с прежним сайтом записан). Точные deadline_at/timezone сброшены; старые overrides не блокируют сроки. MaS5 сохраняет 15 января и спорные 2.5 inches в поисковой копии; размер полей не исправлялся догадкой. Новая информация по регистрации FDSL19 недоступна. Старые ответ/дата подачи не подменялись новыми без проверки. Каталог прочитан частично: 36/37, причём копия страницы 36 датирована двумя неделями ранее и может повторять уже просмотренные записи; 27/29 недоступны. Поисковый результат McGill более свежий, чем открывшаяся страница с последними постами 13 ноября; это ограничение учтено. Полный каталог, все будущие события и прежние вложения не проверены, полнота не заявляется. Автоматический парсер не запускался.",
+  "added": 2,
+  "updated": 6,
+  "extensions_found": 3,
   "cross_source_updated": 0
 }
