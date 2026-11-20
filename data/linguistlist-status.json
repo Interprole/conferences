@@ -1,8 +1,8 @@
 {
-  "attempted_at": "2026-11-19T06:03:29Z",
-  "last_success_at": "2026-11-19T06:03:29Z",
-  "pages_read": 2,
-  "issues_read": 1,
+  "attempted_at": "2026-11-20T06:09:24Z",
+  "last_success_at": "2026-11-20T06:09:24Z",
+  "pages_read": 3,
+  "issues_read": 0,
   "feeds_read": 0,
   "complete": false,
   "discovery_complete": false,
@@ -10,6 +10,22 @@
   "pending_count": 26,
   "coverage": {
     "current_manual_review": {
+      "catalogue_pages_read": 3,
+      "catalogue_page_numbers": [
+        38,
+        39,
+        40
+      ],
+      "catalogue_page_failures": 2,
+      "recent_issue_pages_read": 3,
+      "full_posts_read": 0,
+      "search_copies_read": 1,
+      "posts_failed": 3,
+      "official_pages_read": 19,
+      "official_pages_failed": 1,
+      "official_pages_incomplete": 2
+    },
+    "previous_manual_review": {
       "catalogue_pages_read": 2,
       "catalogue_page_numbers": [
         36,
@@ -24,21 +40,6 @@
       "official_pages_failed": 4,
       "official_pages_incomplete": 1,
       "aggregator_pages_read": 1
-    },
-    "previous_manual_review": {
-      "catalogue_pages_read": 2,
-      "catalogue_page_numbers": [
-        34,
-        35
-      ],
-      "catalogue_page_failures": 2,
-      "recent_issue_pages_read": 3,
-      "full_posts_read": 1,
-      "search_copies_read": 5,
-      "posts_failed": 9,
-      "official_pages_read": 7,
-      "official_pages_failed": 4,
-      "official_pages_incomplete": 1
     },
     "previous_automated_cycle": {
       "cycle": {
@@ -73,12 +74,75 @@
       "records_needing_review": 505,
       "official_sites_verified": false
     },
-    "records_total": 563,
-    "records_without_issue": 16,
+    "records_total": 567,
+    "records_without_issue": 19,
     "official_sites_verified": false
   },
-  "error_count": 14,
+  "error_count": 8,
   "errors": [
+    {
+      "url": "https://linguistlist.org/issues/37/3866/",
+      "error": "403 Forbidden. Для ACAL/SLINKI использованы официальные CFP, для GRAPHSY также доступная поисковая копия; свежесть копии не гарантирует отсутствие последующих изменений."
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/3865/",
+      "error": "403 Forbidden. Для ACAL/SLINKI использованы официальные CFP, для GRAPHSY также доступная поисковая копия; свежесть копии не гарантирует отсутствие последующих изменений."
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/3861/",
+      "error": "403 Forbidden. Для ACAL/SLINKI использованы официальные CFP, для GRAPHSY также доступная поисковая копия; свежесть копии не гарантирует отсутствие последующих изменений."
+    },
+    {
+      "url": "https://linguistlist.org/conf/search/?page=27",
+      "error": "Страница снова недоступна; пробел начального обхода сохраняется."
+    },
+    {
+      "url": "https://linguistlist.org/conf/search/?page=29",
+      "error": "Страница снова недоступна; пробел начального обхода сохраняется."
+    },
+    {
+      "url": "https://iling.spb.ru/conferences/2026/5061",
+      "error": "403 Forbidden; новое письмо прочитано, официальная программа не прочитана."
+    },
+    {
+      "url": "https://word-formation.flf.vu.lt/workshops",
+      "error": "В открывшейся копии только навигация; полные отдельные CFP доступны по ссылкам из общего CFP."
+    },
+    {
+      "url": "https://openreview.net/group?id=Word-Formation/2026/Workshop/Distributed_Morphology",
+      "error": "Только Loading; дедлайн не извлечён. Ссылка официального CFP содержит 2026 при выпуске 2027, требуется уточнение."
+    }
+  ],
+  "deadline_conflicts": [
+    {
+      "url": "https://linguistlist.org/issues/37/2862/",
+      "source_deadline": "2026-11-05",
+      "retained_deadline": "2026-11-08"
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/3049/",
+      "source_deadline": "2026-10-30",
+      "retained_deadline": "2026-11-06"
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/3827/",
+      "source_deadline": "2026-11-23",
+      "retained_deadline": "2026-11-26",
+      "note": "Сайт сохраняет 23 ноября; новое объявление организаторов прямо продлевает до 26 ноября."
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/3824/",
+      "source_deadline": "2026-11-15",
+      "retained_deadline": "2026-12-15",
+      "note": "Официальный сайт сохраняет прежний срок; новая поисковая копия CFP дважды задаёт 15 декабря."
+    }
+  ],
+  "note": "Ручная проверка 20 ноября. Прочитаны страницы 1–2 общего списка постов до перекрытия 18 ноября и отфильтрованный Calls/Conferences (отстаёт на день). Каталог: страницы 38–40, причём копия 40 шестидневной давности повторяет часть записей 38–39; номера страниц не являются гарантией сплошного обхода. Страницы 27/29 недоступны. Полные новые посты 37.3866/3865/3861 вернули 403; проверены официальные ACAL, SLINKI/EasyAbs и GRAPHSY/форма, для последнего прочитана поисковая копия объявления. Подтверждены новые продления ACAL 23→30 ноября и CLS63 20→27 ноября с обновлением точного CST. Найдено старое пропущенное продление SCLC 15→30 октября: полный двухстраничный третий PDF прочитан; обе даты в HTML зачёркнуты без нового срока, дальнейшее продление не выдумано. Уточнены условия Word-Formation и отдельно добавлены три воркшопа; даты секций неизвестны, у DM дедлайн неизвестен и OpenReview неполон. Добавлена лингвистическая секция GRAPHSY, культурная программа исключена. Новое письмо Мослинг подтвердило даты/формат уральско-алтайской конференции; официальный сайт программы 403, расхождение старых дедлайнов записано явно. Предыдущие ошибки и конфликты сохранены. Специализированные NLP/культурологические мероприятия и журнальные объявления не добавлены. Все будущие конференции и весь каталог повторно не проверены; полнота не заявляется. Автоматический парсер не запускался.",
+  "added": 4,
+  "updated": 6,
+  "extensions_found": 3,
+  "cross_source_updated": 1,
+  "previous_errors": [
     {
       "url": "https://linguistlist.org/issues/37/3824/",
       "error": "403 Forbidden. Доступные официальные страницы и поисковые копии использованы с явными ограничениями; новый Word-Formation и TchéCaLex не дочитаны."
@@ -135,34 +199,5 @@
       "url": "https://event.fourwaves.com/fr/tchecalex3",
       "error": "По-прежнему шаблонное название Fourwaves Conference on Scientific Events Management; дата 1 декабря 00:59 EST не принята за проверенное продление TchéCaLex."
     }
-  ],
-  "deadline_conflicts": [
-    {
-      "url": "https://linguistlist.org/issues/37/2862/",
-      "source_deadline": "2026-11-05",
-      "retained_deadline": "2026-11-08"
-    },
-    {
-      "url": "https://linguistlist.org/issues/37/3049/",
-      "source_deadline": "2026-10-30",
-      "retained_deadline": "2026-11-06"
-    },
-    {
-      "url": "https://linguistlist.org/issues/37/3827/",
-      "source_deadline": "2026-11-23",
-      "retained_deadline": "2026-11-26",
-      "note": "Сайт сохраняет 23 ноября; новое объявление организаторов прямо продлевает до 26 ноября."
-    },
-    {
-      "url": "https://linguistlist.org/issues/37/3824/",
-      "source_deadline": "2026-11-15",
-      "retained_deadline": "2026-12-15",
-      "note": "Официальный сайт сохраняет прежний срок; новая поисковая копия CFP дважды задаёт 15 декабря."
-    }
-  ],
-  "note": "Ручная проверка 19 ноября: общий список постов страницы 1–2 показывает 18/17 ноября, отфильтрованный начинается с 17 ноября и отстаёт. Новые MaS5/ILLS18/FDSL19/Matching открывались с 403; использованы официальные сайты и доступные поисковые копии. Добавлены Matching and Contrasting Norms and Usage и отдельный сателлит FDSL19; шесть существующих записей уточнены, включая SoSy и явную связь с ILLS. Найдены три пропущенных/новых переноса: FDSL19 23→31 августа 2026 (старое продление), Laughter 23→26 ноября 2026 (прямо extended в новом CFP), LAUD 15 ноября→15 декабря 2026 (новая инструкция организаторов, конфликт с прежним сайтом записан). Точные deadline_at/timezone сброшены; старые overrides не блокируют сроки. MaS5 сохраняет 15 января и спорные 2.5 inches в поисковой копии; размер полей не исправлялся догадкой. Новая информация по регистрации FDSL19 недоступна. Старые ответ/дата подачи не подменялись новыми без проверки. Каталог прочитан частично: 36/37, причём копия страницы 36 датирована двумя неделями ранее и может повторять уже просмотренные записи; 27/29 недоступны. Поисковый результат McGill более свежий, чем открывшаяся страница с последними постами 13 ноября; это ограничение учтено. Полный каталог, все будущие события и прежние вложения не проверены, полнота не заявляется. Автоматический парсер не запускался.",
-  "added": 2,
-  "updated": 6,
-  "extensions_found": 3,
-  "cross_source_updated": 0
+  ]
 }

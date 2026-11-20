@@ -1,5 +1,5 @@
 {
-  "reviewed_at": "2026-11-19",
+  "reviewed_at": "2026-11-20",
   "note": "Редакторские русские подписи и явно проверенные связи мероприятий. Исходные объявления и даты не изменяются. Новые отношения не выводятся из совпадения слов, места или дат.",
   "locations": {
     "Abakaliki, Nigeria": "Абакалики, Нигерия",
@@ -365,7 +365,11 @@
     "Лейпциг, Германия · Лейпцигский университет, Филиппус Лейпциг": "Лейпциг, Германия · Лейпцигский университет, Филиппус Лейпциг",
     "Урбана-Шампейн, Иллинойс, США · Иллинойсский университет, Иллини-Юнион": "Урбана-Шампейн, Иллинойс, США · Иллинойсский университет, Иллини-Юнион",
     "Урбана-Шампейн, Иллинойс, США · Иллинойсский университет": "Урбана-Шампейн, Иллинойс, США · Иллинойсский университет",
-    "Алькерзум, остров Фёр, Германия · Фонд Ферринг": "Алькерзум, остров Фёр, Германия · Фонд Ферринг"
+    "Алькерзум, остров Фёр, Германия · Фонд Ферринг": "Алькерзум, остров Фёр, Германия · Фонд Ферринг",
+    "Бун, Северная Каролина, США · Аппалачский государственный университет": "Бун, Северная Каролина, США · Аппалачский государственный университет",
+    "Риека, Хорватия · Риекский университет": "Риека, Хорватия · Риекский университет",
+    "Вашингтон, округ Колумбия, США · Джорджтаунский университет": "Вашингтон, округ Колумбия, США · Джорджтаунский университет",
+    "Вильнюс, Литва · Вильнюсский университет": "Вильнюс, Литва · Вильнюсский университет"
   },
   "topics": {
     "Anthropological Linguistics": "Антропологическая лингвистика",
@@ -1027,6 +1031,23 @@
       "sources": [
         "https://ills.linguistics.illinois.edu/call-for-abstracts/",
         "https://publish.illinois.edu/sociolinguisticssymposium/"
+      ]
+    },
+    "word-formation-2027": {
+      "label": "Word-Formation 2027 · общая секция и три воркшопа",
+      "parent_id": "d533b2c6d2f097c2",
+      "members": [
+        "d533b2c6d2f097c2",
+        "manual-wf2027-fuzziness",
+        "manual-wf2027-methods",
+        "manual-wf2027-dm"
+      ],
+      "review_basis": "Официальный CFP прямо перечисляет три воркшопа и отдельные инструкции; сроки и неизвестные дни секций сохранены независимо.",
+      "sources": [
+        "https://word-formation.flf.vu.lt/call-for-papers",
+        "https://word-formation.flf.vu.lt/workshops/fuzziness-in-word-formation",
+        "https://word-formation.flf.vu.lt/workshops/methods-in-morphological-research",
+        "https://word-formation.flf.vu.lt/workshops/word-formation-in-distributed-morphology"
       ]
     }
   },
@@ -1711,9 +1732,9 @@
     "d1b2adfa7ddf65d5": {
       "topics_summary": "Все области лингвистики звуковых и жестовых языков. Особые темы: вариативность речи, квир- и транс-лингвистика, усвоение соответствий формы и функции, архитектура синтаксиса, интерфейсы с семантикой и просодией, измерение и сравнение.",
       "subject_languages_summary": "Звуковые и жестовые языки; конкретный перечень не ограничен CFP.",
-      "review_source": "https://linguistlist.org/issues/37/3231/",
-      "review_basis": "Полный пост и официальный сайт; уточнены время закрытия, формат тезисов и авторские лимиты.",
-      "reviewed_at": "2026-11-16"
+      "review_source": "https://www.chicagolinguisticsociety.com/",
+      "review_basis": "Ручное чтение источников 20 ноября; подробное основание и ограничения в записи и overrides.",
+      "reviewed_at": "2026-11-20"
     },
     "mos-bondarko-functional-grammar-2026": {
       "topics_summary": "Актуальные проблемы функциональной грамматики.",
@@ -1882,6 +1903,69 @@
       "review_source": "https://linguistlist.org/issues/37/2717/",
       "review_basis": "В полном CFP сателлит имеет отдельную тематическую программу и выбор подачи; точные даты не предполагаются.",
       "reviewed_at": "2026-11-19"
+    },
+    "d83bdcdca9a4eab3": {
+      "topics_summary": "Все области испанской лингвистики; региональный акцент на юго-востоке США не ограничивает географию авторов.",
+      "subject_languages_summary": "Испанский",
+      "review_source": "https://sites.google.com/appstate.edu/slinkislise2027",
+      "review_basis": "Ручное чтение источников 20 ноября; подробное основание и ограничения в записи и overrides.",
+      "reviewed_at": "2026-11-20"
+    },
+    "08534ad624d687d2": {
+      "topics_summary": "Славянская когнитивная лингвистика; работы на неопубликованном материале.",
+      "subject_languages_summary": "Славянские языки",
+      "review_source": "https://sclc2027.uniri.hr/",
+      "review_basis": "Ручное чтение источников 20 ноября; подробное основание и ограничения в записи и overrides.",
+      "reviewed_at": "2026-11-20"
+    },
+    "822e6c0f4a93bfc6": {
+      "topics_summary": "Все области африканской лингвистики; специальные сессии по небантуским языкам Северо-Восточной Африки, методам фонетики/фонологии и недостаточно представленным языкам.",
+      "subject_languages_summary": "Языки Африки; специальные сессии выделяют небантуские языки Северо-Восточной Африки.",
+      "review_source": "https://gurt.georgetown.edu/gurt-2027/gurt-2027-call-for-papers/",
+      "review_basis": "Ручное чтение источников 20 ноября; подробное основание и ограничения в записи и overrides.",
+      "reviewed_at": "2026-11-20"
+    },
+    "bb51789d0fa5375f": {
+      "topics_summary": "Language Documentation; Lexicography; Morphology; Syntax; Typology",
+      "subject_languages_summary": null,
+      "review_source": "https://iling.spb.ru/conferences/2026/5061",
+      "review_basis": "Ручное чтение источников 20 ноября; подробное основание и ограничения в записи и overrides.",
+      "reviewed_at": "2026-11-20"
+    },
+    "d533b2c6d2f097c2": {
+      "topics_summary": "Теория, типология и универсалии словообразования; связи с фонологией, синтаксисом, продуктивностью и языковыми контактами; количественные и экспериментальные подходы.",
+      "subject_languages_summary": null,
+      "review_source": "https://word-formation.flf.vu.lt",
+      "review_basis": "Ручное чтение источников 20 ноября; подробное основание и ограничения в записи и overrides.",
+      "reviewed_at": "2026-11-20"
+    },
+    "manual-ll-37-3861": {
+      "topics_summary": "Общая лингвистика: пересечения формальных и функциональных теорий, грамматика, фонетика/фонология, семантика, языковой контакт и вариативность; лингвистическая секция.",
+      "subject_languages_summary": "Испанский и португальский указаны в объявлении; допускаются исследования из всех областей лингвистики.",
+      "review_source": "https://spanport.georgetown.edu/graduate-spanish-and-portuguese-student-organization-gspso/graphsy/graphsy-2027/",
+      "review_basis": "Ручное чтение источников 20 ноября; подробное основание и ограничения в записи и overrides.",
+      "reviewed_at": "2026-11-20"
+    },
+    "manual-wf2027-fuzziness": {
+      "topics_summary": "Нечёткие границы словообразовательных категорий и процессов; деривация и словоизменение, морфология и синтаксис, продуктивность.",
+      "subject_languages_summary": null,
+      "review_source": "https://word-formation.flf.vu.lt/workshops/fuzziness-in-word-formation",
+      "review_basis": "Ручное чтение источников 20 ноября; подробное основание и ограничения в записи и overrides.",
+      "reviewed_at": "2026-11-20"
+    },
+    "manual-wf2027-methods": {
+      "topics_summary": "Методы исследования словообразования: статистика, корпусные и словарные данные, применение новых инструментов к морфологическим вопросам.",
+      "subject_languages_summary": null,
+      "review_source": "https://word-formation.flf.vu.lt/workshops/methods-in-morphological-research",
+      "review_basis": "Ручное чтение источников 20 ноября; подробное основание и ограничения в записи и overrides.",
+      "reviewed_at": "2026-11-20"
+    },
+    "manual-wf2027-dm": {
+      "topics_summary": "Словообразование в распределённой морфологии: корни и признаки, постсинтаксические операции, домены, деривация, словосложение и неконкатенативная морфология.",
+      "subject_languages_summary": null,
+      "review_source": "https://word-formation.flf.vu.lt/workshops/word-formation-in-distributed-morphology",
+      "review_basis": "Ручное чтение источников 20 ноября; подробное основание и ограничения в записи и overrides.",
+      "reviewed_at": "2026-11-20"
     }
   },
   "subject_languages": {
