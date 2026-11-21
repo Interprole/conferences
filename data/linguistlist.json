@@ -615,18 +615,18 @@
     "name": "13th Creolistics Workshop - Taming Chaos: Linguistic Diversity, Bilingual Optimization, and Semantic Transparency. In memory of Pieter C. Muysken (1950-2021) and Pieter A.M. Seuren (1934-2021)",
     "start": "2027-02-17",
     "end": "2027-02-19",
-    "location": "Nijmegen, Netherlands",
+    "location": "Неймеген, Нидерланды · Университет Радбауда, башня Эразма, E9.18",
     "deadline": "2026-11-20",
     "deadline_at": null,
     "deadline_timezone": null,
-    "notification": null,
+    "notification": "2026-12-01",
     "notification_text": "01 December 2026",
     "fee": null,
-    "topics": "Anthropological Linguistics; Discipline of Linguistics; Historical Linguistics; Linguistic Theories; Typology",
-    "subject_languages": null,
-    "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
+    "topics": "Грамматика контактных языков: двуязычная оптимизация, семантическая прозрачность, синтаксис, морфология, фонология, семантика и прагматика; описательные, типологические и формальные подходы.",
+    "subject_languages": "Креольские, смешанные языки, пиджины и новые контактные разновидности.",
+    "working_languages": "Английский; другие языки, особенно креольские и смешанные, допустимы при слайдах на английском.",
+    "speaker_restrictions": "Приглашаются исследователи разных карьерных этапов, включая независимых; численные авторские лимиты не указаны.",
+    "submission_rules": "Анонимные тезисы до 300 слов без литературы либо предложение дискуссионной панели организаторам по каналу CFP. Доклад 20+10 минут.",
     "format": null,
     "website": null,
     "sources": [
@@ -634,16 +634,21 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/2942/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "other",
+        "url": "https://lotschool.nl/13th-creolistics-workshop-taming-chaos-linguistic-diversity-bilingual-optimization-and-semantic-transparency-in-memory-of-pieter-c-muysken-and-pieter-a-m-seuren-17-february-2027/",
+        "label": "Официальный источник"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Полный CFP в доступной копии LOT прочитан; сохраняет 20 ноября и ответ 1 декабря, подтверждения дальнейшего продления не найдено. Бесплатность описана как традиция серии, а не явное отдельное условие выпуска 2027: fee оставлен null. Отдельный официальный сайт конференции не найден; ссылка LOT сохранена как публичный CFP."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "checked_at": "2026-11-21",
+    "verification": "reviewed",
     "source_order": [
       37,
       2942
@@ -3917,34 +3922,39 @@
     "name": "36th Colloquium on Generative Grammar",
     "start": "2027-05-26",
     "end": "2027-05-28",
-    "location": "Girona, Spain",
+    "location": "Жирона, Каталония, Испания · факультет искусств Жиронского университета",
     "deadline": "2026-12-20",
-    "deadline_at": null,
-    "deadline_timezone": null,
+    "deadline_at": "2026-12-20T23:59:00+01:00",
+    "deadline_timezone": "Europe/Madrid (CET, UTC+01:00)",
     "notification": null,
-    "notification_text": "Late February",
+    "notification_text": "Конец февраля 2027; точная дата не указана.",
     "fee": null,
-    "topics": "Linguistic Theories; Morphology; Phonology; Semantics; Syntax",
+    "topics": "Генеративная грамматика: синтаксис, морфология, семантика, фонология и их интерфейсы.",
     "subject_languages": null,
-    "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
-    "format": null,
+    "working_languages": "Тезисы на английском; рабочий язык выступлений отдельно не указан.",
+    "speaker_restrictions": "Одна единоличная и одна совместная заявка либо две совместные на автора; общий лимит для основной секции и воркшопа.",
+    "submission_rules": "Анонимный PDF через раздел подачи официального сайта, выбрать Main Session. До 2 страниц A4 со всеми примерами, рисунками и литературой; 12 pt, одинарный интервал, поля 2,5 см. Доклад 30+10 минут; комитет может предложить постер.",
+    "format": "Очно",
     "website": "https://esdeveniments.udg.edu/go/cgg2027",
     "sources": [
       {
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3278/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3890/",
+        "label": "LINGUIST List"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Прямой пост вернул 403; прочитана полная поисковая копия 37.3890. Официальный сайт перенаправляет на страницу, из которой извлечена только служебная ссылка. Сбор и возможные изменения после копии не проверены. Воркшоп сохранён отдельно; авторские лимиты общие."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
+    "checked_at": "2026-11-21",
     "verification": "partial",
     "source_order": [
       37,
@@ -3956,34 +3966,44 @@
     "name": "36th Meeting of Formal Approaches to Slavic Linguistics",
     "start": "2027-05-21",
     "end": "2027-05-23",
-    "location": "Urbana, IL, USA",
+    "location": "Урбана, Иллинойс, США · Иллинойсский университет в Урбане-Шампейне",
     "deadline": "2027-01-15",
-    "deadline_at": null,
-    "deadline_timezone": null,
-    "notification": null,
-    "notification_text": null,
+    "deadline_at": "2027-01-15T23:59:00-12:00",
+    "deadline_timezone": "Anywhere on Earth (UTC−12:00)",
+    "notification": "2027-03-15",
+    "notification_text": "Ориентировочно 15 марта 2027.",
     "fee": null,
-    "topics": "General Linguistics",
-    "subject_languages": "Slavic Subgroup",
+    "topics": "Формальная славянская лингвистика: фонетика, фонология, морфология, синтаксис, семантика и прагматика; теория, эксперименты и усвоение с выводами для лингвистической теории.",
+    "subject_languages": "Славянские языки",
     "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
+    "speaker_restrictions": "Принимается не более одного единоличного доклада на автора и двух докладов одной группы соавторов. Иного лимита принятых совместных докладов нет; это правила принятия, а не запрет подавать больше.",
+    "submission_rules": "Анонимный PDF через Oxford Abstracts: до 2 страниц с данными/таблицами/рисунками, ещё одна для литературы; от 12 pt, Times New Roman или крупнее, одинарный интервал, поля 1 дюйм / 2,5 см; нестандартные шрифты встроить. Название обязательно; выбрать доклад 20 минут, постер или оба.",
     "format": null,
-    "website": null,
+    "website": "https://publish.illinois.edu/fasl36-uiuc/",
     "sources": [
       {
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3545/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3892/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://publish.illinois.edu/fasl36-uiuc/",
+        "label": "Официальный источник"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Прямая страница нового CFP вернула 403; прочитана полная доступная поисковая копия 37.3892. Официальный сайт недоступен, поэтому сбор, рабочие языки и возможные последующие изменения не подтверждены. Дедлайн 15 января не продлён; уточнено время AoE."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
+    "checked_at": "2026-11-21",
     "verification": "partial",
     "source_order": [
       37,
@@ -4478,13 +4498,13 @@
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
-    "notification_text": null,
+    "notification_text": "Рецензирование 1–31 декабря 2026; дата уведомления не указана.",
     "fee": null,
     "topics": "Арабская лингвистика: фонология, морфология, синтаксис, семантика, прагматика, социолингвистика, история и усвоение языка; также смежные направления.",
     "subject_languages": "Арабский язык и его разновидности.",
-    "working_languages": "Английский — обязательный язык тезисов; язык выступлений отдельно не указан.",
+    "working_languages": "Тезисы только на английском; иные языки отклоняются. Язык выступлений отдельно не указан.",
     "speaker_restrictions": null,
-    "submission_rules": "PDF через EasyAbs; тезисы на английском, заявки по электронной почте и на иных языках не принимаются. Страница полных требований вернула 502; объём и форматирование неизвестны.",
+    "submission_rules": "PDF через EasyAbs, заполнить все поля. Подача по электронной почте не принимается; форматирование по отдельным рекомендациям ALS.",
     "format": null,
     "website": "https://easyabs.linguistlist.org/conference/ASAL40Berkeley/",
     "sources": [
@@ -4492,6 +4512,11 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/2128/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://easyabs.linguistlist.org/conference/ASAL40Berkeley/",
+        "label": "Официальный источник"
       }
     ],
     "history": [
@@ -4505,11 +4530,12 @@
       }
     ],
     "notes": [
-      "Действующая страница EasyAbs показывает приём до 20 ноября 2026 вместо прежнего 5 ноября; прежний срок сохранён в истории. Период рецензирования 1–31 декабря не интерпретируется как дата ответа. Страница правил Arabic Linguistics Society не открылась (502); сбор и ограничения соавторства неизвестны."
+      "Действующая страница EasyAbs показывает приём до 20 ноября 2026 вместо прежнего 5 ноября; прежний срок сохранён в истории. Период рецензирования 1–31 декабря не интерпретируется как дата ответа. Страница правил Arabic Linguistics Society не открылась (502); сбор и ограничения соавторства неизвестны.",
+      "Страница EasyAbs прочитана 21 ноября: подача до 20 ноября, рецензирование 1–31 декабря; продление не указано. Подтверждены английский язык тезисов и PDF через EasyAbs. Отдельные рекомендации ALS в этой проверке не дочитаны; сбор, соавторство и язык выступлений не установлены."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-12",
+    "checked_at": "2026-11-21",
     "verification": "partial",
     "source_order": [
       37,
@@ -5159,20 +5185,33 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3175/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "other",
+        "url": "https://www.societadilinguisticaitaliana.net/notizie-e-comunicazioni-istituzionali/congressi-e-convegni-di-interesse-linguistico-notizie-e-call-for-papers/52-incontro-di-grammatica-generativa-igg52/",
+        "label": "Официальный источник"
       }
     ],
     "history": [],
     "notes": [
-      "Полный пост 37.3175 прочитан, включая точное время закрытия. Официальный Google Sites не открылся; срок 15 ноября также виден в поисковой копии объявления Итальянского лингвистического общества. Сбор, рабочие языки и дата ответа неизвестны."
+      "Полный пост 37.3175 прочитан, включая точное время закрытия. Официальный Google Sites не открылся; срок 15 ноября также виден в поисковой копии объявления Итальянского лингвистического общества. Сбор, рабочие языки и дата ответа неизвестны.",
+      "Официальный сайт IGG52 и /home не открылись. Объявление Итальянского лингвистического общества от 3 октября сохраняет 15 ноября. Сторонняя таблица указывает 20 ноября, но это не принято за подтверждённое продление; старый срок сохранён, расхождение записано."
     ],
     "classification": "theory",
     "classification_reason": "Обсуждение и развитие теории генеративной грамматики.",
-    "checked_at": "2026-11-13",
-    "verification": "reviewed",
+    "checked_at": "2026-11-21",
+    "verification": "partial",
     "source_order": [
       37,
       3175
-    ]
+    ],
+    "date_conflict": {
+      "field": "deadline",
+      "retained": "2026-11-15",
+      "unverified_alternative": "2026-11-20",
+      "source": "https://conf.lingeq.com/deadlines/",
+      "note": "Сторонний список сроков ссылается на OpenReview и показывает 20 ноября 22:59 UTC; официальный сайт недоступен, перенос не подтверждён."
+    }
   },
   {
     "id": "1854fdb3f7b74b69",
@@ -5526,18 +5565,18 @@
     "name": "5th North American Conference in Iranian Linguistics",
     "start": "2027-04-22",
     "end": "2027-04-25",
-    "location": "Davis, USA",
-    "deadline": "2026-11-20",
+    "location": "Дейвис, Калифорния, США · Калифорнийский университет в Дейвисе",
+    "deadline": "2026-12-06",
     "deadline_at": null,
     "deadline_timezone": null,
-    "notification": "2027-02-15",
-    "notification_text": "February 15, 2027",
+    "notification": "2027-02-19",
+    "notification_text": "Решения 19 февраля 2027 по текущему официальному календарю.",
     "fee": null,
-    "topics": "Morphology; Phonetics; Phonology; Semantics; Syntax",
-    "subject_languages": "Iranian (iran1269)",
+    "topics": "Все области исследования иранских языков: грамматика, фонетика/фонология, типология, документация, историческое языкознание и смежные методы.",
+    "subject_languages": "Иранские языки; особенно приветствуются недостаточно описанные и исчезающие разновидности.",
     "working_languages": null,
     "speaker_restrictions": null,
-    "submission_rules": null,
+    "submission_rules": "Анонимные тезисы до 1000 слов без примеров, таблиц и графиков; данные должны быть минимальными. Подача через OpenReview по официальной ссылке.",
     "format": null,
     "website": "https://www.iranianlinguistics.com/",
     "sources": [
@@ -5545,20 +5584,51 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3132/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://www.iranianlinguistics.com/",
+        "label": "Официальный источник"
       }
     ],
-    "history": [],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-11-20",
+        "new": "2026-12-06",
+        "type": "extended",
+        "observed_at": "2026-11-21",
+        "source": "https://www.iranianlinguistics.com/"
+      },
+      {
+        "field": "notification",
+        "old": "2027-02-15",
+        "new": "2027-02-19",
+        "type": "changed",
+        "observed_at": "2026-11-21",
+        "source": "https://www.iranianlinguistics.com/"
+      }
+    ],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Официальный сайт прямо сообщает Abstract Submission Deadline Extended to Dec 6. Прежний пост 37.3132 сохраняет 20 ноября и ответ 15 февраля; актуальный календарь задаёт 6 декабря и решения 19 февраля, изменения сохранены в истории.",
+      "Сбор, языки тезисов/выступлений и авторские лимиты не найдены. Ссылка регистрации ведёт на некорректный адрес http://s; не используется. OpenReview показывает только Loading, дополнительные ограничения платформы не прочитаны.",
+      "На сайте названы воркшопы Defining Definiteness и Iranian Languages, Fieldwork, Typology, and Technology; отдельные полные CFP, даты и условия не опубликованы в прочитанном тексте, самостоятельные сроки не предполагаются."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
+    "checked_at": "2026-11-21",
     "verification": "partial",
     "source_order": [
       37,
       3132
-    ]
+    ],
+    "date_conflict": {
+      "field": "notification",
+      "linguistlist": "2027-02-15",
+      "official": "2027-02-19",
+      "source": "https://www.iranianlinguistics.com/",
+      "note": "Предпочтён текущий календарь организаторов; прежний пост не обновлён."
+    }
   },
   {
     "id": "e0b8a2624ce5045c",
@@ -6342,12 +6412,13 @@
     ],
     "notes": [
       "Продление с 13 до 20 ноября 2026 подтверждено новым постом LINGUIST List; точное время закрытия не указано.",
-      "Официальный сайт не открылся; сбор, рабочие языки, срок ответа и ограничения на авторов остаются неизвестными."
+      "Официальный сайт не открылся; сбор, рабочие языки, срок ответа и ограничения на авторов остаются неизвестными.",
+      "21 ноября официальный сайт вернул 502 Bad Gateway. Поисковая копия поста 37.3660 сохраняет extended до 20 ноября; более позднее продление не найдено. Проверка официальных изменений неполная."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-07",
-    "verification": "reviewed",
+    "checked_at": "2026-11-21",
+    "verification": "partial",
     "source_order": [
       37,
       2494
@@ -6821,35 +6892,40 @@
     "name": "Abstraction in Thought, Language, and Creativity",
     "start": "2027-04-29",
     "end": "2027-04-30",
-    "location": "Bologna, Italy",
+    "location": "Болонья, Италия · Болонский университет",
     "deadline": "2026-12-20",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": "2027-01-15",
     "notification_text": "January 15, 2027",
-    "fee": null,
-    "topics": "Cognitive Science; Computational Linguistics; Pragmatics; Psycholinguistics; Semantics",
+    "fee": "Участие бесплатно; обязательная регистрация до 15 марта 2027. Дорога и проживание не оплачиваются.",
+    "topics": "Абстракция, языковое значение и категоризация: кодирование в словах, конструкциях и дискурсе; обобщение, аналогия, креативность и смежные когнитивные подходы.",
     "subject_languages": null,
-    "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
-    "format": null,
+    "working_languages": "Английский",
+    "speaker_restrictions": "Исследователи всех дисциплин и карьерных этапов, включая аспирантов; лимиты соавторства и числа заявок не указаны.",
+    "submission_rules": "Очный постер; PDF тезисов до 400 слов с литературой отправить по каналу официального CFP. Имя и при наличии аффилиация/страница автора — в сопровождающем письме.",
+    "format": "Очно",
     "website": "https://site.unibo.it/abstraction/en/dissemination/finalconference",
     "sources": [
       {
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3541/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://site.unibo.it/abstraction/en/dissemination/finalconference",
+        "label": "Официальный источник"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Полный официальный CFP прочитан. Сроки 20 декабря, ответ 15 января и конференция 29–30 апреля подтверждены; продления нет. Точная площадка и численные авторские лимиты не указаны. Программа междисциплинарная, включает исследования значения и конструкций, а не только вычислительное моделирование."
     ],
     "classification": "theory",
-    "classification_reason": "Широкий критерий: грамматика, описание языков, типология и общая лингвистика; корпусные методы не исключают теоретическую тематику.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "classification_reason": "В CFP непосредственно выделены языковое значение, категоризация, слова и конструкции; смежные когнитивные направления не отменяют теоретическую семантику.",
+    "checked_at": "2026-11-21",
+    "verification": "reviewed",
     "source_order": [
       37,
       3541
@@ -23357,5 +23433,220 @@
     "classification_reason": "Содержательное объявление посвящено грамматике и теории языка.",
     "checked_at": "2026-11-20",
     "verification": "partial"
+  },
+  {
+    "id": "manual-ll-37-3891",
+    "name": "Null Objects from a Cross-Linguistic and Developmental Perspective 2027",
+    "start": "2027-10-21",
+    "end": "2027-10-22",
+    "location": "Вена, Австрия · Венский университет",
+    "deadline": "2027-03-31",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Нулевые объекты: синтаксическое, семантическое и дискурсивное лицензирование; обязательность аргументов, pro, типология, усвоение и диахрония.",
+    "subject_languages": null,
+    "working_languages": "Тезисы на английском; язык выступлений отдельно не указан.",
+    "speaker_restrictions": "Одна единоличная и одна совместная заявка либо две совместные на автора.",
+    "submission_rules": "Оригинальная неопубликованная работа; анонимный PDF: 1 страница A4/Letter, поля 2,5 см / 1 дюйм, 12 pt; ещё 1 страница для примеров, таблиц, рисунков и литературы. Доклад 20+10 минут или постер, выбрать один либо оба формата.",
+    "format": null,
+    "website": "https://sfb-redefi.at/workshops/nocrodev2027/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3891/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://easyabs.linguistlist.org/conference/nocrodev2027/",
+        "label": "Официальный источник"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Прочитаны полная поисковая копия объявления и полный CFP EasyAbs. Основной сайт не открылся. В тексте EasyAbs написано подавать через OpenReview, но внизу есть собственная кнопка Submit to this conference: точная действующая платформа не подтверждена; использовать актуальные инструкции организаторов.",
+      "Подача открыта 15 ноября 2026 — 31 марта 2027. Рецензирование 1 апреля — 1 мая, это не подтверждённая дата ответа. Сбор, исследуемые языки и дополнительные ограничения не указаны."
+    ],
+    "classification": "theory",
+    "classification_reason": "Предмет — грамматическая теория нулевых аргументов и межъязыковое сопоставление.",
+    "checked_at": "2026-11-21",
+    "verification": "partial",
+    "source_order": [
+      37,
+      3891
+    ]
+  },
+  {
+    "id": "manual-cgg36-minoritized",
+    "name": "Workshop at CGG 36 — Grammatical phenomena in minoritized linguistic varieties: theoretical, descriptive and applied dimensions",
+    "start": null,
+    "end": null,
+    "location": "Жирона, Каталония, Испания · факультет искусств Жиронского университета",
+    "deadline": "2026-12-20",
+    "deadline_at": "2026-12-20T23:59:00+01:00",
+    "deadline_timezone": "Europe/Madrid (CET, UTC+01:00)",
+    "notification": null,
+    "notification_text": "Конец февраля 2027; точный день не указан.",
+    "fee": null,
+    "topics": "Морфосинтаксическая вариативность и языковые контакты в миноритарных разновидностях, особенно в трансграничных сообществах; теория и описание грамматики.",
+    "subject_languages": null,
+    "working_languages": "Тезисы на английском; язык выступлений отдельно не указан.",
+    "speaker_restrictions": "Общий для двух треков лимит: одна единоличная и одна совместная заявка либо две совместные на автора.",
+    "submission_rules": "Выбрать Workshop на сайте CGG36. Анонимный PDF до 2 страниц A4 с примерами, рисунками и литературой; 12 pt, одинарный интервал, поля 2,5 см. Доклад 20+10 минут.",
+    "format": "Очно",
+    "website": "https://esdeveniments.udg.edu/go/cgg2027",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3890/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Самостоятельный трек CGG36 по полному CFP; общая конференция 26–28 мая 2027, точный день воркшопа не указан, start/end оставлены null. Сбор, конкретный перечень исследуемых языков неизвестны. Прямая страница CFP 403, официальный сайт не извлёкся; использована поисковая копия."
+    ],
+    "classification": "theory",
+    "classification_reason": "Морфосинтаксис и описание грамматической вариативности конкретных языков.",
+    "checked_at": "2026-11-21",
+    "verification": "partial",
+    "source_order": [
+      37,
+      3890
+    ]
+  },
+  {
+    "id": "manual-ll-37-3893",
+    "name": "31st International Conference of the African Association for Lexicography",
+    "start": "2027-07-07",
+    "end": "2027-07-10",
+    "location": "Стелленбос, ЮАР · Стелленбосский институт перспективных исследований (STIAS)",
+    "deadline": "2027-04-30",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Лексикография и терминология, сохранение языкового наследия; смежные исследования с доказанным вкладом в лексикографию.",
+    "subject_languages": null,
+    "working_languages": "Английский",
+    "speaker_restrictions": null,
+    "submission_rules": "600–800 слов с литературой по официальному шаблону; тезисы либо предложения секций отправить по каналу CFP. Некорректно оформленные работы возвращаются. Докладчикам и организаторам секций зарегистрироваться до 7 мая.",
+    "format": "Очно",
+    "website": "https://www.afrilex.co.za/conferences",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3893/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://www.afrilex.co.za/_files/ugd/bd0c6e_7b4cd7bc9d314783990b641cef239d05.pdf",
+        "label": "Официальный источник"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Прочитаны актуальная страница выпуска и полный одностраничный официальный PDF, также поисковая копия LL. Формулировка в PDF — before 30 April; точный час закрытия не указан. Сбор, дата ответа и авторские лимиты неизвестны. Шаблон DOCX отдельно не разобран."
+    ],
+    "classification": "mixed",
+    "classification_reason": "Лексикографическая и терминологическая специализация; грамматическая теория не является основным предметом.",
+    "checked_at": "2026-11-21",
+    "verification": "reviewed",
+    "source_order": [
+      37,
+      3893
+    ]
+  },
+  {
+    "id": "manual-ll-37-3886",
+    "name": "Statistical Modelling and Inference for Language Research Conference (SMILR)",
+    "start": "2027-09-15",
+    "end": "2027-09-17",
+    "location": "Онлайн",
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Статистические методы лингвистики: моделирование и вывод, экспериментальный дизайн, проверка допущений, воспроизводимость и связь статистической и лингвистической теорий.",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": "Онлайн",
+    "website": "https://s4ln.github.io/conference.html",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3886/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Прямой пост 37.3886 вернул 403, официальный сайт не открылся. Прочитана доступная поисковая копия текста объявления на странице подачи LINGUIST List; она может отставать от опубликованной версии.",
+      "CFP обещан в начале января 2027, конкретный день и дедлайн не сообщены. Сбор, срок ответа, языки, формат тезисов и ограничения на авторов не установлены. Наличие анонса не означает открытый приём тезисов."
+    ],
+    "classification": "mixed",
+    "classification_reason": "Междисциплинарная методологическая конференция по статистике в лингвистике; не специализированный NLP.",
+    "checked_at": "2026-11-21",
+    "verification": "partial",
+    "source_order": [
+      37,
+      3886
+    ]
+  },
+  {
+    "id": "manual-ll-37-3894-linguistics",
+    "name": "Speaking Otherwise: Language, Power, and Dissent — лингвистическая секция MIA MLL Graduate Conference 2027",
+    "start": "2027-02-18",
+    "end": "2027-02-19",
+    "location": "Корал-Гейблс, Флорида, США · Университет Майами",
+    "deadline": "2026-11-30",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Лингвистическая секция: языковые идеологии, язык на границах, языковая политика и права, дискурс и власть.",
+    "subject_languages": null,
+    "working_languages": "Выступления на испанском, португальском, гаитянском креольском, французском или английском; язык тезисов отдельно не указан.",
+    "speaker_restrictions": null,
+    "submission_rules": "Предложения докладов или панелей; тезисы 250–300 слов с названием, авторством, аффилиацией и выбранной областью направить организаторам по каналу CFP.",
+    "format": "Очно",
+    "website": "https://sites.google.com/view/mll-conference2027/conference-overview",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3894/",
+        "label": "LINGUIST List"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Полная поисковая копия объявления прочитана; прямая страница 403, официальный сайт недоступен. Добавлена только лингвистическая секция, культурологическая и литературная программы не включены.",
+      "Рубрика Subject Language: English не принята за ограничение исследований или рабочий язык. Статус студента не выводится только из названия; критерии допуска авторов, соавторство, сбор и срок ответа не указаны."
+    ],
+    "classification": "mixed",
+    "classification_reason": "Социолингвистика и дискурс; грамматика не выделена основным направлением.",
+    "checked_at": "2026-11-21",
+    "verification": "partial",
+    "date_conflict": {
+      "field": "end",
+      "header": "2027-11-19",
+      "body": "2027-02-19",
+      "source": "https://linguistlist.org/issues/37/3894/",
+      "note": "В заголовке поисковой копии окончание 19 ноября, в содержательном CFP 18–19 февраля. Записана дата из текста, конфликт сохраняется до проверки организаторами."
+    },
+    "source_order": [
+      37,
+      3894
+    ]
   }
 ]
