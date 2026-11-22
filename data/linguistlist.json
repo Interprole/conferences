@@ -7649,7 +7649,7 @@
     "name": "Call for Participation for SemEval-2027 Task 3: Semantic Change Across Multiple Time Periods",
     "start": "2027-01-10",
     "end": "2027-01-31",
-    "location": "Online",
+    "location": "Онлайн",
     "deadline": "2027-01-31",
     "deadline_at": null,
     "deadline_timezone": null,
@@ -7662,22 +7662,33 @@
     "speaker_restrictions": null,
     "submission_rules": null,
     "format": null,
-    "website": null,
+    "website": "https://www.changeiskey.org/event/2027-semeval/",
     "sources": [
       {
         "type": "linguistlist",
         "url": "https://linguistlist.org/conf/search/?page=28",
         "label": "LINGUIST List · каталог"
+      },
+      {
+        "type": "other",
+        "url": "https://www.aclweb.org/portal/content/call-participation-semeval-2027-task-3-semantic-change-across-multiple-time-periods",
+        "label": "Официальный источник"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/2889/",
+        "label": "LINGUIST List"
       }
     ],
     "history": [],
     "notes": [
-      "Объявление не удалось получить. Данные взяты из каталога; ссылка на пост, сайт, сбор и ограничения не проверены."
+      "Объявление не удалось получить. Данные взяты из каталога; ссылка на пост, сайт, сбор и ограничения не проверены.",
+      "22 ноября прочитано полное объявление организатора на портале ACL и поисковая копия 37.2889. Заполнена пропущенная ссылка на пост, снята ошибочная отметка theory. Стабильный id, даты и история сохранены в архивных данных; classification excluded скрывает запись на сайте. Даты 10–31 января относятся к оцениванию систем, не к летнему воркшопу."
     ],
-    "classification": "theory",
-    "classification_reason": "Широкий критерий: грамматика, описание языков, типология и общая лингвистика; корпусные методы не исключают теоретическую тематику.",
-    "checked_at": "2026-11-02",
-    "verification": "partial"
+    "classification": "excluded",
+    "classification_reason": "После чтения полного объявления установлено: это соревнование NLP-систем на размеченном бенчмарке с автоматическими метриками, а не конференция по теоретической семантике. Исключено по условию владельца.",
+    "checked_at": "2026-11-22",
+    "verification": "reviewed"
   },
   {
     "id": "be80c26a0236afab",
@@ -8749,18 +8760,18 @@
     "name": "Endangered Languages: Integrating Theory and Practice",
     "start": "2027-06-17",
     "end": "2027-06-18",
-    "location": "Istanbul, Turkey",
+    "location": "Стамбул, Турция · Босфорский университет, Южный кампус",
     "deadline": "2027-01-05",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": "2027-03-15",
     "notification_text": "March 15, 2027",
-    "fee": null,
-    "topics": "General Linguistics; Historical Linguistics; Language Acquisition; Language Documentation; Linguistic Theories",
-    "subject_languages": null,
+    "fee": "80 EUR при регистрации 15 марта — 30 апреля; 90 EUR 1 мая — 17 июня. Магистранты, аспиранты и постдоки: 50 EUR 15 марта — 17 июня. Регистрация на месте только наличными, с предварительным уведомлением.",
+    "topics": "Описание, типология и теория исчезающих языков; языковые контакты и изменения, документация, архивирование и сохранение языкового разнообразия.",
+    "subject_languages": "Исчезающие и уязвимые языки; акцент на Евразии, но другие регионы не исключены.",
     "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
+    "speaker_restrictions": "До двух заявок на автора, одна из них обязательно совместная.",
+    "submission_rules": "Оригинальная неопубликованная работа; анонимные тезисы до 2 страниц A4 со всеми примерами, рисунками и литературой; от 2,5 см поля, 12 pt, одинарный интервал. PDF, DOC или DOCX через Oxford Abstracts. Доклад 20+10 минут либо постер.",
     "format": null,
     "website": "https://endangeredlanguages.bogazici.edu.tr/en",
     "sources": [
@@ -8768,16 +8779,26 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3260/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://endangeredlanguages.bogazici.edu.tr/en/pages/submission-guidelines/10909",
+        "label": "Официальный источник"
+      },
+      {
+        "type": "official",
+        "url": "https://endangeredlanguages.bogazici.edu.tr/en/pages/for-conference/10912",
+        "label": "Официальный источник"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Полный пост 37.3260 и официальные страницы CFP, подачи, регистрации и площадки прочитаны. Дедлайн 5 января и ответ 15 марта подтверждены, переноса нет. Рабочие языки не указаны; английский язык сайта не принят за правило подачи. Аудитория ещё TBA, известен Южный кампус."
     ],
     "classification": "theory",
-    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "classification_reason": "CFP прямо включает описательный, типологический и теоретический анализ грамматики исчезающих языков.",
+    "checked_at": "2026-11-22",
+    "verification": "reviewed",
     "source_order": [
       37,
       3260
@@ -8832,18 +8853,18 @@
     "name": "European Conference on Argumentation 2027",
     "start": "2027-06-28",
     "end": "2027-07-01",
-    "location": "Sophia Antipolis, France",
-    "deadline": "2026-11-20",
+    "location": "София-Антиполис, Франция · кампус «СофияТек», амфитеатр «Форум»",
+    "deadline": "2026-11-30",
     "deadline_at": null,
     "deadline_timezone": null,
-    "notification": null,
+    "notification": "2027-02-05",
     "notification_text": null,
     "fee": null,
-    "topics": "Computational Linguistics; Discourse Analysis; General Linguistics; Philosophy of Language; Pragmatics",
+    "topics": "Аргументация в научном дискурсе; также принимаются другие направления теории аргументации, дискурс-анализа, прагматики и логики.",
     "subject_languages": null,
     "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
+    "speaker_restrictions": "Не более одного доклада в качестве первого автора; исключение — дополнительное участие в панели.",
+    "submission_rules": "Через OpenReview, двойное слепое рецензирование. Длинный доклад: 1000–1500 слов, 35 минут, с комментатором. Обычный доклад или постер: 300–500 слов, доклад 25 минут. Панель: 3–5 выступающих, 90–150 минут, описание и тезисы по 300–500 слов; каждый доклад подаётся также отдельно как Regular paper.",
     "format": null,
     "website": "https://ecargument.org/",
     "sources": [
@@ -8856,16 +8877,30 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3529/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://ecargument.org/",
+        "label": "Официальный источник"
       }
     ],
-    "history": [],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-11-20",
+        "new": "2026-11-30",
+        "type": "extended",
+        "observed_at": "2026-11-22",
+        "source": "https://ecargument.org/"
+      }
+    ],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Полный официальный CFP прочитан. В календаре 20 ноября зачёркнуто и заменено на 30 ноября; продление сохранено в истории, точное время неизвестно. Ответ 5 февраля. Сбор, рабочие языки и языки исследования не указаны; регистрация до 20 мая, ранняя до 1 марта не являются сроками тезисов."
     ],
     "classification": "mixed",
     "classification_reason": "Смежная или смешанная тематика.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "checked_at": "2026-11-22",
+    "verification": "reviewed",
     "source_order": [
       37,
       3529
@@ -13375,15 +13410,15 @@
     "name": "Panel at IPC20 - Subjectification, Intersubjectification, and Textualization: Evidence from Asian Languages",
     "start": "2027-06-27",
     "end": "2027-07-02",
-    "location": "Helsinki, Finland",
+    "location": "Хельсинки, Финляндия",
     "deadline": "2026-10-15",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": "Historical Linguistics; Pragmatics",
-    "subject_languages": null,
+    "topics": "Грамматикализация и семантические изменения: соотношение субъективации, интерсубъективации и текстуализации, дискурсивные маркеры, эвиденциальность и гоноративность.",
+    "subject_languages": "Азиатские языки; корейский и японский приведены как особенно показательные, не как исчерпывающее ограничение.",
     "working_languages": null,
     "speaker_restrictions": null,
     "submission_rules": null,
@@ -13403,11 +13438,12 @@
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений.",
+      "Содержательная часть 37.2698 прочитана до обсуждения корейского/японского и сопоставлена с доступной копией описания в официальном списке панелей. Повторное открытие продолжения и основной CFP IPrA вернули 403: полные инструкции, возможный новый срок и сбор не проверены. Прежний дедлайн 15 октября сохранён; по общему продлению другой секции он не менялся."
     ],
-    "classification": "other",
-    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
+    "classification": "theory",
+    "classification_reason": "Содержательная проблема — грамматикализация и семантическое развитие языковых категорий в межъязыковой перспективе.",
+    "checked_at": "2026-11-22",
     "verification": "partial",
     "source_order": [
       37,
@@ -14693,18 +14729,18 @@
     "name": "Panel at IPC20: Pragmatic Borrowing in Different Language Settings",
     "start": "2027-06-27",
     "end": "2027-07-02",
-    "location": "Helsinki, Finland",
+    "location": "Хельсинки, Финляндия",
     "deadline": "2026-10-15",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": "Discourse Analysis; Pragmatics; Sociolinguistics",
-    "subject_languages": null,
+    "topics": "Прагматические заимствования: частицы, дискурсивные маркеры, обращения, кальки и просодические модели; изменение функций и фонологическая адаптация при контакте.",
+    "subject_languages": "Разные контактные языковые ситуации; английский не является единственным допустимым языком-источником, особо приветствуются случаи вне Европы.",
     "working_languages": null,
     "speaker_restrictions": null,
-    "submission_rules": null,
+    "submission_rules": "Тезисы 250–500 слов через ExOrdo; выбрать Pragmatic borrowing in different language settings. Другие формальные требования в прочитанном посте не указаны.",
     "format": null,
     "website": "https://pragmatics.international/page/IPC20Helsinki",
     "sources": [
@@ -14716,11 +14752,11 @@
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Полный пост 37.2646 прочитан; сохраняет 15 октября. Основной сайт конференции вернул 403, поэтому возможное общее продление, сбор, языки подачи и авторские лимиты не проверены. Срок другой секции не перенесён автоматически."
     ],
-    "classification": "other",
-    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
+    "classification": "theory",
+    "classification_reason": "CFP включает адаптацию формы и функции частиц, фонологию и просодию контактных разновидностей, что соответствует широкому критерию описания языка.",
+    "checked_at": "2026-11-22",
     "verification": "partial",
     "source_order": [
       37,
@@ -14815,18 +14851,18 @@
     "name": "Panel at IPC20: Projective Content, (Not-)at-issueness, Information Structure, and the Common Ground",
     "start": "2027-06-27",
     "end": "2027-07-02",
-    "location": "Helsinki, Finland",
+    "location": "Хельсинки, Финляндия",
     "deadline": "2026-10-22",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
-    "notification_text": null,
+    "notification_text": "Начало ноября 2026; точный день неизвестен.",
     "fee": null,
-    "topics": "General Linguistics; Linguistic Theories; Pragmatics; Psycholinguistics; Semantics",
+    "topics": "Проективное и неосновное содержание: пресуппозиции, конвенциональные импликатуры, информационная структура и общий фонд знаний; теория и экспериментальная прагматика.",
     "subject_languages": null,
     "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
+    "speaker_restrictions": "Для подачи требуется членство в IPrA; численные авторские лимиты в CFP секции не указаны.",
+    "submission_rules": "Анонимный PDF: до 1 страницы A4 обычным кеглем, ещё 1 страница для литературы и рисунков; направить по публичному каналу загрузки на странице секции. Имя файла включает фамилию первого автора и первое слово названия. Дополнительно текст до 500 слов через ExOrdo, выбрать эту секцию; рецензируется PDF, текстовая версия идёт в программу.",
     "format": null,
     "website": "https://uni-tuebingen.de/de/299499",
     "sources": [
@@ -14844,6 +14880,11 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3360/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://uni-tuebingen.de/de/299499",
+        "label": "Официальный источник"
       }
     ],
     "history": [
@@ -14857,12 +14898,12 @@
       }
     ],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Полный пост 37.3360 и содержательный CFP официального сайта прочитаны. Они подтверждают уже сохранённое продление до 22 октября; новая запись extended не добавлялась. Более поздний срок не найден. Сбор, рабочие языки, исследуемые языки и численные авторские лимиты неизвестны."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "checked_at": "2026-11-22",
+    "verification": "reviewed",
     "source_order": [
       37,
       3360
@@ -23647,6 +23688,50 @@
     "source_order": [
       37,
       3894
+    ]
+  },
+  {
+    "id": "manual-ll-37-3888-linguistics",
+    "name": "Fama Volat — лингвистическая секция конференции о репутации",
+    "start": "2027-04-29",
+    "end": "2027-04-29",
+    "location": "Милан, Италия · Католический университет Святого Сердца",
+    "deadline": "2027-01-18",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2027-02-15",
+    "notification_text": null,
+    "fee": "Участие бесплатно; дорога, питание и проживание за свой счёт.",
+    "topics": "Лингвистическое конструирование репутации: прагматика, речевой этикет, оценка и позиционирование, дискурс, эвиденциальность и престиж языковых разновидностей.",
+    "subject_languages": null,
+    "working_languages": "Тезисы на итальянском или английском. Язык секции определит оргкомитет; при неиталофонных участниках могут потребовать выступление на английском.",
+    "speaker_restrictions": "Аспиранты и исследователи, защитившие PhD не более 5 лет назад; лимиты числа заявок и соавторства неизвестны.",
+    "submission_rules": "Доклад 20 минут. Word-файл: до 300 слов без литературы, название и ключевые слова; биографическая справка до 150 слов. Подача по каналу CFP.",
+    "format": "Очно",
+    "website": "https://www.modlet.it/wp-content/uploads/2026/10/CFP-FAMA-VOLAT.pdf",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3888/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://www.modlet.it/wp-content/uploads/2026/10/CFP-FAMA-VOLAT.pdf",
+        "label": "Полный CFP"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Прочитан полный официальный CFP на 7 страницах. Добавлена только явно выделенная лингвистическая секция; литературная, педагогическая и медийно-культурная программы не включены. Прямая страница 37.3888 вернула 403. Данные и ограничения взяты из полного PDF, а не из названия мероприятия."
+    ],
+    "classification": "mixed",
+    "classification_reason": "Лингвистическая секция по дискурсу и прагматике; грамматическая теория не является основной специализацией.",
+    "checked_at": "2026-11-22",
+    "verification": "reviewed",
+    "source_order": [
+      37,
+      3888
     ]
   }
 ]
