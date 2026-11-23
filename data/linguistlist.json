@@ -3639,18 +3639,18 @@
     "name": "30th Annual Ohio State University Congress on Hispanic and Lusophone Linguistics",
     "start": "2027-03-05",
     "end": "2027-03-05",
-    "location": "Columbus, OH, USA",
+    "location": "Колумбус, Огайо, США · Университет штата Огайо",
     "deadline": "2026-12-01",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": "Applied Linguistics; Phonetics; Pragmatics; Sociolinguistics; Syntax",
-    "subject_languages": "Portuguese (por, port1283)",
-    "working_languages": null,
+    "topics": "Все области лингвистики испано- и португалоязычного мира, включая грамматику, фонетику/фонологию, семантику, контакты и историю языков.",
+    "subject_languages": "Испанский, португальский, кечуа и другие коренные и креольские языки испано- и португалоязычного мира.",
+    "working_languages": "Английский, испанский, португальский — тезисы и выступления.",
     "speaker_restrictions": null,
-    "submission_rules": null,
+    "submission_rules": "До 500 слов без библиографии и таблиц, 12 pt, двойной интервал; подача через EasyAbs. Доклад 20+10 минут. Анонимность и авторские лимиты не указаны.",
     "format": null,
     "website": "https://sppo.osu.edu/research/osu-congress-on-hispanic-lusophone-linguistics-symposium",
     "sources": [
@@ -3663,20 +3663,33 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3479/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://easyabs.linguistlist.org/conference/OSUCHiLL/",
+        "label": "Официальный CFP"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Полные официальный сайт и EasyAbs прочитаны. Подтверждён дедлайн 1 декабря; конфликт дат 5 марта против 5–6 марта записан. На сайте есть старые подзаголовки 2026 при явно указанном выпуске 30 и дате 2027; не приняты за иной выпуск.",
+      "Сбор, срок ответа, авторские лимиты и обязательность статуса студента неизвестны. Название graduate student conference само по себе не принято за запрет другим исследователям. Прямой LL 37.3479 вернул 403."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
+    "checked_at": "2026-11-23",
     "verification": "partial",
     "source_order": [
       37,
       3479
-    ]
+    ],
+    "date_conflict": {
+      "field": "end",
+      "retained": "2027-03-05",
+      "easyabs": "2027-03-06",
+      "source": "https://easyabs.linguistlist.org/conference/OSUCHiLL/",
+      "note": "Официальный сайт указывает только 5 марта, EasyAbs — 5–6 марта; прежняя дата сохранена до уточнения."
+    }
   },
   {
     "id": "e5458c0ecdc3966c",
@@ -6678,18 +6691,18 @@
     "name": "9th Conference of the International Society for the Linguistics of English",
     "start": "2027-05-24",
     "end": "2027-05-27",
-    "location": "Leuven, Belgium",
+    "location": "Лёвен, Бельгия · Лёвенский католический университет",
     "deadline": "2026-11-15",
     "deadline_at": "2026-11-15T23:59:59+01:00",
     "deadline_timezone": "CET (UTC+01:00)",
     "notification": "2027-01-15",
     "notification_text": null,
     "fee": null,
-    "topics": "General Linguistics",
-    "subject_languages": "English (eng, stan1293)",
-    "working_languages": null,
+    "topics": "Все области английской лингвистики; особая тема — симметрии и асимметрии в грамматике, языковых уровнях, истории и вариативности английского.",
+    "subject_languages": "Английский и его разновидности",
+    "working_languages": "Тезисы на английском; язык выступлений отдельно не указан.",
     "speaker_restrictions": "Выступающим требуется членство в ISLE к регистрации. До 2 тезисов, если хотя бы одни совместные.",
-    "submission_rules": "До 700 слов, включая до 200 слов библиографии; основной текст до 500 слов.",
+    "submission_rules": "Через ConfTool: основной текст до 500 слов плюс литература до 200 слов, всего до 700. Указать вопрос, подход, данные, метод и результаты; выбрать до 2 тем. Доклад и/или постер; рисунки не требуются.",
     "format": null,
     "website": "https://isle9conference.com/",
     "sources": [
@@ -6702,6 +6715,11 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/1131/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://isle9conference.com/call-for-papers/",
+        "label": "Официальный CFP"
       }
     ],
     "history": [
@@ -6715,16 +6733,24 @@
       }
     ],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Прочитаны официальный CFP, главная страница/календарь и полный пост 37.3521. Прежнее продление 1→15 ноября уже есть в истории, повторно не добавлено. Точное 23:59:59 CET подтверждено полным LL; deadline_at/timezone сохранены. Более позднее продление не найдено.",
+      "Нижние блоки сайта не обновлены и показывают прежнее 1 ноября; конфликт записан явно. Сбор и язык выступлений неизвестны; членство ISLE требуется к регистрации, авторская регистрация до 1 марта."
     ],
-    "classification": "other",
-    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "classification": "theory",
+    "classification_reason": "По полному CFP — общелингвистическое исследование английского, в том числе синтаксиса, морфологии, семантики и типологии.",
+    "checked_at": "2026-11-23",
+    "verification": "reviewed",
     "source_order": [
       37,
       3521
-    ]
+    ],
+    "date_conflict": {
+      "field": "deadline",
+      "retained": "2026-11-15",
+      "stale_block": "2026-11-01",
+      "source": "https://isle9conference.com/call-for-papers/",
+      "note": "Верх CFP и основной блок календаря задают 15 ноября; нижние дублирующие блоки сохраняют 1 ноября. Полный LL 37.3521 прямо подтверждает продление до 15 ноября 23:59:59 CET."
+    }
   },
   {
     "id": "3a88b099ce5fb443",
@@ -9443,15 +9469,15 @@
     "name": "Grammar and Text International Conference",
     "start": "2027-07-01",
     "end": "2027-07-03",
-    "location": "Lisboa, Portugal",
+    "location": "Лиссабон, Португалия · факультет социальных и гуманитарных наук Нового университета Лиссабона (NOVA FCSH)",
     "deadline": "2026-11-30",
     "deadline_at": null,
     "deadline_timezone": null,
-    "notification": null,
+    "notification": "2027-02-19",
     "notification_text": null,
     "fee": null,
-    "topics": "Applied Linguistics; Discourse Analysis; Pragmatics; Text/Corpus Linguistics",
-    "subject_languages": "English (eng, stan1293)",
+    "topics": "Грамматика, текст и дискурс: теоретические и описательные модели форм и конструкций, синхрония/диахрония, корпусные методы, вариативность и связи с обучением языкам.",
+    "subject_languages": null,
     "working_languages": null,
     "speaker_restrictions": null,
     "submission_rules": null,
@@ -9462,15 +9488,21 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3542/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://sites.google.com/fcsh.unl.pt/grato2027/p%C3%A1gina-inicial",
+        "label": "Официальный CFP"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Прочитана полная основная страница GRATO 2027: дедлайн 30 ноября, ответ 19 февраля, конференция 1–3 июля подтверждены; регистрация открывается 1 марта. Продление не объявлено.",
+      "Ссылка на английский PDF CFP в Google Drive показала только Loading/Sign in; полный документ не прочитан. LL 37.3542 вернул 403. Сбор, правила тезисов, рабочие языки и авторские лимиты неизвестны. Прежняя рубрика Subject Language: English не подтверждена как ограничение исследований и заменена на null."
     ],
     "classification": "theory",
     "classification_reason": "Широкий критерий: грамматика, описание языков, типология и общая лингвистика; корпусные методы не исключают теоретическую тематику.",
-    "checked_at": "2026-11-03",
+    "checked_at": "2026-11-23",
     "verification": "partial",
     "source_order": [
       37,
@@ -15793,18 +15825,18 @@
     "name": "Phonology at the Interfaces",
     "start": "2027-07-01",
     "end": "2027-07-02",
-    "location": "Barcelona, Spain",
+    "location": "Барселона, Испания · Барселонский университет",
     "deadline": "2027-01-31",
-    "deadline_at": null,
-    "deadline_timezone": null,
-    "notification": null,
-    "notification_text": "15 March 2027",
+    "deadline_at": "2027-01-31T23:59:00+01:00",
+    "deadline_timezone": "Europe/Madrid (CET, UTC+01:00)",
+    "notification": "2027-03-15",
+    "notification_text": null,
     "fee": null,
-    "topics": "Morphology; Phonetics; Phonology; Syntax; Typology",
-    "subject_languages": null,
-    "working_languages": null,
+    "topics": "Интерфейсы фонологии с фонетикой и морфосинтаксисом; просодическая структура, ритм, морфофонология, вариативность и архитектура грамматики.",
+    "subject_languages": "Любые языки; особый интерес к каталанскому, испанскому и другим романским, но остальные не исключены.",
+    "working_languages": "Тезисы на английском; язык выступлений отдельно не указан.",
     "speaker_restrictions": null,
-    "submission_rules": null,
+    "submission_rules": "Анонимный PDF до 1 страницы с примерами и рисунками, 11 pt, поля от 2,5 см; указать вопрос, данные/метод, результаты и теоретический вклад. Доклад 20+10 минут. Ссылка подачи ещё не добавлена на официальный сайт.",
     "format": null,
     "website": "https://filcat.ub.edu/phonology-at-the-interfaces",
     "sources": [
@@ -15812,16 +15844,21 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/3257/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://filcat.ub.edu/phonology-at-the-interfaces",
+        "label": "Официальный CFP"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Полный официальный CFP прочитан; подтверждены 31 января 23:59 CET, ответ 15 марта, даты 1–2 июля. Сбор и авторские лимиты не указаны, ссылка подачи пока to be added. Регистрация докладчиков до 15 мая; полный текст к 1 октября — отдельный предварительный срок, не дедлайн тезисов. Прямой LL 37.3257 вернул 403."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "checked_at": "2026-11-23",
+    "verification": "reviewed",
     "source_order": [
       37,
       3257

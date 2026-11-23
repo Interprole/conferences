@@ -1,8 +1,8 @@
 {
-  "attempted_at": "2026-11-22T06:09:10Z",
-  "last_success_at": "2026-11-22T06:09:10Z",
+  "attempted_at": "2026-11-23T06:01:37Z",
+  "last_success_at": "2026-11-23T06:01:37Z",
   "pages_read": 1,
-  "issues_read": 3,
+  "issues_read": 1,
   "feeds_read": 0,
   "complete": false,
   "discovery_complete": false,
@@ -10,6 +10,24 @@
   "pending_count": 26,
   "coverage": {
     "current_manual_review": {
+      "catalogue_pages_read": 1,
+      "catalogue_page_numbers": [
+        46
+      ],
+      "catalogue_page_failures": 2,
+      "catalogue_page_numbers_failed": [
+        44,
+        45
+      ],
+      "recent_issue_pages_read": 3,
+      "full_posts_read": 1,
+      "posts_failed": 3,
+      "official_pages_read": 8,
+      "official_pages_failed": 1,
+      "official_pages_incomplete": 1,
+      "unchanged_conferences_rechecked": 2
+    },
+    "previous_manual_review": {
       "catalogue_pages_read": 1,
       "catalogue_page_numbers": [
         43
@@ -28,21 +46,6 @@
       "official_pages_failed": 4,
       "official_pages_incomplete": 1,
       "external_primary_announcements_read": 1
-    },
-    "previous_manual_review": {
-      "catalogue_pages_read": 2,
-      "catalogue_page_numbers": [
-        41,
-        42
-      ],
-      "catalogue_page_failures": 0,
-      "recent_issue_pages_read": 3,
-      "full_posts_read": 1,
-      "search_copies_read": 8,
-      "posts_failed": 8,
-      "official_pages_read": 7,
-      "official_pages_failed": 9,
-      "official_pages_incomplete": 4
     },
     "previous_automated_cycle": {
       "cycle": {
@@ -81,39 +84,35 @@
     "records_without_issue": 18,
     "official_sites_verified": false
   },
-  "error_count": 8,
+  "error_count": 7,
   "errors": [
     {
       "url": "https://linguistlist.org/conf/search/?page=44",
-      "error": "Страница недоступна, актуальный сплошной обход каталога не завершён."
+      "error": "Повторная попытка: страница недоступна, пробел сохраняется."
     },
     {
       "url": "https://linguistlist.org/conf/search/?page=45",
-      "error": "Страница недоступна, актуальный сплошной обход каталога не завершён."
+      "error": "Повторная попытка: страница недоступна, пробел сохраняется."
     },
     {
-      "url": "https://linguistlist.org/issues/37/3888/",
-      "error": "403 Forbidden; вместо страницы прочитан полный семистраничный официальный CFP."
+      "url": "https://linguistlist.org/issues/37/3257/",
+      "error": "403 Forbidden; использованы доступные официальные страницы с отмеченными ограничениями."
     },
     {
-      "url": "https://linguistlist.org/issues/37/2698/",
-      "error": "Содержательная часть прочитана до корейского/японского; повторное открытие продолжения вернуло 403. Дополнительные правила не установлены."
+      "url": "https://linguistlist.org/issues/37/3542/",
+      "error": "403 Forbidden; использованы доступные официальные страницы с отмеченными ограничениями."
     },
     {
-      "url": "https://pragmatics.international/page/CfP2027",
-      "error": "403 Forbidden; возможные изменения общих сроков, сборы и правила не проверены. Сроки одной секции не применены ко всем."
+      "url": "https://linguistlist.org/issues/37/3479/",
+      "error": "403 Forbidden; использованы доступные официальные страницы с отмеченными ограничениями."
     },
     {
-      "url": "https://pragmatics.international/page/IPC20Helsinki",
-      "error": "403 Forbidden; возможные изменения общих сроков, сборы и правила не проверены. Сроки одной секции не применены ко всем."
+      "url": "https://staps.stuts.eu/staps-24-call-for-papers-2/",
+      "error": "500 Internal Server Error. Главная страница прочитана, новый срок по подробному CFP не проверен."
     },
     {
-      "url": "https://labfon.letras.ulisboa.pt/PAPE2027/",
-      "error": "502 Bad Gateway; последующее продление после 20 ноября по официальному сайту не проверено."
-    },
-    {
-      "url": "http://tipl.philol.msu.ru/index.php/science/conferences/fieldworks2027",
-      "error": "Официальный сайт МЯБЛ 2027 недоступен; полное письмо Мослинг прочитано."
+      "url": "https://drive.google.com/file/d/1O7VrFp8WfUVxESAY9sQxAMMH1g9QMWKY/view",
+      "error": "PDF GRATO: только Loading/Sign in, полный документ не прочитан; правила и сбор остаются неизвестны."
     }
   ],
   "deadline_conflicts": [
@@ -140,10 +139,10 @@
       "note": "Официальный сайт сохраняет прежний срок; новая поисковая копия CFP дважды задаёт 15 декабря."
     }
   ],
-  "note": "Ручная проверка 22 ноября. Общий список постов страницы 1–2 по-прежнему заканчивается новыми сообщениями 20 ноября; Calls/Conferences в доступной вчерашней копии также показывает 20 ноября и перекрытие 19 ноября. Новых более поздних LL-постов в просмотренных списках не найдено; полнота/свежесть копий не гарантируется. Каталог: страница 43 прочитана, страницы 44/45 недоступны. Дополнен отложенный Fama Volat: полный официальный CFP на 7 страницах прочитан, добавлена только лингвистическая секция mixed. Полностью прочитаны LL 37.2646, 37.3260, 37.3360, частично 37.2698. Уточнены шесть существующих записей: ECA, Endangered Languages, три секции IPC20 и ошибочная SemEval. ECA: официальный календарь зачёркивает 20 ноября и указывает 30 ноября; продление добавлено, точные deadline_at/timezone сброшены. Для Endangered Languages проверены подробные правила, сборы и площадка. Projective Content подтверждает уже известное 22 октября; повторно продлением не посчитано. Pragmatic Borrowing и Subjectification по содержанию относятся к theory, сроки не переносились по чужой секции. У SemEval найдены пропущенный пост 37.2889 и полное первичное объявление на ACL; это соревнование NLP-систем, classification excluded скрывает запись, стабильный id/архив/история сохранены. PaPE сайт снова 502; дальнейший перенос не утверждается. История предыдущих проверок/ошибок сохранена. Все будущие конференции и все страницы не перечитаны, начальные пробелы сохраняются, автоматический парсер не запускался.",
-  "added": 1,
-  "updated": 6,
-  "extensions_found": 1,
+  "note": "Ручная проверка 23 ноября. Общий список постов 1–2 и Calls/Conferences в доступных копиях по-прежнему показывают последний день 20 ноября; новых более поздних постов не найдено, гарантии актуальности копий нет. Каталог: страница 46 прочитана, 44/45 снова недоступны. Полностью прочитан LL 37.3521; 37.3257/3542/3479 вернули 403. Прочитаны официальные страницы isLE9, Hokugen2, STaPs24, OSUCHiLL/EasyAbs, GRATO и Phonology at the Interfaces. Четыре неполные записи уточнены: isLE9 отмечена theory по общелингвистическому CFP, заполнены язык тезисов/правила, сохранён известный срок 15 ноября 23:59:59 CET и прежняя история продления; старые дубли сайта с 1 ноября записаны в date_conflict. OSUCHiLL: заполнены языки и условия, конфликт дат 5 марта против 5–6 марта EasyAbs сохранён, прежние даты не изменены догадкой. GRATO: добавлен ответ 19 февраля и содержательная тема, неподтверждённое English как ограничение исследований сброшено на null; PDF не прочитан. Phonology at the Interfaces: точный CET, ответ и условия; ссылка подачи ещё не добавлена организаторами. Hokugen сохраняет уже известное продление до 15 ноября, нового нет; STaPs главная подтверждает 11–12 марта, подробный CFP с 500 не позволяет утверждать отсутствие продления. Эти две проверки не посчитаны изменениями данных. Новых конференций и новых подтверждённых продлений нет. Все будущие события и весь каталог повторно не проверены, пропуски сохраняются. Автоматический парсер не запускался.",
+  "added": 0,
+  "updated": 4,
+  "extensions_found": 0,
   "cross_source_updated": 0,
   "previous_errors": [
     {
@@ -313,6 +312,38 @@
     {
       "url": "https://www.iranianlinguistics.com/",
       "error": "Ссылка регистрации ведёт на некорректный http://s. Названия двух воркшопов есть, отдельные полные CFP/условия не установлены."
+    },
+    {
+      "url": "https://linguistlist.org/conf/search/?page=44",
+      "error": "Страница недоступна, актуальный сплошной обход каталога не завершён."
+    },
+    {
+      "url": "https://linguistlist.org/conf/search/?page=45",
+      "error": "Страница недоступна, актуальный сплошной обход каталога не завершён."
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/3888/",
+      "error": "403 Forbidden; вместо страницы прочитан полный семистраничный официальный CFP."
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/2698/",
+      "error": "Содержательная часть прочитана до корейского/японского; повторное открытие продолжения вернуло 403. Дополнительные правила не установлены."
+    },
+    {
+      "url": "https://pragmatics.international/page/CfP2027",
+      "error": "403 Forbidden; возможные изменения общих сроков, сборы и правила не проверены. Сроки одной секции не применены ко всем."
+    },
+    {
+      "url": "https://pragmatics.international/page/IPC20Helsinki",
+      "error": "403 Forbidden; возможные изменения общих сроков, сборы и правила не проверены. Сроки одной секции не применены ко всем."
+    },
+    {
+      "url": "https://labfon.letras.ulisboa.pt/PAPE2027/",
+      "error": "502 Bad Gateway; последующее продление после 20 ноября по официальному сайту не проверено."
+    },
+    {
+      "url": "http://tipl.philol.msu.ru/index.php/science/conferences/fieldworks2027",
+      "error": "Официальный сайт МЯБЛ 2027 недоступен; полное письмо Мослинг прочитано."
     }
   ],
   "review_history": [
@@ -478,7 +509,69 @@
       "added": 5,
       "updated": 8,
       "extensions_found": 1
+    },
+    {
+      "attempted_at": "2026-11-22T06:09:10Z",
+      "last_success_at": "2026-11-22T06:09:10Z",
+      "note": "Ручная проверка 22 ноября. Общий список постов страницы 1–2 по-прежнему заканчивается новыми сообщениями 20 ноября; Calls/Conferences в доступной вчерашней копии также показывает 20 ноября и перекрытие 19 ноября. Новых более поздних LL-постов в просмотренных списках не найдено; полнота/свежесть копий не гарантируется. Каталог: страница 43 прочитана, страницы 44/45 недоступны. Дополнен отложенный Fama Volat: полный официальный CFP на 7 страницах прочитан, добавлена только лингвистическая секция mixed. Полностью прочитаны LL 37.2646, 37.3260, 37.3360, частично 37.2698. Уточнены шесть существующих записей: ECA, Endangered Languages, три секции IPC20 и ошибочная SemEval. ECA: официальный календарь зачёркивает 20 ноября и указывает 30 ноября; продление добавлено, точные deadline_at/timezone сброшены. Для Endangered Languages проверены подробные правила, сборы и площадка. Projective Content подтверждает уже известное 22 октября; повторно продлением не посчитано. Pragmatic Borrowing и Subjectification по содержанию относятся к theory, сроки не переносились по чужой секции. У SemEval найдены пропущенный пост 37.2889 и полное первичное объявление на ACL; это соревнование NLP-систем, classification excluded скрывает запись, стабильный id/архив/история сохранены. PaPE сайт снова 502; дальнейший перенос не утверждается. История предыдущих проверок/ошибок сохранена. Все будущие конференции и все страницы не перечитаны, начальные пробелы сохраняются, автоматический парсер не запускался.",
+      "coverage": {
+        "catalogue_pages_read": 1,
+        "catalogue_page_numbers": [
+          43
+        ],
+        "catalogue_page_failures": 2,
+        "catalogue_page_numbers_failed": [
+          44,
+          45
+        ],
+        "recent_issue_pages_read": 3,
+        "full_posts_read": 3,
+        "partial_posts_read": 1,
+        "search_copies_read": 2,
+        "posts_failed": 2,
+        "official_pages_read": 7,
+        "official_pages_failed": 4,
+        "official_pages_incomplete": 1,
+        "external_primary_announcements_read": 1
+      },
+      "errors": [
+        {
+          "url": "https://linguistlist.org/conf/search/?page=44",
+          "error": "Страница недоступна, актуальный сплошной обход каталога не завершён."
+        },
+        {
+          "url": "https://linguistlist.org/conf/search/?page=45",
+          "error": "Страница недоступна, актуальный сплошной обход каталога не завершён."
+        },
+        {
+          "url": "https://linguistlist.org/issues/37/3888/",
+          "error": "403 Forbidden; вместо страницы прочитан полный семистраничный официальный CFP."
+        },
+        {
+          "url": "https://linguistlist.org/issues/37/2698/",
+          "error": "Содержательная часть прочитана до корейского/японского; повторное открытие продолжения вернуло 403. Дополнительные правила не установлены."
+        },
+        {
+          "url": "https://pragmatics.international/page/CfP2027",
+          "error": "403 Forbidden; возможные изменения общих сроков, сборы и правила не проверены. Сроки одной секции не применены ко всем."
+        },
+        {
+          "url": "https://pragmatics.international/page/IPC20Helsinki",
+          "error": "403 Forbidden; возможные изменения общих сроков, сборы и правила не проверены. Сроки одной секции не применены ко всем."
+        },
+        {
+          "url": "https://labfon.letras.ulisboa.pt/PAPE2027/",
+          "error": "502 Bad Gateway; последующее продление после 20 ноября по официальному сайту не проверено."
+        },
+        {
+          "url": "http://tipl.philol.msu.ru/index.php/science/conferences/fieldworks2027",
+          "error": "Официальный сайт МЯБЛ 2027 недоступен; полное письмо Мослинг прочитано."
+        }
+      ],
+      "added": 1,
+      "updated": 6,
+      "extensions_found": 1
     }
   ],
-  "excluded": 1
+  "excluded": 0
 }
