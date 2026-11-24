@@ -1,8 +1,8 @@
 {
-  "attempted_at": "2026-11-23T06:01:37Z",
-  "last_success_at": "2026-11-23T06:01:37Z",
+  "attempted_at": "2026-11-24T06:05:31Z",
+  "last_success_at": "2026-11-24T06:05:31Z",
   "pages_read": 1,
-  "issues_read": 1,
+  "issues_read": 0,
   "feeds_read": 0,
   "complete": false,
   "discovery_complete": false,
@@ -10,6 +10,26 @@
   "pending_count": 26,
   "coverage": {
     "current_manual_review": {
+      "catalogue_pages_read": 1,
+      "catalogue_page_numbers": [
+        48
+      ],
+      "catalogue_page_failures": 1,
+      "catalogue_page_numbers_failed": [
+        47
+      ],
+      "recent_issue_pages_read": 3,
+      "full_posts_read": 0,
+      "search_copies_read": 5,
+      "posts_failed": 5,
+      "official_pages_read": 9,
+      "official_pages_failed": 1,
+      "official_pages_incomplete": 3,
+      "unchanged_conferences_rechecked": 2,
+      "existing_records_enriched": 4,
+      "new_records": 3
+    },
+    "previous_manual_review": {
       "catalogue_pages_read": 1,
       "catalogue_page_numbers": [
         46
@@ -26,26 +46,6 @@
       "official_pages_failed": 1,
       "official_pages_incomplete": 1,
       "unchanged_conferences_rechecked": 2
-    },
-    "previous_manual_review": {
-      "catalogue_pages_read": 1,
-      "catalogue_page_numbers": [
-        43
-      ],
-      "catalogue_page_failures": 2,
-      "catalogue_page_numbers_failed": [
-        44,
-        45
-      ],
-      "recent_issue_pages_read": 3,
-      "full_posts_read": 3,
-      "partial_posts_read": 1,
-      "search_copies_read": 2,
-      "posts_failed": 2,
-      "official_pages_read": 7,
-      "official_pages_failed": 4,
-      "official_pages_incomplete": 1,
-      "external_primary_announcements_read": 1
     },
     "previous_automated_cycle": {
       "cycle": {
@@ -80,39 +80,56 @@
       "records_needing_review": 505,
       "official_sites_verified": false
     },
-    "records_total": 573,
+    "records_total": 576,
     "records_without_issue": 18,
     "official_sites_verified": false
   },
-  "error_count": 7,
+  "error_count": 11,
   "errors": [
     {
-      "url": "https://linguistlist.org/conf/search/?page=44",
-      "error": "Повторная попытка: страница недоступна, пробел сохраняется."
+      "url": "https://linguistlist.org/conf/search/?page=47",
+      "error": "TimeoutError; страница не прочитана."
     },
     {
-      "url": "https://linguistlist.org/conf/search/?page=45",
-      "error": "Повторная попытка: страница недоступна, пробел сохраняется."
+      "url": "https://linguistlist.org/issues/37/3922/",
+      "error": "403 Forbidden; прямой полный оригинал не прочитан. Доступные поисковые копии/официальные сайты использованы с ограничениями."
     },
     {
-      "url": "https://linguistlist.org/issues/37/3257/",
-      "error": "403 Forbidden; использованы доступные официальные страницы с отмеченными ограничениями."
+      "url": "https://linguistlist.org/issues/37/3915/",
+      "error": "403 Forbidden; прямой полный оригинал не прочитан. Доступные поисковые копии/официальные сайты использованы с ограничениями."
     },
     {
-      "url": "https://linguistlist.org/issues/37/3542/",
-      "error": "403 Forbidden; использованы доступные официальные страницы с отмеченными ограничениями."
+      "url": "https://linguistlist.org/issues/37/3912/",
+      "error": "403 Forbidden; прямой полный оригинал не прочитан. Доступные поисковые копии/официальные сайты использованы с ограничениями."
     },
     {
-      "url": "https://linguistlist.org/issues/37/3479/",
-      "error": "403 Forbidden; использованы доступные официальные страницы с отмеченными ограничениями."
+      "url": "https://linguistlist.org/issues/37/3909/",
+      "error": "403 Forbidden; прямой полный оригинал не прочитан. Доступные поисковые копии/официальные сайты использованы с ограничениями."
     },
     {
-      "url": "https://staps.stuts.eu/staps-24-call-for-papers-2/",
-      "error": "500 Internal Server Error. Главная страница прочитана, новый срок по подробному CFP не проверен."
+      "url": "https://linguistlist.org/issues/37/3908/",
+      "error": "403 Forbidden; прямой полный оригинал не прочитан. Доступные поисковые копии/официальные сайты использованы с ограничениями."
     },
     {
-      "url": "https://drive.google.com/file/d/1O7VrFp8WfUVxESAY9sQxAMMH1g9QMWKY/view",
-      "error": "PDF GRATO: только Loading/Sign in, полный документ не прочитан; правила и сбор остаются неизвестны."
+      "url": "https://linguistlist.org/issues/?topic=Calls&topic=Conferences",
+      "error": "Копия выдачи показывает 20 ноября и пропускает новые посты 23 ноября; использован также общий список."
+    },
+    {
+      "url": "https://linguistlist.org/issues/?page=2",
+      "error": "Снимки страниц 1 и 2 имеют разные общие количества постов, возможны пропуски между снимками; полнота пагинации не подтверждена."
+    },
+    {
+      "url": null,
+      "error": "Брошюра SCONLI: Loading/Sign in; полный PDF не прочитан.",
+      "source_label": "Google Drive: ссылка и идентификатор документа скрыты"
+    },
+    {
+      "url": "https://lal.amu.edu.pl/",
+      "error": "Официальный сайт показывает выпуск 2026; актуальные правила и ответ 2027 не подтверждены."
+    },
+    {
+      "url": "https://www.ling.upenn.edu/Events/PLC/plc51/callforpapers.html",
+      "error": "Failed to fetch restricted URL; нового продления после 13 ноября подтвердить не удалось."
     }
   ],
   "deadline_conflicts": [
@@ -139,8 +156,8 @@
       "note": "Официальный сайт сохраняет прежний срок; новая поисковая копия CFP дважды задаёт 15 декабря."
     }
   ],
-  "note": "Ручная проверка 23 ноября. Общий список постов 1–2 и Calls/Conferences в доступных копиях по-прежнему показывают последний день 20 ноября; новых более поздних постов не найдено, гарантии актуальности копий нет. Каталог: страница 46 прочитана, 44/45 снова недоступны. Полностью прочитан LL 37.3521; 37.3257/3542/3479 вернули 403. Прочитаны официальные страницы isLE9, Hokugen2, STaPs24, OSUCHiLL/EasyAbs, GRATO и Phonology at the Interfaces. Четыре неполные записи уточнены: isLE9 отмечена theory по общелингвистическому CFP, заполнены язык тезисов/правила, сохранён известный срок 15 ноября 23:59:59 CET и прежняя история продления; старые дубли сайта с 1 ноября записаны в date_conflict. OSUCHiLL: заполнены языки и условия, конфликт дат 5 марта против 5–6 марта EasyAbs сохранён, прежние даты не изменены догадкой. GRATO: добавлен ответ 19 февраля и содержательная тема, неподтверждённое English как ограничение исследований сброшено на null; PDF не прочитан. Phonology at the Interfaces: точный CET, ответ и условия; ссылка подачи ещё не добавлена организаторами. Hokugen сохраняет уже известное продление до 15 ноября, нового нет; STaPs главная подтверждает 11–12 марта, подробный CFP с 500 не позволяет утверждать отсутствие продления. Эти две проверки не посчитаны изменениями данных. Новых конференций и новых подтверждённых продлений нет. Все будущие события и весь каталог повторно не проверены, пропуски сохраняются. Автоматический парсер не запускался.",
-  "added": 0,
+  "note": "Ручная проверка 24 ноября, без запуска парсера. Общая выдача содержит новые посты 23 ноября; Calls/Conferences отстаёт, снимки страниц 1–2 несогласованы. Прочитана страница каталога 48, 47 — таймаут; старые пропуски 44–45 остаются в журнале прошлых попыток. Пять новых релевантных постов возвращают 403. Поисковые копии 37.3922/3912/3908 прочитаны, но их актуальность относительно закрытых оригиналов не гарантирована. Добавлены отдельный конкурс предложений предворкшопа SuB32, LAL2027 и секция 9 Romanistiktag; секция явно сгруппирована с секцией 10 того же выпуска без слияния сроков. Официальные CFP TEAL16 и SCONLI уточнили 2 существующие записи. Из начального неполного обхода дополнены CL2027 и GlottoConf1 по официальным страницам, включая сбор/ответ GlottoConf. Сайт LAL пока содержит 2026: старые условия не перенесены на 2027. Брошюра SCONLI не прочитана; страницы редактирования не публикуются. Проверка просроченного PLC51: поисковая копия сохраняет уже известное продление 6→13 ноября, официальный CFP недоступен; отсутствие дальнейшего продления не утверждается. Официальный ECA по-прежнему подтверждает уже внесённое продление 20→30 ноября, новым оно не считается. Специализированные EACL/NLP и нейролингвистика исключены из кандидатов по объявлениям списка; подробный прикладной HAAL/HASALD пока не разобран. Новых подтверждённых продлений нет. Полный каталог, все будущие события, все старые ссылки и все официальные сайты не перепроверены; complete false. Ссылки и идентификаторы документов Google Drive в журнале скрыты; описания проверок и ошибок сохранены.",
+  "added": 3,
   "updated": 4,
   "extensions_found": 0,
   "cross_source_updated": 0,
@@ -282,8 +299,9 @@
       "error": "Источник недоступен через доступный инструмент; дополнительные сведения не установлены."
     },
     {
-      "url": "https://docs.google.com/document/d/1p7hFYXoMyzA2N4LULsFYdKnu7dnMPLs5/edit",
-      "error": "Источник недоступен через доступный инструмент; дополнительные сведения не установлены."
+      "url": null,
+      "error": "Источник недоступен через доступный инструмент; дополнительные сведения не установлены.",
+      "source_label": "Google Drive: ссылка и идентификатор документа скрыты"
     },
     {
       "url": "https://sites.google.com/view/igg52",
@@ -344,6 +362,35 @@
     {
       "url": "http://tipl.philol.msu.ru/index.php/science/conferences/fieldworks2027",
       "error": "Официальный сайт МЯБЛ 2027 недоступен; полное письмо Мослинг прочитано."
+    },
+    {
+      "url": "https://linguistlist.org/conf/search/?page=44",
+      "error": "Повторная попытка: страница недоступна, пробел сохраняется."
+    },
+    {
+      "url": "https://linguistlist.org/conf/search/?page=45",
+      "error": "Повторная попытка: страница недоступна, пробел сохраняется."
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/3257/",
+      "error": "403 Forbidden; использованы доступные официальные страницы с отмеченными ограничениями."
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/3542/",
+      "error": "403 Forbidden; использованы доступные официальные страницы с отмеченными ограничениями."
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/3479/",
+      "error": "403 Forbidden; использованы доступные официальные страницы с отмеченными ограничениями."
+    },
+    {
+      "url": "https://staps.stuts.eu/staps-24-call-for-papers-2/",
+      "error": "500 Internal Server Error. Главная страница прочитана, новый срок по подробному CFP не проверен."
+    },
+    {
+      "url": null,
+      "error": "PDF GRATO: только Loading/Sign in, полный документ не прочитан; правила и сбор остаются неизвестны.",
+      "source_label": "Google Drive: ссылка и идентификатор документа скрыты"
     }
   ],
   "review_history": [
@@ -474,8 +521,9 @@
           "error": "Источник недоступен через доступный инструмент; дополнительные сведения не установлены."
         },
         {
-          "url": "https://docs.google.com/document/d/1p7hFYXoMyzA2N4LULsFYdKnu7dnMPLs5/edit",
-          "error": "Источник недоступен через доступный инструмент; дополнительные сведения не установлены."
+          "url": null,
+          "error": "Источник недоступен через доступный инструмент; дополнительные сведения не установлены.",
+          "source_label": "Google Drive: ссылка и идентификатор документа скрыты"
         },
         {
           "url": "https://sites.google.com/view/igg52",
@@ -571,6 +619,63 @@
       "added": 1,
       "updated": 6,
       "extensions_found": 1
+    },
+    {
+      "attempted_at": "2026-11-23T06:01:37Z",
+      "last_success_at": "2026-11-23T06:01:37Z",
+      "note": "Ручная проверка 23 ноября. Общий список постов 1–2 и Calls/Conferences в доступных копиях по-прежнему показывают последний день 20 ноября; новых более поздних постов не найдено, гарантии актуальности копий нет. Каталог: страница 46 прочитана, 44/45 снова недоступны. Полностью прочитан LL 37.3521; 37.3257/3542/3479 вернули 403. Прочитаны официальные страницы isLE9, Hokugen2, STaPs24, OSUCHiLL/EasyAbs, GRATO и Phonology at the Interfaces. Четыре неполные записи уточнены: isLE9 отмечена theory по общелингвистическому CFP, заполнены язык тезисов/правила, сохранён известный срок 15 ноября 23:59:59 CET и прежняя история продления; старые дубли сайта с 1 ноября записаны в date_conflict. OSUCHiLL: заполнены языки и условия, конфликт дат 5 марта против 5–6 марта EasyAbs сохранён, прежние даты не изменены догадкой. GRATO: добавлен ответ 19 февраля и содержательная тема, неподтверждённое English как ограничение исследований сброшено на null; PDF не прочитан. Phonology at the Interfaces: точный CET, ответ и условия; ссылка подачи ещё не добавлена организаторами. Hokugen сохраняет уже известное продление до 15 ноября, нового нет; STaPs главная подтверждает 11–12 марта, подробный CFP с 500 не позволяет утверждать отсутствие продления. Эти две проверки не посчитаны изменениями данных. Новых конференций и новых подтверждённых продлений нет. Все будущие события и весь каталог повторно не проверены, пропуски сохраняются. Автоматический парсер не запускался.",
+      "errors": [
+        {
+          "url": "https://linguistlist.org/conf/search/?page=44",
+          "error": "Повторная попытка: страница недоступна, пробел сохраняется."
+        },
+        {
+          "url": "https://linguistlist.org/conf/search/?page=45",
+          "error": "Повторная попытка: страница недоступна, пробел сохраняется."
+        },
+        {
+          "url": "https://linguistlist.org/issues/37/3257/",
+          "error": "403 Forbidden; использованы доступные официальные страницы с отмеченными ограничениями."
+        },
+        {
+          "url": "https://linguistlist.org/issues/37/3542/",
+          "error": "403 Forbidden; использованы доступные официальные страницы с отмеченными ограничениями."
+        },
+        {
+          "url": "https://linguistlist.org/issues/37/3479/",
+          "error": "403 Forbidden; использованы доступные официальные страницы с отмеченными ограничениями."
+        },
+        {
+          "url": "https://staps.stuts.eu/staps-24-call-for-papers-2/",
+          "error": "500 Internal Server Error. Главная страница прочитана, новый срок по подробному CFP не проверен."
+        },
+        {
+          "url": null,
+          "error": "PDF GRATO: только Loading/Sign in, полный документ не прочитан; правила и сбор остаются неизвестны.",
+          "source_label": "Google Drive: ссылка и идентификатор документа скрыты"
+        }
+      ],
+      "added": 0,
+      "updated": 4,
+      "extensions_found": 0,
+      "coverage": {
+        "catalogue_pages_read": 1,
+        "catalogue_page_numbers": [
+          46
+        ],
+        "catalogue_page_failures": 2,
+        "catalogue_page_numbers_failed": [
+          44,
+          45
+        ],
+        "recent_issue_pages_read": 3,
+        "full_posts_read": 1,
+        "posts_failed": 3,
+        "official_pages_read": 8,
+        "official_pages_failed": 1,
+        "official_pages_incomplete": 1,
+        "unchanged_conferences_rechecked": 2
+      }
     }
   ],
   "excluded": 0
