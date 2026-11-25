@@ -639,16 +639,22 @@
         "type": "other",
         "url": "https://lotschool.nl/13th-creolistics-workshop-taming-chaos-linguistic-diversity-bilingual-optimization-and-semantic-transparency-in-memory-of-pieter-c-muysken-and-pieter-a-m-seuren-17-february-2027/",
         "label": "Официальный источник"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3931/",
+        "label": "LINGUIST List · новый CFP, полный текст недоступен"
       }
     ],
     "history": [],
     "notes": [
-      "Полный CFP в доступной копии LOT прочитан; сохраняет 20 ноября и ответ 1 декабря, подтверждения дальнейшего продления не найдено. Бесплатность описана как традиция серии, а не явное отдельное условие выпуска 2027: fee оставлен null. Отдельный официальный сайт конференции не найден; ссылка LOT сохранена как публичный CFP."
+      "Полный CFP в доступной копии LOT прочитан; сохраняет 20 ноября и ответ 1 декабря, подтверждения дальнейшего продления не найдено. Бесплатность описана как традиция серии, а не явное отдельное условие выпуска 2027: fee оставлен null. Отдельный официальный сайт конференции не найден; ссылка LOT сохранена как публичный CFP.",
+      "25 ноября найден новый CFP 37.3931 от 24 ноября, но его полный текст возвращает 403, актуальной поисковой копии не найдено. Открытый анонс LOT всё ещё содержит 20 ноября и ответ 1 декабря; он старше нового поста. Срок сохранён, но возможное новое продление пока не проверено."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-21",
-    "verification": "reviewed",
+    "checked_at": "2026-11-25",
+    "verification": "partial",
     "source_order": [
       37,
       2942
@@ -20596,18 +20602,18 @@
     "name": "Workshop at WOCAL 2027: Object Marking in African Languages and Beyond: Agreement and Clitic Doubling",
     "start": "2027-07-07",
     "end": "2027-07-10",
-    "location": "Vienna, Austria",
+    "location": "Вена, Австрия; Венский университет",
     "deadline": "2026-07-31",
     "deadline_at": null,
     "deadline_timezone": null,
     "notification": "2026-08-31",
     "notification_text": "August 31, 2026",
     "fee": null,
-    "topics": "General Linguistics; Morphology; Pragmatics; Semantics; Syntax",
-    "subject_languages": null,
-    "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
+    "topics": "Объектное маркирование, согласование и клитическое удвоение: синтаксис, семантика, прагматика и структура объектных показателей.",
+    "subject_languages": "Африканские языки, особенно банту; другие семьи допускаются для сравнения тех же явлений.",
+    "working_languages": "Английский — язык тезисов и работы воркшопа.",
+    "speaker_restrictions": "Не более двух тезисов на автора, из них не более одних единоличных.",
+    "submission_rules": "Анонимные тезисы до 500 слов без литературы через платформу WOCAL; название воркшопа вверху первой страницы. Устный доклад 20 минут + 10 минут обсуждения.",
     "format": null,
     "website": "https://univie.eventsair.com/cmspreview/wocal2027/",
     "sources": [
@@ -20620,20 +20626,40 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/1963/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://univie.eventsair.com/cmspreview/wocal2027/",
+        "label": "Официальный сайт"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений.",
+      "25 ноября прочитан полный LL 37.1963 и общая официальная страница WOCAL. Срок 31 июля сохраняется; нового продления после него не найдено в доступных страницах. Конфликт срока ответа записан явно. Сбор воркшопа неизвестен, частичные старые поля дополнены."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
+    "checked_at": "2026-11-25",
     "verification": "partial",
     "source_order": [
       37,
       1963
-    ]
+    ],
+    "date_conflict": {
+      "field": "notification",
+      "values": [
+        {
+          "value": "2026-08-31",
+          "source": "https://linguistlist.org/issues/37/1963/"
+        },
+        {
+          "value": "2026-10-31",
+          "source": "https://univie.eventsair.com/cmspreview/wocal2027/"
+        }
+      ],
+      "note": "CFP воркшопа называет 31 августа, общая страница WOCAL — 31 октября; применимость общего изменения к воркшопу не подтверждена."
+    }
   },
   {
     "id": "06a1e2479aaf0d8a",
@@ -23941,5 +23967,229 @@
     ],
     "classification": "mixed",
     "classification_reason": "Психолингвистическое чтение и теоретические модели сочетаются с грамотностью, медиа и дидактикой; не специализированная нейролингвистика."
+  },
+  {
+    "id": "manual-ll-37-3927",
+    "name": "18th International Conference on the Structure of Hungarian",
+    "start": "2027-08-30",
+    "end": "2027-09-01",
+    "location": "Клуж-Напока, Румыния; Университет Бабеша — Бойяи, филологический факультет",
+    "deadline": "2027-04-05",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2027-05-05",
+    "notification_text": "Не позднее 5 мая 2027.",
+    "fee": null,
+    "topics": "Структура венгерского языка: фонетика, фонология, морфология, синтаксис, семантика, прагматика и их интерфейсы; синхрония и диахрония, экспериментальные и корпусные исследования.",
+    "subject_languages": "Венгерский обязателен в обсуждении; сравнительные исследования нескольких языков приветствуются.",
+    "working_languages": null,
+    "speaker_restrictions": "Для основной конференции и CLT2027 совместно: одни единоличные и одни совместные тезисы либо двое совместных тезисов на автора.",
+    "submission_rules": "Анонимный PDF до 2 страниц с примерами и литературой, поля 2,5 см/1 дюйм, шрифт от 12 pt; отправка организаторам по каналу CFP. По умолчанию доклад 30 минут без вопросов; планируются постеры/короткие доклады 15 минут.",
+    "format": null,
+    "website": "https://icsh18.eu/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3927/",
+        "label": "LINGUIST List · поисковая копия"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Прочитана доступная поисковая копия полного CFP; оригинал 403, официальный сайт не открылся. Сбор, рабочие языки и язык тезисов неизвестны. CLT2027 — отдельная запись; конфликт дат основной секции сохранён."
+    ],
+    "classification": "theory",
+    "classification_reason": "Грамматика и общая теория на материале венгерского.",
+    "checked_at": "2026-11-25",
+    "verification": "partial",
+    "source_order": [
+      37,
+      3927
+    ],
+    "date_conflict": {
+      "field": "end",
+      "values": [
+        {
+          "value": "2027-09-01",
+          "source": "https://linguistlist.org/issues/37/3927/"
+        },
+        {
+          "value": "2027-08-31",
+          "source": "https://linguistlist.org/issues/37/3928/"
+        }
+      ],
+      "note": "Общий диапазон ICSH включает 1 сентября; CFP отдельного CLT описывает основную конференцию как 30–31 августа. Расписание основной секции не разрешено официальным сайтом."
+    }
+  },
+  {
+    "id": "manual-ll-37-3928",
+    "name": "Contact Linguistics Today: Theory, Data, and Methods — Workshop at ICSH18",
+    "start": "2027-09-01",
+    "end": "2027-09-01",
+    "location": "Клуж-Напока, Румыния; Университет Бабеша — Бойяи, филологический факультет",
+    "deadline": "2027-04-05",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2027-05-05",
+    "notification_text": "Не позднее 5 мая 2027.",
+    "fee": null,
+    "topics": "Как языковые контакты меняют синтаксис, морфологию, фонологию, фонетику, семантику и прагматику; теория, данные и методы изучения переноса и грамматической вариативности.",
+    "subject_languages": "Особенно приветствуются венгерский/другие уральские и румынский/другие романские; допускаются любые языки и разновидности.",
+    "working_languages": null,
+    "speaker_restrictions": "Для CLT2027 и основной ICSH18 совместно: одни единоличные и одни совместные тезисы либо двое совместных тезисов на автора.",
+    "submission_rules": "Анонимный PDF до 2 страниц, включая данные и литературу; поля 2,5 см/1 дюйм, шрифт 12 pt; подача организаторам по каналу CFP. Все теоретические подходы и наблюдательные, экспериментальные, элицитированные данные/базы данных.",
+    "format": null,
+    "website": "https://icsh18.eu/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3928/",
+        "label": "LINGUIST List · поисковая копия"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Прочитана поисковая копия полного CFP; оригинал 403, официальный сайт не открылся. Упомянутые уральские/романские языки — предпочтение, не исключительное ограничение. Рабочие языки, язык тезисов и сбор неизвестны. Самостоятельный воркшоп 1 сентября не слит с ICSH18."
+    ],
+    "classification": "theory",
+    "classification_reason": "Структура грамматики и языковые контакты, а не культурология.",
+    "checked_at": "2026-11-25",
+    "verification": "partial",
+    "source_order": [
+      37,
+      3928
+    ]
+  },
+  {
+    "id": "manual-ll-37-3926",
+    "name": "Hanyang International Symposium on Phonetics and Cognitive Sciences of Language 2027",
+    "start": "2027-05-21",
+    "end": "2027-05-22",
+    "location": "Сеул, Республика Корея; Университет Ханян, HIT",
+    "deadline": "2027-01-31",
+    "deadline_at": null,
+    "deadline_timezone": "Etc/GMT+12",
+    "notification": "2027-03-01",
+    "notification_text": "Не позднее 1 марта 2027.",
+    "fee": "Бесплатно при предварительной регистрации до 1 апреля 2027; регистрация на месте платная, сумма пока неизвестна.",
+    "topics": "Языковая структура, планирование речи, артикуляция, восприятие и звуковые изменения; фонология, просодия, фонетическая вариативность и усвоение.",
+    "subject_languages": null,
+    "working_languages": "Английский — язык тезисов; язык выступлений отдельно не указан.",
+    "speaker_restrictions": "Не более одних тезисов первым автором; число подач соавтором не ограничено.",
+    "submission_rules": "Анонимный PDF через Microsoft CMT: до 2 страниц A4; основной текст около 600 слов на первой, примеры/рисунки/литература на второй. Times New Roman 12 pt, одинарный интервал, поля 2,54 см; без номеров страниц и идентификаторов автора в файле/имени файла. Дедлайн AoE.",
+    "format": null,
+    "website": "https://site.hanyang.ac.kr/ko/web/hisphoncog/2027/overview",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3926/",
+        "label": "LINGUIST List · оригинал недоступен"
+      },
+      {
+        "type": "official",
+        "url": "https://site.hanyang.ac.kr/ko/web/hisphoncog/2027/overview",
+        "label": "Официальный сайт"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Официальный CFP прочитан; отдельный предполагаемый спутниковый воркшоп 20 мая пока не добавлен как подтверждённое мероприятие. Точный час закрытия не указан. Для поддержки проживания иностранных студентов условия и даты следует проверять отдельно: сайт называет и 20 марта, и 1 апреля; это не дедлайн тезисов."
+    ],
+    "classification": "theory",
+    "classification_reason": "Основная тема — фонетика, фонология, просодия и структура речи; наличие смежных нейрокогнитивных методов не превращает симпозиум в специализированную нейролингвистику.",
+    "checked_at": "2026-11-25",
+    "verification": "reviewed",
+    "source_order": [
+      37,
+      3926
+    ]
+  },
+  {
+    "id": "manual-ll-37-3925",
+    "name": "Identity, Values, and Emotions in Language",
+    "start": "2027-09-15",
+    "end": "2027-09-17",
+    "location": "Быдгощ, Польша; Университет Казимира Великого",
+    "deadline": "2027-01-31",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": "Регистрационного взноса нет.",
+    "topics": "Выражение и осмысление идентичности, ценностей и эмоций в языковых структурах, значениях, практиках и дискурсе.",
+    "subject_languages": null,
+    "working_languages": "Английский — рабочий язык конференции.",
+    "speaker_restrictions": null,
+    "submission_rules": "Форма тезисов направляется организаторам по каналу публичного CFP до 31 января; объём и шаблон в прочитанной копии не указаны.",
+    "format": null,
+    "website": "https://ivel.ukw.edu.pl/jednostka/ivel-2027",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3925/",
+        "label": "LINGUIST List · поисковая копия"
+      },
+      {
+        "type": "official",
+        "url": "https://ivel.ukw.edu.pl/jednostka/ivel-2027",
+        "label": "Официальный сайт"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Прочитана поисковая копия объявления; прямой LL 403. Официальная главная открылась без содержательного CFP, страница About перенаправляет с ошибкой 500. Ответ, ограничения на авторов/соавторство, исследуемые языки и язык тезисов не подтверждены."
+    ],
+    "classification": "mixed",
+    "classification_reason": "Языковые значения и структуры рассматриваются вместе с дискурсом, социальными и междисциплинарными вопросами.",
+    "checked_at": "2026-11-25",
+    "verification": "partial",
+    "source_order": [
+      37,
+      3925
+    ]
+  },
+  {
+    "id": "manual-ll-37-3930",
+    "name": "40 Years of Research in Linguistics and Language Education: Describing, Sharing, Transforming",
+    "start": "2027-12-08",
+    "end": "2027-12-10",
+    "location": "Гренобль, Франция; кампус Сен-Мартен-д’Эр, Университет Гренобль-Альпы",
+    "deadline": "2027-03-01",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Описание языков и корпусные исследования; языковое образование; многоязычие, вариативность и усвоение; грамотность и чтение/письмо.",
+    "subject_languages": "Любые языки — прямо указано в объявлении.",
+    "working_languages": "Французский или английский — рабочие языки конференции.",
+    "speaker_restrictions": null,
+    "submission_rules": "Заявки на доклады и постеры через сайт Sciencesconf до 1 марта 2027; объём, шаблон и авторские лимиты не найдены в доступных страницах.",
+    "format": null,
+    "website": "https://lidilem40.sciencesconf.org/?lang=en",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3930/",
+        "label": "LINGUIST List · поисковая копия"
+      },
+      {
+        "type": "official",
+        "url": "https://lidilem.univ-grenoble-alpes.fr/",
+        "label": "Официальный анонс лаборатории"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Прочитаны копия полного описания LL и официальный анонс лаборатории, подтверждающий даты и дедлайн. Прямой пост 403; сайт конференции не открылся. Сбор, ответ, язык тезисов и ограничения на авторов неизвестны."
+    ],
+    "classification": "mixed",
+    "classification_reason": "Грамматика и описание языков сочетаются с педагогикой, грамотностью и прикладными направлениями; это не специализированная NLP-конференция.",
+    "checked_at": "2026-11-25",
+    "verification": "partial",
+    "source_order": [
+      37,
+      3930
+    ]
   }
 ]
