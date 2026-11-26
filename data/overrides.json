@@ -5174,7 +5174,7 @@
   },
   "a32ba404609e08fa": {
     "location": "Неймеген, Нидерланды · Университет Радбауда, башня Эразма, E9.18",
-    "notification": "2026-12-01",
+    "notification": "2026-12-07",
     "topics": "Грамматика контактных языков: двуязычная оптимизация, семантическая прозрачность, синтаксис, морфология, фонология, семантика и прагматика; описательные, типологические и формальные подходы.",
     "subject_languages": "Креольские, смешанные языки, пиджины и новые контактные разновидности.",
     "working_languages": "Английский; другие языки, особенно креольские и смешанные, допустимы при слайдах на английском.",
@@ -5182,10 +5182,11 @@
     "speaker_restrictions": "Приглашаются исследователи разных карьерных этапов, включая независимых; численные авторские лимиты не указаны.",
     "notes": [
       "Полный CFP в доступной копии LOT прочитан; сохраняет 20 ноября и ответ 1 декабря, подтверждения дальнейшего продления не найдено. Бесплатность описана как традиция серии, а не явное отдельное условие выпуска 2027: fee оставлен null. Отдельный официальный сайт конференции не найден; ссылка LOT сохранена как публичный CFP.",
-      "25 ноября найден новый CFP 37.3931 от 24 ноября, но его полный текст возвращает 403, актуальной поисковой копии не найдено. Открытый анонс LOT всё ещё содержит 20 ноября и ответ 1 декабря; он старше нового поста. Срок сохранён, но возможное новое продление пока не проверено."
+      "25 ноября найден новый CFP 37.3931 от 24 ноября, но его полный текст возвращает 403, актуальной поисковой копии не найдено. Открытый анонс LOT всё ещё содержит 20 ноября и ответ 1 декабря; он старше нового поста. Срок сохранён, но возможное новое продление пока не проверено.",
+      "26 ноября найдена доступная поисковая копия полного нового CFP: New Abstract Submission Deadline — 29 November 2026; ответ 7 December. Предыдущие заметки о неподтверждённом продлении устарели. Прямой оригинал остаётся недоступен; сбор выпуска по-прежнему не подтверждён отдельно."
     ],
     "verification": "partial",
-    "checked_at": "2026-11-25",
+    "checked_at": "2026-11-26",
     "sources": [
       {
         "type": "linguistlist",
@@ -5203,10 +5204,34 @@
         "label": "LINGUIST List · новый CFP, полный текст недоступен"
       }
     ],
-    "history": [],
-    "_reviewed_at": "2026-11-25",
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-11-20",
+        "new": "2026-11-29",
+        "type": "extended",
+        "observed_at": "2026-11-26",
+        "source": "https://linguistlist.org/issues/37/3931/"
+      }
+    ],
+    "_reviewed_at": "2026-11-26",
     "_review_source": "https://linguistlist.org/issues/37/3931/",
-    "_review_basis": "Новый пост обнаружен в общем списке, не прочитан из-за 403; старый официальный анонс LOT прочитан, предполагаемого продления не внесено."
+    "_review_basis": "26 ноября найдена доступная поисковая копия полного нового CFP: New Abstract Submission Deadline — 29 November 2026; ответ 7 December. Предыдущие заметки о неподтверждённом продлении устарели. Прямой оригинал остаётся недоступен; сбор выпуска по-прежнему не подтверждён отдельно.",
+    "deadline": "2026-11-29",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification_text": "7 декабря 2026.",
+    "date_conflict": {
+      "fields": [
+        "deadline",
+        "notification"
+      ],
+      "note": "Старый LOT/LL 37.2942 сохраняет 20 ноября и 1 декабря; новый CFP 37.3931 прямо объявляет новый срок 29 ноября и ответ 7 декабря. Применены более новые данные.",
+      "sources": [
+        "https://linguistlist.org/issues/37/3931/",
+        "https://linguistlist.org/issues/37/2942/"
+      ]
+    }
   },
   "manual-ll-37-3891": {
     "id": "manual-ll-37-3891",
@@ -6024,14 +6049,14 @@
     "deadline": "2027-01-31",
     "deadline_at": null,
     "deadline_timezone": null,
-    "notification": null,
-    "notification_text": null,
+    "notification": "2027-03-15",
+    "notification_text": "15 марта 2027.",
     "fee": "Регистрационного взноса нет.",
-    "topics": "Выражение и осмысление идентичности, ценностей и эмоций в языковых структурах, значениях, практиках и дискурсе.",
+    "topics": "Идентичность, ценности и эмоции в языке: семантика, прагматика и NSM, метафора, многоязычие, языковые контакты, меньшинства, оценочные значения и дискурс.",
     "subject_languages": null,
     "working_languages": "Английский — рабочий язык конференции.",
     "speaker_restrictions": null,
-    "submission_rules": "Форма тезисов направляется организаторам по каналу публичного CFP до 31 января; объём и шаблон в прочитанной копии не указаны.",
+    "submission_rules": "До 300 слов без литературы в .docx по форме с сайта; отправка организаторам до 31 января. Доклад 20 минут + 10 минут обсуждения. Подтверждение участия до 15 апреля 2027.",
     "format": null,
     "website": "https://ivel.ukw.edu.pl/jednostka/ivel-2027",
     "sources": [
@@ -6044,23 +6069,34 @@
         "type": "official",
         "url": "https://ivel.ukw.edu.pl/jednostka/ivel-2027",
         "label": "Официальный сайт"
+      },
+      {
+        "type": "official",
+        "url": "https://ivel.ukw.edu.pl/jednostka/ivel-2027/call-for-papers",
+        "label": "Официальный CFP"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3948/",
+        "label": "LINGUIST List · новый CFP, поисковая копия"
       }
     ],
     "history": [],
     "notes": [
-      "Прочитана поисковая копия объявления; прямой LL 403. Официальная главная открылась без содержательного CFP, страница About перенаправляет с ошибкой 500. Ответ, ограничения на авторов/соавторство, исследуемые языки и язык тезисов не подтверждены."
+      "Прочитана поисковая копия объявления; прямой LL 403. Официальная главная открылась без содержательного CFP, страница About перенаправляет с ошибкой 500. Ответ, ограничения на авторов/соавторство, исследуемые языки и язык тезисов не подтверждены.",
+      "26 ноября прочитан доступный официальный CFP и копия нового LL 37.3948: добавлены объём/формат тезисов и ответ 15 марта. Прежняя заметка об отсутствии правил/ответа устарела. Файл формы не прочитан; ограничения на число подач и соавторство в HTML не указаны."
     ],
     "classification": "mixed",
     "classification_reason": "Языковые значения и структуры рассматриваются вместе с дискурсом, социальными и междисциплинарными вопросами.",
-    "checked_at": "2026-11-25",
-    "verification": "partial",
+    "checked_at": "2026-11-26",
+    "verification": "reviewed",
     "source_order": [
       37,
       3925
     ],
-    "_reviewed_at": "2026-11-25",
-    "_review_source": "https://linguistlist.org/issues/37/3925/",
-    "_review_basis": "Копия LL 37.3925; бесплатность и английский прямо указаны, недоступные поля не предположены."
+    "_reviewed_at": "2026-11-26",
+    "_review_source": "https://ivel.ukw.edu.pl/jednostka/ivel-2027/call-for-papers",
+    "_review_basis": "26 ноября прочитан доступный официальный CFP и копия нового LL 37.3948: добавлены объём/формат тезисов и ответ 15 марта. Прежняя заметка об отсутствии правил/ответа устарела. Файл формы не прочитан; ограничения на число подач и соавторство в HTML не указаны."
   },
   "manual-ll-37-3930": {
     "id": "manual-ll-37-3930",
@@ -6156,5 +6192,348 @@
     "_reviewed_at": "2026-11-25",
     "_review_source": "https://linguistlist.org/issues/37/1963/",
     "_review_basis": "Полный CFP и общая официальная страница; конфликт ответа не разрешён догадкой."
+  },
+  "11f89135f31103db": {
+    "location": "Рейкьявик, Исландия; Исландский университет",
+    "notification": "2027-02-10",
+    "notification_text": "10 февраля 2027.",
+    "topics": "Историческая лингвистика: реконструкция, формальные и функциональные модели языковых изменений, историческая социолингвистика, языковые контакты и ареальные исследования.",
+    "working_languages": "Английский — рабочий язык конференции.",
+    "speaker_restrictions": "Одни единоличные и одни совместные тезисы либо двое совместных тезисов на автора.",
+    "submission_rules": "До 500 слов без литературы, с описательным названием и списком литературы; EasyAbs, основная секция или выбранный воркшоп. Отклонённая воркшопом работа может рассматриваться основной секцией.",
+    "format": "Только очно.",
+    "classification": "theory",
+    "classification_reason": "История языковой структуры, реконструкция и теория языковых изменений.",
+    "verification": "reviewed",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/2233/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://ichl28.hi.is/",
+        "label": "Официальный сайт"
+      },
+      {
+        "type": "official",
+        "url": "https://ichl28.hi.is/call-for-papers/",
+        "label": "Официальный CFP"
+      },
+      {
+        "type": "official",
+        "url": "https://ichl28.hi.is/registration/",
+        "label": "Регистрация и тарифы TBA"
+      }
+    ],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений.",
+      "26 ноября прочитаны официальные главная, CFP и Registration: подтверждён 1 декабря, добавлены ответ и правила. Тарифы TBA, fee null. Язык тезисов отдельно не указан."
+    ],
+    "checked_at": "2026-11-26",
+    "_reviewed_at": "2026-11-26",
+    "_review_source": "https://ichl28.hi.is/call-for-papers/",
+    "_review_basis": "26 ноября прочитаны официальные главная, CFP и Registration: подтверждён 1 декабря, добавлены ответ и правила. Тарифы TBA, fee null. Язык тезисов отдельно не указан."
+  },
+  "017b737b36cfea3d": {
+    "location": "Рейкьявик, Исландия; Исландский университет",
+    "notification": "2027-02-10",
+    "notification_text": "Общий график ICHL28: 10 февраля 2027.",
+    "topics": "Диахрония предполья в языках V2: состав и деривация довербальных элементов, передвижение и базовая генерация, синтаксическая/просодическая интеграция, информационная структура.",
+    "subject_languages": "Языки и разновидности с V2; межъязыковые и исторические сопоставления, особенно германские и романские примеры, без исключительного семейного ограничения.",
+    "working_languages": "Английский — общий рабочий язык ICHL28.",
+    "speaker_restrictions": "Общий лимит ICHL28: одни единоличные и одни совместные тезисы либо двое совместных.",
+    "submission_rules": "Подача через EasyAbs с указанием W12. Общий CFP: до 500 слов без литературы; слот воркшопа 20 минут + 5 минут обсуждения + 5 минут перехода.",
+    "format": "Только очно по общим условиям ICHL28.",
+    "verification": "reviewed",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3426/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://ichl28.hi.is/wp-content/uploads/2026/10/W12_The_same_but_not_equal-_Cross-linguistic_insights_into_the_diachrony_of_the_prefield_position.pdf",
+        "label": "Официальное описание W12 · PDF, 3 страницы"
+      },
+      {
+        "type": "official",
+        "url": "https://ichl28.hi.is/call-for-papers/",
+        "label": "Общие условия ICHL28"
+      }
+    ],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений.",
+      "26 ноября полностью прочитаны 3 страницы официального описания W12 и общий CFP ICHL28. Подтверждены связь, тема и общие правила/сроки; отдельные даты проведения W12 внутри 26–30 июля ещё не опубликованы. Отдельный сбор и язык тезисов не указаны."
+    ],
+    "checked_at": "2026-11-26",
+    "_reviewed_at": "2026-11-26",
+    "_review_source": "https://ichl28.hi.is/wp-content/uploads/2026/10/W12_The_same_but_not_equal-_Cross-linguistic_insights_into_the_diachrony_of_the_prefield_position.pdf",
+    "_review_basis": "26 ноября полностью прочитаны 3 страницы официального описания W12 и общий CFP ICHL28. Подтверждены связь, тема и общие правила/сроки; отдельные даты проведения W12 внутри 26–30 июля ещё не опубликованы. Отдельный сбор и язык тезисов не указаны."
+  },
+  "manual-ll-37-3945": {
+    "id": "manual-ll-37-3945",
+    "name": "Purdue Linguistics Symposium 2027",
+    "start": "2027-04-09",
+    "end": "2027-04-10",
+    "location": "Уэст-Лафейетт, Индиана, США; Университет Пердью",
+    "deadline": "2027-02-12",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": "Неделя с 22 февраля 2027.",
+    "fee": null,
+    "topics": "Общая лингвистика: синтаксис, семантика, фонетика, фонология, морфология, прагматика, усвоение, двуязычие, историческая, корпусная и социолингвистика.",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "Анонимные тезисы до 500 слов без названия и литературы на 1 странице; одинарный интервал, Times New Roman 12 pt. Дополнительная страница для литературы, таблиц, рисунков и примеров; доклад/постер, подача через форму по ссылке CFP.",
+    "format": "Очно.",
+    "website": null,
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3945/",
+        "label": "LINGUIST List · оригинал недоступен"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Прочитана поисковая копия полного CFP; прямой LL 403. Самостоятельный официальный сайт не найден. Сбор, рабочие/исследуемые языки, язык тезисов и авторские лимиты не указаны; ответ задан неделей, notification null."
+    ],
+    "classification": "theory",
+    "classification_reason": "Общелингвистический симпозиум с основными грамматическими и фонологическими направлениями.",
+    "checked_at": "2026-11-26",
+    "verification": "partial",
+    "source_order": [
+      37,
+      3945
+    ],
+    "date_conflict": {
+      "field": "registration_deadline",
+      "value": "2026-03-14",
+      "source": "https://linguistlist.org/issues/37/3945/",
+      "note": "В CFP указан 2026 год для регистрации конференции 2027; не исправлено предположением."
+    },
+    "_reviewed_at": "2026-11-26",
+    "_review_source": "https://linguistlist.org/issues/37/3945/",
+    "_review_basis": "Поисковая копия полного LL 37.3945, дата регистрации не исправлялась догадкой."
+  },
+  "manual-ll-37-3943": {
+    "id": "manual-ll-37-3943",
+    "name": "21st Annual Cornell Undergraduate Linguistics Colloquium",
+    "start": "2027-05-01",
+    "end": "2027-05-02",
+    "location": "Итака, штат Нью-Йорк, США; Корнеллский университет",
+    "deadline": "2027-02-28",
+    "deadline_at": "2027-03-01T04:59:00Z",
+    "deadline_timezone": "America/New_York",
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Общая лингвистика; исследования студентов бакалавриата.",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": "Докладчики — студенты бакалавриата любого университета; лимиты соавторства не указаны.",
+    "submission_rules": "Анонимный PDF с названием, до 500 слов без цитируемой литературы; отправка организаторам, имя и аффилиация только в письме. Устный доклад 20 минут или постер. Дедлайн 28 февраля, 23:59 EST.",
+    "format": null,
+    "website": "https://linguistics.cornell.edu/news/call-abstracts-21st-annual-cornell-undergraduate-linguistics-colloquium-culc-21",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3943/",
+        "label": "LINGUIST List · поисковая копия"
+      },
+      {
+        "type": "official",
+        "url": "https://linguistics.cornell.edu/news/call-abstracts-21st-annual-cornell-undergraduate-linguistics-colloquium-culc-21",
+        "label": "Официальный CFP"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Официальный CFP прочитан. Сбор, ответ, рабочие/исследуемые языки и язык тезисов отдельно не указаны. EST преобразован в UTC без добавления неизвестных секунд."
+    ],
+    "classification": "theory",
+    "classification_reason": "Общелингвистическая конференция бакалаврских исследований.",
+    "checked_at": "2026-11-26",
+    "verification": "reviewed",
+    "source_order": [
+      37,
+      3943
+    ],
+    "_reviewed_at": "2026-11-26",
+    "_review_source": "https://linguistlist.org/issues/37/3943/",
+    "_review_basis": "Полный официальный CFP Корнеллского университета."
+  },
+  "manual-ll-37-3942": {
+    "id": "manual-ll-37-3942",
+    "name": "15th International Conference on Middle English",
+    "start": "2028-04-05",
+    "end": "2028-04-08",
+    "location": "Пальма, Мальорка, Испания; Университет Балеарских островов, корпус Са-Риера",
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Tides and Currents: изменения и вариативность среднеанглийского, французское, латинское и скандинавское влияние, языковые контакты; также средневековые тексты, литература и культура.",
+    "subject_languages": "Среднеанглийский; контактные и сравнительные материалы французского, латинского и скандинавских языков.",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://icome2028.uib.eu/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3942/",
+        "label": "LINGUIST List · оригинал недоступен"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Даты и тема прочитаны в индексируемой публичной копии текста формы LINGUIST List; опубликованный 37.3942 недоступен, версия формы может отличаться. CFP обещан позднее: дедлайн, правила, авторские ограничения, языки, ответ и сбор неизвестны. Официальный сайт не открылся."
+    ],
+    "classification": "mixed",
+    "classification_reason": "Историческая грамматика и языковые контакты сочетаются с литературой и культурой.",
+    "checked_at": "2026-11-26",
+    "verification": "partial",
+    "source_order": [
+      37,
+      3942
+    ],
+    "_reviewed_at": "2026-11-26",
+    "_review_source": "https://linguistlist.org/issues/37/3942/",
+    "_review_basis": "Общий анонс обнаружен в опубликованном списке; подробности из публичной поисковой копии текста формы, с явной оговоркой."
+  },
+  "manual-ll-37-3941": {
+    "id": "manual-ll-37-3941",
+    "name": "International Workshop on Empirical and Psycholinguistic Studies on Balkan Languages — BEPS 2027",
+    "start": "2027-05-20",
+    "end": "2027-05-22",
+    "location": "Сараево, Босния и Герцеговина; философский факультет Сараевского университета",
+    "deadline": "2027-02-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2027-03-01",
+    "notification_text": null,
+    "fee": "100 EUR; студентам 50 EUR.",
+    "topics": "Экспериментальные, корпусные и исторические исследования балканских языков, их контактов, усвоения и обработки; многоязычие, меньшинства и языковая витальность.",
+    "subject_languages": "Балканские языки, включая их контактные, наследные и миноритарные разновидности.",
+    "working_languages": "Английский — язык тезисов и докладов.",
+    "speaker_restrictions": "Не более одной подачи первым автором.",
+    "submission_rules": "До 1 страницы с примерами и ещё 1 страницы для рисунков и литературы; поля 2,5 см, шрифт 12 pt. .doc(x) с данными автора направляется организаторам с темой BEPS-2027; они анонимизируют файл. Доклад 20+10 минут; подтверждение участия до 15 марта.",
+    "format": "Только очно.",
+    "website": null,
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3941/",
+        "label": "LINGUIST List · оригинал недоступен"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Текст прочитан в публичной поисковой копии формы LINGUIST List; опубликованная версия 37.3941 недоступна, возможны редакционные различия. Отдельный официальный сайт не найден."
+    ],
+    "classification": "theory",
+    "classification_reason": "Эмпирическое исследование структуры, контактов и усвоения балканских языков; не специализированная нейролингвистика.",
+    "checked_at": "2026-11-26",
+    "verification": "partial",
+    "source_order": [
+      37,
+      3941
+    ],
+    "_reviewed_at": "2026-11-26",
+    "_review_source": "https://linguistlist.org/issues/37/3941/",
+    "_review_basis": "Объявление найдено в опубликованном списке, сведения из индексируемой формы LL с отмеченным ограничением."
+  },
+  "manual-ll-37-3940": {
+    "id": "manual-ll-37-3940",
+    "name": "Sinn und Bedeutung 32",
+    "start": "2027-09-21",
+    "end": "2027-09-23",
+    "location": "Констанц, Германия; Констанцский университет",
+    "deadline": "2027-03-15",
+    "deadline_at": "2027-03-15T22:59:00Z",
+    "deadline_timezone": "Europe/Berlin",
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Формальная семантика и прагматика; теоретические и экспериментальные исследования значения.",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": "Одни единоличные и одни совместные тезисы либо двое совместных на автора.",
+    "submission_rules": "Оригинальное исследование, не опубликованное и не принятое к публикации. Анонимный PDF через OpenReview: до 2 страниц A4/Letter, поля 2,54 см, Times New Roman 12 pt; третья страница только для литературы, крупных рисунков/таблиц и глосс/переводов примеров. Дедлайн 15 марта, 23:59 CET.",
+    "format": null,
+    "website": "https://www.sinn-und-bedeutung.com/sub32/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3940/",
+        "label": "LINGUIST List · оригинал недоступен"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Даты подтверждены публичным анонсом LINGUIST List; подробные условия и срок — из индексируемой копии текста формы LL, опубликованный 37.3940 и официальный сайт не открылись. Редакционная версия может отличаться; fee, ответ и языки неизвестны. В копии смешаны термины pre-/post-conference workshop, поэтому общий срок не присвоен постворкшопу без подтверждения. Срок 13 декабря относится к отдельному конкурсу предложений предворкшопа."
+    ],
+    "classification": "theory",
+    "classification_reason": "Формальная семантика и прагматика.",
+    "checked_at": "2026-11-26",
+    "verification": "partial",
+    "source_order": [
+      37,
+      3940
+    ],
+    "_reviewed_at": "2026-11-26",
+    "_review_source": "https://linguistlist.org/issues/37/3940/",
+    "_review_basis": "Публичный анонс основной SuB32 и доступная поисковая копия текста формы; самостоятельность сроков сохранена."
+  },
+  "manual-sub32-postworkshop-2027": {
+    "id": "manual-sub32-postworkshop-2027",
+    "name": "Formal Approaches to Silence and Noise in Discourse — Post-conference Workshop at SuB32",
+    "start": "2027-09-24",
+    "end": "2027-09-24",
+    "location": "Констанц, Германия; Констанцский университет",
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Формальные подходы к молчанию и шуму в дискурсе.",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://www.sinn-und-bedeutung.com/sub32/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3940/",
+        "label": "LINGUIST List · оригинал недоступен"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Название и дата постворкшопа прямо указаны в публичном анонсе LINGUIST List. Полный оригинал и официальный сайт недоступны. В поисковой копии условий термин pre-conference неоднозначен: сроки и условия основной SuB32 не перенесены на этот постворкшоп. Языки, ограничения, правила, сбор и ответ неизвестны."
+    ],
+    "classification": "theory",
+    "classification_reason": "Формальная теория дискурса, семантика и прагматика.",
+    "checked_at": "2026-11-26",
+    "verification": "partial",
+    "source_order": [
+      37,
+      3940
+    ],
+    "_reviewed_at": "2026-11-26",
+    "_review_source": "https://linguistlist.org/issues/37/3940/",
+    "_review_basis": "Самостоятельный постворкшоп 24 сентября прямо указан публичным анонсом; неподтверждённые условия не перенесены."
   }
 }
