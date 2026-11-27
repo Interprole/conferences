@@ -283,19 +283,19 @@
     "name": "11th International Conference on Grammar and Corpora",
     "start": "2027-06-30",
     "end": "2027-07-02",
-    "location": "Düsseldorf, Germany",
-    "deadline": "2026-10-15",
-    "deadline_at": null,
-    "deadline_timezone": null,
-    "notification": null,
-    "notification_text": null,
-    "fee": null,
-    "topics": "General Linguistics; Text/Corpus Linguistics",
+    "location": "Дюссельдорф, Германия; Университет Генриха Гейне, Дом университета",
+    "deadline": "2026-10-31",
+    "deadline_at": "2026-11-01T11:59:00Z",
+    "deadline_timezone": "Etc/GMT+12",
+    "notification": "2026-12-15",
+    "notification_text": "15 декабря 2026.",
+    "fee": "Студентам, включая аспирантов, и участникам из стран с низким доходом — бесплатно; размер возможного сбора остальных участников не объявлен.",
+    "topics": "Грамматика по корпусным данным: морфосинтаксическая типология, низкоресурсные языки, грамматическая вариативность, аннотация и количественные методы.",
     "subject_languages": null,
-    "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
-    "format": null,
+    "working_languages": "Английский — рабочий язык конференции.",
+    "speaker_restrictions": "До двух тезисов во всех секциях/категориях совместно: одни единоличные или первым автором и одни соавторские.",
+    "submission_rules": "Анонимный PDF через OpenReview, до 500 слов с примерами/таблицами/рисунками без литературы и списка сокращений; A4, поля 2,5 см, 12 pt. Указать доклад/постер/секцию; доклад 20+5 минут. Регистрация докладчиков до 15 апреля.",
+    "format": "Очно.",
     "website": "https://gac2027.phil.hhu.de/",
     "sources": [
       {
@@ -307,16 +307,37 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/1946/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://gac2027.phil.hhu.de/call-for-papers/",
+        "label": "Официальное продление и общие правила"
+      },
+      {
+        "type": "official",
+        "url": "https://gac2027.phil.hhu.de/",
+        "label": "Официальная главная"
       }
     ],
-    "history": [],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-10-15",
+        "new": "2026-10-31",
+        "type": "extended",
+        "observed_at": "2026-11-27",
+        "source": "https://gac2027.phil.hhu.de/call-for-papers/"
+      }
+    ],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений.",
+      "27 ноября официальные общие правила прямо подтверждают продление 15→31 октября, 23:59 AoE, включая special/theme sessions. Ранее объявленное продление добавлено в историю; новый срок тоже уже прошёл. Отдельные записи секций сохранены.",
+      "Прочитаны полный официальный CFP и главная. Новых более поздних продлений не найдено; сбор для прочих участников всё ещё не определён. Язык тезисов отдельно не указан."
     ],
     "classification": "theory",
     "classification_reason": "Широкий критерий: грамматика, описание языков, типология и общая лингвистика; корпусные методы не исключают теоретическую тематику.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "checked_at": "2026-11-27",
+    "verification": "reviewed",
     "source_order": [
       37,
       1946
@@ -7423,20 +7444,20 @@
     "name": "Approaches to Digital Discourse Analysis 6",
     "start": "2027-05-26",
     "end": "2027-05-28",
-    "location": "Brno, Czech Republic",
+    "location": "Брно, Чехия",
     "deadline": "2026-11-30",
     "deadline_at": null,
     "deadline_timezone": null,
-    "notification": null,
-    "notification_text": null,
+    "notification": "2027-01-15",
+    "notification_text": "Не позднее 15 января 2027.",
     "fee": null,
-    "topics": "Discourse Analysis; Pragmatics; Sociolinguistics; Text/Corpus Linguistics",
-    "subject_languages": "English (eng, stan1293)",
+    "topics": "Цифровые идентичности и онлайн-Я: мультимодальный, критический, социопрагматический и корпусный анализ дискурсивного конструирования идентичности.",
+    "subject_languages": null,
     "working_languages": null,
     "speaker_restrictions": null,
-    "submission_rules": null,
+    "submission_rules": "Индивидуальные тезисы 250–300 слов с литературой, полностью анонимный документ через форму с официальной страницы. Предложения панелей 250–500 слов имели отдельный срок 15 сентября 2026, ответ 30 сентября; этот срок не является индивидуальным CFP.",
     "format": null,
-    "website": null,
+    "website": "https://english.phil.muni.cz/adda",
     "sources": [
       {
         "type": "linguistlist",
@@ -7447,16 +7468,32 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/1768/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://english.phil.muni.cz/adda",
+        "label": "Официальный CFP"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3957/",
+        "label": "LINGUIST List · новый пост недоступен"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/2921/",
+        "label": "LINGUIST List · обновлённая поисковая копия"
       }
     ],
     "history": [],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений.",
+      "Полный официальный CFP прочитан: 30 ноября включительно, ответ 15 января. English в старой рубрике не подтверждён как ограничение исследований, subject_languages сброшено на null. Рабочие языки, язык тезисов, сбор и соавторские лимиты отдельно не указаны."
     ],
-    "classification": "other",
-    "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
-    "verification": "partial",
+    "classification": "mixed",
+    "classification_reason": "Дискурс и прагматика сочетаются с социолингвистикой цифровой идентичности.",
+    "checked_at": "2026-11-27",
+    "verification": "reviewed",
     "source_order": [
       37,
       1768
@@ -17922,18 +17959,18 @@
     "name": "Theme Session at 11th International Conference on Grammar and Corpora: Storyboards for Data Collection in African Languages",
     "start": "2027-06-30",
     "end": "2027-07-02",
-    "location": "Viersen, Germany",
-    "deadline": "2026-10-15",
-    "deadline_at": null,
-    "deadline_timezone": null,
+    "location": "Дюссельдорф, Германия",
+    "deadline": "2026-10-31",
+    "deadline_at": "2026-11-01T11:59:00Z",
+    "deadline_timezone": "Etc/GMT+12",
     "notification": null,
     "notification_text": null,
     "fee": null,
-    "topics": "General Linguistics; Morphology; Text/Corpus Linguistics; Typology",
-    "subject_languages": "African Unclassified",
+    "topics": "Элицитация грамматических конструкций по раскадровкам: залог, аппликативы, фокус; сбор сопоставимых данных и создание корпусов.",
+    "subject_languages": "Африканские языки.",
     "working_languages": null,
     "speaker_restrictions": null,
-    "submission_rules": null,
+    "submission_rules": "Через общую систему GaC11 с указанием тематической секции; рецензирование и общие требования конференции.",
     "format": null,
     "website": "https://gac2027.phil.hhu.de/",
     "sources": [
@@ -17941,20 +17978,48 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/2521/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://gac2027.phil.hhu.de/theme-sessions/",
+        "label": "Официальное продление и общие правила"
+      },
+      {
+        "type": "official",
+        "url": "https://gac2027.phil.hhu.de/wp-content/uploads/2026/10/CfP_data_collection.pdf",
+        "label": "Официальный CFP Storyboards · PDF"
       }
     ],
-    "history": [],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-10-15",
+        "new": "2026-10-31",
+        "type": "extended",
+        "observed_at": "2026-11-27",
+        "source": "https://gac2027.phil.hhu.de/theme-sessions/"
+      }
+    ],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений.",
+      "27 ноября официальные общие правила прямо подтверждают продление 15→31 октября, 23:59 AoE, включая special/theme sessions. Ранее объявленное продление добавлено в историю; новый срок тоже уже прошёл. Отдельные записи секций сохранены.",
+      "Полностью прочитан официальный одностраничный CFP Storyboards: срок 31 октября и Дюссельдорф подтверждены. Прежняя локация Viersen ошибочна; данные не выводились из совпадения с основной конференцией."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
+    "checked_at": "2026-11-27",
     "verification": "partial",
     "source_order": [
       37,
       2521
-    ]
+    ],
+    "date_conflict": {
+      "field": "location",
+      "old": "Viersen, Germany",
+      "new": "Дюссельдорф, Германия",
+      "source": "https://gac2027.phil.hhu.de/wp-content/uploads/2026/10/CfP_data_collection.pdf",
+      "note": "Официальный PDF секции прямо называет Düsseldorf; прежняя запись каталога Viersen исправлена."
+    }
   },
   {
     "id": "566b0c36aab88654",
@@ -17962,33 +18027,50 @@
     "start": "2027-06-30",
     "end": "2027-07-02",
     "location": "Düsseldorf, Germany",
-    "deadline": "2026-10-15",
-    "deadline_at": null,
-    "deadline_timezone": null,
-    "notification": null,
+    "deadline": "2026-10-31",
+    "deadline_at": "2026-11-01T11:59:00Z",
+    "deadline_timezone": "Etc/GMT+12",
+    "notification": "2026-12-15",
     "notification_text": null,
-    "fee": null,
+    "fee": "Бесплатно для студентов, включая аспирантов, и участников из стран с низким доходом; для остальных возможный небольшой сбор не объявлен.",
     "topics": "Language Acquisition; Pragmatics; Semantics; Text/Corpus Linguistics",
     "subject_languages": null,
-    "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
-    "format": null,
+    "working_languages": "Английский",
+    "speaker_restrictions": "До 2 заявок на участника: одна единоличная или с первым авторством и одна в качестве соавтора.",
+    "submission_rules": "Анонимный PDF через OpenReview; до 500 слов, включая примеры, таблицы и рисунки, без списка литературы и сокращений; A4, поля 2,5 см, шрифт 12 pt. Доклад или постер.",
+    "format": "Очный",
     "website": "https://gac2027.phil.hhu.de/theme-sessions/",
     "sources": [
       {
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/2636/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://gac2027.phil.hhu.de/theme-sessions/",
+        "label": "Официальное продление и общие правила"
       }
     ],
-    "history": [],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-10-15",
+        "new": "2026-10-31",
+        "type": "extended",
+        "observed_at": "2026-11-05",
+        "source": "https://gac2027.phil.hhu.de/theme-sessions/"
+      }
+    ],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Официальный сайт подтверждает продление с 15 до 31 октября 2026, 23:59 Anywhere on Earth. Срок уже прошёл; запись и история сохранены.",
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений.",
+      "27 ноября официальные общие правила прямо подтверждают продление 15→31 октября, 23:59 AoE, включая special/theme sessions. Ранее объявленное продление добавлено в историю; новый срок тоже уже прошёл. Отдельные записи секций сохранены.",
+      "27 ноября обнаружено: продление этой секции уже было записано 5 ноября в overrides, но отсутствовало в исходном linguistlist.json. Исходные данные синхронизированы; старое событие истории сохранено и повторно новым продлением не считается."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
+    "checked_at": "2026-11-27",
     "verification": "partial",
     "source_order": [
       37,
@@ -18040,18 +18122,18 @@
     "start": "2027-06-30",
     "end": "2027-07-02",
     "location": "Düsseldorf, Germany",
-    "deadline": "2026-10-15",
-    "deadline_at": null,
-    "deadline_timezone": null,
-    "notification": null,
+    "deadline": "2026-10-31",
+    "deadline_at": "2026-11-01T11:59:00Z",
+    "deadline_timezone": "Etc/GMT+12",
+    "notification": "2026-12-15",
     "notification_text": null,
-    "fee": null,
-    "topics": "Discourse Analysis; Syntax; Typology",
-    "subject_languages": null,
-    "working_languages": null,
-    "speaker_restrictions": null,
-    "submission_rules": null,
-    "format": null,
+    "fee": "Бесплатно для студентов, включая аспирантов, и участников из стран с низким доходом; для остальных возможный небольшой сбор не объявлен.",
+    "topics": "Невербальные предикаты в спонтанной устной речи: идентификация, свойства, локализация и существование, связки, аргументы, информационная структура и грамматикализация.",
+    "subject_languages": "Типологически разные языки; предпочтительны полевые корпуса малоизученных языков, но это не обязательное ограничение.",
+    "working_languages": "Английский",
+    "speaker_restrictions": "До 2 заявок на участника: одна единоличная или с первым авторством и одна в качестве соавтора.",
+    "submission_rules": "Анонимный PDF через OpenReview; до 500 слов, включая примеры, таблицы и рисунки, без списка литературы и сокращений; A4, поля 2,5 см, шрифт 12 pt. Доклад или постер.",
+    "format": "Очный",
     "website": "https://gac2027.phil.hhu.de/theme-sessions/",
     "sources": [
       {
@@ -18063,15 +18145,38 @@
         "type": "linguistlist",
         "url": "https://linguistlist.org/issues/37/2761/",
         "label": "LINGUIST List"
+      },
+      {
+        "type": "official",
+        "url": "https://gac2027.phil.hhu.de/theme-sessions/",
+        "label": "Официальное продление и общие правила"
+      },
+      {
+        "type": "official",
+        "url": "https://gac2027.phil.hhu.de/wp-content/uploads/2026/08/CfP_nonverbal_predicates.pdf",
+        "label": "Официальное описание Nonverbal predicates · PDF"
       }
     ],
-    "history": [],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-10-15",
+        "new": "2026-10-31",
+        "type": "extended",
+        "observed_at": "2026-11-05",
+        "source": "https://gac2027.phil.hhu.de/theme-sessions/"
+      }
+    ],
     "notes": [
-      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений."
+      "Официальный сайт подтверждает продление с 15 до 31 октября 2026, 23:59 Anywhere on Earth. Срок уже прошёл; запись и история сохранены.",
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений.",
+      "27 ноября официальные общие правила прямо подтверждают продление 15→31 октября, 23:59 AoE, включая special/theme sessions. Ранее объявленное продление добавлено в историю; новый срок тоже уже прошёл. Отдельные записи секций сохранены.",
+      "Полностью прочитан одностраничный PDF: добавлены тема и эмпирический охват. Срок подтверждён общими правилами принятых секций; отдельный языковой/авторский лимит в PDF не указан.",
+      "27 ноября обнаружено: продление этой секции уже было записано 5 ноября в overrides, но отсутствовало в исходном linguistlist.json. Исходные данные синхронизированы; старое событие истории сохранено и повторно новым продлением не считается."
     ],
     "classification": "theory",
     "classification_reason": "По названию и рубрикам объявления; смешанные конференции отмечаются отдельно.",
-    "checked_at": "2026-11-03",
+    "checked_at": "2026-11-27",
     "verification": "partial",
     "source_order": [
       37,
@@ -24495,5 +24600,158 @@
       37,
       3940
     ]
+  },
+  {
+    "id": "manual-ll-37-3958",
+    "name": "45th West Coast Conference on Formal Linguistics",
+    "start": "2027-04-30",
+    "end": "2027-05-01",
+    "location": "Солт-Лейк-Сити, Юта, США; Университет Юты",
+    "deadline": "2027-01-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Теоретическая и формальная лингвистика: фонетика, фонология, морфология, синтаксис, семантика, прагматика и их интерфейсы.",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": "Одни единоличные и одни совместные тезисы либо двое совместных на автора.",
+    "submission_rules": "Анонимный PDF через EasyAbs: до 2 страниц A4/Letter с данными, литература на дополнительной странице; поля 1 дюйм, шрифт от 11 pt. Указать очный доклад/постер. Предпочтение новым работам: сообщать оргкомитету статус рассмотрения/принятия работы в журналах и крупных конференциях.",
+    "format": null,
+    "website": "https://wccfl45.github.io/index.html",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3958/",
+        "label": "LINGUIST List · оригинал недоступен"
+      },
+      {
+        "type": "official",
+        "url": "https://easyabs.linguistlist.org/conference/WCCFL45/",
+        "label": "Официальная подача EasyAbs"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Прочитан полный актуальный EasyAbs: подача до 15 января 2027. Более старый поисковый снимок с 20 декабря не принят за действующий; продление не добавлено без явного объявления. Официальный сайт не открылся, LL 403. Ответ, сбор, исследуемые/рабочие языки и язык тезисов неизвестны."
+    ],
+    "classification": "theory",
+    "classification_reason": "Формальная теория естественного языка.",
+    "checked_at": "2026-11-27",
+    "verification": "partial",
+    "source_order": [
+      37,
+      3958
+    ],
+    "date_conflict": {
+      "fields": [
+        "end",
+        "review_start"
+      ],
+      "note": "EasyAbs: заголовок 30 апреля–2 мая, текст CFP 30 апреля–1 мая. Начало рецензирования указано как 22 января 2026, год не исправлен догадкой. Статус проведения по конфликтующим датам не должен считаться автоматически.",
+      "sources": [
+        "https://easyabs.linguistlist.org/conference/WCCFL45/"
+      ]
+    }
+  },
+  {
+    "id": "manual-ll-37-3962",
+    "name": "13th Cambridge Conference on Language Endangerment",
+    "start": "2027-07-05",
+    "end": "2027-07-05",
+    "location": "Кембридж, Великобритания",
+    "deadline": "2027-03-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Исчезновение, поддержка и ревитализация языков: теоретические, методологические и эмпирические исследования, сравнительные работы и инициативы языковых сообществ.",
+    "subject_languages": "Исчезающие и миноритарные языки; конкретный список не установлен.",
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://www.mmll.cam.ac.uk/research/cambridge-endangered-languages-and-cultures-group-celc/celc-conferences-and-workshops",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3962/",
+        "label": "LINGUIST List · оригинал недоступен"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Прочитана поисковая копия LL 37.3962; прямой пост и официальный сайт возвращают 403. Поисковая копия официального сайта ещё описывает выпуск 2026, его правила 200 слов и сроки не перенесены на 2027. Сбор, ответ, языки работы/тезисов, ограничения и подробные правила пока неизвестны."
+    ],
+    "classification": "mixed",
+    "classification_reason": "Лингвистическая документация и теория сочетаются с социальной, образовательной и практической ревитализацией.",
+    "checked_at": "2026-11-27",
+    "verification": "partial",
+    "source_order": [
+      37,
+      3962
+    ]
+  },
+  {
+    "id": "manual-ll-37-3960",
+    "name": "Semmelweis Medical Linguistics Conference 2027",
+    "start": "2027-06-04",
+    "end": "2027-06-05",
+    "location": "Будапешт, Венгрия; Университет Земмельвайса, Центр фундаментальных медицинских наук",
+    "deadline": "2027-03-31",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": "Ранняя регистрация до 31 декабря: 240 EUR; затем 280 EUR. Аспирантам 100 EUR с подтверждением статуса. Ужин дополнительно 80 EUR.",
+    "topics": "Межпрофессиональная коммуникация в здравоохранении: медицинская лингвистика, дискурс, прагматика и общение специалистов.",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": "Гибридный: очно и онлайн.",
+    "website": "https://semmelweis.hu/szaknyelv/en/conferences/smlc2027/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3960/",
+        "label": "LINGUIST List · поисковая копия"
+      },
+      {
+        "type": "official",
+        "url": "https://semmelweis.hu/szaknyelv/en/conferences/smlc2027/",
+        "label": "Официальный сайт"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Полная официальная HTML-страница прочитана. Ранняя подача 31 декабря 2026, обычная 31 марта 2027; регистрация до 30 апреля, оплата до 10 мая — отдельные сроки. В текущей HTML-таблице обычный взнос 280 EUR, старая поисковая копия 260 не использована. CFP в PNG не прочитан; ответ, рабочие/исследуемые языки, язык тезисов, авторские лимиты и правила подачи неизвестны. Связанный симпозиум 3 июня не объединён с конференцией."
+    ],
+    "classification": "mixed",
+    "classification_reason": "Прикладная медицинская коммуникация и дискурсивная лингвистика, без специализации исключительно на переводе или нейролингвистике.",
+    "checked_at": "2026-11-27",
+    "verification": "partial",
+    "source_order": [
+      37,
+      3960
+    ],
+    "date_conflict": {
+      "field": "dates",
+      "values": [
+        {
+          "start": "2027-06-04",
+          "end": "2027-06-05",
+          "source": "https://linguistlist.org/issues/37/3960/"
+        },
+        {
+          "start": "2027-06-05",
+          "end": "2027-06-06",
+          "source": "https://semmelweis.hu/szaknyelv/en/conferences/smlc2027/"
+        }
+      ],
+      "note": "Заголовок официальной страницы и LL называют 4–5 июня, таблица Important dates той же страницы — 5–6 июня; конфликт не разрешён."
+    }
   }
 ]
