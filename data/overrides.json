@@ -6866,5 +6866,277 @@
     "_reviewed_at": "2026-11-27",
     "_review_source": "https://linguistlist.org/issues/37/3960/",
     "_review_basis": "Официальная HTML-страница и копия LL; конфликт дней конференции сохранён."
+  },
+  "manual-ll-37-3974": {
+    "id": "manual-ll-37-3974",
+    "name": "32nd International Lexical-Functional Grammar Conference (LFG’27)",
+    "start": "2027-06-16",
+    "end": "2027-06-18",
+    "location": "Осло, Норвегия",
+    "deadline": "2027-02-15",
+    "deadline_at": "2027-02-16T11:59:00Z",
+    "deadline_timezone": "Etc/GMT+12",
+    "notification": "2027-04-01",
+    "notification_text": null,
+    "fee": null,
+    "topics": "Лексико-функциональная грамматика: синтаксис, грамматические отношения, просодия, семантика и дискурс; типологические и формальные исследования в параллельной системе ограничений.",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": "Оригинальное неопубликованное завершённое или продолжающееся исследование. Через OpenReview (аккаунт создать заранее). Доклад 30 минут и обсуждение 15 минут либо постер.",
+    "format": "Очно; онлайн лишь в исключительных обстоятельствах.",
+    "website": "https://www.hf.uio.no/iln/english/research/news-and-events/events/conferences/2027/lfg27.html",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3974/",
+        "label": "LINGUIST List · поисковая копия"
+      },
+      {
+        "type": "other",
+        "url": "https://openreview.net/group?id=LFG/2027/Conference",
+        "label": "Подача"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Прямой пост вернул 403; прочитана доступная поисковая копия LINGUIST List. Официальный сайт не открылся; независимая сверка не выполнена. Неуказанные условия неизвестны.",
+      "Дедлайн 15 февраля 23:59 UTC−12 (AoE). Студентам с докладом/постером обещана небольшая субсидия ILFGA, что не подтверждает отсутствие взноса. Объём тезисов, язык подачи и авторские лимиты неизвестны."
+    ],
+    "classification": "theory",
+    "classification_reason": "По содержанию: грамматика и общая лингвистика.",
+    "checked_at": "2026-11-28",
+    "verification": "partial",
+    "source_order": [
+      37,
+      3974
+    ],
+    "_reviewed_at": "2026-11-28",
+    "_review_source": "https://linguistlist.org/issues/37/3974/",
+    "_review_basis": "Ручной разбор объявления, ограничения доступа явно сохранены."
+  },
+  "manual-lfg27-pragmatics-workshop": {
+    "id": "manual-lfg27-pragmatics-workshop",
+    "name": "Workshop at LFG’27 — The interface between grammar and discourse: pragmatics in LFG and beyond",
+    "start": "2027-06-18",
+    "end": "2027-06-18",
+    "location": "Осло, Норвегия",
+    "deadline": null,
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Интерфейс грамматики и дискурса: прагматика в LFG и других грамматических моделях.",
+    "subject_languages": null,
+    "working_languages": null,
+    "speaker_restrictions": null,
+    "submission_rules": null,
+    "format": null,
+    "website": "https://www.hf.uio.no/iln/english/research/news-and-events/events/conferences/2027/lfg27.html",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3974/",
+        "label": "LINGUIST List · поисковая копия"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Прямой пост вернул 403; прочитана доступная поисковая копия LINGUIST List. Официальный сайт не открылся; независимая сверка не выполнена. Неуказанные условия неизвестны.",
+      "Основной CFP прямо называет связанный воркшоп 18 июня после полудня и обещает отдельный CFP. Самостоятельные срок, ответ, правила и формат пока неизвестны; условия основной конференции не перенесены."
+    ],
+    "classification": "theory",
+    "classification_reason": "По содержанию: грамматика и общая лингвистика.",
+    "checked_at": "2026-11-28",
+    "verification": "partial",
+    "source_order": [
+      37,
+      3974
+    ],
+    "_reviewed_at": "2026-11-28",
+    "_review_source": "https://linguistlist.org/issues/37/3974/",
+    "_review_basis": "Ручной разбор объявления, ограничения доступа явно сохранены."
+  },
+  "manual-ll-37-3971": {
+    "id": "manual-ll-37-3971",
+    "name": "19th Conference on Austronesian and Papuan Languages and Linguistics (APLL19)",
+    "start": "2027-08-31",
+    "end": "2027-09-02",
+    "location": "Грац, Австрия; Грацский университет",
+    "deadline": "2027-02-26",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": "2027-04-05",
+    "notification_text": null,
+    "fee": null,
+    "topics": "Лингвистика австронезийских и папуасских языков, особенно малых, исчезающих и малоизученных; многоязычие, сохранение языков, наследные языки и усвоение.",
+    "subject_languages": "Австронезийские и папуасские языки.",
+    "working_languages": null,
+    "speaker_restrictions": "Не более двух заявок от участника, из них не более одной единоличной.",
+    "submission_rules": "Анонимные тезисы до двух страниц A4, включая примеры, карты, рисунки и библиографию; шрифт минимум 12 pt, рецензирование. Подача через Sciencesconf. Доклад 20 минут и обсуждение 10 минут.",
+    "format": null,
+    "website": "https://apll19.sciencesconf.org/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3971/",
+        "label": "LINGUIST List · поисковая копия"
+      },
+      {
+        "type": "other",
+        "url": "https://apll19.sciencesconf.org/submission/submit",
+        "label": "Подача"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Прямой пост вернул 403; прочитана доступная поисковая копия LINGUIST List. Официальный сайт не открылся; независимая сверка не выполнена. Неуказанные условия неизвестны."
+    ],
+    "classification": "theory",
+    "classification_reason": "По содержанию: грамматика и общая лингвистика.",
+    "checked_at": "2026-11-28",
+    "verification": "partial",
+    "source_order": [
+      37,
+      3971
+    ],
+    "_reviewed_at": "2026-11-28",
+    "_review_source": "https://linguistlist.org/issues/37/3971/",
+    "_review_basis": "Ручной разбор объявления, ограничения доступа явно сохранены."
+  },
+  "manual-ll-37-3973": {
+    "id": "manual-ll-37-3973",
+    "name": "German Abroad 7",
+    "start": "2027-10-06",
+    "end": "2027-10-08",
+    "location": "Мангейм, Германия; Институт немецкого языка имени Лейбница",
+    "deadline": "2027-02-28",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Немецкий вне основного немецкоязычного ареала: структура, контакт, изменения и социолингвистика; особый акцент на языковой политике.",
+    "subject_languages": "Немецкий и близкородственные разновидности по всему миру.",
+    "working_languages": "Немецкий и английский — языки конференции; отдельное требование к языку тезисов неизвестно.",
+    "speaker_restrictions": null,
+    "submission_rules": "Тезисы примерно 250–300 слов по электронной почте организаторов, указанной в публичном CFP.",
+    "format": null,
+    "website": "https://germanabroad.info/de/conferences/german-abroad-7/",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3973/",
+        "label": "LINGUIST List · поисковая копия"
+      },
+      {
+        "type": "other",
+        "url": "https://igdd.org/call-for-papers-fuer-die-tagung-german-abroad-7-am-leibniz-institut-fuer-deutsche-sprache-ids-mannheim/",
+        "label": "Публичный CFP IGDD"
+      }
+    ],
+    "history": [],
+    "notes": [
+      "Прямой пост вернул 403; прочитана доступная поисковая копия LINGUIST List. Официальный сайт не открылся; независимая сверка не выполнена. Неуказанные условия неизвестны.",
+      "Полный CFP IGDD от 26 ноября прочитан: даты, срок, объём тезисов совпадают. Сайт организатора IDS также вернул 403. Молодых исследователей приглашают, но ограничение по статусу не установлено; авторские лимиты неизвестны."
+    ],
+    "classification": "mixed",
+    "classification_reason": "Грамматические и контактные исследования сочетаются с выраженным акцентом на языковой политике и социолингвистике.",
+    "checked_at": "2026-11-28",
+    "verification": "partial",
+    "source_order": [
+      37,
+      3973
+    ],
+    "_reviewed_at": "2026-11-28",
+    "_review_source": "https://linguistlist.org/issues/37/3973/",
+    "_review_basis": "Ручной разбор объявления, ограничения доступа явно сохранены."
+  },
+  "8c6513f3683528a1": {
+    "id": "8c6513f3683528a1",
+    "name": "Amazonicas XI - Congreso Internacional sobre Lenguas Amazónicas",
+    "start": "2027-06-15",
+    "end": "2027-06-18",
+    "location": "Лима, Перу; Папский католический университет Перу",
+    "deadline": "2026-12-15",
+    "deadline_at": null,
+    "deadline_timezone": null,
+    "notification": null,
+    "notification_text": null,
+    "fee": null,
+    "topics": "Амазонские языки: общая секция; фонология с акцентом на просодию и интонацию; морфосинтаксис сложного предложения; ревитализация языков в условиях угасания.",
+    "subject_languages": "Амазонские языки.",
+    "working_languages": "Испанский, португальский или английский — тезисы и доклад.",
+    "speaker_restrictions": "Одни единоличные и одни совместные тезисы.",
+    "submission_rules": "Анонимный PDF: основной текст до страницы, поля 1 дюйм, шрифт 12 pt, одинарный интервал, заголовок обязателен. Библиография и примеры могут занимать дополнительную страницу. Подача через Oxford Abstracts.",
+    "format": null,
+    "website": "https://amazonicas-xi.streamlit.app",
+    "sources": [
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/conf/search/?page=43",
+        "label": "LINGUIST List · каталог"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3155/",
+        "label": "LINGUIST List"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3976/",
+        "label": "LINGUIST List · новый CFP, поисковая копия"
+      },
+      {
+        "type": "linguistlist",
+        "url": "https://linguistlist.org/issues/37/3181/",
+        "label": "LINGUIST List · предыдущий CFP"
+      },
+      {
+        "type": "other",
+        "url": "https://app.oxfordabstracts.com/stages/83705/submitter",
+        "label": "Подача"
+      }
+    ],
+    "history": [
+      {
+        "field": "deadline",
+        "old": "2026-12-06",
+        "new": "2026-12-15",
+        "type": "extended",
+        "observed_at": "2026-11-28",
+        "source": "https://linguistlist.org/issues/37/3976/"
+      }
+    ],
+    "notes": [
+      "Ограничения на авторов, языки выступлений и сбор не проверены полностью. Отсутствие сведений не означает отсутствие ограничений.",
+      "Полный старый CFP 37.3181 называет 6 декабря, новый CFP 37.3976 в доступной поисковой копии — 15 декабря. Использован более поздний срок, официальный сайт недоступен. Отдельные CFP симпозиумов по сокращённым ссылкам не прочитаны, возможные самостоятельные сроки не проверены и отдельные записи не объединялись."
+    ],
+    "classification": "theory",
+    "classification_reason": "Исследования грамматики, фонологии и морфосинтаксиса амазонских языков, также ревитализация.",
+    "checked_at": "2026-11-28",
+    "verification": "partial",
+    "source_order": [
+      37,
+      3155
+    ],
+    "date_conflict": {
+      "field": "deadline",
+      "values": [
+        {
+          "date": "2026-12-06",
+          "source": "https://linguistlist.org/issues/37/3181/"
+        },
+        {
+          "date": "2026-12-15",
+          "source": "https://linguistlist.org/issues/37/3976/"
+        }
+      ],
+      "resolution": "Принят срок позднейшего CFP; независимая официальная сверка недоступна."
+    },
+    "_reviewed_at": "2026-11-28",
+    "_review_source": "https://linguistlist.org/issues/37/3976/",
+    "_review_basis": "Сравнение полного старого CFP и поисковой копии нового: срок 6→15 декабря."
   }
 }

@@ -1,8 +1,8 @@
 {
-  "attempted_at": "2026-11-27T06:04:49Z",
-  "last_success_at": "2026-11-27T06:04:49Z",
-  "pages_read": 0,
-  "issues_read": 0,
+  "attempted_at": "2026-11-28T06:08:13Z",
+  "last_success_at": "2026-11-28T06:08:13Z",
+  "pages_read": 1,
+  "issues_read": 1,
   "feeds_read": 0,
   "complete": false,
   "discovery_complete": false,
@@ -10,6 +10,24 @@
   "pending_count": 26,
   "coverage": {
     "current_manual_review": {
+      "catalogue_pages_read": 1,
+      "catalogue_page_numbers": [
+        51
+      ],
+      "catalogue_page_numbers_failed": [
+        52
+      ],
+      "recent_issue_pages_read": 3,
+      "full_posts_read": 1,
+      "search_copies_read": 4,
+      "posts_failed": 8,
+      "official_pages_read": 1,
+      "official_pages_failed": 6,
+      "new_records": 4,
+      "existing_records_enriched": 1,
+      "extensions_found": 1
+    },
+    "previous_manual_review": {
       "catalogue_pages_read": 0,
       "catalogue_pages_partial": [
         51,
@@ -31,30 +49,6 @@
       "existing_records_enriched": 5,
       "extensions_found": 2,
       "unchanged_conferences_rechecked": 1
-    },
-    "previous_manual_review": {
-      "catalogue_pages_read": 2,
-      "catalogue_page_numbers": [
-        49,
-        50
-      ],
-      "catalogue_pages_additional_stale": [
-        {
-          "page": 7,
-          "type": "Call",
-          "note": "Прямой снимок не совпал с поисковым; для продления использован полный новый CFP 37.3931."
-        }
-      ],
-      "recent_issue_pages_read": 3,
-      "full_posts_read": 0,
-      "search_copies_read": 8,
-      "posts_failed": 8,
-      "official_pages_read": 5,
-      "official_pages_failed": 2,
-      "official_pdf_pages_read": 3,
-      "existing_records_enriched": 4,
-      "new_records": 6,
-      "extensions_found": 1
     },
     "previous_automated_cycle": {
       "cycle": {
@@ -89,55 +83,75 @@
       "records_needing_review": 505,
       "official_sites_verified": false
     },
-    "records_total": 590,
+    "records_total": 594,
     "records_without_issue": 18,
     "official_sites_verified": false
   },
-  "error_count": 11,
+  "error_count": 16,
   "errors": [
     {
-      "url": "https://linguistlist.org/issues/37/3966/",
-      "error": "403 Forbidden; полный опубликованный оригинал не прочитан, доступные копии/официальные страницы использованы с ограничениями."
+      "url": "https://linguistlist.org/issues/37/3970/",
+      "error": "403 Forbidden; опубликованный оригинал недоступен."
     },
     {
-      "url": "https://linguistlist.org/issues/37/3962/",
-      "error": "403 Forbidden; полный опубликованный оригинал не прочитан, доступные копии/официальные страницы использованы с ограничениями."
+      "url": "https://linguistlist.org/issues/37/3971/",
+      "error": "403 Forbidden; опубликованный оригинал недоступен."
     },
     {
-      "url": "https://linguistlist.org/issues/37/3960/",
-      "error": "403 Forbidden; полный опубликованный оригинал не прочитан, доступные копии/официальные страницы использованы с ограничениями."
+      "url": "https://linguistlist.org/issues/37/3972/",
+      "error": "403 Forbidden; опубликованный оригинал недоступен."
     },
     {
-      "url": "https://linguistlist.org/issues/37/3959/",
-      "error": "403 Forbidden; полный опубликованный оригинал не прочитан, доступные копии/официальные страницы использованы с ограничениями."
+      "url": "https://linguistlist.org/issues/37/3973/",
+      "error": "403 Forbidden; опубликованный оригинал недоступен."
     },
     {
-      "url": "https://linguistlist.org/issues/37/3958/",
-      "error": "403 Forbidden; полный опубликованный оригинал не прочитан, доступные копии/официальные страницы использованы с ограничениями."
+      "url": "https://linguistlist.org/issues/37/3974/",
+      "error": "403 Forbidden; опубликованный оригинал недоступен."
     },
     {
-      "url": "https://linguistlist.org/issues/37/3957/",
-      "error": "403 Forbidden; полный опубликованный оригинал не прочитан, доступные копии/официальные страницы использованы с ограничениями."
+      "url": "https://linguistlist.org/issues/37/3975/",
+      "error": "403 Forbidden; опубликованный оригинал недоступен."
     },
     {
-      "url": "https://linguistlist.org/issues/37/3956/",
-      "error": "403 Forbidden; полный опубликованный оригинал не прочитан, доступные копии/официальные страницы использованы с ограничениями."
+      "url": "https://linguistlist.org/issues/37/3976/",
+      "error": "403 Forbidden; опубликованный оригинал недоступен."
     },
     {
-      "url": "https://linguistlist.org/conf/search/?page=51",
-      "error": "Первый снимок трёхнедельной давности прочитан только частично; повторное открытие — Timeout fetching. Полная актуальная страница не прочитана."
+      "url": "https://linguistlist.org/issues/37/3977/",
+      "error": "403 Forbidden; опубликованный оригинал недоступен."
+    },
+    {
+      "url": "https://www.hf.uio.no/iln/english/research/news-and-events/events/conferences/2027/lfg27.html",
+      "error": "Официальная страница не открылась; независимая сверка недоступна."
+    },
+    {
+      "url": "https://apll19.sciencesconf.org/",
+      "error": "Официальная страница не открылась; независимая сверка недоступна."
+    },
+    {
+      "url": "https://germanabroad.info/de/conferences/german-abroad-7/",
+      "error": "Официальная страница не открылась; независимая сверка недоступна."
+    },
+    {
+      "url": "https://amazonicas-xi.streamlit.app",
+      "error": "Официальная страница не открылась; независимая сверка недоступна."
+    },
+    {
+      "url": "https://www.ucl.ac.uk/brain-sciences/events/2026/dec/linguistics-workshop-ellipsis-and-clause-structure",
+      "error": "Официальная страница не открылась; независимая сверка недоступна."
+    },
+    {
+      "url": "https://www.ids-mannheim.de/aktuell/veranstaltungen/kolloquien/2027/german-abroad-7",
+      "error": "403 Forbidden."
     },
     {
       "url": "https://linguistlist.org/conf/search/?page=52",
-      "error": "Первый снимок трёхнедельной давности прочитан только частично; повторное открытие — Timeout fetching. Полная актуальная страница не прочитана."
+      "error": "Повторный тайм-аут, страница не прочитана."
     },
     {
-      "url": "https://wccfl45.github.io/index.html",
-      "error": "Официальный сайт не открылся; актуальный официальный EasyAbs прочитан."
-    },
-    {
-      "url": "https://www.mmll.cam.ac.uk/research/cambridge-endangered-languages-and-cultures-group-celc/celc-conferences-and-workshops",
-      "error": "403; доступная поисковая копия официального сайта описывает 2026, её условия не перенесены на LE13 2027."
+      "url": "https://linguistlist.org/issues/?topic=Calls&topic=Conferences",
+      "error": "Фильтр отстаёт до 26 ноября; новые посты 27 ноября обнаружены в общем списке."
     }
   ],
   "deadline_conflicts": [
@@ -164,10 +178,10 @@
       "note": "Официальный сайт сохраняет прежний срок; новая поисковая копия CFP дважды задаёт 15 декабря."
     }
   ],
-  "note": "Ручная проверка 27 ноября без парсера. Прочитаны общий список 1–2 и Calls/Conferences: согласованные общие количества 116130 и перекрытие 26/25 ноября. Семь прямых новых постов вернули 403. Каталог 51/52: частичные старые снимки и таймаут повторного открытия; полнота обхода не заявляется. Добавлены WCCFL45 по полному актуальному EasyAbs, LE13 по копии опубликованного LL и SMLC2027 по полной официальной HTML-странице/копии LL. У WCCFL дата окончания в заголовке EasyAbs 2 мая против 1 мая в тексте CFP, конфликт сохранён; актуальная подача 15 января, старый поисковый снимок с 20 декабря не принят за самостоятельное подтверждённое продление. У LE13 официальные подробности недоступны: правила выпуска 2026 не перенесены на 2027. SMLC: конфликт 4–5/5–6 июня сохранён; ранняя и обычная подача, регистрация и оплата различены; CFP в PNG не прочитан, условия/языки не предположены. Дополнены ADDA6 по полному официальному CFP и 4 записи GaC11/секций. Общие официальные CFP GaC явно показывают 15→31 октября 2026, 23:59 AoE, включая секции: всего подтверждены сроки 4 записей. У основной конференции и Storyboards внесены 2 ранее не сохранённых продления; у Figurative Language/Nonverbal Predicates история уже находилась в overrides с 5 ноября, сохранена без повторного события и синхронизирована с исходными данными. Это не новые активные CFP: оба срока уже прошли. Пятая секция Social/Areal уже имела 31 октября и не посчитана новым продлением. Прочитаны полные одностраничные PDF Storyboards/Nonverbal predicates; у Storyboards исправлена ошибочная локация Viersen на прямо указанную Düsseldorf. У ADDA6 заполнены ответ и индивидуальные правила, English не принят за ограничение исследуемых языков; отдельный старый конкурс панелей не смешан с тезисами. CLS63 повторно проверена: сайт сохраняет уже известное продление до 27 ноября 23:59 CST, нового нет, данные без изменений. Всего 3 новые и 5 обновлённых записей. ICHoLS Romance, AEPE, новый повтор корейской конференции подробно не разобраны; другие прежние кандидаты Food&Communication, HAAL/HASALD, GLOCAL, All India Folklore, ICHoLS Chinese и Serious Games остаются в очереди. Все будущие конференции/старые посты не перепроверены целиком; пропуски первичного обхода и страниц 44–45 сохраняются, complete false.",
-  "added": 3,
-  "updated": 5,
-  "extensions_found": 2,
+  "note": "Ручная проверка 28 ноября. Общие страницы issues 1–2 прочитаны, граница с предыдущей проверкой перекрыта; фильтр Calls/Conferences отстаёт до 26 ноября. В каталоге прочитана страница 51 (10 строк), повторная попытка страницы 52 — тайм-аут; пропуски 44–45 и начального обхода сохраняются. Новые опубликованные посты 37.3970–3977 вернули 403. Полные доступные поисковые копии 3971, 3973, 3974, 3976 разобраны вручную: добавлены APLL19, German Abroad 7, LFG’27 и отдельный связанный воркшоп с неизвестным самостоятельным сроком. Для German Abroad дополнительно полностью прочитан публичный CFP IGDD; официальные сайты не открылись. German Abroad mixed из-за специального акцента на языковой политике наряду с грамматикой. Amazonicas XI: старый полный CFP 37.3181 называет 6 декабря, новый CFP 37.3976 — 15 декабря; продление сохранено с источником, точное время/часовой пояс сброшены, конфликт старого и нового анонса описан. Уточнены правила, авторские и языковые условия, русское место. Сокращённые ссылки отдельных симпозиумов не разобраны, самостоятельные сроки не проверены. 37.3977 в доступной копии — программа воркшопа об эллипсисе; официальный сайт недоступен, новых условий подачи не подтверждено. Healthcare Symposium, TaiwanCALL/TESPA и иранская Languages/Linguistics/Translation/Literature остаются в очереди полного содержательного разбора; по заголовку не исключались. Все будущие конференции и возможные продления не перепроверены целиком. История и архив сохранены; полнота не заявляется.",
+  "added": 4,
+  "updated": 1,
+  "extensions_found": 1,
   "cross_source_updated": 0,
   "previous_errors": [
     {
@@ -552,6 +566,50 @@
     {
       "url": "https://icome2028.uib.eu/",
       "error": "Официальный сайт не открылся; общий анонс из доступной поисковой копии текста формы, CFP обещан позднее."
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/3966/",
+      "error": "403 Forbidden; полный опубликованный оригинал не прочитан, доступные копии/официальные страницы использованы с ограничениями."
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/3962/",
+      "error": "403 Forbidden; полный опубликованный оригинал не прочитан, доступные копии/официальные страницы использованы с ограничениями."
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/3960/",
+      "error": "403 Forbidden; полный опубликованный оригинал не прочитан, доступные копии/официальные страницы использованы с ограничениями."
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/3959/",
+      "error": "403 Forbidden; полный опубликованный оригинал не прочитан, доступные копии/официальные страницы использованы с ограничениями."
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/3958/",
+      "error": "403 Forbidden; полный опубликованный оригинал не прочитан, доступные копии/официальные страницы использованы с ограничениями."
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/3957/",
+      "error": "403 Forbidden; полный опубликованный оригинал не прочитан, доступные копии/официальные страницы использованы с ограничениями."
+    },
+    {
+      "url": "https://linguistlist.org/issues/37/3956/",
+      "error": "403 Forbidden; полный опубликованный оригинал не прочитан, доступные копии/официальные страницы использованы с ограничениями."
+    },
+    {
+      "url": "https://linguistlist.org/conf/search/?page=51",
+      "error": "Первый снимок трёхнедельной давности прочитан только частично; повторное открытие — Timeout fetching. Полная актуальная страница не прочитана."
+    },
+    {
+      "url": "https://linguistlist.org/conf/search/?page=52",
+      "error": "Первый снимок трёхнедельной давности прочитан только частично; повторное открытие — Timeout fetching. Полная актуальная страница не прочитана."
+    },
+    {
+      "url": "https://wccfl45.github.io/index.html",
+      "error": "Официальный сайт не открылся; актуальный официальный EasyAbs прочитан."
+    },
+    {
+      "url": "https://www.mmll.cam.ac.uk/research/cambridge-endangered-languages-and-cultures-group-celc/celc-conferences-and-workshops",
+      "error": "403; доступная поисковая копия официального сайта описывает 2026, её условия не перенесены на LE13 2027."
     }
   ],
   "review_history": [
@@ -1086,6 +1144,83 @@
         "existing_records_enriched": 4,
         "new_records": 6,
         "extensions_found": 1
+      }
+    },
+    {
+      "attempted_at": "2026-11-27T06:04:49Z",
+      "last_success_at": "2026-11-27T06:04:49Z",
+      "note": "Ручная проверка 27 ноября без парсера. Прочитаны общий список 1–2 и Calls/Conferences: согласованные общие количества 116130 и перекрытие 26/25 ноября. Семь прямых новых постов вернули 403. Каталог 51/52: частичные старые снимки и таймаут повторного открытия; полнота обхода не заявляется. Добавлены WCCFL45 по полному актуальному EasyAbs, LE13 по копии опубликованного LL и SMLC2027 по полной официальной HTML-странице/копии LL. У WCCFL дата окончания в заголовке EasyAbs 2 мая против 1 мая в тексте CFP, конфликт сохранён; актуальная подача 15 января, старый поисковый снимок с 20 декабря не принят за самостоятельное подтверждённое продление. У LE13 официальные подробности недоступны: правила выпуска 2026 не перенесены на 2027. SMLC: конфликт 4–5/5–6 июня сохранён; ранняя и обычная подача, регистрация и оплата различены; CFP в PNG не прочитан, условия/языки не предположены. Дополнены ADDA6 по полному официальному CFP и 4 записи GaC11/секций. Общие официальные CFP GaC явно показывают 15→31 октября 2026, 23:59 AoE, включая секции: всего подтверждены сроки 4 записей. У основной конференции и Storyboards внесены 2 ранее не сохранённых продления; у Figurative Language/Nonverbal Predicates история уже находилась в overrides с 5 ноября, сохранена без повторного события и синхронизирована с исходными данными. Это не новые активные CFP: оба срока уже прошли. Пятая секция Social/Areal уже имела 31 октября и не посчитана новым продлением. Прочитаны полные одностраничные PDF Storyboards/Nonverbal predicates; у Storyboards исправлена ошибочная локация Viersen на прямо указанную Düsseldorf. У ADDA6 заполнены ответ и индивидуальные правила, English не принят за ограничение исследуемых языков; отдельный старый конкурс панелей не смешан с тезисами. CLS63 повторно проверена: сайт сохраняет уже известное продление до 27 ноября 23:59 CST, нового нет, данные без изменений. Всего 3 новые и 5 обновлённых записей. ICHoLS Romance, AEPE, новый повтор корейской конференции подробно не разобраны; другие прежние кандидаты Food&Communication, HAAL/HASALD, GLOCAL, All India Folklore, ICHoLS Chinese и Serious Games остаются в очереди. Все будущие конференции/старые посты не перепроверены целиком; пропуски первичного обхода и страниц 44–45 сохраняются, complete false.",
+      "errors": [
+        {
+          "url": "https://linguistlist.org/issues/37/3966/",
+          "error": "403 Forbidden; полный опубликованный оригинал не прочитан, доступные копии/официальные страницы использованы с ограничениями."
+        },
+        {
+          "url": "https://linguistlist.org/issues/37/3962/",
+          "error": "403 Forbidden; полный опубликованный оригинал не прочитан, доступные копии/официальные страницы использованы с ограничениями."
+        },
+        {
+          "url": "https://linguistlist.org/issues/37/3960/",
+          "error": "403 Forbidden; полный опубликованный оригинал не прочитан, доступные копии/официальные страницы использованы с ограничениями."
+        },
+        {
+          "url": "https://linguistlist.org/issues/37/3959/",
+          "error": "403 Forbidden; полный опубликованный оригинал не прочитан, доступные копии/официальные страницы использованы с ограничениями."
+        },
+        {
+          "url": "https://linguistlist.org/issues/37/3958/",
+          "error": "403 Forbidden; полный опубликованный оригинал не прочитан, доступные копии/официальные страницы использованы с ограничениями."
+        },
+        {
+          "url": "https://linguistlist.org/issues/37/3957/",
+          "error": "403 Forbidden; полный опубликованный оригинал не прочитан, доступные копии/официальные страницы использованы с ограничениями."
+        },
+        {
+          "url": "https://linguistlist.org/issues/37/3956/",
+          "error": "403 Forbidden; полный опубликованный оригинал не прочитан, доступные копии/официальные страницы использованы с ограничениями."
+        },
+        {
+          "url": "https://linguistlist.org/conf/search/?page=51",
+          "error": "Первый снимок трёхнедельной давности прочитан только частично; повторное открытие — Timeout fetching. Полная актуальная страница не прочитана."
+        },
+        {
+          "url": "https://linguistlist.org/conf/search/?page=52",
+          "error": "Первый снимок трёхнедельной давности прочитан только частично; повторное открытие — Timeout fetching. Полная актуальная страница не прочитана."
+        },
+        {
+          "url": "https://wccfl45.github.io/index.html",
+          "error": "Официальный сайт не открылся; актуальный официальный EasyAbs прочитан."
+        },
+        {
+          "url": "https://www.mmll.cam.ac.uk/research/cambridge-endangered-languages-and-cultures-group-celc/celc-conferences-and-workshops",
+          "error": "403; доступная поисковая копия официального сайта описывает 2026, её условия не перенесены на LE13 2027."
+        }
+      ],
+      "added": 3,
+      "updated": 5,
+      "extensions_found": 2,
+      "coverage": {
+        "catalogue_pages_read": 0,
+        "catalogue_pages_partial": [
+          51,
+          52
+        ],
+        "catalogue_page_failures": 2,
+        "catalogue_page_numbers_failed": [
+          51,
+          52
+        ],
+        "recent_issue_pages_read": 3,
+        "full_posts_read": 0,
+        "search_copies_read": 4,
+        "posts_failed": 7,
+        "official_pages_read": 8,
+        "official_pages_failed": 2,
+        "official_pdf_pages_read": 2,
+        "new_records": 3,
+        "existing_records_enriched": 5,
+        "extensions_found": 2,
+        "unchanged_conferences_rechecked": 1
       }
     }
   ],

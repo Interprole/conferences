@@ -1,5 +1,5 @@
 {
-  "reviewed_at": "2026-11-27",
+  "reviewed_at": "2026-11-28",
   "note": "Редакторские русские подписи и явно проверенные связи мероприятий. Исходные объявления и даты не изменяются. Новые отношения не выводятся из совпадения слов, места или дат.",
   "locations": {
     "Abakaliki, Nigeria": "Абакалики, Нигерия",
@@ -81,7 +81,7 @@
     "Ghent, Belgium": "Гент, Бельгия",
     "Girona, Spain": "Жирона, Испания",
     "Granada, Spain": "Гранада, Испания",
-    "Graz, Austria": "Грац, Австрия",
+    "Graz, Austria": "Грац, Австрия; Грацский университет",
     "Guwahati, Assam, India": "Гувахати, Ассам, Индия",
     "Guwahtai, India": "Гувахати, Индия",
     "Göttingen, Germany": "Гёттинген, Германия",
@@ -125,7 +125,7 @@
     "Leiden, Netherlands": "Лейден, Нидерланды",
     "Leipzig, Germany": "Лейпциг, Германия",
     "Leuven, Belgium": "Лёвен, Бельгия",
-    "Lima, Peru": "Лима, Перу",
+    "Lima, Peru": "Лима, Перу; Папский католический университет Перу",
     "Lisboa, Portugal": "Лиссабон, Португалия",
     "Lisbon, Portugal": "Lisbon, Portugal",
     "Liège, Belgium": "Льеж, Бельгия",
@@ -138,7 +138,7 @@
     "Madrid, Spain": "Мадрид, Испания",
     "Malaga, Spain": "Малага, Испания",
     "Manchester, United Kingdom": "Манчестер, Великобритания",
-    "Mannheim, Germany": "Мангейм, Германия",
+    "Mannheim, Germany": "Мангейм, Германия; Институт немецкого языка имени Лейбница",
     "Marburg, Germany": "Марбург, Германия",
     "Messina, Italy": "Мессина, Италия",
     "Mexico City, Mexico": "Мехико, Мексика",
@@ -1127,6 +1127,18 @@
       "sources": [
         "https://linguistlist.org/issues/37/3940/",
         "https://linguistlist.org/issues/37/3922/"
+      ]
+    },
+    "lfg27-2027": {
+      "label": "LFG’27 · Осло, 2027",
+      "parent_id": "manual-ll-37-3974",
+      "members": [
+        "manual-ll-37-3974",
+        "manual-lfg27-pragmatics-workshop"
+      ],
+      "review_basis": "Основной CFP прямо связывает конференцию и воркшоп 18 июня, для которого обещает отдельный приём тезисов. Сроки и условия не объединены.",
+      "sources": [
+        "https://linguistlist.org/issues/37/3974/"
       ]
     }
   },
@@ -2369,6 +2381,41 @@
       "review_source": "https://linguistlist.org/issues/37/3960/",
       "review_basis": "Официальная HTML-страница и копия LL; конфликт дней конференции сохранён.",
       "reviewed_at": "2026-11-27"
+    },
+    "manual-ll-37-3974": {
+      "topics_summary": "Лексико-функциональная грамматика: синтаксис, грамматические отношения, просодия, семантика и дискурс; типологические и формальные исследования в параллельной системе ограничений.",
+      "subject_languages_summary": null,
+      "review_source": "https://linguistlist.org/issues/37/3974/",
+      "review_basis": "Ручной разбор объявления, ограничения доступа явно сохранены.",
+      "reviewed_at": "2026-11-28"
+    },
+    "manual-lfg27-pragmatics-workshop": {
+      "topics_summary": "Интерфейс грамматики и дискурса: прагматика в LFG и других грамматических моделях.",
+      "subject_languages_summary": null,
+      "review_source": "https://linguistlist.org/issues/37/3974/",
+      "review_basis": "Ручной разбор объявления, ограничения доступа явно сохранены.",
+      "reviewed_at": "2026-11-28"
+    },
+    "manual-ll-37-3971": {
+      "topics_summary": "Лингвистика австронезийских и папуасских языков, особенно малых, исчезающих и малоизученных; многоязычие, сохранение языков, наследные языки и усвоение.",
+      "subject_languages_summary": "Австронезийские и папуасские языки.",
+      "review_source": "https://linguistlist.org/issues/37/3971/",
+      "review_basis": "Ручной разбор объявления, ограничения доступа явно сохранены.",
+      "reviewed_at": "2026-11-28"
+    },
+    "manual-ll-37-3973": {
+      "topics_summary": "Немецкий вне основного немецкоязычного ареала: структура, контакт, изменения и социолингвистика; особый акцент на языковой политике.",
+      "subject_languages_summary": "Немецкий и близкородственные разновидности по всему миру.",
+      "review_source": "https://linguistlist.org/issues/37/3973/",
+      "review_basis": "Ручной разбор объявления, ограничения доступа явно сохранены.",
+      "reviewed_at": "2026-11-28"
+    },
+    "8c6513f3683528a1": {
+      "topics_summary": "Амазонские языки: общая секция; фонология с акцентом на просодию и интонацию; морфосинтаксис сложного предложения; ревитализация языков в условиях угасания.",
+      "subject_languages_summary": "Амазонские языки.",
+      "review_source": "https://linguistlist.org/issues/37/3976/",
+      "review_basis": "Сравнение полного старого CFP и поисковой копии нового: срок 6→15 декабря.",
+      "reviewed_at": "2026-11-28"
     }
   },
   "subject_languages": {
